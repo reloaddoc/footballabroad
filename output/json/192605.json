@@ -1,0 +1,911 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "192605",
+    "history": {
+      "terminated": [
+        {
+          "id": "6097316",
+          "transferSource": {
+            "competitionId": "J2J3",
+            "countryId": 77,
+            "clubId": "23548",
+            "coachId": "66397"
+          },
+          "transferDestination": {
+            "competitionId": "J2J3",
+            "countryId": 77,
+            "clubId": "8344",
+            "coachId": "94784"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2026-01-12T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/6097316"
+        },
+        {
+          "id": "5471007",
+          "transferSource": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "653",
+            "coachId": "38221"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "23548",
+            "coachId": "66397"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2025-01-21T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 160,
+              "daysDisplay": "5 Months, 9 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/5471007"
+        },
+        {
+          "id": "4638565",
+          "transferSource": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "850",
+            "coachId": "54831"
+          },
+          "transferDestination": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "653",
+            "coachId": "19743"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2023-09-09T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/4638565"
+        },
+        {
+          "id": "4253379",
+          "transferSource": {
+            "competitionId": "IT2",
+            "countryId": 75,
+            "clubId": "408",
+            "coachId": "13026"
+          },
+          "transferDestination": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "850",
+            "coachId": "54831"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2023-02-14T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 136,
+              "daysDisplay": "4 Months, 16 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/4253379"
+        },
+        {
+          "id": "4061864",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "IT2",
+            "countryId": 75,
+            "clubId": "408",
+            "coachId": "25228"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2022-09-08T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 1300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.30",
+                "suffix": "M"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/4061864"
+        },
+        {
+          "id": "6279659",
+          "transferSource": {
+            "competitionId": "SA1",
+            "countryId": 146,
+            "clubId": "40039",
+            "coachId": "36827"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2022-08-06T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 1300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.30",
+                "suffix": "M"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 694,
+              "daysDisplay": "1 Year, 10 Months, 24 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/6279659"
+        },
+        {
+          "id": "3981552",
+          "transferSource": {
+            "competitionId": "C1",
+            "countryId": 148,
+            "clubId": "2790",
+            "coachId": "59028"
+          },
+          "transferDestination": {
+            "competitionId": "SA1",
+            "countryId": 146,
+            "clubId": "40039",
+            "coachId": "36827"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2022-07-30T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 1300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.30",
+                "suffix": "M"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/3981552"
+        },
+        {
+          "id": "2173003",
+          "transferSource": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "850",
+            "coachId": "19933"
+          },
+          "transferDestination": {
+            "competitionId": "C1",
+            "countryId": 148,
+            "clubId": "2790",
+            "coachId": "53943"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": 410000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "410.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/2173003"
+        },
+        {
+          "id": "2063213",
+          "transferSource": {
+            "competitionId": "C1",
+            "countryId": 148,
+            "clubId": "2790",
+            "coachId": "53943"
+          },
+          "transferDestination": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "850",
+            "coachId": "19933"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2018-06-30T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/2063213"
+        },
+        {
+          "id": "2063212",
+          "transferSource": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "850",
+            "coachId": "19933"
+          },
+          "transferDestination": {
+            "competitionId": "C1",
+            "countryId": 148,
+            "clubId": "2790",
+            "coachId": "6517"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2018-03-15T00:00:00+01:00",
+            "contractUntilDate": "2018-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 838,
+              "daysDisplay": "2 Years, 3 Months, 15 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/2063212"
+        },
+        {
+          "id": "1434293",
+          "transferSource": {
+            "competitionId": "CHC2",
+            "countryId": 148,
+            "clubId": "2050",
+            "coachId": "41991"
+          },
+          "transferDestination": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "850",
+            "coachId": "35785"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2016-02-11T00:00:00+01:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/1434293"
+        },
+        {
+          "id": "1306297",
+          "transferSource": {
+            "competitionId": "CHC2",
+            "countryId": 148,
+            "clubId": "5494",
+            "coachId": "23817"
+          },
+          "transferDestination": {
+            "competitionId": "CHC2",
+            "countryId": 148,
+            "clubId": "2050",
+            "coachId": "41991"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/1306297"
+        },
+        {
+          "id": "1187738",
+          "transferSource": {
+            "competitionId": "CHC2",
+            "countryId": 148,
+            "clubId": "2050",
+            "coachId": "6"
+          },
+          "transferDestination": {
+            "competitionId": "CHC2",
+            "countryId": 148,
+            "clubId": "5494",
+            "coachId": "23817"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2015-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/1187738"
+        },
+        {
+          "id": "1078851",
+          "transferSource": {
+            "competitionId": "CHC2",
+            "countryId": 148,
+            "clubId": "5494",
+            "coachId": "23817"
+          },
+          "transferDestination": {
+            "competitionId": "CHC2",
+            "countryId": 148,
+            "clubId": "2050",
+            "coachId": "6"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/1078851"
+        },
+        {
+          "id": "1004572",
+          "transferSource": {
+            "competitionId": "CH18",
+            "countryId": 148,
+            "clubId": "14332",
+            "coachId": "23817"
+          },
+          "transferDestination": {
+            "competitionId": "CHC2",
+            "countryId": 148,
+            "clubId": "5494",
+            "coachId": "4610"
+          },
+          "details": {
+            "playerId": "192605",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/1004572"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 510000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "510.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 30,
+      "totalMarketValue": {
+        "value": 325000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "325.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "23548",
+      "8344",
+      "653",
+      "850",
+      "408",
+      "515",
+      "40039",
+      "2790",
+      "2050",
+      "5494",
+      "14332"
+    ],
+    "coachIds": [
+      "66397",
+      "94784",
+      "38221",
+      "54831",
+      "19743",
+      "13026",
+      "25228",
+      "36827",
+      "59028",
+      "19933",
+      "53943",
+      "6517",
+      "41991",
+      "35785",
+      "23817",
+      "6",
+      "4610"
+    ],
+    "competitionIds": [
+      "J2J3",
+      "GR1",
+      "JAP3",
+      "C2",
+      "IT2",
+      "SA1",
+      "C1",
+      "CHC2",
+      "CH18"
+    ],
+    "mostRecentTransfer": {
+      "id": "6097316",
+      "transferSource": {
+        "competitionId": "J2J3",
+        "countryId": 77,
+        "clubId": "23548",
+        "coachId": "66397"
+      },
+      "transferDestination": {
+        "competitionId": "J2J3",
+        "countryId": 77,
+        "clubId": "8344",
+        "coachId": "94784"
+      },
+      "details": {
+        "playerId": "192605",
+        "date": "2026-01-12T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/noam-baumann/transfers/spieler/192605/transfer_id/6097316"
+    }
+  }
+}

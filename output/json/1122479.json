@@ -1,0 +1,207 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1122479",
+    "history": {
+      "terminated": [
+        {
+          "id": "5685655",
+          "transferSource": {
+            "competitionId": "KHM1",
+            "countryId": 79,
+            "clubId": "57450",
+            "coachId": "86998"
+          },
+          "transferDestination": {
+            "competitionId": "ILI2",
+            "countryId": 68,
+            "clubId": "14087",
+            "coachId": "53453"
+          },
+          "details": {
+            "playerId": "1122479",
+            "date": "2025-08-13T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/neville-tengeg/transfers/spieler/1122479/transfer_id/5685655"
+        },
+        {
+          "id": "4782142",
+          "transferSource": {
+            "competitionId": "UZ2L",
+            "countryId": 180,
+            "clubId": "38976",
+            "coachId": "102703"
+          },
+          "transferDestination": {
+            "competitionId": "KHM1",
+            "countryId": 79,
+            "clubId": "57450",
+            "coachId": "113806"
+          },
+          "details": {
+            "playerId": "1122479",
+            "date": "2023-12-23T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/neville-tengeg/transfers/spieler/1122479/transfer_id/4782142"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 225000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "225.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "57450",
+      "14087",
+      "38976"
+    ],
+    "coachIds": [
+      "86998",
+      "53453",
+      "102703",
+      "113806"
+    ],
+    "competitionIds": [
+      "KHM1",
+      "ILI2",
+      "UZ2L"
+    ],
+    "mostRecentTransfer": {
+      "id": "5685655",
+      "transferSource": {
+        "competitionId": "KHM1",
+        "countryId": 79,
+        "clubId": "57450",
+        "coachId": "86998"
+      },
+      "transferDestination": {
+        "competitionId": "ILI2",
+        "countryId": 68,
+        "clubId": "14087",
+        "coachId": "53453"
+      },
+      "details": {
+        "playerId": "1122479",
+        "date": "2025-08-13T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/neville-tengeg/transfers/spieler/1122479/transfer_id/5685655"
+    }
+  }
+}

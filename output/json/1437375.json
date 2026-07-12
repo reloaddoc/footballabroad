@@ -1,0 +1,205 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1437375",
+    "history": {
+      "terminated": [
+        {
+          "id": "5855542",
+          "transferSource": {
+            "competitionId": "BSL1",
+            "countryId": 27,
+            "clubId": "57333",
+            "coachId": "136513"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "21294",
+            "coachId": "111760"
+          },
+          "details": {
+            "playerId": "1437375",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/elisha-kashim/transfers/spieler/1437375/transfer_id/5855542"
+        },
+        {
+          "id": "5855541",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 27,
+            "clubId": "57333",
+            "coachId": "75476"
+          },
+          "details": {
+            "playerId": "1437375",
+            "date": "2024-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/elisha-kashim/transfers/spieler/1437375/transfer_id/5855541"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "57333",
+      "21294",
+      "75"
+    ],
+    "coachIds": [
+      "136513",
+      "111760",
+      "75476"
+    ],
+    "competitionIds": [
+      "BSL1",
+      "MYS1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5855542",
+      "transferSource": {
+        "competitionId": "BSL1",
+        "countryId": 27,
+        "clubId": "57333",
+        "coachId": "136513"
+      },
+      "transferDestination": {
+        "competitionId": "MYS1",
+        "countryId": 103,
+        "clubId": "21294",
+        "coachId": "111760"
+      },
+      "details": {
+        "playerId": "1437375",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2026-05-31T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/elisha-kashim/transfers/spieler/1437375/transfer_id/5855542"
+    }
+  }
+}

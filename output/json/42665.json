@@ -1,0 +1,1251 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "42665",
+    "history": {
+      "terminated": [
+        {
+          "id": "4909791",
+          "transferSource": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "40090",
+            "coachId": "18185"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "123",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2024-02-26T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 36,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 309,
+              "daysDisplay": "10 Months, 5 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/4909791"
+        },
+        {
+          "id": "3899343",
+          "transferSource": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "45299",
+            "coachId": "9577"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "40090",
+            "coachId": "43151"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2022-08-08T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 35,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/3899343"
+        },
+        {
+          "id": "3674872",
+          "transferSource": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "60816",
+            "coachId": "4121"
+          },
+          "transferDestination": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "45299",
+            "coachId": "9287"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 34,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/3674872"
+        },
+        {
+          "id": "3023396",
+          "transferSource": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "45299",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "60816",
+            "coachId": "4121"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2020-08-21T00:00:00+02:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 33,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/3023396"
+        },
+        {
+          "id": "2495718",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "1017",
+            "coachId": "56436"
+          },
+          "transferDestination": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "45299",
+            "coachId": "2704"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2019-07-06T00:00:00+02:00",
+            "contractUntilDate": "2020-05-31T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/2495718"
+        },
+        {
+          "id": "2354333",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "35387",
+            "coachId": "23841"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "1017",
+            "coachId": "49718"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/2354333"
+        },
+        {
+          "id": "2128697",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "9095",
+            "coachId": "19614"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "35387",
+            "coachId": "59039"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2018-06-01T00:00:00+02:00",
+            "contractUntilDate": "2018-11-30T00:00:00+01:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 29,
+              "daysDisplay": "29 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/2128697"
+        },
+        {
+          "id": "1681626",
+          "transferSource": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "32832",
+            "coachId": "5189"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "9095",
+            "coachId": "20989"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2017-01-18T00:00:00+01:00",
+            "contractUntilDate": "2018-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/1681626"
+        },
+        {
+          "id": "1264096",
+          "transferSource": {
+            "competitionId": "PL2",
+            "countryId": 135,
+            "clubId": "10453",
+            "coachId": "3222"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "32832",
+            "coachId": "14239"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2015-08-14T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/1264096"
+        },
+        {
+          "id": "1177287",
+          "transferSource": {
+            "competitionId": "RO1",
+            "countryId": 140,
+            "clubId": "40812",
+            "coachId": "6362"
+          },
+          "transferDestination": {
+            "competitionId": "PL2",
+            "countryId": 135,
+            "clubId": "10453",
+            "coachId": "3222"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2015-02-12T00:00:00+01:00",
+            "contractUntilDate": "2015-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/1177287"
+        },
+        {
+          "id": "1000194",
+          "transferSource": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "8047",
+            "coachId": "6755"
+          },
+          "transferDestination": {
+            "competitionId": "RO2B",
+            "countryId": 140,
+            "clubId": "40812",
+            "coachId": "24155"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2014-01-15T00:00:00+01:00",
+            "contractUntilDate": "2014-12-31T00:00:00+01:00",
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 375000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "375.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/1000194"
+        },
+        {
+          "id": "785433",
+          "transferSource": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "23664",
+            "coachId": "17194"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "8047",
+            "coachId": "6755"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2012-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 121,
+              "daysDisplay": "3 Months, 30 Days"
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/785433"
+        },
+        {
+          "id": "669647",
+          "transferSource": {
+            "competitionId": "LET1",
+            "countryId": 92,
+            "clubId": "3811",
+            "coachId": "8972"
+          },
+          "transferDestination": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "23664",
+            "coachId": "17194"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2012-01-10T00:00:00+01:00",
+            "contractUntilDate": "2012-12-31T00:00:00+01:00",
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 275000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "275.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/669647"
+        },
+        {
+          "id": "3965588",
+          "transferSource": {
+            "competitionId": "LTU2",
+            "countryId": 98,
+            "clubId": "1187",
+            "coachId": "10859"
+          },
+          "transferDestination": {
+            "competitionId": "LET1",
+            "countryId": 92,
+            "clubId": "3811",
+            "coachId": "6206"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2010-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/3965588"
+        },
+        {
+          "id": "542513",
+          "transferSource": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "17224",
+            "coachId": "12943"
+          },
+          "transferDestination": {
+            "competitionId": "LTU2",
+            "countryId": 98,
+            "clubId": "1187",
+            "coachId": "10859"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2009-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/542513"
+        },
+        {
+          "id": "542514",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 98,
+            "clubId": "1187",
+            "coachId": "10859"
+          },
+          "transferDestination": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "17224",
+            "coachId": "12943"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2009-08-01T00:00:00+02:00",
+            "contractUntilDate": "2009-12-31T00:00:00+01:00",
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 517,
+              "daysDisplay": "1 Year, 4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/542514"
+        },
+        {
+          "id": "229890",
+          "transferSource": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "10130",
+            "coachId": "44393"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "1187",
+            "coachId": "18311"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2008-07-07T00:00:00+02:00",
+            "contractUntilDate": "2010-12-31T00:00:00+01:00",
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/229890"
+        },
+        {
+          "id": "141135",
+          "transferSource": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "1187",
+            "coachId": "18311"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "10130",
+            "coachId": "6755"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2007-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2006,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2006,
+              "display": "06/07",
+              "cyclicalName": "2007",
+              "nonCyclicalName": "06/07"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/141135"
+        },
+        {
+          "id": "3965587",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 98,
+            "clubId": "63965",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "1187",
+            "coachId": "18311"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2006-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2006,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2006,
+              "display": "06/07",
+              "cyclicalName": "2007",
+              "nonCyclicalName": "06/07"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/3965587"
+        },
+        {
+          "id": "3965586",
+          "transferSource": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "1187",
+            "coachId": "18311"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 98,
+            "clubId": "63965",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2006-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2006,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2006,
+              "display": "06/07",
+              "cyclicalName": "2007",
+              "nonCyclicalName": "06/07"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/3965586"
+        },
+        {
+          "id": "542515",
+          "transferSource": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "602",
+            "coachId": "7315"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "1187",
+            "coachId": "3449"
+          },
+          "details": {
+            "playerId": "42665",
+            "date": "2006-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2005,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": 28962,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "28.96",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2005,
+              "display": "05/06",
+              "cyclicalName": "2006",
+              "nonCyclicalName": "05/06"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/542515"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 28962,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "28.96",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 38,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "40090",
+      "123",
+      "45299",
+      "60816",
+      "1017",
+      "35387",
+      "9095",
+      "32832",
+      "10453",
+      "40812",
+      "8047",
+      "23664",
+      "3811",
+      "1187",
+      "17224",
+      "10130",
+      "63965",
+      "602"
+    ],
+    "coachIds": [
+      "18185",
+      "9577",
+      "43151",
+      "4121",
+      "9287",
+      "56436",
+      "2704",
+      "23841",
+      "49718",
+      "19614",
+      "59039",
+      "5189",
+      "20989",
+      "3222",
+      "14239",
+      "6362",
+      "6755",
+      "24155",
+      "17194",
+      "8972",
+      "10859",
+      "6206",
+      "12943",
+      "44393",
+      "18311",
+      "7315",
+      "3449"
+    ],
+    "competitionIds": [
+      "LI1",
+      "IND1",
+      "ISR1",
+      "THA1",
+      "PL2",
+      "RO1",
+      "RO2B",
+      "WER1",
+      "LET1",
+      "LTU2"
+    ],
+    "mostRecentTransfer": {
+      "id": "4909791",
+      "transferSource": {
+        "competitionId": "LI1",
+        "countryId": 98,
+        "clubId": "40090",
+        "coachId": "18185"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "123",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "42665",
+        "date": "2024-02-26T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 36,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 309,
+          "daysDisplay": "10 Months, 5 Days"
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/nerijus-valskis/transfers/spieler/42665/transfer_id/4909791"
+    }
+  }
+}

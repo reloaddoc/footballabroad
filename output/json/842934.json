@@ -1,0 +1,265 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "842934",
+    "history": {
+      "terminated": [
+        {
+          "id": "5888435",
+          "transferSource": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "11914",
+            "coachId": "143402"
+          },
+          "transferDestination": {
+            "competitionId": "TUN1",
+            "countryId": 173,
+            "clubId": "4812",
+            "coachId": "31132"
+          },
+          "details": {
+            "playerId": "842934",
+            "date": "2025-08-23T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amine-haboubi/transfers/spieler/842934/transfer_id/5888435"
+        },
+        {
+          "id": "5688549",
+          "transferSource": {
+            "competitionId": "TUN1",
+            "countryId": 173,
+            "clubId": "581",
+            "coachId": "32057"
+          },
+          "transferDestination": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "11914",
+            "coachId": "143402"
+          },
+          "details": {
+            "playerId": "842934",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amine-haboubi/transfers/spieler/842934/transfer_id/5688549"
+        },
+        {
+          "id": "4254602",
+          "transferSource": {
+            "competitionId": "TUN1",
+            "countryId": 173,
+            "clubId": "8117",
+            "coachId": "51789"
+          },
+          "transferDestination": {
+            "competitionId": "TUN1",
+            "countryId": 173,
+            "clubId": "581",
+            "coachId": "557"
+          },
+          "details": {
+            "playerId": "842934",
+            "date": "2023-01-31T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 375000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "375.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 51000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "51.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amine-haboubi/transfers/spieler/842934/transfer_id/4254602"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 51000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "51.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 450000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "450.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "11914",
+      "4812",
+      "581",
+      "8117"
+    ],
+    "coachIds": [
+      "143402",
+      "31132",
+      "32057",
+      "51789",
+      "557"
+    ],
+    "competitionIds": [
+      "LUX1",
+      "TUN1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5888435",
+      "transferSource": {
+        "competitionId": "LUX1",
+        "countryId": 99,
+        "clubId": "11914",
+        "coachId": "143402"
+      },
+      "transferDestination": {
+        "competitionId": "TUN1",
+        "countryId": 173,
+        "clubId": "4812",
+        "coachId": "31132"
+      },
+      "details": {
+        "playerId": "842934",
+        "date": "2025-08-23T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 350000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "350.00",
+            "suffix": "K"
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/amine-haboubi/transfers/spieler/842934/transfer_id/5888435"
+    }
+  }
+}

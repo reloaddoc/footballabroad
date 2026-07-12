@@ -1,0 +1,266 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "317729",
+    "history": {
+      "terminated": [
+        {
+          "id": "6030966",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "3837",
+            "coachId": "77001"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "22995",
+            "coachId": "32002"
+          },
+          "details": {
+            "playerId": "317729",
+            "date": "2026-02-02T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joannes-bjartalid/transfers/spieler/317729/transfer_id/6030966"
+        },
+        {
+          "id": "4153346",
+          "transferSource": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "6170",
+            "coachId": "66191"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "3837",
+            "coachId": "19490"
+          },
+          "details": {
+            "playerId": "317729",
+            "date": "2023-01-26T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 644,
+              "daysDisplay": "1 Year, 9 Months, 5 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joannes-bjartalid/transfers/spieler/317729/transfer_id/4153346"
+        },
+        {
+          "id": "1790016",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 208,
+            "clubId": "37084",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "6170",
+            "coachId": "19490"
+          },
+          "details": {
+            "playerId": "317729",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": "2024-10-31T00:00:00+01:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joannes-bjartalid/transfers/spieler/317729/transfer_id/1790016"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 29,
+      "totalMarketValue": {
+        "value": 350000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "350.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3837",
+      "22995",
+      "6170",
+      "37084"
+    ],
+    "coachIds": [
+      "77001",
+      "32002",
+      "66191",
+      "19490"
+    ],
+    "competitionIds": [
+      "NO1",
+      "KAS1",
+      "FARO",
+      "NO2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6030966",
+      "transferSource": {
+        "competitionId": "NO1",
+        "countryId": 125,
+        "clubId": "3837",
+        "coachId": "77001"
+      },
+      "transferDestination": {
+        "competitionId": "KAS1",
+        "countryId": 81,
+        "clubId": "22995",
+        "coachId": "32002"
+      },
+      "details": {
+        "playerId": "317729",
+        "date": "2026-02-02T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/joannes-bjartalid/transfers/spieler/317729/transfer_id/6030966"
+    }
+  }
+}

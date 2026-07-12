@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1433254",
+    "history": {
+      "terminated": [
+        {
+          "id": "5826936",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 218,
+            "clubId": "87365",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "HGKG",
+            "countryId": 218,
+            "clubId": "14413",
+            "coachId": "94403"
+          },
+          "details": {
+            "playerId": "1433254",
+            "date": "2025-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/william-mirwasser/transfers/spieler/1433254/transfer_id/5826936"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 16,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "87365",
+      "14413"
+    ],
+    "coachIds": [
+      "94403"
+    ],
+    "competitionIds": [
+      "HGKG"
+    ],
+    "mostRecentTransfer": {
+      "id": "5826936",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 218,
+        "clubId": "87365",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "HGKG",
+        "countryId": 218,
+        "clubId": "14413",
+        "coachId": "94403"
+      },
+      "details": {
+        "playerId": "1433254",
+        "date": "2025-08-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 15,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/william-mirwasser/transfers/spieler/1433254/transfer_id/5826936"
+    }
+  }
+}

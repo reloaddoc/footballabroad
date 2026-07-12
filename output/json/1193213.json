@@ -1,0 +1,318 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1193213",
+    "history": {
+      "terminated": [
+        {
+          "id": "5799433",
+          "transferSource": {
+            "competitionId": "MAL2",
+            "countryId": 106,
+            "clubId": "36183",
+            "coachId": "72774"
+          },
+          "transferDestination": {
+            "competitionId": "MAL2",
+            "countryId": 106,
+            "clubId": "37650",
+            "coachId": "148062"
+          },
+          "details": {
+            "playerId": "1193213",
+            "date": "2025-09-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jade-clarke/transfers/spieler/1193213/transfer_id/5799433"
+        },
+        {
+          "id": "5248411",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 76,
+            "clubId": "56374",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MT1P",
+            "countryId": 106,
+            "clubId": "36183",
+            "coachId": "21599"
+          },
+          "details": {
+            "playerId": "1193213",
+            "date": "2024-09-04T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jade-clarke/transfers/spieler/1193213/transfer_id/5248411"
+        },
+        {
+          "id": "4867652",
+          "transferSource": {
+            "competitionId": "BEL3",
+            "countryId": 19,
+            "clubId": "64501",
+            "coachId": "1866"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 76,
+            "clubId": "56374",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1193213",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 181,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jade-clarke/transfers/spieler/1193213/transfer_id/4867652"
+        },
+        {
+          "id": "4685700",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 76,
+            "clubId": "56374",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "BEL3",
+            "countryId": 19,
+            "clubId": "64501",
+            "coachId": "1866"
+          },
+          "details": {
+            "playerId": "1193213",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jade-clarke/transfers/spieler/1193213/transfer_id/4685700"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "36183",
+      "37650",
+      "56374",
+      "64501"
+    ],
+    "coachIds": [
+      "72774",
+      "148062",
+      "21599",
+      "1866"
+    ],
+    "competitionIds": [
+      "MAL2",
+      "MT1P",
+      "BEL3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5799433",
+      "transferSource": {
+        "competitionId": "MAL2",
+        "countryId": 106,
+        "clubId": "36183",
+        "coachId": "72774"
+      },
+      "transferDestination": {
+        "competitionId": "MAL2",
+        "countryId": 106,
+        "clubId": "37650",
+        "coachId": "148062"
+      },
+      "details": {
+        "playerId": "1193213",
+        "date": "2025-09-01T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 10000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "10.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jade-clarke/transfers/spieler/1193213/transfer_id/5799433"
+    }
+  }
+}

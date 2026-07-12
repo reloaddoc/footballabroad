@@ -1,0 +1,875 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "205506",
+    "history": {
+      "terminated": [
+        {
+          "id": "6129361",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MT1P",
+            "countryId": 106,
+            "clubId": "329",
+            "coachId": "50371"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2026-01-17T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/6129361"
+        },
+        {
+          "id": "5883891",
+          "transferSource": {
+            "competitionId": "MT1P",
+            "countryId": 106,
+            "clubId": "329",
+            "coachId": "7244"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/5883891"
+        },
+        {
+          "id": "4039914",
+          "transferSource": {
+            "competitionId": "NNL1",
+            "countryId": 120,
+            "clubId": "36420",
+            "coachId": "92304"
+          },
+          "transferDestination": {
+            "competitionId": "MAL2",
+            "countryId": 106,
+            "clubId": "329",
+            "coachId": "7244"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2022-08-26T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 127,
+              "daysDisplay": "4 Months, 5 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/4039914"
+        },
+        {
+          "id": "3812840",
+          "transferSource": {
+            "competitionId": "NNL1",
+            "countryId": 120,
+            "clubId": "11391",
+            "coachId": "92306"
+          },
+          "transferDestination": {
+            "competitionId": "NNL1",
+            "countryId": 120,
+            "clubId": "36420",
+            "coachId": "92304"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2022-03-01T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/3812840"
+        },
+        {
+          "id": "3318322",
+          "transferSource": {
+            "competitionId": "A2VI",
+            "countryId": 12,
+            "clubId": "5142",
+            "coachId": "101233"
+          },
+          "transferDestination": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "11391",
+            "coachId": "38043"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2020-11-04T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 238,
+              "daysDisplay": "7 Months, 26 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/3318322"
+        },
+        {
+          "id": "2802280",
+          "transferSource": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "31306",
+            "coachId": "74544"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "5142",
+            "coachId": "101233"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2020-01-30T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/2802280"
+        },
+        {
+          "id": "2704988",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "651",
+            "coachId": "4452"
+          },
+          "transferDestination": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "31306",
+            "coachId": "74544"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2019-09-19T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/2704988"
+        },
+        {
+          "id": "2538479",
+          "transferSource": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "31306",
+            "coachId": "39848"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "651",
+            "coachId": "4452"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2019-05-16T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 45,
+              "daysDisplay": "1 Month, 14 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/2538479"
+        },
+        {
+          "id": "2265397",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "43307",
+            "coachId": "117379"
+          },
+          "transferDestination": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "31306",
+            "coachId": "39848"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2018-09-10T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/2265397"
+        },
+        {
+          "id": "1583969",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "42797",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "43307",
+            "coachId": "117379"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/1583969"
+        },
+        {
+          "id": "1307526",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "9762",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "42797",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2015-07-22T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/1307526"
+        },
+        {
+          "id": "1066392",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 120,
+            "clubId": "3474",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "9762",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/1066392"
+        },
+        {
+          "id": "815631",
+          "transferSource": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "16020",
+            "coachId": "26899"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 120,
+            "clubId": "3474",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2013-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/815631"
+        },
+        {
+          "id": "646441",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 120,
+            "clubId": "26272",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "16020",
+            "coachId": "14621"
+          },
+          "details": {
+            "playerId": "205506",
+            "date": "2011-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/646441"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 32,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "515",
+      "329",
+      "36420",
+      "11391",
+      "5142",
+      "31306",
+      "651",
+      "43307",
+      "42797",
+      "9762",
+      "3474",
+      "16020",
+      "26272"
+    ],
+    "coachIds": [
+      "50371",
+      "7244",
+      "92304",
+      "92306",
+      "101233",
+      "38043",
+      "74544",
+      "4452",
+      "39848",
+      "117379",
+      "26899",
+      "14621"
+    ],
+    "competitionIds": [
+      "MT1P",
+      "NNL1",
+      "MAL2",
+      "A2VI",
+      "NZL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6129361",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "MT1P",
+        "countryId": 106,
+        "clubId": "329",
+        "coachId": "50371"
+      },
+      "details": {
+        "playerId": "205506",
+        "date": "2026-01-17T00:00:00+01:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 31,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/mohamed-awad/transfers/spieler/205506/transfer_id/6129361"
+    }
+  }
+}

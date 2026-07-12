@@ -1,0 +1,297 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1396596",
+    "history": {
+      "terminated": [
+        {
+          "id": "6240578",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "17686",
+            "coachId": "115177"
+          },
+          "transferDestination": {
+            "competitionId": "LET1",
+            "countryId": 92,
+            "clubId": "40788",
+            "coachId": "89173"
+          },
+          "details": {
+            "playerId": "1396596",
+            "date": "2026-03-13T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ndiaye-pathe/transfers/spieler/1396596/transfer_id/6240578"
+        },
+        {
+          "id": "5611975",
+          "transferSource": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "94560",
+            "coachId": "17254"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "17686",
+            "coachId": "115177"
+          },
+          "details": {
+            "playerId": "1396596",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ndiaye-pathe/transfers/spieler/1396596/transfer_id/5611975"
+        },
+        {
+          "id": "5611974",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "17686",
+            "coachId": "103826"
+          },
+          "transferDestination": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "94560",
+            "coachId": "10324"
+          },
+          "details": {
+            "playerId": "1396596",
+            "date": "2025-04-06T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ndiaye-pathe/transfers/spieler/1396596/transfer_id/5611974"
+        },
+        {
+          "id": "5615693",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 183,
+            "clubId": "103825",
+            "coachId": "145997"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "17686",
+            "coachId": "103826"
+          },
+          "details": {
+            "playerId": "1396596",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ndiaye-pathe/transfers/spieler/1396596/transfer_id/5615693"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "17686",
+      "40788",
+      "94560",
+      "103825"
+    ],
+    "coachIds": [
+      "115177",
+      "89173",
+      "17254",
+      "103826",
+      "10324",
+      "145997"
+    ],
+    "competitionIds": [
+      "LET1",
+      "CDN1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6240578",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 157,
+        "clubId": "17686",
+        "coachId": "115177"
+      },
+      "transferDestination": {
+        "competitionId": "LET1",
+        "countryId": 92,
+        "clubId": "40788",
+        "coachId": "89173"
+      },
+      "details": {
+        "playerId": "1396596",
+        "date": "2026-03-13T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ndiaye-pathe/transfers/spieler/1396596/transfer_id/6240578"
+    }
+  }
+}

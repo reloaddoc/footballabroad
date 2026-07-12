@@ -1,0 +1,493 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "472382",
+    "history": {
+      "terminated": [
+        {
+          "id": "6405934",
+          "transferSource": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "35327",
+            "coachId": "110342"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "472382",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/odilzhon-abdurakhmanov/transfers/spieler/472382/transfer_id/6405934"
+        },
+        {
+          "id": "5843572",
+          "transferSource": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "10756",
+            "coachId": "110342"
+          },
+          "transferDestination": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "35327",
+            "coachId": "80067"
+          },
+          "details": {
+            "playerId": "472382",
+            "date": "2025-08-07T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/odilzhon-abdurakhmanov/transfers/spieler/472382/transfer_id/5843572"
+        },
+        {
+          "id": "5249633",
+          "transferSource": {
+            "competitionId": "KG1L",
+            "countryId": 90,
+            "clubId": "34660",
+            "coachId": "77426"
+          },
+          "transferDestination": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "10756",
+            "coachId": "53486"
+          },
+          "details": {
+            "playerId": "472382",
+            "date": "2024-09-05T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 117,
+              "daysDisplay": "3 Months, 26 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/odilzhon-abdurakhmanov/transfers/spieler/472382/transfer_id/5249633"
+        },
+        {
+          "id": "4800299",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 81,
+            "clubId": "44486",
+            "coachId": "100226"
+          },
+          "transferDestination": {
+            "competitionId": "KG1L",
+            "countryId": 90,
+            "clubId": "34660",
+            "coachId": "77426"
+          },
+          "details": {
+            "playerId": "472382",
+            "date": "2024-03-18T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/odilzhon-abdurakhmanov/transfers/spieler/472382/transfer_id/4800299"
+        },
+        {
+          "id": "3958635",
+          "transferSource": {
+            "competitionId": "UZ1",
+            "countryId": 180,
+            "clubId": "19401",
+            "coachId": "90429"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "44486",
+            "coachId": "31549"
+          },
+          "details": {
+            "playerId": "472382",
+            "date": "2022-07-20T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 164,
+              "daysDisplay": "5 Months, 11 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/odilzhon-abdurakhmanov/transfers/spieler/472382/transfer_id/3958635"
+        },
+        {
+          "id": "3127270",
+          "transferSource": {
+            "competitionId": "KG1L",
+            "countryId": 90,
+            "clubId": "44382",
+            "coachId": "69099"
+          },
+          "transferDestination": {
+            "competitionId": "UZ1",
+            "countryId": 180,
+            "clubId": "19401",
+            "coachId": "88738"
+          },
+          "details": {
+            "playerId": "472382",
+            "date": "2021-01-24T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/odilzhon-abdurakhmanov/transfers/spieler/472382/transfer_id/3127270"
+        },
+        {
+          "id": "2637292",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 90,
+            "clubId": "44383",
+            "coachId": "114655"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 90,
+            "clubId": "44382",
+            "coachId": "77559"
+          },
+          "details": {
+            "playerId": "472382",
+            "date": "2016-01-01T00:00:00+01:00",
+            "contractUntilDate": "2020-12-31T00:00:00+01:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/odilzhon-abdurakhmanov/transfers/spieler/472382/transfer_id/2637292"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 30,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "35327",
+      "515",
+      "10756",
+      "34660",
+      "44486",
+      "19401",
+      "44382",
+      "44383"
+    ],
+    "coachIds": [
+      "110342",
+      "80067",
+      "77426",
+      "53486",
+      "100226",
+      "90429",
+      "31549",
+      "69099",
+      "88738",
+      "114655",
+      "77559"
+    ],
+    "competitionIds": [
+      "VIE1",
+      "KG1L",
+      "UZ1",
+      "KAS1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6405934",
+      "transferSource": {
+        "competitionId": "VIE1",
+        "countryId": 185,
+        "clubId": "35327",
+        "coachId": "110342"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "472382",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 30,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/odilzhon-abdurakhmanov/transfers/spieler/472382/transfer_id/6405934"
+    }
+  }
+}

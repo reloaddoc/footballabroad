@@ -1,0 +1,808 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "855761",
+    "history": {
+      "terminated": [
+        {
+          "id": "6413473",
+          "transferSource": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "20830",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/6413473"
+        },
+        {
+          "id": "4952021",
+          "transferSource": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "81455",
+            "coachId": "7317"
+          },
+          "transferDestination": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "20830",
+            "coachId": "91427"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2024-07-15T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/4952021"
+        },
+        {
+          "id": "4952020",
+          "transferSource": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "20830",
+            "coachId": "91427"
+          },
+          "transferDestination": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "81455",
+            "coachId": "29310"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2024-03-24T00:00:00+01:00",
+            "contractUntilDate": "2024-07-14T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 828,
+              "daysDisplay": "2 Years, 3 Months, 6 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/4952020"
+        },
+        {
+          "id": "4339739",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 185,
+            "clubId": "106667",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "20830",
+            "coachId": "80715"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2023-03-27T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/4339739"
+        },
+        {
+          "id": "4298998",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 185,
+            "clubId": "52692",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 185,
+            "clubId": "106667",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2023-02-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/4298998"
+        },
+        {
+          "id": "4176258",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "42628",
+            "coachId": "8168"
+          },
+          "transferDestination": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "52692",
+            "coachId": "91427"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2022-11-30T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/4176258"
+        },
+        {
+          "id": "3709857",
+          "transferSource": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "52692",
+            "coachId": "91427"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "42628",
+            "coachId": "63992"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2022-02-01T00:00:00+01:00",
+            "contractUntilDate": "2022-11-30T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/3709857"
+        },
+        {
+          "id": "3621953",
+          "transferSource": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "36046",
+            "coachId": "88419"
+          },
+          "transferDestination": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "52692",
+            "coachId": "91427"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2021-11-10T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/3621953"
+        },
+        {
+          "id": "3709864",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 185,
+            "clubId": "87516",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "36046",
+            "coachId": "88419"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/3709864"
+        },
+        {
+          "id": "3709863",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 185,
+            "clubId": "91770",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 185,
+            "clubId": "87516",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2020-11-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/3709863"
+        },
+        {
+          "id": "3709862",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 185,
+            "clubId": "87516",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 185,
+            "clubId": "91770",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/3709862"
+        },
+        {
+          "id": "3709861",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 185,
+            "clubId": "87516",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/3709861"
+        },
+        {
+          "id": "3709860",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "2113",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/3709860"
+        },
+        {
+          "id": "3709859",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 185,
+            "clubId": "87506",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "2113",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "855761",
+            "date": "2018-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/3709859"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "20830",
+      "515",
+      "81455",
+      "106667",
+      "52692",
+      "42628",
+      "36046",
+      "87516",
+      "91770",
+      "75",
+      "2113",
+      "87506"
+    ],
+    "coachIds": [
+      "7317",
+      "91427",
+      "29310",
+      "80715",
+      "8168",
+      "63992",
+      "88419"
+    ],
+    "competitionIds": [
+      "VIE1",
+      "JAP3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6413473",
+      "transferSource": {
+        "competitionId": "VIE1",
+        "countryId": 185,
+        "clubId": "20830",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "855761",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ngoc-long-bui/transfers/spieler/855761/transfer_id/6413473"
+    }
+  }
+}

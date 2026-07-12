@@ -1,0 +1,379 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "292201",
+    "history": {
+      "terminated": [
+        {
+          "id": "5738556",
+          "transferSource": {
+            "competitionId": "RO1",
+            "countryId": 140,
+            "clubId": "40812",
+            "coachId": "40857"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "16779",
+            "coachId": "30343"
+          },
+          "details": {
+            "playerId": "292201",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mihai-capatina/transfers/spieler/292201/transfer_id/5738556"
+        },
+        {
+          "id": "3091253",
+          "transferSource": {
+            "competitionId": "RO1",
+            "countryId": 140,
+            "clubId": "40843",
+            "coachId": "13737"
+          },
+          "transferDestination": {
+            "competitionId": "RO1",
+            "countryId": 140,
+            "clubId": "40812",
+            "coachId": "4790"
+          },
+          "details": {
+            "playerId": "292201",
+            "date": "2020-10-05T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 750000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "750.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mihai-capatina/transfers/spieler/292201/transfer_id/3091253"
+        },
+        {
+          "id": "1488445",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 140,
+            "clubId": "34766",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RO1",
+            "countryId": 140,
+            "clubId": "40843",
+            "coachId": "23565"
+          },
+          "details": {
+            "playerId": "292201",
+            "date": "2016-02-15T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mihai-capatina/transfers/spieler/292201/transfer_id/1488445"
+        },
+        {
+          "id": "1058716",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 140,
+            "clubId": "98505",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RO2B",
+            "countryId": 140,
+            "clubId": "34766",
+            "coachId": "22704"
+          },
+          "details": {
+            "playerId": "292201",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mihai-capatina/transfers/spieler/292201/transfer_id/1058716"
+        },
+        {
+          "id": "5339009",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 140,
+            "clubId": "98505",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "292201",
+            "date": "2008-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 12,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mihai-capatina/transfers/spieler/292201/transfer_id/5339009"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 30,
+      "totalMarketValue": {
+        "value": 600000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "600.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "40812",
+      "16779",
+      "40843",
+      "34766",
+      "98505",
+      "75"
+    ],
+    "coachIds": [
+      "40857",
+      "30343",
+      "13737",
+      "4790",
+      "23565",
+      "22704"
+    ],
+    "competitionIds": [
+      "RO1",
+      "KAS1",
+      "RO2B"
+    ],
+    "mostRecentTransfer": {
+      "id": "5738556",
+      "transferSource": {
+        "competitionId": "RO1",
+        "countryId": 140,
+        "clubId": "40812",
+        "coachId": "40857"
+      },
+      "transferDestination": {
+        "competitionId": "KAS1",
+        "countryId": 81,
+        "clubId": "16779",
+        "coachId": "30343"
+      },
+      "details": {
+        "playerId": "292201",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 600000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "600.00",
+            "suffix": "K"
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 729,
+          "daysDisplay": "1 Year, 11 Months, 29 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/mihai-capatina/transfers/spieler/292201/transfer_id/5738556"
+    }
+  }
+}

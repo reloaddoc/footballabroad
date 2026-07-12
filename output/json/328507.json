@@ -1,0 +1,605 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "328507",
+    "history": {
+      "terminated": [
+        {
+          "id": "5752513",
+          "transferSource": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "20179",
+            "coachId": "61121"
+          },
+          "transferDestination": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "55229",
+            "coachId": "59138"
+          },
+          "details": {
+            "playerId": "328507",
+            "date": "2025-07-04T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 361,
+              "daysDisplay": "11 Months, 26 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/taku-ito/transfers/spieler/328507/transfer_id/5752513"
+        },
+        {
+          "id": "4440272",
+          "transferSource": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "55229",
+            "coachId": "59138"
+          },
+          "transferDestination": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "20179",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "328507",
+            "date": "2023-06-16T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/taku-ito/transfers/spieler/328507/transfer_id/4440272"
+        },
+        {
+          "id": "3182010",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 167,
+            "clubId": "55230",
+            "coachId": "106870"
+          },
+          "transferDestination": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "55229",
+            "coachId": "61919"
+          },
+          "details": {
+            "playerId": "328507",
+            "date": "2020-12-25T00:00:00+01:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/taku-ito/transfers/spieler/328507/transfer_id/3182010"
+        },
+        {
+          "id": "2852302",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 167,
+            "clubId": "55234",
+            "coachId": "48204"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 167,
+            "clubId": "55230",
+            "coachId": "106870"
+          },
+          "details": {
+            "playerId": "328507",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/taku-ito/transfers/spieler/328507/transfer_id/2852302"
+        },
+        {
+          "id": "2357336",
+          "transferSource": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "60393",
+            "coachId": "47982"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 167,
+            "clubId": "55234",
+            "coachId": "48204"
+          },
+          "details": {
+            "playerId": "328507",
+            "date": "2019-01-04T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/taku-ito/transfers/spieler/328507/transfer_id/2357336"
+        },
+        {
+          "id": "1929459",
+          "transferSource": {
+            "competitionId": "KTOS",
+            "countryId": 77,
+            "clubId": "37179",
+            "coachId": "5098"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 167,
+            "clubId": "60393",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "328507",
+            "date": "2017-01-01T00:00:00+01:00",
+            "contractUntilDate": "2017-11-30T00:00:00+01:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/taku-ito/transfers/spieler/328507/transfer_id/1929459"
+        },
+        {
+          "id": "1512009",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "8",
+            "coachId": "7900"
+          },
+          "transferDestination": {
+            "competitionId": "KTOS",
+            "countryId": 77,
+            "clubId": "37179",
+            "coachId": "5098"
+          },
+          "details": {
+            "playerId": "328507",
+            "date": "2016-07-15T00:00:00+02:00",
+            "contractUntilDate": "2016-12-31T00:00:00+01:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 350,
+              "daysDisplay": "11 Months, 15 Days"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/taku-ito/transfers/spieler/328507/transfer_id/1512009"
+        },
+        {
+          "id": "1075986",
+          "transferSource": {
+            "competitionId": "LLM2",
+            "countryId": 40,
+            "clubId": "7528",
+            "coachId": "91341"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "8",
+            "coachId": "5924"
+          },
+          "details": {
+            "playerId": "328507",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/taku-ito/transfers/spieler/328507/transfer_id/1075986"
+        },
+        {
+          "id": "1075987",
+          "transferSource": {
+            "competitionId": "J18W",
+            "countryId": 77,
+            "clubId": "23800",
+            "coachId": "104856"
+          },
+          "transferDestination": {
+            "competitionId": "LLM2",
+            "countryId": 40,
+            "clubId": "7528",
+            "coachId": "91341"
+          },
+          "details": {
+            "playerId": "328507",
+            "date": "2014-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/taku-ito/transfers/spieler/328507/transfer_id/1075987"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 32,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "20179",
+      "55229",
+      "55230",
+      "55234",
+      "60393",
+      "37179",
+      "8",
+      "7528",
+      "23800"
+    ],
+    "coachIds": [
+      "61121",
+      "59138",
+      "106870",
+      "61919",
+      "48204",
+      "47982",
+      "5098",
+      "7900",
+      "91341",
+      "5924",
+      "104856"
+    ],
+    "competitionIds": [
+      "THA2",
+      "KTOS",
+      "RLW3",
+      "LLM2",
+      "J18W"
+    ],
+    "mostRecentTransfer": {
+      "id": "5752513",
+      "transferSource": {
+        "competitionId": "THA2",
+        "countryId": 167,
+        "clubId": "20179",
+        "coachId": "61121"
+      },
+      "transferDestination": {
+        "competitionId": "THA2",
+        "countryId": 167,
+        "clubId": "55229",
+        "coachId": "59138"
+      },
+      "details": {
+        "playerId": "328507",
+        "date": "2025-07-04T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 31,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 361,
+          "daysDisplay": "11 Months, 26 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/taku-ito/transfers/spieler/328507/transfer_id/5752513"
+    }
+  }
+}

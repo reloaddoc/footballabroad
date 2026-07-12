@@ -1,0 +1,479 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1103472",
+    "history": {
+      "terminated": [
+        {
+          "id": "6116006",
+          "transferSource": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "2660",
+            "coachId": "37227"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 28,
+            "clubId": "27122",
+            "coachId": "2948"
+          },
+          "details": {
+            "playerId": "1103472",
+            "date": "2026-01-12T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/martin-grachki/transfers/spieler/1103472/transfer_id/6116006"
+        },
+        {
+          "id": "5796858",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 99,
+            "clubId": "41277",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "2660",
+            "coachId": "37227"
+          },
+          "details": {
+            "playerId": "1103472",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/martin-grachki/transfers/spieler/1103472/transfer_id/5796858"
+        },
+        {
+          "id": "5359399",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 28,
+            "clubId": "20348",
+            "coachId": "39567"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 99,
+            "clubId": "41277",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1103472",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/martin-grachki/transfers/spieler/1103472/transfer_id/5359399"
+        },
+        {
+          "id": "4415343",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "836",
+            "coachId": "107862"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 28,
+            "clubId": "20348",
+            "coachId": "91123"
+          },
+          "details": {
+            "playerId": "1103472",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/martin-grachki/transfers/spieler/1103472/transfer_id/4415343"
+        },
+        {
+          "id": "4248303",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 28,
+            "clubId": "27122",
+            "coachId": "94631"
+          },
+          "transferDestination": {
+            "competitionId": "RHL",
+            "countryId": 40,
+            "clubId": "836",
+            "coachId": "75871"
+          },
+          "details": {
+            "playerId": "1103472",
+            "date": "2023-01-29T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/martin-grachki/transfers/spieler/1103472/transfer_id/4248303"
+        },
+        {
+          "id": "4248302",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 28,
+            "clubId": "78881",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 28,
+            "clubId": "27122",
+            "coachId": "94631"
+          },
+          "details": {
+            "playerId": "1103472",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/martin-grachki/transfers/spieler/1103472/transfer_id/4248302"
+        },
+        {
+          "id": "4248301",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 28,
+            "clubId": "142927",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 28,
+            "clubId": "78881",
+            "coachId": "30580"
+          },
+          "details": {
+            "playerId": "1103472",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/martin-grachki/transfers/spieler/1103472/transfer_id/4248301"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "2660",
+      "27122",
+      "41277",
+      "20348",
+      "836",
+      "78881",
+      "142927"
+    ],
+    "coachIds": [
+      "37227",
+      "2948",
+      "39567",
+      "107862",
+      "91123",
+      "94631",
+      "75871",
+      "30580"
+    ],
+    "competitionIds": [
+      "LUX1",
+      "RHL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6116006",
+      "transferSource": {
+        "competitionId": "LUX1",
+        "countryId": 99,
+        "clubId": "2660",
+        "coachId": "37227"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 28,
+        "clubId": "27122",
+        "coachId": "2948"
+      },
+      "details": {
+        "playerId": "1103472",
+        "date": "2026-01-12T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/martin-grachki/transfers/spieler/1103472/transfer_id/6116006"
+    }
+  }
+}

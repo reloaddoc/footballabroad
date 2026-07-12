@@ -1,0 +1,263 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "826451",
+    "history": {
+      "terminated": [
+        {
+          "id": "6034455",
+          "transferSource": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "623",
+            "coachId": "122177"
+          },
+          "transferDestination": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "67000",
+            "coachId": "60790"
+          },
+          "details": {
+            "playerId": "826451",
+            "date": "2026-02-11T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/curtis-ofori/transfers/spieler/826451/transfer_id/6034455"
+        },
+        {
+          "id": "4160355",
+          "transferSource": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "39815",
+            "coachId": "40984"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "623",
+            "coachId": "5801"
+          },
+          "details": {
+            "playerId": "826451",
+            "date": "2022-12-01T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/curtis-ofori/transfers/spieler/826451/transfer_id/4160355"
+        },
+        {
+          "id": "3303979",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "25940",
+            "coachId": "101137"
+          },
+          "transferDestination": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "39815",
+            "coachId": "18693"
+          },
+          "details": {
+            "playerId": "826451",
+            "date": "2021-03-22T00:00:00+01:00",
+            "contractUntilDate": "2022-11-30T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/curtis-ofori/transfers/spieler/826451/transfer_id/3303979"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "623",
+      "67000",
+      "39815",
+      "25940"
+    ],
+    "coachIds": [
+      "122177",
+      "60790",
+      "40984",
+      "5801",
+      "101137",
+      "18693"
+    ],
+    "competitionIds": [
+      "MLS1",
+      "CDN1",
+      "USL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6034455",
+      "transferSource": {
+        "competitionId": "MLS1",
+        "countryId": 184,
+        "clubId": "623",
+        "coachId": "122177"
+      },
+      "transferDestination": {
+        "competitionId": "CDN1",
+        "countryId": 80,
+        "clubId": "67000",
+        "coachId": "60790"
+      },
+      "details": {
+        "playerId": "826451",
+        "date": "2026-02-11T00:00:00+01:00",
+        "contractUntilDate": "2027-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/curtis-ofori/transfers/spieler/826451/transfer_id/6034455"
+    }
+  }
+}

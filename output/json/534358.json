@@ -1,0 +1,677 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "534358",
+    "history": {
+      "terminated": [
+        {
+          "id": "5745741",
+          "transferSource": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "36848",
+            "coachId": "4355"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15817",
+            "coachId": "67577"
+          },
+          "details": {
+            "playerId": "534358",
+            "date": "2025-08-20T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 284,
+              "daysDisplay": "9 Months, 11 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/5745741"
+        },
+        {
+          "id": "5745740",
+          "transferSource": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15817",
+            "coachId": "67577"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "36848",
+            "coachId": "4355"
+          },
+          "details": {
+            "playerId": "534358",
+            "date": "2025-07-02T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/5745740"
+        },
+        {
+          "id": "4921223",
+          "transferSource": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15824",
+            "coachId": "24204"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15817",
+            "coachId": "65273"
+          },
+          "details": {
+            "playerId": "534358",
+            "date": "2025-05-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/4921223"
+        },
+        {
+          "id": "4936101",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 103,
+            "clubId": "15817",
+            "coachId": "65273"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 103,
+            "clubId": "15824",
+            "coachId": "24204"
+          },
+          "details": {
+            "playerId": "534358",
+            "date": "2024-03-11T00:00:00+01:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 325000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "325.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 1206,
+              "daysDisplay": "3 Years, 3 Months, 19 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/4936101"
+        },
+        {
+          "id": "4921222",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 103,
+            "clubId": "15818",
+            "coachId": "74361"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 103,
+            "clubId": "15817",
+            "coachId": "65273"
+          },
+          "details": {
+            "playerId": "534358",
+            "date": "2024-02-27T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 325000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "325.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/4921222"
+        },
+        {
+          "id": "4204375",
+          "transferSource": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15824",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15818",
+            "coachId": "74361"
+          },
+          "details": {
+            "playerId": "534358",
+            "date": "2023-01-05T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/4204375"
+        },
+        {
+          "id": "3355661",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "37758",
+            "coachId": "10734"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15824",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "534358",
+            "date": "2021-05-04T00:00:00+02:00",
+            "contractUntilDate": "2022-11-30T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 57,
+              "daysDisplay": "1 Month, 26 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/3355661"
+        },
+        {
+          "id": "2755815",
+          "transferSource": {
+            "competitionId": "IT3B",
+            "countryId": 75,
+            "clubId": "4271",
+            "coachId": "20110"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "37758",
+            "coachId": "77156"
+          },
+          "details": {
+            "playerId": "534358",
+            "date": "2020-01-15T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 167,
+              "daysDisplay": "5 Months, 15 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/2755815"
+        },
+        {
+          "id": "1900248",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "8889",
+            "coachId": "22681"
+          },
+          "transferDestination": {
+            "competitionId": "IT3B",
+            "countryId": 75,
+            "clubId": "4271",
+            "coachId": "12913"
+          },
+          "details": {
+            "playerId": "534358",
+            "date": "2017-08-31T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/1900248"
+        },
+        {
+          "id": "2322966",
+          "transferSource": {
+            "competitionId": "ARG2",
+            "countryId": 9,
+            "clubId": "4557",
+            "coachId": "43919"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "8889",
+            "coachId": "22681"
+          },
+          "details": {
+            "playerId": "534358",
+            "date": "2017-03-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/2322966"
+        },
+        {
+          "id": "2322965",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 9,
+            "clubId": "20186",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 9,
+            "clubId": "4557",
+            "coachId": "11498"
+          },
+          "details": {
+            "playerId": "534358",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/2322965"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "36848",
+      "15817",
+      "15824",
+      "15818",
+      "37758",
+      "4271",
+      "8889",
+      "4557",
+      "20186"
+    ],
+    "coachIds": [
+      "4355",
+      "67577",
+      "24204",
+      "65273",
+      "74361",
+      "10734",
+      "20110",
+      "77156",
+      "22681",
+      "12913",
+      "43919",
+      "11498"
+    ],
+    "competitionIds": [
+      "MYS1",
+      "IT3B",
+      "ARG2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5745741",
+      "transferSource": {
+        "competitionId": "MYS1",
+        "countryId": 103,
+        "clubId": "36848",
+        "coachId": "4355"
+      },
+      "transferDestination": {
+        "competitionId": "MYS1",
+        "countryId": 103,
+        "clubId": "15817",
+        "coachId": "67577"
+      },
+      "details": {
+        "playerId": "534358",
+        "date": "2025-08-20T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "remainingContractPeriod": {
+          "days": 284,
+          "daysDisplay": "9 Months, 11 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/manuel-hidalgo/transfers/spieler/534358/transfer_id/5745741"
+    }
+  }
+}

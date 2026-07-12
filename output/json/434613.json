@@ -1,0 +1,660 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "434613",
+    "history": {
+      "terminated": [
+        {
+          "id": "5633110",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 167,
+            "clubId": "34853",
+            "coachId": "45910"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "12533",
+            "coachId": "45884"
+          },
+          "details": {
+            "playerId": "434613",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oege-sietse-van-lingen/transfers/spieler/434613/transfer_id/5633110"
+        },
+        {
+          "id": "5425167",
+          "transferSource": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "853",
+            "coachId": "132735"
+          },
+          "transferDestination": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "34853",
+            "coachId": "45910"
+          },
+          "details": {
+            "playerId": "434613",
+            "date": "2025-01-03T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 178,
+              "daysDisplay": "5 Months, 27 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oege-sietse-van-lingen/transfers/spieler/434613/transfer_id/5425167"
+        },
+        {
+          "id": "4443486",
+          "transferSource": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "2660",
+            "coachId": "37227"
+          },
+          "transferDestination": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "853",
+            "coachId": "47170"
+          },
+          "details": {
+            "playerId": "434613",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oege-sietse-van-lingen/transfers/spieler/434613/transfer_id/4443486"
+        },
+        {
+          "id": "4252279",
+          "transferSource": {
+            "competitionId": "510",
+            "countryId": 122,
+            "clubId": "7408",
+            "coachId": "1873"
+          },
+          "transferDestination": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "2660",
+            "coachId": "37227"
+          },
+          "details": {
+            "playerId": "434613",
+            "date": "2023-01-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oege-sietse-van-lingen/transfers/spieler/434613/transfer_id/4252279"
+        },
+        {
+          "id": "4157922",
+          "transferSource": {
+            "competitionId": "NTD",
+            "countryId": 122,
+            "clubId": "9933",
+            "coachId": "56262"
+          },
+          "transferDestination": {
+            "competitionId": "510",
+            "countryId": 122,
+            "clubId": "7408",
+            "coachId": "63522"
+          },
+          "details": {
+            "playerId": "434613",
+            "date": "2022-10-27T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oege-sietse-van-lingen/transfers/spieler/434613/transfer_id/4157922"
+        },
+        {
+          "id": "2763720",
+          "transferSource": {
+            "competitionId": "HBZA",
+            "countryId": 122,
+            "clubId": "20780",
+            "coachId": "27240"
+          },
+          "transferDestination": {
+            "competitionId": "NTD",
+            "countryId": 122,
+            "clubId": "9933",
+            "coachId": "56262"
+          },
+          "details": {
+            "playerId": "434613",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oege-sietse-van-lingen/transfers/spieler/434613/transfer_id/2763720"
+        },
+        {
+          "id": "2506121",
+          "transferSource": {
+            "competitionId": "NLBB",
+            "countryId": 122,
+            "clubId": "20303",
+            "coachId": "7685"
+          },
+          "transferDestination": {
+            "competitionId": "510",
+            "countryId": 122,
+            "clubId": "20780",
+            "coachId": "28791"
+          },
+          "details": {
+            "playerId": "434613",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oege-sietse-van-lingen/transfers/spieler/434613/transfer_id/2506121"
+        },
+        {
+          "id": "2073351",
+          "transferSource": {
+            "competitionId": "NLAE",
+            "countryId": 122,
+            "clubId": "7461",
+            "coachId": "27393"
+          },
+          "transferDestination": {
+            "competitionId": "NLBB",
+            "countryId": 122,
+            "clubId": "20303",
+            "coachId": "42331"
+          },
+          "details": {
+            "playerId": "434613",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oege-sietse-van-lingen/transfers/spieler/434613/transfer_id/2073351"
+        },
+        {
+          "id": "1500321",
+          "transferSource": {
+            "competitionId": "NLVB",
+            "countryId": 122,
+            "clubId": "52451",
+            "coachId": "37388"
+          },
+          "transferDestination": {
+            "competitionId": "NLAE",
+            "countryId": 122,
+            "clubId": "7461",
+            "coachId": "27393"
+          },
+          "details": {
+            "playerId": "434613",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oege-sietse-van-lingen/transfers/spieler/434613/transfer_id/1500321"
+        },
+        {
+          "id": "2661512",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "32795",
+            "coachId": "118184"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "52451",
+            "coachId": "37388"
+          },
+          "details": {
+            "playerId": "434613",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oege-sietse-van-lingen/transfers/spieler/434613/transfer_id/2661512"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "34853",
+      "12533",
+      "853",
+      "2660",
+      "7408",
+      "9933",
+      "20780",
+      "20303",
+      "7461",
+      "52451",
+      "32795"
+    ],
+    "coachIds": [
+      "45910",
+      "45884",
+      "132735",
+      "37227",
+      "47170",
+      "1873",
+      "56262",
+      "63522",
+      "27240",
+      "7685",
+      "28791",
+      "27393",
+      "42331",
+      "37388",
+      "118184"
+    ],
+    "competitionIds": [
+      "THA1",
+      "LUX1",
+      "THA2",
+      "510",
+      "NTD",
+      "HBZA",
+      "NLBB",
+      "NLAE",
+      "NLVB"
+    ],
+    "mostRecentTransfer": {
+      "id": "5633110",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 167,
+        "clubId": "34853",
+        "coachId": "45910"
+      },
+      "transferDestination": {
+        "competitionId": "THA1",
+        "countryId": 167,
+        "clubId": "12533",
+        "coachId": "45884"
+      },
+      "details": {
+        "playerId": "434613",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/oege-sietse-van-lingen/transfers/spieler/434613/transfer_id/5633110"
+    }
+  }
+}

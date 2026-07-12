@@ -1,0 +1,583 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "685217",
+    "history": {
+      "terminated": [
+        {
+          "id": "6234002",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "WER2",
+            "countryId": 18,
+            "clubId": "32474",
+            "coachId": "27359"
+          },
+          "details": {
+            "playerId": "685217",
+            "date": "2026-03-17T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-alekseev/transfers/spieler/685217/transfer_id/6234002"
+        },
+        {
+          "id": "5108021",
+          "transferSource": {
+            "competitionId": "CYP2",
+            "countryId": 188,
+            "clubId": "31010",
+            "coachId": "68397"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "685217",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-alekseev/transfers/spieler/685217/transfer_id/5108021"
+        },
+        {
+          "id": "4649041",
+          "transferSource": {
+            "competitionId": "RU2",
+            "countryId": 141,
+            "clubId": "59024",
+            "coachId": "29299"
+          },
+          "transferDestination": {
+            "competitionId": "CYP2",
+            "countryId": 188,
+            "clubId": "31010",
+            "coachId": "11595"
+          },
+          "details": {
+            "playerId": "685217",
+            "date": "2023-09-14T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-alekseev/transfers/spieler/685217/transfer_id/4649041"
+        },
+        {
+          "id": "3930050",
+          "transferSource": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "31010",
+            "coachId": "68397"
+          },
+          "transferDestination": {
+            "competitionId": "RU2",
+            "countryId": 141,
+            "clubId": "59024",
+            "coachId": "29299"
+          },
+          "details": {
+            "playerId": "685217",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ivan-alekseev/transfers/spieler/685217/transfer_id/3930050"
+        },
+        {
+          "id": "3533791",
+          "transferSource": {
+            "competitionId": "RPLZ",
+            "countryId": 141,
+            "clubId": "59024",
+            "coachId": "35662"
+          },
+          "transferDestination": {
+            "competitionId": "CYP2",
+            "countryId": 188,
+            "clubId": "31010",
+            "coachId": "85447"
+          },
+          "details": {
+            "playerId": "685217",
+            "date": "2021-09-02T00:00:00+02:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 666,
+              "daysDisplay": "1 Year, 9 Months, 28 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ivan-alekseev/transfers/spieler/685217/transfer_id/3533791"
+        },
+        {
+          "id": "3185456",
+          "transferSource": {
+            "competitionId": "RPLW",
+            "countryId": 141,
+            "clubId": "45913",
+            "coachId": "13875"
+          },
+          "transferDestination": {
+            "competitionId": "RPLW",
+            "countryId": 141,
+            "clubId": "59024",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "685217",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 180,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-alekseev/transfers/spieler/685217/transfer_id/3185456"
+        },
+        {
+          "id": "2789411",
+          "transferSource": {
+            "competitionId": "RUJL",
+            "countryId": 141,
+            "clubId": "45035",
+            "coachId": "36961"
+          },
+          "transferDestination": {
+            "competitionId": "RPLW",
+            "countryId": 141,
+            "clubId": "45913",
+            "coachId": "13875"
+          },
+          "details": {
+            "playerId": "685217",
+            "date": "2020-02-06T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-alekseev/transfers/spieler/685217/transfer_id/2789411"
+        },
+        {
+          "id": "2552876",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 141,
+            "clubId": "75457",
+            "coachId": "75147"
+          },
+          "transferDestination": {
+            "competitionId": "RUJL",
+            "countryId": 141,
+            "clubId": "45035",
+            "coachId": "63917"
+          },
+          "details": {
+            "playerId": "685217",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-alekseev/transfers/spieler/685217/transfer_id/2552876"
+        },
+        {
+          "id": "2800205",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 141,
+            "clubId": "30143",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 141,
+            "clubId": "75457",
+            "coachId": "75147"
+          },
+          "details": {
+            "playerId": "685217",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-alekseev/transfers/spieler/685217/transfer_id/2800205"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "515",
+      "32474",
+      "31010",
+      "59024",
+      "45913",
+      "45035",
+      "75457",
+      "30143"
+    ],
+    "coachIds": [
+      "27359",
+      "68397",
+      "29299",
+      "11595",
+      "35662",
+      "85447",
+      "13875",
+      "36961",
+      "75147",
+      "63917"
+    ],
+    "competitionIds": [
+      "WER2",
+      "CYP2",
+      "RU2",
+      "ZYP1",
+      "RPLZ",
+      "RPLW",
+      "RUJL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6234002",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "WER2",
+        "countryId": 18,
+        "clubId": "32474",
+        "coachId": "27359"
+      },
+      "details": {
+        "playerId": "685217",
+        "date": "2026-03-17T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ivan-alekseev/transfers/spieler/685217/transfer_id/6234002"
+    }
+  }
+}

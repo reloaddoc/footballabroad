@@ -1,0 +1,202 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1468573",
+    "history": {
+      "terminated": [
+        {
+          "id": "6039293",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 7,
+            "clubId": "16547",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "PFL1",
+            "countryId": 134,
+            "clubId": "27359",
+            "coachId": "139614"
+          },
+          "details": {
+            "playerId": "1468573",
+            "date": "2025-09-21T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/maleek-powell/transfers/spieler/1468573/transfer_id/6039293"
+        },
+        {
+          "id": "6039292",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 229,
+            "clubId": "18366",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 7,
+            "clubId": "16547",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1468573",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/maleek-powell/transfers/spieler/1468573/transfer_id/6039292"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 10000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "10.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "16547",
+      "27359",
+      "18366"
+    ],
+    "coachIds": [
+      "139614"
+    ],
+    "competitionIds": [
+      "PFL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6039293",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 7,
+        "clubId": "16547",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "PFL1",
+        "countryId": 134,
+        "clubId": "27359",
+        "coachId": "139614"
+      },
+      "details": {
+        "playerId": "1468573",
+        "date": "2025-09-21T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/maleek-powell/transfers/spieler/1468573/transfer_id/6039293"
+    }
+  }
+}

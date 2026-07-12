@@ -1,0 +1,239 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1264090",
+    "history": {
+      "terminated": [
+        {
+          "id": "5804929",
+          "transferSource": {
+            "competitionId": "ISR2",
+            "countryId": 74,
+            "clubId": "46771",
+            "coachId": "69616"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "51070",
+            "coachId": "83180"
+          },
+          "details": {
+            "playerId": "1264090",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mansour-badjie/transfers/spieler/1264090/transfer_id/5804929"
+        },
+        {
+          "id": "5439818",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "51070",
+            "coachId": "83180"
+          },
+          "transferDestination": {
+            "competitionId": "ISR2",
+            "countryId": 74,
+            "clubId": "46771",
+            "coachId": "33678"
+          },
+          "details": {
+            "playerId": "1264090",
+            "date": "2025-01-09T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mansour-badjie/transfers/spieler/1264090/transfer_id/5439818"
+        },
+        {
+          "id": "5439820",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 74,
+            "clubId": "109002",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "51070",
+            "coachId": "83180"
+          },
+          "details": {
+            "playerId": "1264090",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mansour-badjie/transfers/spieler/1264090/transfer_id/5439820"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "46771",
+      "51070",
+      "109002"
+    ],
+    "coachIds": [
+      "69616",
+      "83180",
+      "33678"
+    ],
+    "competitionIds": [
+      "ISR2",
+      "ISR1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5804929",
+      "transferSource": {
+        "competitionId": "ISR2",
+        "countryId": 74,
+        "clubId": "46771",
+        "coachId": "69616"
+      },
+      "transferDestination": {
+        "competitionId": "ISR1",
+        "countryId": 74,
+        "clubId": "51070",
+        "coachId": "83180"
+      },
+      "details": {
+        "playerId": "1264090",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/mansour-badjie/transfers/spieler/1264090/transfer_id/5804929"
+    }
+  }
+}

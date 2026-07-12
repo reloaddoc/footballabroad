@@ -1,0 +1,682 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "334551",
+    "history": {
+      "terminated": [
+        {
+          "id": "6195781",
+          "transferSource": {
+            "competitionId": "CLO",
+            "countryId": 34,
+            "clubId": "38929",
+            "coachId": "1013"
+          },
+          "transferDestination": {
+            "competitionId": "UZ2L",
+            "countryId": 180,
+            "clubId": "20117",
+            "coachId": "33779"
+          },
+          "details": {
+            "playerId": "334551",
+            "date": "2026-02-21T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/6195781"
+        },
+        {
+          "id": "5480288",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "36922",
+            "coachId": "38429"
+          },
+          "transferDestination": {
+            "competitionId": "CSL",
+            "countryId": 34,
+            "clubId": "38929",
+            "coachId": "4236"
+          },
+          "details": {
+            "playerId": "334551",
+            "date": "2025-01-25T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 156,
+              "daysDisplay": "5 Months, 5 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/5480288"
+        },
+        {
+          "id": "4819380",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 104,
+            "clubId": "34876",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SER2",
+            "countryId": 215,
+            "clubId": "36922",
+            "coachId": "61271"
+          },
+          "details": {
+            "playerId": "334551",
+            "date": "2024-02-15T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/4819380"
+        },
+        {
+          "id": "4597098",
+          "transferSource": {
+            "competitionId": "SER2",
+            "countryId": 215,
+            "clubId": "71886",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 104,
+            "clubId": "34876",
+            "coachId": "4210"
+          },
+          "details": {
+            "playerId": "334551",
+            "date": "2023-08-22T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/4597098"
+        },
+        {
+          "id": "3679318",
+          "transferSource": {
+            "competitionId": "MNE1",
+            "countryId": 216,
+            "clubId": "5972",
+            "coachId": "99825"
+          },
+          "transferDestination": {
+            "competitionId": "SER2",
+            "countryId": 215,
+            "clubId": "71886",
+            "coachId": "12032"
+          },
+          "details": {
+            "playerId": "334551",
+            "date": "2022-01-17T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/3679318"
+        },
+        {
+          "id": "3392054",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "15276",
+            "coachId": "51859"
+          },
+          "transferDestination": {
+            "competitionId": "MNE1",
+            "countryId": 216,
+            "clubId": "5972",
+            "coachId": "18359"
+          },
+          "details": {
+            "playerId": "334551",
+            "date": "2021-07-21T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/3392054"
+        },
+        {
+          "id": "2195858",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "30684",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "15276",
+            "coachId": "14767"
+          },
+          "details": {
+            "playerId": "334551",
+            "date": "2015-06-30T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/2195858"
+        },
+        {
+          "id": "2195857",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "15276",
+            "coachId": "4641"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "30684",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "334551",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/2195857"
+        },
+        {
+          "id": "1284749",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "5757",
+            "coachId": "4568"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "15276",
+            "coachId": "7798"
+          },
+          "details": {
+            "playerId": "334551",
+            "date": "2014-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/1284749"
+        },
+        {
+          "id": "1284750",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "15276",
+            "coachId": "4547"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "5757",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "334551",
+            "date": "2012-07-02T00:00:00+02:00",
+            "contractUntilDate": "2014-06-30T00:00:00+02:00",
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 3285,
+              "daysDisplay": "8 Years, 11 Months, 28 Days"
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/1284750"
+        },
+        {
+          "id": "2195859",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "35851",
+            "coachId": "4581"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "15276",
+            "coachId": "4547"
+          },
+          "details": {
+            "playerId": "334551",
+            "date": "2012-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/2195859"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 31,
+      "totalMarketValue": {
+        "value": 250000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "250.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "38929",
+      "20117",
+      "36922",
+      "34876",
+      "71886",
+      "5972",
+      "15276",
+      "30684",
+      "5757",
+      "35851"
+    ],
+    "coachIds": [
+      "1013",
+      "33779",
+      "38429",
+      "4236",
+      "61271",
+      "4210",
+      "99825",
+      "12032",
+      "51859",
+      "18359",
+      "14767",
+      "4641",
+      "4568",
+      "7798",
+      "4547",
+      "4581"
+    ],
+    "competitionIds": [
+      "CLO",
+      "UZ2L",
+      "SER1",
+      "CSL",
+      "SER2",
+      "MNE1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6195781",
+      "transferSource": {
+        "competitionId": "CLO",
+        "countryId": 34,
+        "clubId": "38929",
+        "coachId": "1013"
+      },
+      "transferDestination": {
+        "competitionId": "UZ2L",
+        "countryId": 180,
+        "clubId": "20117",
+        "coachId": "33779"
+      },
+      "details": {
+        "playerId": "334551",
+        "date": "2026-02-21T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 31,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/branimir-jocic/transfers/spieler/334551/transfer_id/6195781"
+    }
+  }
+}

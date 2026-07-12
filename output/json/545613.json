@@ -1,0 +1,202 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "545613",
+    "history": {
+      "terminated": [
+        {
+          "id": "5809278",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 114,
+            "clubId": "61616",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "TFPL",
+            "countryId": 164,
+            "clubId": "77124",
+            "coachId": "128142"
+          },
+          "details": {
+            "playerId": "545613",
+            "date": "2025-07-21T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/orkhon-munkh-orgil/transfers/spieler/545613/transfer_id/5809278"
+        },
+        {
+          "id": "2679346",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 114,
+            "clubId": "90255",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 114,
+            "clubId": "61616",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "545613",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/orkhon-munkh-orgil/transfers/spieler/545613/transfer_id/2679346"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "61616",
+      "77124",
+      "90255"
+    ],
+    "coachIds": [
+      "128142"
+    ],
+    "competitionIds": [
+      "TFPL"
+    ],
+    "mostRecentTransfer": {
+      "id": "5809278",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 114,
+        "clubId": "61616",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "TFPL",
+        "countryId": 164,
+        "clubId": "77124",
+        "coachId": "128142"
+      },
+      "details": {
+        "playerId": "545613",
+        "date": "2025-07-21T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/orkhon-munkh-orgil/transfers/spieler/545613/transfer_id/5809278"
+    }
+  }
+}

@@ -1,0 +1,809 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "167075",
+    "history": {
+      "terminated": [
+        {
+          "id": "5250568",
+          "transferSource": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "45299",
+            "coachId": "4121"
+          },
+          "transferDestination": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "60816",
+            "coachId": "22922"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2024-09-05T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/5250568"
+        },
+        {
+          "id": "4461591",
+          "transferSource": {
+            "competitionId": "UN2",
+            "countryId": 178,
+            "clubId": "709",
+            "coachId": "116659"
+          },
+          "transferDestination": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "45299",
+            "coachId": "4121"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2023-09-16T00:00:00+02:00",
+            "contractUntilDate": "2024-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 288,
+              "daysDisplay": "9 Months, 14 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/4461591"
+        },
+        {
+          "id": "3896695",
+          "transferSource": {
+            "competitionId": "UNG1",
+            "countryId": 178,
+            "clubId": "30613",
+            "coachId": "13042"
+          },
+          "transferDestination": {
+            "competitionId": "UNG1",
+            "countryId": 178,
+            "clubId": "709",
+            "coachId": "31346"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2022-07-28T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/3896695"
+        },
+        {
+          "id": "3210590",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "UNG1",
+            "countryId": 178,
+            "clubId": "30613",
+            "coachId": "5029"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2021-01-21T00:00:00+01:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/3210590"
+        },
+        {
+          "id": "3035682",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "5223",
+            "coachId": "31717"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2020-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/3035682"
+        },
+        {
+          "id": "2789947",
+          "transferSource": {
+            "competitionId": "C1",
+            "countryId": 148,
+            "clubId": "434",
+            "coachId": "17687"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "5223",
+            "coachId": "23004"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2020-02-06T00:00:00+01:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 510,
+              "daysDisplay": "1 Year, 4 Months, 24 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/2789947"
+        },
+        {
+          "id": "2012104",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "669",
+            "coachId": "3778"
+          },
+          "transferDestination": {
+            "competitionId": "C1",
+            "countryId": 148,
+            "clubId": "434",
+            "coachId": "23817"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2018-01-23T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 158,
+              "daysDisplay": "5 Months, 7 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/2012104"
+        },
+        {
+          "id": "1122846",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "902",
+            "coachId": "8112"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "669",
+            "coachId": "8142"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2014-08-20T00:00:00+02:00",
+            "contractUntilDate": "2018-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/1122846"
+        },
+        {
+          "id": "767265",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "5757",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "902",
+            "coachId": "8142"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2012-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/767265"
+        },
+        {
+          "id": "710707",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "902",
+            "coachId": "4256"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "5757",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2012-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/710707"
+        },
+        {
+          "id": "2384982",
+          "transferSource": {
+            "competitionId": "SB19",
+            "countryId": 215,
+            "clubId": "19710",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "902",
+            "coachId": "8142"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2010-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/2384982"
+        },
+        {
+          "id": "2384983",
+          "transferSource": {
+            "competitionId": "SB17",
+            "countryId": 215,
+            "clubId": "66822",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SB19",
+            "countryId": 215,
+            "clubId": "19710",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2008-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/2384983"
+        },
+        {
+          "id": "2384984",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "67265",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SB17",
+            "countryId": 215,
+            "clubId": "66822",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "167075",
+            "date": "2007-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2007,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2007,
+              "display": "07/08",
+              "cyclicalName": "2008",
+              "nonCyclicalName": "07/08"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/2384984"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 33,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "45299",
+      "60816",
+      "709",
+      "30613",
+      "515",
+      "5223",
+      "434",
+      "669",
+      "902",
+      "5757",
+      "19710",
+      "66822",
+      "67265"
+    ],
+    "coachIds": [
+      "4121",
+      "22922",
+      "116659",
+      "13042",
+      "31346",
+      "5029",
+      "31717",
+      "17687",
+      "23004",
+      "3778",
+      "23817",
+      "8112",
+      "8142",
+      "4256"
+    ],
+    "competitionIds": [
+      "IND1",
+      "UN2",
+      "UNG1",
+      "ISR1",
+      "C1",
+      "SER1",
+      "SB19",
+      "SB17"
+    ],
+    "mostRecentTransfer": {
+      "id": "5250568",
+      "transferSource": {
+        "competitionId": "IND1",
+        "countryId": 67,
+        "clubId": "45299",
+        "coachId": "4121"
+      },
+      "transferDestination": {
+        "competitionId": "IND1",
+        "countryId": 67,
+        "clubId": "60816",
+        "coachId": "22922"
+      },
+      "details": {
+        "playerId": "167075",
+        "date": "2024-09-05T00:00:00+02:00",
+        "contractUntilDate": "2026-05-31T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 32,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/lazar-cirkovic/transfers/spieler/167075/transfer_id/5250568"
+    }
+  }
+}

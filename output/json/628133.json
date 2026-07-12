@@ -1,0 +1,599 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "628133",
+    "history": {
+      "terminated": [
+        {
+          "id": "5887939",
+          "transferSource": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "87631",
+            "coachId": "132464"
+          },
+          "transferDestination": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "70056",
+            "coachId": "100596"
+          },
+          "details": {
+            "playerId": "628133",
+            "date": "2025-08-20T00:00:00+02:00",
+            "contractUntilDate": "2026-11-30T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 102,
+              "daysDisplay": "3 Months, 10 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luther-archimede/transfers/spieler/628133/transfer_id/5887939"
+        },
+        {
+          "id": "4766394",
+          "transferSource": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "40835",
+            "coachId": "46870"
+          },
+          "transferDestination": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "87631",
+            "coachId": "3248"
+          },
+          "details": {
+            "playerId": "628133",
+            "date": "2023-12-12T00:00:00+01:00",
+            "contractUntilDate": "2025-11-30T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luther-archimede/transfers/spieler/628133/transfer_id/4766394"
+        },
+        {
+          "id": "3657280",
+          "transferSource": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "39815",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "40835",
+            "coachId": "46870"
+          },
+          "details": {
+            "playerId": "628133",
+            "date": "2021-12-15T00:00:00+01:00",
+            "contractUntilDate": "2023-11-30T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luther-archimede/transfers/spieler/628133/transfer_id/3657280"
+        },
+        {
+          "id": "3340089",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "39815",
+            "coachId": "18693"
+          },
+          "details": {
+            "playerId": "628133",
+            "date": "2021-04-19T00:00:00+02:00",
+            "contractUntilDate": "2021-11-30T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luther-archimede/transfers/spieler/628133/transfer_id/3340089"
+        },
+        {
+          "id": "3340088",
+          "transferSource": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "623",
+            "coachId": "5801"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "628133",
+            "date": "2021-03-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luther-archimede/transfers/spieler/628133/transfer_id/3340088"
+        },
+        {
+          "id": "3215208",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "36097",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "623",
+            "coachId": "5801"
+          },
+          "details": {
+            "playerId": "628133",
+            "date": "2021-01-21T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "draft",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luther-archimede/transfers/spieler/628133/transfer_id/3215208"
+        },
+        {
+          "id": "2718599",
+          "transferSource": {
+            "competitionId": "C3BF",
+            "countryId": 50,
+            "clubId": "10825",
+            "coachId": "65981"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "36097",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "628133",
+            "date": "2019-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luther-archimede/transfers/spieler/628133/transfer_id/2718599"
+        },
+        {
+          "id": "4739653",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "10826",
+            "coachId": "53855"
+          },
+          "transferDestination": {
+            "competitionId": "C3BF",
+            "countryId": 50,
+            "clubId": "10825",
+            "coachId": "19009"
+          },
+          "details": {
+            "playerId": "628133",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luther-archimede/transfers/spieler/628133/transfer_id/4739653"
+        },
+        {
+          "id": "4739652",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "15564",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "10826",
+            "coachId": "103853"
+          },
+          "details": {
+            "playerId": "628133",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luther-archimede/transfers/spieler/628133/transfer_id/4739652"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "87631",
+      "70056",
+      "40835",
+      "39815",
+      "515",
+      "623",
+      "36097",
+      "10825",
+      "10826",
+      "15564"
+    ],
+    "coachIds": [
+      "132464",
+      "100596",
+      "46870",
+      "3248",
+      "18693",
+      "5801",
+      "65981",
+      "53855",
+      "19009",
+      "103853"
+    ],
+    "competitionIds": [
+      "USL",
+      "MLS1",
+      "C3BF"
+    ],
+    "mostRecentTransfer": {
+      "id": "5887939",
+      "transferSource": {
+        "competitionId": "USL",
+        "countryId": 184,
+        "clubId": "87631",
+        "coachId": "132464"
+      },
+      "transferDestination": {
+        "competitionId": "USL",
+        "countryId": 184,
+        "clubId": "70056",
+        "coachId": "100596"
+      },
+      "details": {
+        "playerId": "628133",
+        "date": "2025-08-20T00:00:00+02:00",
+        "contractUntilDate": "2026-11-30T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 102,
+          "daysDisplay": "3 Months, 10 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/luther-archimede/transfers/spieler/628133/transfer_id/5887939"
+    }
+  }
+}

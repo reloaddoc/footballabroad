@@ -1,0 +1,654 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "775709",
+    "history": {
+      "terminated": [
+        {
+          "id": "5183603",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "18303",
+            "coachId": "67028"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "1064",
+            "coachId": "48521"
+          },
+          "details": {
+            "playerId": "775709",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 2500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "2.50",
+                "suffix": "M"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/5183603"
+        },
+        {
+          "id": "5183602",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "1064",
+            "coachId": "26280"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "18303",
+            "coachId": "63932"
+          },
+          "details": {
+            "playerId": "775709",
+            "date": "2024-08-09T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 1055,
+              "daysDisplay": "2 Years, 10 Months, 21 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/5183602"
+        },
+        {
+          "id": "5183601",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "18303",
+            "coachId": "63932"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "1064",
+            "coachId": "26280"
+          },
+          "details": {
+            "playerId": "775709",
+            "date": "2024-08-08T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 326,
+              "daysDisplay": "10 Months, 22 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/5183601"
+        },
+        {
+          "id": "3941846",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "35373"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "18303",
+            "coachId": "26565"
+          },
+          "details": {
+            "playerId": "775709",
+            "date": "2022-07-14T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/3941846"
+        },
+        {
+          "id": "3420090",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "18303",
+            "coachId": "26565"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "32157"
+          },
+          "details": {
+            "playerId": "775709",
+            "date": "2022-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/3420090"
+        },
+        {
+          "id": "3419697",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "32157"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "18303",
+            "coachId": "26565"
+          },
+          "details": {
+            "playerId": "775709",
+            "date": "2021-07-02T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/3419697"
+        },
+        {
+          "id": "3437833",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "8963",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "32157"
+          },
+          "details": {
+            "playerId": "775709",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/3437833"
+        },
+        {
+          "id": "3277326",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "31565",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "8963",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "775709",
+            "date": "2021-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/3277326"
+        },
+        {
+          "id": "3277325",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "8963",
+            "coachId": "31344"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "31565",
+            "coachId": "85118"
+          },
+          "details": {
+            "playerId": "775709",
+            "date": "2021-03-02T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/3277325"
+        },
+        {
+          "id": "3277328",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "14300",
+            "coachId": "63904"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "8963",
+            "coachId": "31344"
+          },
+          "details": {
+            "playerId": "775709",
+            "date": "2019-10-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/3277328"
+        },
+        {
+          "id": "3277327",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "66108",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "14300",
+            "coachId": "63904"
+          },
+          "details": {
+            "playerId": "775709",
+            "date": "2019-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/3277327"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 2500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "2.50",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "18303",
+      "1064",
+      "660",
+      "8963",
+      "31565",
+      "14300",
+      "66108"
+    ],
+    "coachIds": [
+      "67028",
+      "48521",
+      "26280",
+      "63932",
+      "35373",
+      "26565",
+      "32157",
+      "31344",
+      "85118",
+      "63904"
+    ],
+    "competitionIds": [
+      "UKR1",
+      "ISR1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5183603",
+      "transferSource": {
+        "competitionId": "UKR1",
+        "countryId": 177,
+        "clubId": "18303",
+        "coachId": "67028"
+      },
+      "transferDestination": {
+        "competitionId": "ISR1",
+        "countryId": 74,
+        "clubId": "1064",
+        "coachId": "48521"
+      },
+      "details": {
+        "playerId": "775709",
+        "date": "2025-06-30T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 2500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "2.50",
+            "suffix": "M"
+          }
+        },
+        "age": 23,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/georgiy-yermakov/transfers/spieler/775709/transfer_id/5183603"
+    }
+  }
+}

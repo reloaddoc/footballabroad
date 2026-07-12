@@ -1,0 +1,640 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "246420",
+    "history": {
+      "terminated": [
+        {
+          "id": "6101747",
+          "transferSource": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "45274",
+            "coachId": "116916"
+          },
+          "transferDestination": {
+            "competitionId": "IN1L",
+            "countryId": 68,
+            "clubId": "14108",
+            "coachId": "70259"
+          },
+          "details": {
+            "playerId": "246420",
+            "date": "2026-01-10T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 34,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 141,
+              "daysDisplay": "4 Months, 21 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tiri/transfers/spieler/246420/transfer_id/6101747"
+        },
+        {
+          "id": "4404584",
+          "transferSource": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "83266",
+            "coachId": "35601"
+          },
+          "transferDestination": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "45274",
+            "coachId": "51006"
+          },
+          "details": {
+            "playerId": "246420",
+            "date": "2023-07-06T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tiri/transfers/spieler/246420/transfer_id/4404584"
+        },
+        {
+          "id": "2911563",
+          "transferSource": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "60816",
+            "coachId": "4121"
+          },
+          "transferDestination": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "83266",
+            "coachId": "5941"
+          },
+          "details": {
+            "playerId": "246420",
+            "date": "2020-09-12T00:00:00+02:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 425000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "425.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tiri/transfers/spieler/246420/transfer_id/2911563"
+        },
+        {
+          "id": "1817640",
+          "transferSource": {
+            "competitionId": "ES3D",
+            "countryId": 157,
+            "clubId": "12361",
+            "coachId": "27400"
+          },
+          "transferDestination": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "60816",
+            "coachId": "676"
+          },
+          "details": {
+            "playerId": "246420",
+            "date": "2017-07-27T00:00:00+02:00",
+            "contractUntilDate": "2020-05-31T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tiri/transfers/spieler/246420/transfer_id/1817640"
+        },
+        {
+          "id": "1684573",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45278",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "ES3D",
+            "countryId": 157,
+            "clubId": "12361",
+            "coachId": "47218"
+          },
+          "details": {
+            "playerId": "246420",
+            "date": "2017-01-24T00:00:00+01:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tiri/transfers/spieler/246420/transfer_id/1684573"
+        },
+        {
+          "id": "1504278",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "3679",
+            "coachId": "29459"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45278",
+            "coachId": "19302"
+          },
+          "details": {
+            "playerId": "246420",
+            "date": "2016-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/tiri/transfers/spieler/246420/transfer_id/1504278"
+        },
+        {
+          "id": "1425882",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45278",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "3679",
+            "coachId": "29459"
+          },
+          "details": {
+            "playerId": "246420",
+            "date": "2016-02-01T00:00:00+01:00",
+            "contractUntilDate": "2016-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/tiri/transfers/spieler/246420/transfer_id/1425882"
+        },
+        {
+          "id": "1262590",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "3679",
+            "coachId": "29459"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45278",
+            "coachId": "5941"
+          },
+          "details": {
+            "playerId": "246420",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tiri/transfers/spieler/246420/transfer_id/1262590"
+        },
+        {
+          "id": "792364",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "11669",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "ES3A",
+            "countryId": 157,
+            "clubId": "3679",
+            "coachId": "24182"
+          },
+          "details": {
+            "playerId": "246420",
+            "date": "2012-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tiri/transfers/spieler/246420/transfer_id/792364"
+        },
+        {
+          "id": "825067",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "16075",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "11669",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "246420",
+            "date": "2009-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tiri/transfers/spieler/246420/transfer_id/825067"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 34,
+      "totalMarketValue": {
+        "value": 175000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "175.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "45274",
+      "14108",
+      "83266",
+      "60816",
+      "12361",
+      "45278",
+      "3679",
+      "11669",
+      "16075"
+    ],
+    "coachIds": [
+      "116916",
+      "70259",
+      "35601",
+      "51006",
+      "4121",
+      "5941",
+      "27400",
+      "676",
+      "47218",
+      "29459",
+      "19302",
+      "24182"
+    ],
+    "competitionIds": [
+      "IND1",
+      "IN1L",
+      "ES3D",
+      "ES3A"
+    ],
+    "mostRecentTransfer": {
+      "id": "6101747",
+      "transferSource": {
+        "competitionId": "IND1",
+        "countryId": 67,
+        "clubId": "45274",
+        "coachId": "116916"
+      },
+      "transferDestination": {
+        "competitionId": "IN1L",
+        "countryId": 68,
+        "clubId": "14108",
+        "coachId": "70259"
+      },
+      "details": {
+        "playerId": "246420",
+        "date": "2026-01-10T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 34,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 141,
+          "daysDisplay": "4 Months, 21 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/tiri/transfers/spieler/246420/transfer_id/6101747"
+    }
+  }
+}

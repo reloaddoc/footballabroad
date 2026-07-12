@@ -1,0 +1,688 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "373226",
+    "history": {
+      "terminated": [
+        {
+          "id": "6063739",
+          "transferSource": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "69752",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "8047",
+            "coachId": "7316"
+          },
+          "details": {
+            "playerId": "373226",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/6063739"
+        },
+        {
+          "id": "4854333",
+          "transferSource": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "16198",
+            "coachId": "43172"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "69752",
+            "coachId": "52773"
+          },
+          "details": {
+            "playerId": "373226",
+            "date": "2024-02-06T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/4854333"
+        },
+        {
+          "id": "3751427",
+          "transferSource": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "710",
+            "coachId": "34952"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "16198",
+            "coachId": "79239"
+          },
+          "details": {
+            "playerId": "373226",
+            "date": "2022-02-28T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 122,
+              "daysDisplay": "4 Months, 2 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/3751427"
+        },
+        {
+          "id": "3300640",
+          "transferSource": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "49149",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "710",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "373226",
+            "date": "2021-12-31T00:00:00+01:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/3300640"
+        },
+        {
+          "id": "3238083",
+          "transferSource": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "710",
+            "coachId": "58095"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "49149",
+            "coachId": "69154"
+          },
+          "details": {
+            "playerId": "373226",
+            "date": "2021-02-01T00:00:00+01:00",
+            "contractUntilDate": "2021-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 698,
+              "daysDisplay": "1 Year, 10 Months, 30 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/3238083"
+        },
+        {
+          "id": "3083772",
+          "transferSource": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "17836",
+            "coachId": "88579"
+          },
+          "transferDestination": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "710",
+            "coachId": "58095"
+          },
+          "details": {
+            "playerId": "373226",
+            "date": "2021-01-15T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/3083772"
+        },
+        {
+          "id": "3083771",
+          "transferSource": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "710",
+            "coachId": "15783"
+          },
+          "transferDestination": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "17836",
+            "coachId": "36719"
+          },
+          "details": {
+            "playerId": "373226",
+            "date": "2020-10-01T00:00:00+02:00",
+            "contractUntilDate": "2021-01-15T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 637,
+              "daysDisplay": "1 Year, 8 Months, 29 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/3083771"
+        },
+        {
+          "id": "2743697",
+          "transferSource": {
+            "competitionId": "EST2",
+            "countryId": 47,
+            "clubId": "31214",
+            "coachId": "17592"
+          },
+          "transferDestination": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "710",
+            "coachId": "15783"
+          },
+          "details": {
+            "playerId": "373226",
+            "date": "2020-01-15T00:00:00+01:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/2743697"
+        },
+        {
+          "id": "2584012",
+          "transferSource": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "43957",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "EST1",
+            "countryId": 47,
+            "clubId": "31214",
+            "coachId": "12836"
+          },
+          "details": {
+            "playerId": "373226",
+            "date": "2019-07-31T00:00:00+02:00",
+            "contractUntilDate": "2019-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/2584012"
+        },
+        {
+          "id": "2189244",
+          "transferSource": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "8047",
+            "coachId": "14517"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "43957",
+            "coachId": "1856"
+          },
+          "details": {
+            "playerId": "373226",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/2189244"
+        },
+        {
+          "id": "3031950",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 98,
+            "clubId": "82115",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "8047",
+            "coachId": "39104"
+          },
+          "details": {
+            "playerId": "373226",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/3031950"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "69752",
+      "8047",
+      "16198",
+      "710",
+      "49149",
+      "17836",
+      "31214",
+      "43957",
+      "82115"
+    ],
+    "coachIds": [
+      "7316",
+      "43172",
+      "52773",
+      "34952",
+      "79239",
+      "58095",
+      "69154",
+      "88579",
+      "15783",
+      "36719",
+      "17592",
+      "12836",
+      "14517",
+      "1856",
+      "39104"
+    ],
+    "competitionIds": [
+      "LI1",
+      "KAS1",
+      "SL1",
+      "SL2",
+      "EST2",
+      "EST1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6063739",
+      "transferSource": {
+        "competitionId": "LI1",
+        "countryId": 98,
+        "clubId": "69752",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "LI1",
+        "countryId": 98,
+        "clubId": "8047",
+        "coachId": "7316"
+      },
+      "details": {
+        "playerId": "373226",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 450000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "450.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/domantas-antanavicius/transfers/spieler/373226/transfer_id/6063739"
+    }
+  }
+}

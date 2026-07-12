@@ -1,0 +1,969 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "321222",
+    "history": {
+      "terminated": [
+        {
+          "id": "5416928",
+          "transferSource": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "38898",
+            "coachId": "65826"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "55651",
+            "coachId": "85107"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2025-02-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/5416928"
+        },
+        {
+          "id": "5088051",
+          "transferSource": {
+            "competitionId": "MT1P",
+            "countryId": 106,
+            "clubId": "32129",
+            "coachId": "50975"
+          },
+          "transferDestination": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "38898",
+            "coachId": "65826"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/5088051"
+        },
+        {
+          "id": "4813820",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22171",
+            "coachId": "2070"
+          },
+          "transferDestination": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "32129",
+            "coachId": "21600"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2024-01-11T00:00:00+01:00",
+            "contractUntilDate": "2024-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 20,
+              "daysDisplay": "20 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/4813820"
+        },
+        {
+          "id": "3665226",
+          "transferSource": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "46292",
+            "coachId": "65415"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22171",
+            "coachId": "32802"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2022-01-09T00:00:00+01:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/3665226"
+        },
+        {
+          "id": "3277785",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "46292",
+            "coachId": "65415"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2021-03-03T00:00:00+01:00",
+            "contractUntilDate": "2021-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 275000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "275.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/3277785"
+        },
+        {
+          "id": "3192522",
+          "transferSource": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "3301",
+            "coachId": "30815"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2021-01-06T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 275000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "275.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/3192522"
+        },
+        {
+          "id": "2186939",
+          "transferSource": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "57665"
+          },
+          "transferDestination": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "3301",
+            "coachId": "20836"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2018-07-10T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/2186939"
+        },
+        {
+          "id": "1884107",
+          "transferSource": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "76180",
+            "coachId": "57667"
+          },
+          "transferDestination": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "57665"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2018-07-05T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/1884107"
+        },
+        {
+          "id": "1853267",
+          "transferSource": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "55758"
+          },
+          "transferDestination": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "76180",
+            "coachId": "55438"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2017-01-01T00:00:00+01:00",
+            "contractUntilDate": "2018-07-05T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/1853267"
+        },
+        {
+          "id": "1853266",
+          "transferSource": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "16696",
+            "coachId": "22487"
+          },
+          "transferDestination": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "65429"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/1853266"
+        },
+        {
+          "id": "1853265",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "70716",
+            "coachId": "65767"
+          },
+          "transferDestination": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "16696",
+            "coachId": "33707"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2014-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/1853265"
+        },
+        {
+          "id": "3192523",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "86888",
+            "coachId": "87897"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "70716",
+            "coachId": "65767"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2013-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/3192523"
+        },
+        {
+          "id": "3277786",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "88245",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "86888",
+            "coachId": "87897"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2010-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/3277786"
+        },
+        {
+          "id": "5416946",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "95813",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "88245",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2009-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/5416946"
+        },
+        {
+          "id": "5416945",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "95329",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "95813",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2008-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2007,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2007,
+              "display": "07/08",
+              "cyclicalName": "2008",
+              "nonCyclicalName": "07/08"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/5416945"
+        },
+        {
+          "id": "5416944",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "24067",
+            "coachId": "83968"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "95329",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "321222",
+            "date": "2007-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2006,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 12,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2006,
+              "display": "06/07",
+              "cyclicalName": "2007",
+              "nonCyclicalName": "06/07"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/5416944"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 32,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "38898",
+      "55651",
+      "32129",
+      "22171",
+      "46292",
+      "515",
+      "3301",
+      "6499",
+      "76180",
+      "16696",
+      "70716",
+      "86888",
+      "88245",
+      "95813",
+      "95329",
+      "24067"
+    ],
+    "coachIds": [
+      "65826",
+      "85107",
+      "50975",
+      "2070",
+      "21600",
+      "65415",
+      "32802",
+      "30815",
+      "57665",
+      "20836",
+      "57667",
+      "55758",
+      "55438",
+      "22487",
+      "65429",
+      "65767",
+      "33707",
+      "87897",
+      "83968"
+    ],
+    "competitionIds": [
+      "RSK1",
+      "MT1P",
+      "RSK2",
+      "JAP2",
+      "MAL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5416928",
+      "transferSource": {
+        "competitionId": "RSK1",
+        "countryId": 87,
+        "clubId": "38898",
+        "coachId": "65826"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 12,
+        "clubId": "55651",
+        "coachId": "85107"
+      },
+      "details": {
+        "playerId": "321222",
+        "date": "2025-02-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 30,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/eui-gwon-han/transfers/spieler/321222/transfer_id/5416928"
+    }
+  }
+}

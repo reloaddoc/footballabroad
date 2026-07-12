@@ -1,0 +1,720 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "87296",
+    "history": {
+      "terminated": [
+        {
+          "id": "6072580",
+          "transferSource": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "14320",
+            "coachId": "55365"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "21774",
+            "coachId": "63831"
+          },
+          "details": {
+            "playerId": "87296",
+            "date": "2026-01-14T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 37,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 167,
+              "daysDisplay": "5 Months, 16 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/6072580"
+        },
+        {
+          "id": "4412268",
+          "transferSource": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "4644",
+            "coachId": "5540"
+          },
+          "transferDestination": {
+            "competitionId": "SIN1",
+            "countryId": 153,
+            "clubId": "14320",
+            "coachId": "13257"
+          },
+          "details": {
+            "playerId": "87296",
+            "date": "2023-06-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 34,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/4412268"
+        },
+        {
+          "id": "2979604",
+          "transferSource": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "32129",
+            "coachId": "11169"
+          },
+          "transferDestination": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "4644",
+            "coachId": "77514"
+          },
+          "details": {
+            "playerId": "87296",
+            "date": "2020-07-20T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/2979604"
+        },
+        {
+          "id": "2507794",
+          "transferSource": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "10262",
+            "coachId": "7205"
+          },
+          "transferDestination": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "32129",
+            "coachId": "26967"
+          },
+          "details": {
+            "playerId": "87296",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/2507794"
+        },
+        {
+          "id": "1979806",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "10262",
+            "coachId": "7244"
+          },
+          "details": {
+            "playerId": "87296",
+            "date": "2017-12-21T00:00:00+01:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/1979806"
+        },
+        {
+          "id": "1926315",
+          "transferSource": {
+            "competitionId": "HGKG",
+            "countryId": 218,
+            "clubId": "24896",
+            "coachId": "36623"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "87296",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/1926315"
+        },
+        {
+          "id": "1251153",
+          "transferSource": {
+            "competitionId": "RO1",
+            "countryId": 140,
+            "clubId": "312",
+            "coachId": "4796"
+          },
+          "transferDestination": {
+            "competitionId": "HGKG",
+            "countryId": 218,
+            "clubId": "24896",
+            "coachId": "21111"
+          },
+          "details": {
+            "playerId": "87296",
+            "date": "2015-07-28T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/1251153"
+        },
+        {
+          "id": "1184448",
+          "transferSource": {
+            "competitionId": "BU1",
+            "countryId": 28,
+            "clubId": "156",
+            "coachId": "12485"
+          },
+          "transferDestination": {
+            "competitionId": "RO1",
+            "countryId": 140,
+            "clubId": "312",
+            "coachId": "13737"
+          },
+          "details": {
+            "playerId": "87296",
+            "date": "2015-02-02T00:00:00+01:00",
+            "contractUntilDate": "2015-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/1184448"
+        },
+        {
+          "id": "1068207",
+          "transferSource": {
+            "competitionId": "RO1",
+            "countryId": 140,
+            "clubId": "312",
+            "coachId": "22654"
+          },
+          "transferDestination": {
+            "competitionId": "BU1",
+            "countryId": 28,
+            "clubId": "156",
+            "coachId": "3030"
+          },
+          "details": {
+            "playerId": "87296",
+            "date": "2014-07-15T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/1068207"
+        },
+        {
+          "id": "449212",
+          "transferSource": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "4641",
+            "coachId": "6107"
+          },
+          "transferDestination": {
+            "competitionId": "RO1",
+            "countryId": 140,
+            "clubId": "312",
+            "coachId": "2598"
+          },
+          "details": {
+            "playerId": "87296",
+            "date": "2010-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/449212"
+        },
+        {
+          "id": "990237",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "19993",
+            "coachId": "35706"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "4641",
+            "coachId": "6988"
+          },
+          "details": {
+            "playerId": "87296",
+            "date": "2008-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/990237"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 37,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "14320",
+      "21774",
+      "4644",
+      "32129",
+      "10262",
+      "515",
+      "24896",
+      "312",
+      "156",
+      "4641",
+      "19993"
+    ],
+    "coachIds": [
+      "55365",
+      "63831",
+      "5540",
+      "13257",
+      "11169",
+      "77514",
+      "7205",
+      "26967",
+      "7244",
+      "36623",
+      "4796",
+      "21111",
+      "12485",
+      "13737",
+      "22654",
+      "3030",
+      "6107",
+      "2598",
+      "35706",
+      "6988"
+    ],
+    "competitionIds": [
+      "MYS1",
+      "MAZ1",
+      "SIN1",
+      "MAL1",
+      "HGKG",
+      "RO1",
+      "BU1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6072580",
+      "transferSource": {
+        "competitionId": "MYS1",
+        "countryId": 103,
+        "clubId": "14320",
+        "coachId": "55365"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 100,
+        "clubId": "21774",
+        "coachId": "63831"
+      },
+      "details": {
+        "playerId": "87296",
+        "date": "2026-01-14T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 37,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 167,
+          "daysDisplay": "5 Months, 16 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kristijan-naumovski/transfers/spieler/87296/transfer_id/6072580"
+    }
+  }
+}

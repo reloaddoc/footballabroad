@@ -1,0 +1,258 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1073811",
+    "history": {
+      "terminated": [
+        {
+          "id": "4921800",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 10,
+            "clubId": "98051",
+            "coachId": "26251"
+          },
+          "transferDestination": {
+            "competitionId": "ARM2",
+            "countryId": 10,
+            "clubId": "110709",
+            "coachId": "119067"
+          },
+          "details": {
+            "playerId": "1073811",
+            "date": "2024-03-04T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/anass-oublal/transfers/spieler/1073811/transfer_id/4921800"
+        },
+        {
+          "id": "4706863",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 107,
+            "clubId": "22936",
+            "coachId": "119873"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 10,
+            "clubId": "98051",
+            "coachId": "26251"
+          },
+          "details": {
+            "playerId": "1073811",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/anass-oublal/transfers/spieler/1073811/transfer_id/4706863"
+        },
+        {
+          "id": "4134336",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 107,
+            "clubId": "99502",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 107,
+            "clubId": "22936",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1073811",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/anass-oublal/transfers/spieler/1073811/transfer_id/4134336"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "98051",
+      "110709",
+      "22936",
+      "99502"
+    ],
+    "coachIds": [
+      "26251",
+      "119067",
+      "119873"
+    ],
+    "competitionIds": [
+      "ARM2"
+    ],
+    "mostRecentTransfer": {
+      "id": "4921800",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 10,
+        "clubId": "98051",
+        "coachId": "26251"
+      },
+      "transferDestination": {
+        "competitionId": "ARM2",
+        "countryId": 10,
+        "clubId": "110709",
+        "coachId": "119067"
+      },
+      "details": {
+        "playerId": "1073811",
+        "date": "2024-03-04T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/anass-oublal/transfers/spieler/1073811/transfer_id/4921800"
+    }
+  }
+}

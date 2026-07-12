@@ -1,0 +1,149 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "895360",
+    "history": {
+      "terminated": [
+        {
+          "id": "4169584",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "24161",
+            "coachId": "92650"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "23575",
+            "coachId": "17273"
+          },
+          "details": {
+            "playerId": "895360",
+            "date": "2023-02-01T00:00:00+01:00",
+            "contractUntilDate": "2026-01-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/seung-jin-koh/transfers/spieler/895360/transfer_id/4169584"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "24161",
+      "23575"
+    ],
+    "coachIds": [
+      "92650",
+      "17273"
+    ],
+    "competitionIds": [
+      "JAP3"
+    ],
+    "mostRecentTransfer": {
+      "id": "4169584",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 77,
+        "clubId": "24161",
+        "coachId": "92650"
+      },
+      "transferDestination": {
+        "competitionId": "JAP3",
+        "countryId": 77,
+        "clubId": "23575",
+        "coachId": "17273"
+      },
+      "details": {
+        "playerId": "895360",
+        "date": "2023-02-01T00:00:00+01:00",
+        "contractUntilDate": "2026-01-31T00:00:00+01:00",
+        "seasonId": 2022,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2022,
+          "display": "22/23",
+          "cyclicalName": "2023",
+          "nonCyclicalName": "22/23"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/seung-jin-koh/transfers/spieler/895360/transfer_id/4169584"
+    }
+  }
+}

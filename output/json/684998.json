@@ -1,0 +1,518 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "684998",
+    "history": {
+      "terminated": [
+        {
+          "id": "5160934",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "159",
+            "coachId": "4550"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "2976",
+            "coachId": "96723"
+          },
+          "details": {
+            "playerId": "684998",
+            "date": "2024-07-30T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 1500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.50",
+                "suffix": "M"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 700,
+              "daysDisplay": "1 Year, 11 Months"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kings-kangwa/transfers/spieler/684998/transfer_id/5160934"
+        },
+        {
+          "id": "4864798",
+          "transferSource": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "601",
+            "coachId": "62436"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "159",
+            "coachId": "4550"
+          },
+          "details": {
+            "playerId": "684998",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 1500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.50",
+                "suffix": "M"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kings-kangwa/transfers/spieler/684998/transfer_id/4864798"
+        },
+        {
+          "id": "4864797",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "159",
+            "coachId": "4550"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "601",
+            "coachId": "62436"
+          },
+          "details": {
+            "playerId": "684998",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 1500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.50",
+                "suffix": "M"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 880,
+              "daysDisplay": "2 Years, 4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kings-kangwa/transfers/spieler/684998/transfer_id/4864797"
+        },
+        {
+          "id": "3865578",
+          "transferSource": {
+            "competitionId": "RU2",
+            "countryId": 141,
+            "clubId": "3729",
+            "coachId": "6599"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "159",
+            "coachId": "35560"
+          },
+          "details": {
+            "playerId": "684998",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 1200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.20",
+                "suffix": "M"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": 1500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.50",
+                "suffix": "M"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kings-kangwa/transfers/spieler/684998/transfer_id/3865578"
+        },
+        {
+          "id": "2548917",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "59409",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RU1",
+            "countryId": 141,
+            "clubId": "3729",
+            "coachId": "36710"
+          },
+          "details": {
+            "playerId": "684998",
+            "date": "2019-07-10T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kings-kangwa/transfers/spieler/684998/transfer_id/2548917"
+        },
+        {
+          "id": "2549325",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "75857",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "59409",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "684998",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kings-kangwa/transfers/spieler/684998/transfer_id/2549325"
+        },
+        {
+          "id": "5160936",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 74,
+            "clubId": "36027",
+            "coachId": "22522"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "75857",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "684998",
+            "date": "2018-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kings-kangwa/transfers/spieler/684998/transfer_id/5160936"
+        },
+        {
+          "id": "5160935",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "75857",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 74,
+            "clubId": "36027",
+            "coachId": "22522"
+          },
+          "details": {
+            "playerId": "684998",
+            "date": "2017-11-23T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kings-kangwa/transfers/spieler/684998/transfer_id/5160935"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 2550000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "2.55",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 3800000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "3.80",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "159",
+      "2976",
+      "601",
+      "3729",
+      "59409",
+      "75857",
+      "36027"
+    ],
+    "coachIds": [
+      "4550",
+      "96723",
+      "62436",
+      "6599",
+      "35560",
+      "36710",
+      "22522"
+    ],
+    "competitionIds": [
+      "SER1",
+      "ISR1",
+      "BE1",
+      "RU2",
+      "RU1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5160934",
+      "transferSource": {
+        "competitionId": "SER1",
+        "countryId": 215,
+        "clubId": "159",
+        "coachId": "4550"
+      },
+      "transferDestination": {
+        "competitionId": "ISR1",
+        "countryId": 74,
+        "clubId": "2976",
+        "coachId": "96723"
+      },
+      "details": {
+        "playerId": "684998",
+        "date": "2024-07-30T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 1500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "1.50",
+            "suffix": "M"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": 800000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "800.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 700,
+          "daysDisplay": "1 Year, 11 Months"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kings-kangwa/transfers/spieler/684998/transfer_id/5160934"
+    }
+  }
+}

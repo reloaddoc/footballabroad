@@ -1,0 +1,972 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "91968",
+    "history": {
+      "terminated": [
+        {
+          "id": "5475471",
+          "transferSource": {
+            "competitionId": "KAS2",
+            "countryId": 81,
+            "clubId": "10480",
+            "coachId": "53698"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 34,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/5475471"
+        },
+        {
+          "id": "3717410",
+          "transferSource": {
+            "competitionId": "CL2B",
+            "countryId": 33,
+            "clubId": "32073",
+            "coachId": "89477"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10480",
+            "coachId": "17565"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2022-01-28T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/3717410"
+        },
+        {
+          "id": "3345351",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CL2B",
+            "countryId": 33,
+            "clubId": "32073",
+            "coachId": "84908"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2021-04-21T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/3345351"
+        },
+        {
+          "id": "2537049",
+          "transferSource": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10540",
+            "coachId": "8112"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 183,
+              "daysDisplay": "5 Months, 30 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/2537049"
+        },
+        {
+          "id": "2379267",
+          "transferSource": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "10695",
+            "coachId": "7989"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10540",
+            "coachId": "7676"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2019-01-23T00:00:00+01:00",
+            "contractUntilDate": "2019-12-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/2379267"
+        },
+        {
+          "id": "2037898",
+          "transferSource": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "16779",
+            "coachId": "29454"
+          },
+          "transferDestination": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "10695",
+            "coachId": "5127"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2018-02-17T00:00:00+01:00",
+            "contractUntilDate": "2018-12-31T00:00:00+01:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 1700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.70",
+                "suffix": "M"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/2037898"
+        },
+        {
+          "id": "1848261",
+          "transferSource": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "22220",
+            "coachId": "2934"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "16779",
+            "coachId": "20102"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2017-07-21T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 2000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "2.00",
+                "suffix": "M"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 528,
+              "daysDisplay": "1 Year, 5 Months, 10 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/1848261"
+        },
+        {
+          "id": "1689885",
+          "transferSource": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "2784",
+            "coachId": "2285"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "22220",
+            "coachId": "2934"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2017-06-30T00:00:00+02:00",
+            "contractUntilDate": "2018-12-31T00:00:00+01:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 2000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "2.00",
+                "suffix": "M"
+              }
+            },
+            "age": 27,
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/1689885"
+        },
+        {
+          "id": "1689884",
+          "transferSource": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "22220",
+            "coachId": "2934"
+          },
+          "transferDestination": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "2784",
+            "coachId": "36659"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2017-01-30T00:00:00+01:00",
+            "contractUntilDate": "2017-05-31T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 2000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "2.00",
+                "suffix": "M"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 700,
+              "daysDisplay": "1 Year, 11 Months, 1 Day"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/1689884"
+        },
+        {
+          "id": "1013539",
+          "transferSource": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10480",
+            "coachId": "19926"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "22220",
+            "coachId": "29920"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2014-02-01T00:00:00+01:00",
+            "contractUntilDate": "2018-12-31T00:00:00+01:00",
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/1013539"
+        },
+        {
+          "id": "682667",
+          "transferSource": {
+            "competitionId": "RU2",
+            "countryId": 141,
+            "clubId": "10688",
+            "coachId": "3665"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10480",
+            "coachId": "19926"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2012-02-08T00:00:00+01:00",
+            "contractUntilDate": "2013-12-31T00:00:00+01:00",
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 327,
+              "daysDisplay": "10 Months, 23 Days"
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/682667"
+        },
+        {
+          "id": "629279",
+          "transferSource": {
+            "competitionId": "PL1",
+            "countryId": 135,
+            "clubId": "2300",
+            "coachId": "22650"
+          },
+          "transferDestination": {
+            "competitionId": "RU2",
+            "countryId": 141,
+            "clubId": "10688",
+            "coachId": "3665"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2012-02-07T00:00:00+01:00",
+            "contractUntilDate": "2012-12-31T00:00:00+01:00",
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 144,
+              "daysDisplay": "4 Months, 23 Days"
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/629279"
+        },
+        {
+          "id": "629324",
+          "transferSource": {
+            "competitionId": "RU2",
+            "countryId": 141,
+            "clubId": "10688",
+            "coachId": "19374"
+          },
+          "transferDestination": {
+            "competitionId": "PL1",
+            "countryId": 135,
+            "clubId": "2300",
+            "coachId": "2472"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2011-08-31T00:00:00+02:00",
+            "contractUntilDate": "2012-06-30T00:00:00+02:00",
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 488,
+              "daysDisplay": "1 Year, 4 Months"
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/629324"
+        },
+        {
+          "id": "457933",
+          "transferSource": {
+            "competitionId": "LET1",
+            "countryId": 92,
+            "clubId": "25233",
+            "coachId": "91794"
+          },
+          "transferDestination": {
+            "competitionId": "RU2",
+            "countryId": 141,
+            "clubId": "10688",
+            "coachId": "8790"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2010-07-28T00:00:00+02:00",
+            "contractUntilDate": "2012-12-31T00:00:00+01:00",
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/457933"
+        },
+        {
+          "id": "417214",
+          "transferSource": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "10794"
+          },
+          "transferDestination": {
+            "competitionId": "LET1",
+            "countryId": 92,
+            "clubId": "25233",
+            "coachId": "20106"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2010-03-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/417214"
+        },
+        {
+          "id": "417213",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 83,
+            "clubId": "16811",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "91968",
+            "date": "2008-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2007,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2007,
+              "display": "07/08",
+              "cyclicalName": "2008",
+              "nonCyclicalName": "07/08"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/417213"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 36,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "10480",
+      "515",
+      "32073",
+      "10540",
+      "10695",
+      "16779",
+      "22220",
+      "2784",
+      "10688",
+      "2300",
+      "25233",
+      "10093",
+      "16811"
+    ],
+    "coachIds": [
+      "53698",
+      "89477",
+      "17565",
+      "84908",
+      "8112",
+      "7989",
+      "7676",
+      "29454",
+      "5127",
+      "2934",
+      "20102",
+      "2285",
+      "36659",
+      "19926",
+      "29920",
+      "3665",
+      "22650",
+      "19374",
+      "2472",
+      "91794",
+      "8790",
+      "10794",
+      "20106"
+    ],
+    "competitionIds": [
+      "KAS2",
+      "CL2B",
+      "KAS1",
+      "WER1",
+      "ZYP1",
+      "RU2",
+      "PL1",
+      "LET1",
+      "COL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5475471",
+      "transferSource": {
+        "competitionId": "KAS2",
+        "countryId": 81,
+        "clubId": "10480",
+        "coachId": "53698"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "91968",
+        "date": "2025-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 34,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/roger-canas/transfers/spieler/91968/transfer_id/5475471"
+    }
+  }
+}

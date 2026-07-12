@@ -1,0 +1,204 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1268859",
+    "history": {
+      "terminated": [
+        {
+          "id": "5873952",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 153,
+            "clubId": "87970",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SIN1",
+            "countryId": 153,
+            "clubId": "24991",
+            "coachId": "25799"
+          },
+          "details": {
+            "playerId": "1268859",
+            "date": "2025-08-18T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yanir-ben-eliezer/transfers/spieler/1268859/transfer_id/5873952"
+        },
+        {
+          "id": "5039857",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 153,
+            "clubId": "105878",
+            "coachId": "113733"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 153,
+            "clubId": "87970",
+            "coachId": "107245"
+          },
+          "details": {
+            "playerId": "1268859",
+            "date": "2024-04-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yanir-ben-eliezer/transfers/spieler/1268859/transfer_id/5039857"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "87970",
+      "24991",
+      "105878"
+    ],
+    "coachIds": [
+      "25799",
+      "113733",
+      "107245"
+    ],
+    "competitionIds": [
+      "SIN1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5873952",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 153,
+        "clubId": "87970",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "SIN1",
+        "countryId": 153,
+        "clubId": "24991",
+        "coachId": "25799"
+      },
+      "details": {
+        "playerId": "1268859",
+        "date": "2025-08-18T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/yanir-ben-eliezer/transfers/spieler/1268859/transfer_id/5873952"
+    }
+  }
+}

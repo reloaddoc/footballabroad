@@ -1,0 +1,484 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "699251",
+    "history": {
+      "terminated": [
+        {
+          "id": "6104278",
+          "transferSource": {
+            "competitionId": "TDeC",
+            "countryId": 133,
+            "clubId": "21170",
+            "coachId": "24228"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "699251",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/farid-romero/transfers/spieler/699251/transfer_id/6104278"
+        },
+        {
+          "id": "5391477",
+          "transferSource": {
+            "competitionId": "MT1P",
+            "countryId": 106,
+            "clubId": "32768",
+            "coachId": "16908"
+          },
+          "transferDestination": {
+            "competitionId": "TDeC",
+            "countryId": 133,
+            "clubId": "21170",
+            "coachId": "2548"
+          },
+          "details": {
+            "playerId": "699251",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 149,
+              "daysDisplay": "4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/farid-romero/transfers/spieler/699251/transfer_id/5391477"
+        },
+        {
+          "id": "4462503",
+          "transferSource": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "37647",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "32768",
+            "coachId": "26801"
+          },
+          "details": {
+            "playerId": "699251",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-05-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/farid-romero/transfers/spieler/699251/transfer_id/4462503"
+        },
+        {
+          "id": "3501272",
+          "transferSource": {
+            "competitionId": "MAL2",
+            "countryId": 106,
+            "clubId": "32130",
+            "coachId": "72951"
+          },
+          "transferDestination": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "37647",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "699251",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/farid-romero/transfers/spieler/699251/transfer_id/3501272"
+        },
+        {
+          "id": "3057855",
+          "transferSource": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "37653",
+            "coachId": "21600"
+          },
+          "transferDestination": {
+            "competitionId": "MAL2",
+            "countryId": 106,
+            "clubId": "32130",
+            "coachId": "72951"
+          },
+          "details": {
+            "playerId": "699251",
+            "date": "2020-09-12T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/farid-romero/transfers/spieler/699251/transfer_id/3057855"
+        },
+        {
+          "id": "2619970",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "76292",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "37653",
+            "coachId": "21600"
+          },
+          "details": {
+            "playerId": "699251",
+            "date": "2019-08-12T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/farid-romero/transfers/spieler/699251/transfer_id/2619970"
+        },
+        {
+          "id": "2619971",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "39181",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "76292",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "699251",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/farid-romero/transfers/spieler/699251/transfer_id/2619971"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "21170",
+      "515",
+      "32768",
+      "37647",
+      "32130",
+      "37653",
+      "76292",
+      "39181"
+    ],
+    "coachIds": [
+      "24228",
+      "16908",
+      "2548",
+      "26801",
+      "72951",
+      "21600"
+    ],
+    "competitionIds": [
+      "TDeC",
+      "MT1P",
+      "MAL1",
+      "MAL2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6104278",
+      "transferSource": {
+        "competitionId": "TDeC",
+        "countryId": 133,
+        "clubId": "21170",
+        "coachId": "24228"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "699251",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/farid-romero/transfers/spieler/699251/transfer_id/6104278"
+    }
+  }
+}

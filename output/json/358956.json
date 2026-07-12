@@ -1,0 +1,815 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "358956",
+    "history": {
+      "terminated": [
+        {
+          "id": "6137074",
+          "transferSource": {
+            "competitionId": "UZ1",
+            "countryId": 180,
+            "clubId": "15300",
+            "coachId": "17342"
+          },
+          "transferDestination": {
+            "competitionId": "UZ1",
+            "countryId": 180,
+            "clubId": "15309",
+            "coachId": "119483"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 34,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/6137074"
+        },
+        {
+          "id": "5434549",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 180,
+            "clubId": "20117",
+            "coachId": "130848"
+          },
+          "transferDestination": {
+            "competitionId": "UZ1",
+            "countryId": 180,
+            "clubId": "15300",
+            "coachId": "17342"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2025-01-20T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 33,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/5434549"
+        },
+        {
+          "id": "5101503",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "26459",
+            "coachId": "91686"
+          },
+          "transferDestination": {
+            "competitionId": "UZ1",
+            "countryId": 180,
+            "clubId": "20117",
+            "coachId": "47010"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2024-07-31T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/5101503"
+        },
+        {
+          "id": "4468716",
+          "transferSource": {
+            "competitionId": "UKR2",
+            "countryId": 177,
+            "clubId": "49364",
+            "coachId": "100266"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "26459",
+            "coachId": "37865"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/4468716"
+        },
+        {
+          "id": "3758698",
+          "transferSource": {
+            "competitionId": "UKR2",
+            "countryId": 177,
+            "clubId": "4482",
+            "coachId": "56231"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "49364",
+            "coachId": "37865"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2022-02-22T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 128,
+              "daysDisplay": "4 Months, 8 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/3758698"
+        },
+        {
+          "id": "3477173",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "49364",
+            "coachId": "37865"
+          },
+          "transferDestination": {
+            "competitionId": "UKR2",
+            "countryId": 177,
+            "clubId": "4482",
+            "coachId": "56231"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2021-09-02T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/3477173"
+        },
+        {
+          "id": "1894222",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "8838",
+            "coachId": "50686"
+          },
+          "transferDestination": {
+            "competitionId": "UKR2",
+            "countryId": 177,
+            "clubId": "49364",
+            "coachId": "37865"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2017-08-23T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/1894222"
+        },
+        {
+          "id": "1207210",
+          "transferSource": {
+            "competitionId": "MOL1",
+            "countryId": 112,
+            "clubId": "36136",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "UKR2",
+            "countryId": 177,
+            "clubId": "8838",
+            "coachId": "37865"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2015-02-18T00:00:00+01:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/1207210"
+        },
+        {
+          "id": "1813172",
+          "transferSource": {
+            "competitionId": "MOL1",
+            "countryId": 112,
+            "clubId": "31277",
+            "coachId": "22666"
+          },
+          "transferDestination": {
+            "competitionId": "MOL1",
+            "countryId": 112,
+            "clubId": "36136",
+            "coachId": "19523"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/1813172"
+        },
+        {
+          "id": "3511361",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 112,
+            "clubId": "18477",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MOL1",
+            "countryId": 112,
+            "clubId": "31277",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/3511361"
+        },
+        {
+          "id": "3511360",
+          "transferSource": {
+            "competitionId": "UA3L",
+            "countryId": 177,
+            "clubId": "32036",
+            "coachId": "25786"
+          },
+          "transferDestination": {
+            "competitionId": "MOL1",
+            "countryId": 112,
+            "clubId": "18477",
+            "coachId": "19523"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2012-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/3511360"
+        },
+        {
+          "id": "3511359",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "40100",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "UA3L",
+            "countryId": 177,
+            "clubId": "32036",
+            "coachId": "25786"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2011-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/3511359"
+        },
+        {
+          "id": "3511358",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "34194",
+            "coachId": "94384"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "40100",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "358956",
+            "date": "2011-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/3511358"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 34,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "15300",
+      "15309",
+      "20117",
+      "26459",
+      "49364",
+      "4482",
+      "8838",
+      "36136",
+      "31277",
+      "18477",
+      "32036",
+      "40100",
+      "34194"
+    ],
+    "coachIds": [
+      "17342",
+      "119483",
+      "130848",
+      "91686",
+      "47010",
+      "100266",
+      "37865",
+      "56231",
+      "50686",
+      "22666",
+      "19523",
+      "25786",
+      "94384"
+    ],
+    "competitionIds": [
+      "UZ1",
+      "UKR1",
+      "UKR2",
+      "MOL1",
+      "UA3L"
+    ],
+    "mostRecentTransfer": {
+      "id": "6137074",
+      "transferSource": {
+        "competitionId": "UZ1",
+        "countryId": 180,
+        "clubId": "15300",
+        "coachId": "17342"
+      },
+      "transferDestination": {
+        "competitionId": "UZ1",
+        "countryId": 180,
+        "clubId": "15309",
+        "coachId": "119483"
+      },
+      "details": {
+        "playerId": "358956",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 34,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/oleksandr-kucherenko/transfers/spieler/358956/transfer_id/6137074"
+    }
+  }
+}

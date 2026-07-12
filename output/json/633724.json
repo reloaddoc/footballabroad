@@ -1,0 +1,301 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "633724",
+    "history": {
+      "terminated": [
+        {
+          "id": "5703007",
+          "transferSource": {
+            "competitionId": "VZ1C",
+            "countryId": 182,
+            "clubId": "13297",
+            "coachId": "106386"
+          },
+          "transferDestination": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "2156",
+            "coachId": "20198"
+          },
+          "details": {
+            "playerId": "633724",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yerson-chacon/transfers/spieler/633724/transfer_id/5703007"
+        },
+        {
+          "id": "5133342",
+          "transferSource": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "2156",
+            "coachId": "4431"
+          },
+          "transferDestination": {
+            "competitionId": "VZ1C",
+            "countryId": 182,
+            "clubId": "13297",
+            "coachId": "106386"
+          },
+          "details": {
+            "playerId": "633724",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/yerson-chacon/transfers/spieler/633724/transfer_id/5133342"
+        },
+        {
+          "id": "5133341",
+          "transferSource": {
+            "competitionId": "VZ1C",
+            "countryId": 182,
+            "clubId": "13297",
+            "coachId": "13034"
+          },
+          "transferDestination": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "2156",
+            "coachId": "35601"
+          },
+          "details": {
+            "playerId": "633724",
+            "date": "2024-07-19T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 165,
+              "daysDisplay": "5 Months, 12 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/yerson-chacon/transfers/spieler/633724/transfer_id/5133341"
+        },
+        {
+          "id": "2802045",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 182,
+            "clubId": "27086",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "VZ1L",
+            "countryId": 182,
+            "clubId": "13297",
+            "coachId": "44962"
+          },
+          "details": {
+            "playerId": "633724",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yerson-chacon/transfers/spieler/633724/transfer_id/2802045"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 600000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "600.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 700000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "700.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "13297",
+      "2156",
+      "27086"
+    ],
+    "coachIds": [
+      "106386",
+      "20198",
+      "4431",
+      "13034",
+      "35601",
+      "44962"
+    ],
+    "competitionIds": [
+      "VZ1C",
+      "ZYP1",
+      "VZ1L"
+    ],
+    "mostRecentTransfer": {
+      "id": "5703007",
+      "transferSource": {
+        "competitionId": "VZ1C",
+        "countryId": 182,
+        "clubId": "13297",
+        "coachId": "106386"
+      },
+      "transferDestination": {
+        "competitionId": "ZYP1",
+        "countryId": 188,
+        "clubId": "2156",
+        "coachId": "20198"
+      },
+      "details": {
+        "playerId": "633724",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-05-31T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 700000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "700.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": 600000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "600.00",
+            "suffix": "K"
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/yerson-chacon/transfers/spieler/633724/transfer_id/5703007"
+    }
+  }
+}

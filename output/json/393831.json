@@ -1,0 +1,1006 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "393831",
+    "history": {
+      "terminated": [
+        {
+          "id": "6164884",
+          "transferSource": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "11194",
+            "coachId": "113747"
+          },
+          "transferDestination": {
+            "competitionId": "BOS1",
+            "countryId": 24,
+            "clubId": "1014",
+            "coachId": "26185"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2026-02-03T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/6164884"
+        },
+        {
+          "id": "5381009",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25444",
+            "coachId": "20499"
+          },
+          "transferDestination": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "11194",
+            "coachId": "39082"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2025-02-04T00:00:00+01:00",
+            "contractUntilDate": "2026-01-10T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 146,
+              "daysDisplay": "4 Months, 26 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/5381009"
+        },
+        {
+          "id": "5082628",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "21283",
+            "coachId": "1013"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25444",
+            "coachId": "22240"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2024-12-31T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 181,
+              "daysDisplay": "5 Months, 30 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/5082628"
+        },
+        {
+          "id": "5082627",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25444",
+            "coachId": "5121"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "21283",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/5082627"
+        },
+        {
+          "id": "4802709",
+          "transferSource": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "63904"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25444",
+            "coachId": "5121"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2024-01-05T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 726,
+              "daysDisplay": "1 Year, 11 Months, 26 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/4802709"
+        },
+        {
+          "id": "4635685",
+          "transferSource": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "144",
+            "coachId": "36250"
+          },
+          "transferDestination": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "63904"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2023-09-07T00:00:00+02:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 647,
+              "daysDisplay": "1 Year, 9 Months, 8 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/4635685"
+        },
+        {
+          "id": "4279753",
+          "transferSource": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "26985",
+            "coachId": "113894"
+          },
+          "transferDestination": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "144",
+            "coachId": "55762"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-15T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/4279753"
+        },
+        {
+          "id": "4279752",
+          "transferSource": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "144",
+            "coachId": "55762"
+          },
+          "transferDestination": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "26985",
+            "coachId": "54644"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2023-02-15T00:00:00+01:00",
+            "contractUntilDate": "2023-06-15T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 851,
+              "daysDisplay": "2 Years, 4 Months"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/4279752"
+        },
+        {
+          "id": "3012542",
+          "transferSource": {
+            "competitionId": "SLO1",
+            "countryId": 154,
+            "clubId": "31297",
+            "coachId": "54363"
+          },
+          "transferDestination": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "144",
+            "coachId": "20830"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2021-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-15T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/3012542"
+        },
+        {
+          "id": "3012543",
+          "transferSource": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "144",
+            "coachId": "34952"
+          },
+          "transferDestination": {
+            "competitionId": "SLO1",
+            "countryId": 154,
+            "clubId": "31297",
+            "coachId": "60461"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2020-08-12T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1768,
+              "daysDisplay": "4 Years, 10 Months, 3 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/3012543"
+        },
+        {
+          "id": "2634260",
+          "transferSource": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "999",
+            "coachId": "59536"
+          },
+          "transferDestination": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "144",
+            "coachId": "34952"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2020-08-09T00:00:00+02:00",
+            "contractUntilDate": "2025-06-15T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/2634260"
+        },
+        {
+          "id": "2634259",
+          "transferSource": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "144",
+            "coachId": "47174"
+          },
+          "transferDestination": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "999",
+            "coachId": "59536"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2019-09-02T00:00:00+02:00",
+            "contractUntilDate": "2020-08-09T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 2113,
+              "daysDisplay": "5 Years, 9 Months, 13 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/2634259"
+        },
+        {
+          "id": "2461180",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "14444",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "144",
+            "coachId": "47174"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2019-01-02T00:00:00+01:00",
+            "contractUntilDate": "2025-06-15T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 164,
+              "daysDisplay": "5 Months, 13 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/2461180"
+        },
+        {
+          "id": "1906206",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "36345",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "14444",
+            "coachId": "33789"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-15T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 349,
+              "daysDisplay": "11 Months, 14 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/1906206"
+        },
+        {
+          "id": "1906207",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "43665",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "36345",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2015-07-10T00:00:00+02:00",
+            "contractUntilDate": "2018-06-15T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/1906207"
+        },
+        {
+          "id": "1906208",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "48709",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "43665",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2014-08-15T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/1906208"
+        },
+        {
+          "id": "1906209",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "43665",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "48709",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "393831",
+            "date": "2011-08-19T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 11,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/1906209"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "11194",
+      "1014",
+      "25444",
+      "21283",
+      "663",
+      "144",
+      "26985",
+      "31297",
+      "999",
+      "14444",
+      "36345",
+      "43665",
+      "48709"
+    ],
+    "coachIds": [
+      "113747",
+      "26185",
+      "20499",
+      "39082",
+      "1013",
+      "22240",
+      "5121",
+      "63904",
+      "36250",
+      "113894",
+      "55762",
+      "54644",
+      "54363",
+      "20830",
+      "34952",
+      "60461",
+      "59536",
+      "47174",
+      "33789"
+    ],
+    "competitionIds": [
+      "KR1",
+      "BOS1",
+      "THA1",
+      "GE1N",
+      "SL1",
+      "SLO1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6164884",
+      "transferSource": {
+        "competitionId": "KR1",
+        "countryId": 37,
+        "clubId": "11194",
+        "coachId": "113747"
+      },
+      "transferDestination": {
+        "competitionId": "BOS1",
+        "countryId": 24,
+        "clubId": "1014",
+        "coachId": "26185"
+      },
+      "details": {
+        "playerId": "393831",
+        "date": "2026-02-03T00:00:00+01:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/denis-busnja/transfers/spieler/393831/transfer_id/6164884"
+    }
+  }
+}

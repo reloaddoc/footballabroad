@@ -1,0 +1,382 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1229026",
+    "history": {
+      "terminated": [
+        {
+          "id": "6125630",
+          "transferSource": {
+            "competitionId": "BO1A",
+            "countryId": 23,
+            "clubId": "100047",
+            "coachId": "71296"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10482",
+            "coachId": "67079"
+          },
+          "details": {
+            "playerId": "1229026",
+            "date": "2026-01-17T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastian-zeballos/transfers/spieler/1229026/transfer_id/6125630"
+        },
+        {
+          "id": "5579739",
+          "transferSource": {
+            "competitionId": "CLPI",
+            "countryId": 9,
+            "clubId": "55574",
+            "coachId": "132781"
+          },
+          "transferDestination": {
+            "competitionId": "BO1A",
+            "countryId": 23,
+            "clubId": "100047",
+            "coachId": "85125"
+          },
+          "details": {
+            "playerId": "1229026",
+            "date": "2025-03-20T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 286,
+              "daysDisplay": "9 Months, 11 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastian-zeballos/transfers/spieler/1229026/transfer_id/5579739"
+        },
+        {
+          "id": "5332987",
+          "transferSource": {
+            "competitionId": "AR1N",
+            "countryId": 9,
+            "clubId": "12179",
+            "coachId": "29842"
+          },
+          "transferDestination": {
+            "competitionId": "CLPI",
+            "countryId": 9,
+            "clubId": "55574",
+            "coachId": "132781"
+          },
+          "details": {
+            "playerId": "1229026",
+            "date": "2024-10-18T00:00:00+02:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 439,
+              "daysDisplay": "1 Year, 2 Months, 13 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastian-zeballos/transfers/spieler/1229026/transfer_id/5332987"
+        },
+        {
+          "id": "4858518",
+          "transferSource": {
+            "competitionId": "AR3C",
+            "countryId": 9,
+            "clubId": "5208",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "AR1N",
+            "countryId": 9,
+            "clubId": "12179",
+            "coachId": "73274"
+          },
+          "details": {
+            "playerId": "1229026",
+            "date": "2024-01-22T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastian-zeballos/transfers/spieler/1229026/transfer_id/4858518"
+        },
+        {
+          "id": "4858519",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 9,
+            "clubId": "19961",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 9,
+            "clubId": "5208",
+            "coachId": "32906"
+          },
+          "details": {
+            "playerId": "1229026",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastian-zeballos/transfers/spieler/1229026/transfer_id/4858519"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "100047",
+      "10482",
+      "55574",
+      "12179",
+      "5208",
+      "19961"
+    ],
+    "coachIds": [
+      "71296",
+      "67079",
+      "132781",
+      "85125",
+      "29842",
+      "73274",
+      "32906"
+    ],
+    "competitionIds": [
+      "BO1A",
+      "KAS1",
+      "CLPI",
+      "AR1N",
+      "AR3C"
+    ],
+    "mostRecentTransfer": {
+      "id": "6125630",
+      "transferSource": {
+        "competitionId": "BO1A",
+        "countryId": 23,
+        "clubId": "100047",
+        "coachId": "71296"
+      },
+      "transferDestination": {
+        "competitionId": "KAS1",
+        "countryId": 81,
+        "clubId": "10482",
+        "coachId": "67079"
+      },
+      "details": {
+        "playerId": "1229026",
+        "date": "2026-01-17T00:00:00+01:00",
+        "contractUntilDate": "2027-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "500.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/sebastian-zeballos/transfers/spieler/1229026/transfer_id/6125630"
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1436804",
+    "history": {
+      "terminated": [
+        {
+          "id": "5846689",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 124,
+            "clubId": "133520",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "PFL1",
+            "countryId": 134,
+            "clubId": "59419",
+            "coachId": "3155"
+          },
+          "details": {
+            "playerId": "1436804",
+            "date": "2025-08-08T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ibrahim-adamu/transfers/spieler/1436804/transfer_id/5846689"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "133520",
+      "59419"
+    ],
+    "coachIds": [
+      "3155"
+    ],
+    "competitionIds": [
+      "PFL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5846689",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 124,
+        "clubId": "133520",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "PFL1",
+        "countryId": 134,
+        "clubId": "59419",
+        "coachId": "3155"
+      },
+      "details": {
+        "playerId": "1436804",
+        "date": "2025-08-08T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ibrahim-adamu/transfers/spieler/1436804/transfer_id/5846689"
+    }
+  }
+}

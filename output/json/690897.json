@@ -1,0 +1,435 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "690897",
+    "history": {
+      "terminated": [
+        {
+          "id": "5803961",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 24,
+            "clubId": "75799",
+            "coachId": "11831"
+          },
+          "transferDestination": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "11068",
+            "coachId": "105805"
+          },
+          "details": {
+            "playerId": "690897",
+            "date": "2025-07-22T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/faris-hasic/transfers/spieler/690897/transfer_id/5803961"
+        },
+        {
+          "id": "5401846",
+          "transferSource": {
+            "competitionId": "SIN1",
+            "countryId": 153,
+            "clubId": "11979",
+            "coachId": "107245"
+          },
+          "transferDestination": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "75799",
+            "coachId": "51842"
+          },
+          "details": {
+            "playerId": "690897",
+            "date": "2025-02-28T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/faris-hasic/transfers/spieler/690897/transfer_id/5401846"
+        },
+        {
+          "id": "4968148",
+          "transferSource": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "33627",
+            "coachId": "128440"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 153,
+            "clubId": "11979",
+            "coachId": "25799"
+          },
+          "details": {
+            "playerId": "690897",
+            "date": "2024-04-18T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 73,
+              "daysDisplay": "2 Months, 12 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/faris-hasic/transfers/spieler/690897/transfer_id/4968148"
+        },
+        {
+          "id": "3748072",
+          "transferSource": {
+            "competitionId": "BI19",
+            "countryId": 24,
+            "clubId": "54755",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "33627",
+            "coachId": "88655"
+          },
+          "details": {
+            "playerId": "690897",
+            "date": "2022-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/faris-hasic/transfers/spieler/690897/transfer_id/3748072"
+        },
+        {
+          "id": "2998168",
+          "transferSource": {
+            "competitionId": "BI17",
+            "countryId": 24,
+            "clubId": "61569",
+            "coachId": "82382"
+          },
+          "transferDestination": {
+            "competitionId": "BI19",
+            "countryId": 24,
+            "clubId": "54755",
+            "coachId": "66915"
+          },
+          "details": {
+            "playerId": "690897",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/faris-hasic/transfers/spieler/690897/transfer_id/2998168"
+        },
+        {
+          "id": "3023124",
+          "transferSource": {
+            "competitionId": "BI17",
+            "countryId": 24,
+            "clubId": "53703",
+            "coachId": "35736"
+          },
+          "transferDestination": {
+            "competitionId": "BI17",
+            "countryId": 24,
+            "clubId": "61569",
+            "coachId": "62320"
+          },
+          "details": {
+            "playerId": "690897",
+            "date": "2019-07-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/faris-hasic/transfers/spieler/690897/transfer_id/3023124"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "75799",
+      "11068",
+      "11979",
+      "33627",
+      "54755",
+      "61569",
+      "53703"
+    ],
+    "coachIds": [
+      "11831",
+      "105805",
+      "107245",
+      "51842",
+      "128440",
+      "25799",
+      "88655",
+      "82382",
+      "66915",
+      "35736",
+      "62320"
+    ],
+    "competitionIds": [
+      "BOS2",
+      "SIN1",
+      "BI19",
+      "BI17"
+    ],
+    "mostRecentTransfer": {
+      "id": "5803961",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 24,
+        "clubId": "75799",
+        "coachId": "11831"
+      },
+      "transferDestination": {
+        "competitionId": "BOS2",
+        "countryId": 24,
+        "clubId": "11068",
+        "coachId": "105805"
+      },
+      "details": {
+        "playerId": "690897",
+        "date": "2025-07-22T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/faris-hasic/transfers/spieler/690897/transfer_id/5803961"
+    }
+  }
+}

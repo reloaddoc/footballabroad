@@ -1,0 +1,800 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "523314",
+    "history": {
+      "terminated": [
+        {
+          "id": "6088619",
+          "transferSource": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "6423",
+            "coachId": "58742"
+          },
+          "transferDestination": {
+            "competitionId": "UZ1",
+            "countryId": 180,
+            "clubId": "15309",
+            "coachId": "119483"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/6088619"
+        },
+        {
+          "id": "5377183",
+          "transferSource": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "36596",
+            "coachId": "106080"
+          },
+          "transferDestination": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "6423",
+            "coachId": "58742"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2025-01-31T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/5377183"
+        },
+        {
+          "id": "5111002",
+          "transferSource": {
+            "competitionId": "R3D2",
+            "countryId": 141,
+            "clubId": "11123",
+            "coachId": "63920"
+          },
+          "transferDestination": {
+            "competitionId": "WER2",
+            "countryId": 18,
+            "clubId": "36596",
+            "coachId": "130897"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2024-07-11T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 354,
+              "daysDisplay": "11 Months, 19 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/5111002"
+        },
+        {
+          "id": "4895507",
+          "transferSource": {
+            "competitionId": "WER2",
+            "countryId": 18,
+            "clubId": "36596",
+            "coachId": "3725"
+          },
+          "transferDestination": {
+            "competitionId": "R3D2",
+            "countryId": 141,
+            "clubId": "11123",
+            "coachId": "63920"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2024-02-17T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/4895507"
+        },
+        {
+          "id": "4218926",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "24010",
+            "coachId": "100518"
+          },
+          "transferDestination": {
+            "competitionId": "WER2",
+            "countryId": 18,
+            "clubId": "36596",
+            "coachId": "101116"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2023-03-01T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/4218926"
+        },
+        {
+          "id": "3800718",
+          "transferSource": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "23664",
+            "coachId": "12905"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "24010",
+            "coachId": "100518"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2022-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/3800718"
+        },
+        {
+          "id": "3800717",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "24010",
+            "coachId": "100518"
+          },
+          "transferDestination": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "23664",
+            "coachId": "17194"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2022-03-29T00:00:00+02:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/3800717"
+        },
+        {
+          "id": "3449568",
+          "transferSource": {
+            "competitionId": "WER2",
+            "countryId": 18,
+            "clubId": "8563",
+            "coachId": "27465"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "24010",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2021-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/3449568"
+        },
+        {
+          "id": "3449567",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "24010",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "WER2",
+            "countryId": 18,
+            "clubId": "8563",
+            "coachId": "27465"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2021-07-19T00:00:00+02:00",
+            "contractUntilDate": "2021-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/3449567"
+        },
+        {
+          "id": "3312059",
+          "transferSource": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "36755",
+            "coachId": "66565"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "24010",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2021-07-16T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 168,
+              "daysDisplay": "5 Months, 15 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/3312059"
+        },
+        {
+          "id": "3312058",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "24010",
+            "coachId": "90829"
+          },
+          "transferDestination": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "36755",
+            "coachId": "66565"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2021-03-30T00:00:00+02:00",
+            "contractUntilDate": "2021-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/3312058"
+        },
+        {
+          "id": "2767652",
+          "transferSource": {
+            "competitionId": "WER2",
+            "countryId": 18,
+            "clubId": "10694",
+            "coachId": "58742"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "24010",
+            "coachId": "90829"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2020-11-30T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/2767652"
+        },
+        {
+          "id": "2767651",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "24010",
+            "coachId": "90829"
+          },
+          "transferDestination": {
+            "competitionId": "WER2",
+            "countryId": 18,
+            "clubId": "10694",
+            "coachId": "58742"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2020-01-21T00:00:00+01:00",
+            "contractUntilDate": "2020-11-30T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/2767651"
+        },
+        {
+          "id": "2378004",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "17541",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "24010",
+            "coachId": "10969"
+          },
+          "details": {
+            "playerId": "523314",
+            "date": "2017-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/2378004"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 600000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "600.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "6423",
+      "15309",
+      "36596",
+      "11123",
+      "24010",
+      "23664",
+      "8563",
+      "36755",
+      "10694",
+      "17541"
+    ],
+    "coachIds": [
+      "58742",
+      "119483",
+      "106080",
+      "63920",
+      "130897",
+      "3725",
+      "100518",
+      "101116",
+      "12905",
+      "17194",
+      "27465",
+      "66565",
+      "90829",
+      "10969"
+    ],
+    "competitionIds": [
+      "WER1",
+      "UZ1",
+      "R3D2",
+      "WER2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6088619",
+      "transferSource": {
+        "competitionId": "WER1",
+        "countryId": 18,
+        "clubId": "6423",
+        "coachId": "58742"
+      },
+      "transferDestination": {
+        "competitionId": "UZ1",
+        "countryId": 180,
+        "clubId": "15309",
+        "coachId": "119483"
+      },
+      "details": {
+        "playerId": "523314",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "500.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/nikolay-ivanov/transfers/spieler/523314/transfer_id/6088619"
+    }
+  }
+}

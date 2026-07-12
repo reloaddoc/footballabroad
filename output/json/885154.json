@@ -1,0 +1,432 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "885154",
+    "history": {
+      "terminated": [
+        {
+          "id": "6114240",
+          "transferSource": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "17959",
+            "coachId": "10969"
+          },
+          "transferDestination": {
+            "competitionId": "UZ2L",
+            "countryId": 180,
+            "clubId": "76379",
+            "coachId": "119706"
+          },
+          "details": {
+            "playerId": "885154",
+            "date": "2026-01-27T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vepa-jumayev/transfers/spieler/885154/transfer_id/6114240"
+        },
+        {
+          "id": "4870876",
+          "transferSource": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "6423",
+            "coachId": "58742"
+          },
+          "transferDestination": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "17959",
+            "coachId": "66468"
+          },
+          "details": {
+            "playerId": "885154",
+            "date": "2024-02-05T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 330,
+              "daysDisplay": "10 Months, 26 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vepa-jumayev/transfers/spieler/885154/transfer_id/4870876"
+        },
+        {
+          "id": "4822756",
+          "transferSource": {
+            "competitionId": "WER2",
+            "countryId": 18,
+            "clubId": "27204",
+            "coachId": "26737"
+          },
+          "transferDestination": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "6423",
+            "coachId": "58742"
+          },
+          "details": {
+            "playerId": "885154",
+            "date": "2024-01-15T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vepa-jumayev/transfers/spieler/885154/transfer_id/4822756"
+        },
+        {
+          "id": "4327153",
+          "transferSource": {
+            "competitionId": "WER2",
+            "countryId": 18,
+            "clubId": "32978",
+            "coachId": "62304"
+          },
+          "transferDestination": {
+            "competitionId": "WER1",
+            "countryId": 18,
+            "clubId": "27204",
+            "coachId": "27199"
+          },
+          "details": {
+            "playerId": "885154",
+            "date": "2023-03-17T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vepa-jumayev/transfers/spieler/885154/transfer_id/4327153"
+        },
+        {
+          "id": "3335474",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "36596",
+            "coachId": "95049"
+          },
+          "transferDestination": {
+            "competitionId": "WER2",
+            "countryId": 18,
+            "clubId": "32978",
+            "coachId": "62304"
+          },
+          "details": {
+            "playerId": "885154",
+            "date": "2021-04-01T00:00:00+02:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vepa-jumayev/transfers/spieler/885154/transfer_id/3335474"
+        },
+        {
+          "id": "3335475",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 175,
+            "clubId": "19968",
+            "coachId": "114484"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 18,
+            "clubId": "36596",
+            "coachId": "95049"
+          },
+          "details": {
+            "playerId": "885154",
+            "date": "2020-07-20T00:00:00+02:00",
+            "contractUntilDate": "2020-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vepa-jumayev/transfers/spieler/885154/transfer_id/3335475"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "17959",
+      "76379",
+      "6423",
+      "27204",
+      "32978",
+      "36596",
+      "19968"
+    ],
+    "coachIds": [
+      "10969",
+      "119706",
+      "58742",
+      "66468",
+      "26737",
+      "62304",
+      "27199",
+      "95049",
+      "114484"
+    ],
+    "competitionIds": [
+      "WER1",
+      "UZ2L",
+      "WER2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6114240",
+      "transferSource": {
+        "competitionId": "WER1",
+        "countryId": 18,
+        "clubId": "17959",
+        "coachId": "10969"
+      },
+      "transferDestination": {
+        "competitionId": "UZ2L",
+        "countryId": 180,
+        "clubId": "76379",
+        "coachId": "119706"
+      },
+      "details": {
+        "playerId": "885154",
+        "date": "2026-01-27T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/vepa-jumayev/transfers/spieler/885154/transfer_id/6114240"
+    }
+  }
+}

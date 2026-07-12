@@ -1,0 +1,479 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "861431",
+    "history": {
+      "terminated": [
+        {
+          "id": "5882831",
+          "transferSource": {
+            "competitionId": "MT1P",
+            "countryId": 106,
+            "clubId": "34423",
+            "coachId": "42093"
+          },
+          "transferDestination": {
+            "competitionId": "MAL2",
+            "countryId": 106,
+            "clubId": "31631",
+            "coachId": "43779"
+          },
+          "details": {
+            "playerId": "861431",
+            "date": "2025-07-17T00:00:00+02:00",
+            "contractUntilDate": "2026-07-17T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andrej-nakov/transfers/spieler/861431/transfer_id/5882831"
+        },
+        {
+          "id": "5242743",
+          "transferSource": {
+            "competitionId": "MAL2",
+            "countryId": 106,
+            "clubId": "31371",
+            "coachId": "64563"
+          },
+          "transferDestination": {
+            "competitionId": "MT1P",
+            "countryId": 106,
+            "clubId": "34423",
+            "coachId": "42093"
+          },
+          "details": {
+            "playerId": "861431",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/andrej-nakov/transfers/spieler/861431/transfer_id/5242743"
+        },
+        {
+          "id": "5242744",
+          "transferSource": {
+            "competitionId": "MT1P",
+            "countryId": 106,
+            "clubId": "34423",
+            "coachId": "69962"
+          },
+          "transferDestination": {
+            "competitionId": "MAL2",
+            "countryId": 106,
+            "clubId": "31371",
+            "coachId": "40411"
+          },
+          "details": {
+            "playerId": "861431",
+            "date": "2024-08-31T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 303,
+              "daysDisplay": "9 Months, 30 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/andrej-nakov/transfers/spieler/861431/transfer_id/5242744"
+        },
+        {
+          "id": "4449194",
+          "transferSource": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "32125",
+            "coachId": "67580"
+          },
+          "transferDestination": {
+            "competitionId": "MAL2",
+            "countryId": 106,
+            "clubId": "34423",
+            "coachId": "114397"
+          },
+          "details": {
+            "playerId": "861431",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andrej-nakov/transfers/spieler/861431/transfer_id/4449194"
+        },
+        {
+          "id": "4252128",
+          "transferSource": {
+            "competitionId": "MAL2",
+            "countryId": 106,
+            "clubId": "32130",
+            "coachId": "72951"
+          },
+          "transferDestination": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "32125",
+            "coachId": "67580"
+          },
+          "details": {
+            "playerId": "861431",
+            "date": "2023-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andrej-nakov/transfers/spieler/861431/transfer_id/4252128"
+        },
+        {
+          "id": "4045570",
+          "transferSource": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "39803",
+            "coachId": "21682"
+          },
+          "transferDestination": {
+            "competitionId": "MAL2",
+            "countryId": 106,
+            "clubId": "32130",
+            "coachId": "72951"
+          },
+          "details": {
+            "playerId": "861431",
+            "date": "2022-08-28T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 245,
+              "daysDisplay": "8 Months, 2 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andrej-nakov/transfers/spieler/861431/transfer_id/4045570"
+        },
+        {
+          "id": "3532150",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 106,
+            "clubId": "63219",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "39803",
+            "coachId": "21682"
+          },
+          "details": {
+            "playerId": "861431",
+            "date": "2021-09-01T00:00:00+02:00",
+            "contractUntilDate": "2023-04-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andrej-nakov/transfers/spieler/861431/transfer_id/3532150"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "34423",
+      "31631",
+      "31371",
+      "32125",
+      "32130",
+      "39803",
+      "63219"
+    ],
+    "coachIds": [
+      "42093",
+      "43779",
+      "64563",
+      "69962",
+      "40411",
+      "67580",
+      "114397",
+      "72951",
+      "21682"
+    ],
+    "competitionIds": [
+      "MT1P",
+      "MAL2",
+      "MAL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5882831",
+      "transferSource": {
+        "competitionId": "MT1P",
+        "countryId": 106,
+        "clubId": "34423",
+        "coachId": "42093"
+      },
+      "transferDestination": {
+        "competitionId": "MAL2",
+        "countryId": 106,
+        "clubId": "31631",
+        "coachId": "43779"
+      },
+      "details": {
+        "playerId": "861431",
+        "date": "2025-07-17T00:00:00+02:00",
+        "contractUntilDate": "2026-07-17T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/andrej-nakov/transfers/spieler/861431/transfer_id/5882831"
+    }
+  }
+}

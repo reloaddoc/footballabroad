@@ -1,0 +1,601 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "431146",
+    "history": {
+      "terminated": [
+        {
+          "id": "6410588",
+          "transferSource": {
+            "competitionId": "MNE1",
+            "countryId": 216,
+            "clubId": "11065",
+            "coachId": "102685"
+          },
+          "transferDestination": {
+            "competitionId": "HGKG",
+            "countryId": 218,
+            "clubId": "36670",
+            "coachId": "26306"
+          },
+          "details": {
+            "playerId": "431146",
+            "date": "2026-07-09T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stefan-golubovic/transfers/spieler/431146/transfer_id/6410588"
+        },
+        {
+          "id": "5676729",
+          "transferSource": {
+            "competitionId": "KHM1",
+            "countryId": 79,
+            "clubId": "40311",
+            "coachId": "88866"
+          },
+          "transferDestination": {
+            "competitionId": "MNE1",
+            "countryId": 216,
+            "clubId": "11065",
+            "coachId": "66533"
+          },
+          "details": {
+            "playerId": "431146",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stefan-golubovic/transfers/spieler/431146/transfer_id/5676729"
+        },
+        {
+          "id": "4506977",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "57460",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "KHM1",
+            "countryId": 79,
+            "clubId": "40311",
+            "coachId": "27918"
+          },
+          "details": {
+            "playerId": "431146",
+            "date": "2023-07-12T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stefan-golubovic/transfers/spieler/431146/transfer_id/4506977"
+        },
+        {
+          "id": "3034565",
+          "transferSource": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "9544",
+            "coachId": "1836"
+          },
+          "transferDestination": {
+            "competitionId": "SER2",
+            "countryId": 215,
+            "clubId": "57460",
+            "coachId": "11758"
+          },
+          "details": {
+            "playerId": "431146",
+            "date": "2020-09-02T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 301,
+              "daysDisplay": "9 Months, 28 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stefan-golubovic/transfers/spieler/431146/transfer_id/3034565"
+        },
+        {
+          "id": "3024341",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "26427",
+            "coachId": "78322"
+          },
+          "transferDestination": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "9544",
+            "coachId": "49275"
+          },
+          "details": {
+            "playerId": "431146",
+            "date": "2020-08-19T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stefan-golubovic/transfers/spieler/431146/transfer_id/3024341"
+        },
+        {
+          "id": "2464975",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "6622",
+            "coachId": "4553"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "26427",
+            "coachId": "63849"
+          },
+          "details": {
+            "playerId": "431146",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stefan-golubovic/transfers/spieler/431146/transfer_id/2464975"
+        },
+        {
+          "id": "2464974",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "6622",
+            "coachId": "4553"
+          },
+          "details": {
+            "playerId": "431146",
+            "date": "2016-01-01T00:00:00+01:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stefan-golubovic/transfers/spieler/431146/transfer_id/2464974"
+        },
+        {
+          "id": "3052380",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "9451",
+            "coachId": "19998"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "431146",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stefan-golubovic/transfers/spieler/431146/transfer_id/3052380"
+        },
+        {
+          "id": "2464976",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "9451",
+            "coachId": "4301"
+          },
+          "details": {
+            "playerId": "431146",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stefan-golubovic/transfers/spieler/431146/transfer_id/2464976"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 29,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "11065",
+      "36670",
+      "40311",
+      "57460",
+      "9544",
+      "26427",
+      "6622",
+      "515",
+      "9451",
+      "75"
+    ],
+    "coachIds": [
+      "102685",
+      "26306",
+      "88866",
+      "66533",
+      "27918",
+      "1836",
+      "11758",
+      "78322",
+      "49275",
+      "4553",
+      "63849",
+      "19998",
+      "4301"
+    ],
+    "competitionIds": [
+      "MNE1",
+      "HGKG",
+      "KHM1",
+      "BOS2",
+      "SER2",
+      "SER1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6410588",
+      "transferSource": {
+        "competitionId": "MNE1",
+        "countryId": 216,
+        "clubId": "11065",
+        "coachId": "102685"
+      },
+      "transferDestination": {
+        "competitionId": "HGKG",
+        "countryId": 218,
+        "clubId": "36670",
+        "coachId": "26306"
+      },
+      "details": {
+        "playerId": "431146",
+        "date": "2026-07-09T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/stefan-golubovic/transfers/spieler/431146/transfer_id/6410588"
+    }
+  }
+}

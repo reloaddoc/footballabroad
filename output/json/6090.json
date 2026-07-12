@@ -1,0 +1,1366 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "6090",
+    "history": {
+      "terminated": [
+        {
+          "id": "1913816",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 75,
+            "clubId": "58032",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "123",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 36,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/1913816"
+        },
+        {
+          "id": "1687382",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45299",
+            "coachId": "36626"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 75,
+            "clubId": "58032",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2017-01-13T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 36,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/1687382"
+        },
+        {
+          "id": "1460189",
+          "transferSource": {
+            "competitionId": "IT3C",
+            "countryId": 75,
+            "clubId": "22330",
+            "coachId": "35839"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45299",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2016-03-22T00:00:00+01:00",
+            "contractUntilDate": "2016-12-31T00:00:00+01:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 35,
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/1460189"
+        },
+        {
+          "id": "1426160",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45299",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "IT3C",
+            "countryId": 75,
+            "clubId": "22330",
+            "coachId": "5419"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2016-02-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 35,
+            "remainingContractPeriod": {
+              "days": 334,
+              "daysDisplay": "10 Months, 30 Days"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/1426160"
+        },
+        {
+          "id": "1288503",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 75,
+            "clubId": "4361",
+            "coachId": "47143"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45299",
+            "coachId": "36626"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2015-08-17T00:00:00+02:00",
+            "contractUntilDate": "2016-12-31T00:00:00+01:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 35,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 318,
+              "daysDisplay": "10 Months, 13 Days"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/1288503"
+        },
+        {
+          "id": "892481",
+          "transferSource": {
+            "competitionId": "IT2",
+            "countryId": 75,
+            "clubId": "2921",
+            "coachId": "3776"
+          },
+          "transferDestination": {
+            "competitionId": "IT2",
+            "countryId": 75,
+            "clubId": "4361",
+            "coachId": "19861"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2013-07-16T00:00:00+02:00",
+            "contractUntilDate": "2016-06-30T00:00:00+02:00",
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/892481"
+        },
+        {
+          "id": "747971",
+          "transferSource": {
+            "competitionId": "IT3A",
+            "countryId": 75,
+            "clubId": "1005",
+            "coachId": "10587"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "2921",
+            "coachId": "16452"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2012-08-07T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/747971"
+        },
+        {
+          "id": "676982",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "130",
+            "coachId": "2047"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "1005",
+            "coachId": "520"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2012-01-25T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 900000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "900.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/676982"
+        },
+        {
+          "id": "593774",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "6195",
+            "coachId": "1933"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "130",
+            "coachId": "519"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2011-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 1400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.40",
+                "suffix": "M"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": 1500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.50",
+                "suffix": "M"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 365,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/593774"
+        },
+        {
+          "id": "338511",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "458",
+            "coachId": "516"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "6195",
+            "coachId": "1933"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2010-06-30T00:00:00+02:00",
+            "contractUntilDate": "2012-06-30T00:00:00+02:00",
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 2750000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "2.70",
+                "suffix": "M"
+              }
+            },
+            "age": 29,
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/338511"
+        },
+        {
+          "id": "338512",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "6195",
+            "coachId": "2047"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "458",
+            "coachId": "1799"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2009-08-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 3700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "3.70",
+                "suffix": "M"
+              }
+            },
+            "age": 29,
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/338512"
+        },
+        {
+          "id": "144406",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "506",
+            "coachId": "456"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "6195",
+            "coachId": "3158"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2007-07-21T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2007,
+            "isPending": false,
+            "marketValue": {
+              "value": 5500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "5.50",
+                "suffix": "M"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": 5050000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "5.05",
+                "suffix": "M"
+              }
+            },
+            "season": {
+              "id": 2007,
+              "display": "07/08",
+              "cyclicalName": "2008",
+              "nonCyclicalName": "07/08"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/144406"
+        },
+        {
+          "id": "93872",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "430",
+            "coachId": "521"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "506",
+            "coachId": "28211"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2007-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2006,
+            "isPending": false,
+            "marketValue": {
+              "value": 5500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "5.50",
+                "suffix": "M"
+              }
+            },
+            "age": 26,
+            "season": {
+              "id": 2006,
+              "display": "06/07",
+              "cyclicalName": "2007",
+              "nonCyclicalName": "06/07"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/93872"
+        },
+        {
+          "id": "93181",
+          "transferSource": {
+            "competitionId": "IT2",
+            "countryId": 75,
+            "clubId": "506",
+            "coachId": "518"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "430",
+            "coachId": "521"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2006-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2006,
+            "isPending": false,
+            "marketValue": {
+              "value": 6000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "6.00",
+                "suffix": "M"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2006,
+              "display": "06/07",
+              "cyclicalName": "2007",
+              "nonCyclicalName": "06/07"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "Loan fee"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/93181"
+        },
+        {
+          "id": "35150",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "130",
+            "coachId": "521"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "506",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2004-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2003,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2003,
+              "display": "03/04",
+              "cyclicalName": "2004",
+              "nonCyclicalName": "03/04"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/35150"
+        },
+        {
+          "id": "8860",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "506",
+            "coachId": "525"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "130",
+            "coachId": "521"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2003-07-01T00:00:00+02:00",
+            "contractUntilDate": "2004-06-30T00:00:00+02:00",
+            "seasonId": 2003,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2003,
+              "display": "03/04",
+              "cyclicalName": "2004",
+              "nonCyclicalName": "03/04"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/8860"
+        },
+        {
+          "id": "8861",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "839",
+            "coachId": "520"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "506",
+            "coachId": "525"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2003-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2002,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2002,
+              "display": "02/03",
+              "cyclicalName": "2003",
+              "nonCyclicalName": "02/03"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/8861"
+        },
+        {
+          "id": "8866",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "506",
+            "coachId": "525"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "839",
+            "coachId": "520"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2002-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2002,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2002,
+              "display": "02/03",
+              "cyclicalName": "2003",
+              "nonCyclicalName": "02/03"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/8866"
+        },
+        {
+          "id": "8867",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "839",
+            "coachId": "520"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "506",
+            "coachId": "525"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2002-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2002,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 17700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "17.70",
+                "suffix": "M"
+              }
+            },
+            "season": {
+              "id": 2002,
+              "display": "02/03",
+              "cyclicalName": "2003",
+              "nonCyclicalName": "02/03"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/8867"
+        },
+        {
+          "id": "129362",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "12",
+            "coachId": "518"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "839",
+            "coachId": "520"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2001-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2001,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 9812000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "9.81",
+                "suffix": "M"
+              }
+            },
+            "season": {
+              "id": 2001,
+              "display": "01/02",
+              "cyclicalName": "2002",
+              "nonCyclicalName": "01/02"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/129362"
+        },
+        {
+          "id": "129363",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "839",
+            "coachId": "520"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "12",
+            "coachId": "518"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2001-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2000,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2000,
+              "display": "00/01",
+              "cyclicalName": "2001",
+              "nonCyclicalName": "00/01"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/129363"
+        },
+        {
+          "id": "129364",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "12",
+            "coachId": "518"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "839",
+            "coachId": "520"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "2000-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2000,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": 1500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.50",
+                "suffix": "M"
+              }
+            },
+            "season": {
+              "id": 2000,
+              "display": "00/01",
+              "cyclicalName": "2001",
+              "nonCyclicalName": "00/01"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "Loan fee"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/129364"
+        },
+        {
+          "id": "129365",
+          "transferSource": {
+            "competitionId": "IT2",
+            "countryId": 75,
+            "clubId": "1005",
+            "coachId": "2139"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "12",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "1999-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 1998,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 1998,
+              "display": "98/99",
+              "cyclicalName": "1999",
+              "nonCyclicalName": "98/99"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/129365"
+        },
+        {
+          "id": "129366",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "12",
+            "coachId": "1186"
+          },
+          "transferDestination": {
+            "competitionId": "IT2",
+            "countryId": 75,
+            "clubId": "1005",
+            "coachId": "2139"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "1998-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 1998,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "season": {
+              "id": 1998,
+              "display": "98/99",
+              "cyclicalName": "1999",
+              "nonCyclicalName": "98/99"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/129366"
+        },
+        {
+          "id": "129367",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 75,
+            "clubId": "11997",
+            "coachId": "77660"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "12",
+            "coachId": "1186"
+          },
+          "details": {
+            "playerId": "6090",
+            "date": "1997-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 1997,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 1997,
+              "display": "97/98",
+              "cyclicalName": "1998",
+              "nonCyclicalName": "97/98"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/129367"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 35962000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "35.96",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 45,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "58032",
+      "123",
+      "45299",
+      "22330",
+      "4361",
+      "2921",
+      "1005",
+      "130",
+      "6195",
+      "458",
+      "506",
+      "430",
+      "839",
+      "12",
+      "11997"
+    ],
+    "coachIds": [
+      "36626",
+      "35839",
+      "5419",
+      "47143",
+      "3776",
+      "19861",
+      "10587",
+      "16452",
+      "2047",
+      "520",
+      "1933",
+      "519",
+      "516",
+      "1799",
+      "456",
+      "3158",
+      "521",
+      "28211",
+      "518",
+      "525",
+      "2139",
+      "1186",
+      "77660"
+    ],
+    "competitionIds": [
+      "IT3C",
+      "IT2",
+      "IT3A",
+      "IT1"
+    ],
+    "mostRecentTransfer": {
+      "id": "1913816",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 75,
+        "clubId": "58032",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "123",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "6090",
+        "date": "2017-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2017,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 36,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2017,
+          "display": "17/18",
+          "cyclicalName": "2018",
+          "nonCyclicalName": "17/18"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/manuele-blasi/transfers/spieler/6090/transfer_id/1913816"
+    }
+  }
+}

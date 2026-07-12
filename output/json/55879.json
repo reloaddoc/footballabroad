@@ -1,0 +1,709 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "55879",
+    "history": {
+      "terminated": [
+        {
+          "id": "5422808",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "25176",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "123",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "55879",
+            "date": "2024-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 40,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/5422808"
+        },
+        {
+          "id": "5109999",
+          "transferSource": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "840",
+            "coachId": "69870"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "25176",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "55879",
+            "date": "2024-07-11T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 39,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/5109999"
+        },
+        {
+          "id": "3015131",
+          "transferSource": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "6418",
+            "coachId": "12494"
+          },
+          "transferDestination": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "840",
+            "coachId": "31623"
+          },
+          "details": {
+            "playerId": "55879",
+            "date": "2020-08-13T00:00:00+02:00",
+            "contractUntilDate": "2024-05-31T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 35,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/3015131"
+        },
+        {
+          "id": "2262438",
+          "transferSource": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "128",
+            "coachId": "38221"
+          },
+          "transferDestination": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "6418",
+            "coachId": "28348"
+          },
+          "details": {
+            "playerId": "55879",
+            "date": "2018-09-05T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 34,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/2262438"
+        },
+        {
+          "id": "1080299",
+          "transferSource": {
+            "competitionId": "GR2S",
+            "countryId": 56,
+            "clubId": "441",
+            "coachId": "4695"
+          },
+          "transferDestination": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "128",
+            "coachId": "2335"
+          },
+          "details": {
+            "playerId": "55879",
+            "date": "2014-07-05T00:00:00+02:00",
+            "contractUntilDate": "2018-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/1080299"
+        },
+        {
+          "id": "998767",
+          "transferSource": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "2156",
+            "coachId": "49433"
+          },
+          "transferDestination": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "441",
+            "coachId": "2701"
+          },
+          "details": {
+            "playerId": "55879",
+            "date": "2014-01-13T00:00:00+01:00",
+            "contractUntilDate": "2014-06-30T00:00:00+02:00",
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/998767"
+        },
+        {
+          "id": "865647",
+          "transferSource": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "7185",
+            "coachId": "16640"
+          },
+          "transferDestination": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "2156",
+            "coachId": "24314"
+          },
+          "details": {
+            "playerId": "55879",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/865647"
+        },
+        {
+          "id": "751248",
+          "transferSource": {
+            "competitionId": "ARG2",
+            "countryId": 9,
+            "clubId": "7468",
+            "coachId": "20232"
+          },
+          "transferDestination": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "7185",
+            "coachId": "17750"
+          },
+          "details": {
+            "playerId": "55879",
+            "date": "2012-07-16T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/751248"
+        },
+        {
+          "id": "626803",
+          "transferSource": {
+            "competitionId": "ARGC",
+            "countryId": 9,
+            "clubId": "1444",
+            "coachId": "2868"
+          },
+          "transferDestination": {
+            "competitionId": "ARGC",
+            "countryId": 9,
+            "clubId": "7468",
+            "coachId": "11496"
+          },
+          "details": {
+            "playerId": "55879",
+            "date": "2011-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/626803"
+        },
+        {
+          "id": "214988",
+          "transferSource": {
+            "competitionId": "ARGC",
+            "countryId": 9,
+            "clubId": "1286",
+            "coachId": "4875"
+          },
+          "transferDestination": {
+            "competitionId": "ARGC",
+            "countryId": 9,
+            "clubId": "1444",
+            "coachId": "6013"
+          },
+          "details": {
+            "playerId": "55879",
+            "date": "2008-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": 1500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.50",
+                "suffix": "M"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/214988"
+        },
+        {
+          "id": "149599",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 9,
+            "clubId": "15107",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "ARGC",
+            "countryId": 9,
+            "clubId": "1286",
+            "coachId": "38969"
+          },
+          "details": {
+            "playerId": "55879",
+            "date": "2004-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2003,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2003,
+              "display": "03/04",
+              "cyclicalName": "2004",
+              "nonCyclicalName": "03/04"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/149599"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 41,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "25176",
+      "123",
+      "840",
+      "6418",
+      "128",
+      "441",
+      "2156",
+      "7185",
+      "7468",
+      "1444",
+      "1286",
+      "15107"
+    ],
+    "coachIds": [
+      "69870",
+      "12494",
+      "31623",
+      "38221",
+      "28348",
+      "4695",
+      "2335",
+      "49433",
+      "2701",
+      "16640",
+      "24314",
+      "20232",
+      "17750",
+      "2868",
+      "11496",
+      "4875",
+      "6013",
+      "38969"
+    ],
+    "competitionIds": [
+      "ZYP1",
+      "GR1",
+      "GR2S",
+      "ARG2",
+      "ARGC"
+    ],
+    "mostRecentTransfer": {
+      "id": "5422808",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 188,
+        "clubId": "25176",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "123",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "55879",
+        "date": "2024-09-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 40,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/adrian-lucero/transfers/spieler/55879/transfer_id/5422808"
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1384311",
+    "history": {
+      "terminated": [
+        {
+          "id": "5834940",
+          "transferSource": {
+            "competitionId": "ARM2",
+            "countryId": 10,
+            "clubId": "31045",
+            "coachId": "33391"
+          },
+          "transferDestination": {
+            "competitionId": "ARM2",
+            "countryId": 10,
+            "clubId": "110709",
+            "coachId": "68042"
+          },
+          "details": {
+            "playerId": "1384311",
+            "date": "2025-08-04T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ismail-ogunsola-olawale/transfers/spieler/1384311/transfer_id/5834940"
+        },
+        {
+          "id": "5597802",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "ARM2",
+            "countryId": 10,
+            "clubId": "31045",
+            "coachId": "119067"
+          },
+          "details": {
+            "playerId": "1384311",
+            "date": "2025-02-28T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ismail-ogunsola-olawale/transfers/spieler/1384311/transfer_id/5597802"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "31045",
+      "110709",
+      "75"
+    ],
+    "coachIds": [
+      "33391",
+      "68042",
+      "119067"
+    ],
+    "competitionIds": [
+      "ARM2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5834940",
+      "transferSource": {
+        "competitionId": "ARM2",
+        "countryId": 10,
+        "clubId": "31045",
+        "coachId": "33391"
+      },
+      "transferDestination": {
+        "competitionId": "ARM2",
+        "countryId": 10,
+        "clubId": "110709",
+        "coachId": "68042"
+      },
+      "details": {
+        "playerId": "1384311",
+        "date": "2025-08-04T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ismail-ogunsola-olawale/transfers/spieler/1384311/transfer_id/5834940"
+    }
+  }
+}

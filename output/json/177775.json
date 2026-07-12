@@ -1,0 +1,649 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "177775",
+    "history": {
+      "terminated": [
+        {
+          "id": "6368720",
+          "transferSource": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "71085",
+            "coachId": "76458"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "177775",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 35,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mitchell-duke/transfers/spieler/177775/transfer_id/6368720"
+        },
+        {
+          "id": "6073575",
+          "transferSource": {
+            "competitionId": "J1YV",
+            "countryId": 77,
+            "clubId": "23568",
+            "coachId": "104795"
+          },
+          "transferDestination": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "71085",
+            "coachId": "76458"
+          },
+          "details": {
+            "playerId": "177775",
+            "date": "2026-01-14T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 275000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "275.00",
+                "suffix": "K"
+              }
+            },
+            "age": 34,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mitchell-duke/transfers/spieler/177775/transfer_id/6073575"
+        },
+        {
+          "id": "4197110",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22171",
+            "coachId": "2070"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "23568",
+            "coachId": "5584"
+          },
+          "details": {
+            "playerId": "177775",
+            "date": "2023-01-09T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 387,
+              "daysDisplay": "1 Year, 22 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mitchell-duke/transfers/spieler/177775/transfer_id/4197110"
+        },
+        {
+          "id": "3477072",
+          "transferSource": {
+            "competitionId": "SA1",
+            "countryId": 146,
+            "clubId": "28844",
+            "coachId": "3415"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22171",
+            "coachId": "32802"
+          },
+          "details": {
+            "playerId": "177775",
+            "date": "2021-08-05T00:00:00+02:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 750000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "750.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 329,
+              "daysDisplay": "10 Months, 25 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mitchell-duke/transfers/spieler/177775/transfer_id/3477072"
+        },
+        {
+          "id": "3231005",
+          "transferSource": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "36100",
+            "coachId": "22753"
+          },
+          "transferDestination": {
+            "competitionId": "SA1",
+            "countryId": 146,
+            "clubId": "28844",
+            "coachId": "3415"
+          },
+          "details": {
+            "playerId": "177775",
+            "date": "2021-06-30T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 750000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "750.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mitchell-duke/transfers/spieler/177775/transfer_id/3231005"
+        },
+        {
+          "id": "3231004",
+          "transferSource": {
+            "competitionId": "SA1",
+            "countryId": 146,
+            "clubId": "28844",
+            "coachId": "10574"
+          },
+          "transferDestination": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "36100",
+            "coachId": "22753"
+          },
+          "details": {
+            "playerId": "177775",
+            "date": "2021-02-01T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 725000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "remainingContractPeriod": {
+              "days": 514,
+              "daysDisplay": "1 Year, 4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mitchell-duke/transfers/spieler/177775/transfer_id/3231004"
+        },
+        {
+          "id": "3033199",
+          "transferSource": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "36100",
+            "coachId": "32364"
+          },
+          "transferDestination": {
+            "competitionId": "SA1",
+            "countryId": 146,
+            "clubId": "28844",
+            "coachId": "155286"
+          },
+          "details": {
+            "playerId": "177775",
+            "date": "2020-09-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mitchell-duke/transfers/spieler/177775/transfer_id/3033199"
+        },
+        {
+          "id": "2333944",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "1062",
+            "coachId": "4435"
+          },
+          "transferDestination": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "36100",
+            "coachId": "4487"
+          },
+          "details": {
+            "playerId": "177775",
+            "date": "2019-01-25T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mitchell-duke/transfers/spieler/177775/transfer_id/2333944"
+        },
+        {
+          "id": "1209781",
+          "transferSource": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "6954",
+            "coachId": "59663"
+          },
+          "transferDestination": {
+            "competitionId": "JL11",
+            "countryId": 77,
+            "clubId": "1062",
+            "coachId": "36083"
+          },
+          "details": {
+            "playerId": "177775",
+            "date": "2015-02-21T00:00:00+01:00",
+            "contractUntilDate": "2018-12-31T00:00:00+01:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mitchell-duke/transfers/spieler/177775/transfer_id/1209781"
+        },
+        {
+          "id": "737753",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "26206",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "6954",
+            "coachId": "3342"
+          },
+          "details": {
+            "playerId": "177775",
+            "date": "2012-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mitchell-duke/transfers/spieler/177775/transfer_id/737753"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 35,
+      "totalMarketValue": {
+        "value": 250000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "250.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "71085",
+      "515",
+      "23568",
+      "22171",
+      "28844",
+      "36100",
+      "1062",
+      "6954",
+      "26206"
+    ],
+    "coachIds": [
+      "76458",
+      "104795",
+      "2070",
+      "5584",
+      "3415",
+      "32802",
+      "22753",
+      "10574",
+      "32364",
+      "155286",
+      "4435",
+      "4487",
+      "59663",
+      "36083",
+      "3342"
+    ],
+    "competitionIds": [
+      "AUS1",
+      "J1YV",
+      "JAP2",
+      "SA1",
+      "JAP1",
+      "JL11"
+    ],
+    "mostRecentTransfer": {
+      "id": "6368720",
+      "transferSource": {
+        "competitionId": "AUS1",
+        "countryId": 12,
+        "clubId": "71085",
+        "coachId": "76458"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "177775",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 35,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/mitchell-duke/transfers/spieler/177775/transfer_id/6368720"
+    }
+  }
+}

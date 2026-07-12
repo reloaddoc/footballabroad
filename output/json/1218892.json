@@ -1,0 +1,351 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1218892",
+    "history": {
+      "terminated": [
+        {
+          "id": "5942254",
+          "transferSource": {
+            "competitionId": "SIN2",
+            "countryId": 153,
+            "clubId": "34977",
+            "coachId": "108234"
+          },
+          "transferDestination": {
+            "competitionId": "SIN2",
+            "countryId": 153,
+            "clubId": "33990",
+            "coachId": "148117"
+          },
+          "details": {
+            "playerId": "1218892",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ashman-saravanan/transfers/spieler/1218892/transfer_id/5942254"
+        },
+        {
+          "id": "5942253",
+          "transferSource": {
+            "competitionId": "SIN2",
+            "countryId": 153,
+            "clubId": "33990",
+            "coachId": "148117"
+          },
+          "transferDestination": {
+            "competitionId": "SIN2",
+            "countryId": 153,
+            "clubId": "34977",
+            "coachId": "108234"
+          },
+          "details": {
+            "playerId": "1218892",
+            "date": "2025-07-02T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 363,
+              "daysDisplay": "11 Months, 28 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ashman-saravanan/transfers/spieler/1218892/transfer_id/5942253"
+        },
+        {
+          "id": "5998198",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 153,
+            "clubId": "87837",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SIN2",
+            "countryId": 153,
+            "clubId": "33990",
+            "coachId": "148117"
+          },
+          "details": {
+            "playerId": "1218892",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ashman-saravanan/transfers/spieler/1218892/transfer_id/5998198"
+        },
+        {
+          "id": "5496988",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 153,
+            "clubId": "105878",
+            "coachId": "148117"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 153,
+            "clubId": "87837",
+            "coachId": "58335"
+          },
+          "details": {
+            "playerId": "1218892",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ashman-saravanan/transfers/spieler/1218892/transfer_id/5496988"
+        },
+        {
+          "id": "4799427",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 153,
+            "clubId": "105878",
+            "coachId": "113733"
+          },
+          "details": {
+            "playerId": "1218892",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ashman-saravanan/transfers/spieler/1218892/transfer_id/4799427"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 18,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "34977",
+      "33990",
+      "87837",
+      "105878",
+      "75"
+    ],
+    "coachIds": [
+      "108234",
+      "148117",
+      "58335",
+      "113733"
+    ],
+    "competitionIds": [
+      "SIN2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5942254",
+      "transferSource": {
+        "competitionId": "SIN2",
+        "countryId": 153,
+        "clubId": "34977",
+        "coachId": "108234"
+      },
+      "transferDestination": {
+        "competitionId": "SIN2",
+        "countryId": 153,
+        "clubId": "33990",
+        "coachId": "148117"
+      },
+      "details": {
+        "playerId": "1218892",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/ashman-saravanan/transfers/spieler/1218892/transfer_id/5942254"
+    }
+  }
+}

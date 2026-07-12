@@ -1,0 +1,526 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "342134",
+    "history": {
+      "terminated": [
+        {
+          "id": "5437465",
+          "transferSource": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "6504",
+            "coachId": "14881"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25449",
+            "coachId": "40002"
+          },
+          "details": {
+            "playerId": "342134",
+            "date": "2025-01-08T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/myeong-seok-ko/transfers/spieler/342134/transfer_id/5437465"
+        },
+        {
+          "id": "4802648",
+          "transferSource": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "3301",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "6504",
+            "coachId": "80067"
+          },
+          "details": {
+            "playerId": "342134",
+            "date": "2024-01-05T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/myeong-seok-ko/transfers/spieler/342134/transfer_id/4802648"
+        },
+        {
+          "id": "2749054",
+          "transferSource": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "6505",
+            "coachId": "22093"
+          },
+          "transferDestination": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "3301",
+            "coachId": "30815"
+          },
+          "details": {
+            "playerId": "342134",
+            "date": "2021-06-22T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 1,
+              "daysDisplay": "1 Day"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/myeong-seok-ko/transfers/spieler/342134/transfer_id/2749054"
+        },
+        {
+          "id": "2715783",
+          "transferSource": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "3301",
+            "coachId": "14136"
+          },
+          "transferDestination": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "6505",
+            "coachId": "22093"
+          },
+          "details": {
+            "playerId": "342134",
+            "date": "2020-01-16T00:00:00+01:00",
+            "contractUntilDate": "2021-06-23T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 425000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "425.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 1445,
+              "daysDisplay": "3 Years, 11 Months, 15 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/myeong-seok-ko/transfers/spieler/342134/transfer_id/2715783"
+        },
+        {
+          "id": "2401111",
+          "transferSource": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "57665"
+          },
+          "transferDestination": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "3301",
+            "coachId": "14136"
+          },
+          "details": {
+            "playerId": "342134",
+            "date": "2019-01-04T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 325000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "325.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/myeong-seok-ko/transfers/spieler/342134/transfer_id/2401111"
+        },
+        {
+          "id": "1986708",
+          "transferSource": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "35759",
+            "coachId": "55682"
+          },
+          "transferDestination": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "57665"
+          },
+          "details": {
+            "playerId": "342134",
+            "date": "2018-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 325000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "325.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/myeong-seok-ko/transfers/spieler/342134/transfer_id/1986708"
+        },
+        {
+          "id": "1884393",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "26866",
+            "coachId": "81451"
+          },
+          "transferDestination": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "35759",
+            "coachId": "55682"
+          },
+          "details": {
+            "playerId": "342134",
+            "date": "2017-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/myeong-seok-ko/transfers/spieler/342134/transfer_id/1884393"
+        },
+        {
+          "id": "3274914",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "82603",
+            "coachId": "93144"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "26866",
+            "coachId": "81451"
+          },
+          "details": {
+            "playerId": "342134",
+            "date": "2014-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/myeong-seok-ko/transfers/spieler/342134/transfer_id/3274914"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 30,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "6504",
+      "25449",
+      "3301",
+      "6505",
+      "6499",
+      "35759",
+      "26866",
+      "82603"
+    ],
+    "coachIds": [
+      "14881",
+      "40002",
+      "80067",
+      "22093",
+      "30815",
+      "14136",
+      "57665",
+      "55682",
+      "81451",
+      "93144"
+    ],
+    "competitionIds": [
+      "RSK1",
+      "THA1",
+      "RSK2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5437465",
+      "transferSource": {
+        "competitionId": "RSK1",
+        "countryId": 87,
+        "clubId": "6504",
+        "coachId": "14881"
+      },
+      "transferDestination": {
+        "competitionId": "THA1",
+        "countryId": 167,
+        "clubId": "25449",
+        "coachId": "40002"
+      },
+      "details": {
+        "playerId": "342134",
+        "date": "2025-01-08T00:00:00+01:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 400000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "400.00",
+            "suffix": "K"
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/myeong-seok-ko/transfers/spieler/342134/transfer_id/5437465"
+    }
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "734409",
+    "history": {
+      "terminated": [
+        {
+          "id": "4779435",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "20805",
+            "coachId": "88206"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "13600",
+            "coachId": "73929"
+          },
+          "details": {
+            "playerId": "734409",
+            "date": "2024-01-08T00:00:00+01:00",
+            "contractUntilDate": "2026-01-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 23,
+              "daysDisplay": "23 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/in-ju-mun/transfers/spieler/734409/transfer_id/4779435"
+        },
+        {
+          "id": "3617381",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "80032",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "20805",
+            "coachId": "44524"
+          },
+          "details": {
+            "playerId": "734409",
+            "date": "2022-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/in-ju-mun/transfers/spieler/734409/transfer_id/3617381"
+        },
+        {
+          "id": "2940171",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "51111",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "80032",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "734409",
+            "date": "2018-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/in-ju-mun/transfers/spieler/734409/transfer_id/2940171"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "20805",
+      "13600",
+      "80032",
+      "51111"
+    ],
+    "coachIds": [
+      "88206",
+      "73929",
+      "44524"
+    ],
+    "competitionIds": [
+      "JAP3"
+    ],
+    "mostRecentTransfer": {
+      "id": "4779435",
+      "transferSource": {
+        "competitionId": "JAP3",
+        "countryId": 77,
+        "clubId": "20805",
+        "coachId": "88206"
+      },
+      "transferDestination": {
+        "competitionId": "JAP3",
+        "countryId": 77,
+        "clubId": "13600",
+        "coachId": "73929"
+      },
+      "details": {
+        "playerId": "734409",
+        "date": "2024-01-08T00:00:00+01:00",
+        "contractUntilDate": "2026-01-31T00:00:00+01:00",
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 23,
+          "daysDisplay": "23 Days"
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/in-ju-mun/transfers/spieler/734409/transfer_id/4779435"
+    }
+  }
+}

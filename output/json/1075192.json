@@ -1,0 +1,374 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1075192",
+    "history": {
+      "terminated": [
+        {
+          "id": "6397800",
+          "transferSource": {
+            "competitionId": "E3G2",
+            "countryId": 157,
+            "clubId": "13702",
+            "coachId": "65790"
+          },
+          "transferDestination": {
+            "competitionId": "E4G3",
+            "countryId": 157,
+            "clubId": "49806",
+            "coachId": "80917"
+          },
+          "details": {
+            "playerId": "1075192",
+            "date": "2026-07-02T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sergio-carmona/transfers/spieler/1075192/transfer_id/6397800"
+        },
+        {
+          "id": "5764331",
+          "transferSource": {
+            "competitionId": "SIN1",
+            "countryId": 153,
+            "clubId": "4131",
+            "coachId": "40185"
+          },
+          "transferDestination": {
+            "competitionId": "E4G5",
+            "countryId": 157,
+            "clubId": "13702",
+            "coachId": "65790"
+          },
+          "details": {
+            "playerId": "1075192",
+            "date": "2025-07-09T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sergio-carmona/transfers/spieler/1075192/transfer_id/5764331"
+        },
+        {
+          "id": "4963661",
+          "transferSource": {
+            "competitionId": "E4G5",
+            "countryId": 157,
+            "clubId": "21368",
+            "coachId": "118026"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 153,
+            "clubId": "4131",
+            "coachId": "40185"
+          },
+          "details": {
+            "playerId": "1075192",
+            "date": "2024-04-02T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 89,
+              "daysDisplay": "2 Months, 28 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sergio-carmona/transfers/spieler/1075192/transfer_id/4963661"
+        },
+        {
+          "id": "4556434",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "41685",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "E4G5",
+            "countryId": 157,
+            "clubId": "21368",
+            "coachId": "118026"
+          },
+          "details": {
+            "playerId": "1075192",
+            "date": "2023-08-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sergio-carmona/transfers/spieler/1075192/transfer_id/4556434"
+        },
+        {
+          "id": "4127357",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "70300",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "41685",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1075192",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sergio-carmona/transfers/spieler/1075192/transfer_id/4127357"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "13702",
+      "49806",
+      "4131",
+      "21368",
+      "41685",
+      "70300"
+    ],
+    "coachIds": [
+      "65790",
+      "80917",
+      "40185",
+      "118026"
+    ],
+    "competitionIds": [
+      "E3G2",
+      "E4G3",
+      "SIN1",
+      "E4G5"
+    ],
+    "mostRecentTransfer": {
+      "id": "6397800",
+      "transferSource": {
+        "competitionId": "E3G2",
+        "countryId": 157,
+        "clubId": "13702",
+        "coachId": "65790"
+      },
+      "transferDestination": {
+        "competitionId": "E4G3",
+        "countryId": 157,
+        "clubId": "49806",
+        "coachId": "80917"
+      },
+      "details": {
+        "playerId": "1075192",
+        "date": "2026-07-02T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/sergio-carmona/transfers/spieler/1075192/transfer_id/6397800"
+    }
+  }
+}

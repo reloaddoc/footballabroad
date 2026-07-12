@@ -1,0 +1,984 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "187591",
+    "history": {
+      "terminated": [
+        {
+          "id": "6179982",
+          "transferSource": {
+            "competitionId": "CZ3M",
+            "countryId": 172,
+            "clubId": "8684",
+            "coachId": "29125"
+          },
+          "transferDestination": {
+            "competitionId": "TS2",
+            "countryId": 172,
+            "clubId": "13718",
+            "coachId": "16062"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 34,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/6179982"
+        },
+        {
+          "id": "6176382",
+          "transferSource": {
+            "competitionId": "TS2",
+            "countryId": 172,
+            "clubId": "13718",
+            "coachId": "68239"
+          },
+          "transferDestination": {
+            "competitionId": "CZ3M",
+            "countryId": 172,
+            "clubId": "8684",
+            "coachId": "72263"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2026-02-09T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 33,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/6176382"
+        },
+        {
+          "id": "5520396",
+          "transferSource": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "12019",
+            "coachId": "49873"
+          },
+          "transferDestination": {
+            "competitionId": "TS2",
+            "countryId": 172,
+            "clubId": "13718",
+            "coachId": "24527"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2025-02-12T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/5520396"
+        },
+        {
+          "id": "5072950",
+          "transferSource": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "13726",
+            "coachId": "70125"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "12019",
+            "coachId": "49873"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/5072950"
+        },
+        {
+          "id": "4451884",
+          "transferSource": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "377",
+            "coachId": "2858"
+          },
+          "transferDestination": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "13726",
+            "coachId": "41077"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/4451884"
+        },
+        {
+          "id": "4048241",
+          "transferSource": {
+            "competitionId": "TS2",
+            "countryId": 172,
+            "clubId": "13726",
+            "coachId": "41077"
+          },
+          "transferDestination": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "377",
+            "coachId": "2858"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/4048241"
+        },
+        {
+          "id": "4047625",
+          "transferSource": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "377",
+            "coachId": "4861"
+          },
+          "transferDestination": {
+            "competitionId": "TS2",
+            "countryId": 172,
+            "clubId": "13726",
+            "coachId": "41077"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2022-08-30T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "remainingContractPeriod": {
+              "days": 304,
+              "daysDisplay": "10 Months"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/4047625"
+        },
+        {
+          "id": "3419687",
+          "transferSource": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "5546",
+            "coachId": "2867"
+          },
+          "transferDestination": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "377",
+            "coachId": "64004"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2021-07-02T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 650000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "650.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 363,
+              "daysDisplay": "11 Months, 28 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/3419687"
+        },
+        {
+          "id": "2520339",
+          "transferSource": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "13726",
+            "coachId": "632"
+          },
+          "transferDestination": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "5546",
+            "coachId": "24527"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 750000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "750.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/2520339"
+        },
+        {
+          "id": "1294211",
+          "transferSource": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "715",
+            "coachId": "2724"
+          },
+          "transferDestination": {
+            "competitionId": "TS2",
+            "countryId": 172,
+            "clubId": "13726",
+            "coachId": "24527"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/1294211"
+        },
+        {
+          "id": "1085085",
+          "transferSource": {
+            "competitionId": "TS2",
+            "countryId": 172,
+            "clubId": "13726",
+            "coachId": "24527"
+          },
+          "transferDestination": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "715",
+            "coachId": "2724"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2015-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/1085085"
+        },
+        {
+          "id": "1085084",
+          "transferSource": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "715",
+            "coachId": "2724"
+          },
+          "transferDestination": {
+            "competitionId": "TS2",
+            "countryId": 172,
+            "clubId": "13726",
+            "coachId": "24527"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2014-07-14T00:00:00+02:00",
+            "contractUntilDate": "2015-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/1085084"
+        },
+        {
+          "id": "610955",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 172,
+            "clubId": "15763",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "TS1",
+            "countryId": 172,
+            "clubId": "715",
+            "coachId": "5693"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2011-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/610955"
+        },
+        {
+          "id": "6176383",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 172,
+            "clubId": "32691",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 172,
+            "clubId": "15763",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2009-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/6176383"
+        },
+        {
+          "id": "6176384",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 172,
+            "clubId": "125074",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 172,
+            "clubId": "32691",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2008-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/6176384"
+        },
+        {
+          "id": "6176385",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 172,
+            "clubId": "128596",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 172,
+            "clubId": "125074",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2005-08-24T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2005,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2005,
+              "display": "05/06",
+              "cyclicalName": "2006",
+              "nonCyclicalName": "05/06"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/6176385"
+        },
+        {
+          "id": "6176386",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 172,
+            "clubId": "118342",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 172,
+            "clubId": "128596",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "187591",
+            "date": "2005-03-09T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2004,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 12,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2004,
+              "display": "04/05",
+              "cyclicalName": "2005",
+              "nonCyclicalName": "04/05"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/6176386"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 34,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "8684",
+      "13718",
+      "12019",
+      "13726",
+      "377",
+      "5546",
+      "715",
+      "15763",
+      "32691",
+      "125074",
+      "128596",
+      "118342"
+    ],
+    "coachIds": [
+      "29125",
+      "16062",
+      "68239",
+      "72263",
+      "49873",
+      "24527",
+      "70125",
+      "2858",
+      "41077",
+      "4861",
+      "2867",
+      "64004",
+      "632",
+      "2724",
+      "5693"
+    ],
+    "competitionIds": [
+      "CZ3M",
+      "TS2",
+      "KAS1",
+      "TS1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6179982",
+      "transferSource": {
+        "competitionId": "CZ3M",
+        "countryId": 172,
+        "clubId": "8684",
+        "coachId": "29125"
+      },
+      "transferDestination": {
+        "competitionId": "TS2",
+        "countryId": 172,
+        "clubId": "13718",
+        "coachId": "16062"
+      },
+      "details": {
+        "playerId": "187591",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 34,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/lukas-budinsky/transfers/spieler/187591/transfer_id/6179982"
+    }
+  }
+}

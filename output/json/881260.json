@@ -1,0 +1,615 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "881260",
+    "history": {
+      "terminated": [
+        {
+          "id": "6170386",
+          "transferSource": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "68029",
+            "coachId": "63888"
+          },
+          "transferDestination": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "64480",
+            "coachId": "21776"
+          },
+          "details": {
+            "playerId": "881260",
+            "date": "2026-02-05T00:00:00+01:00",
+            "contractUntilDate": "2026-11-30T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jassem-koleilat/transfers/spieler/881260/transfer_id/6170386"
+        },
+        {
+          "id": "4878801",
+          "transferSource": {
+            "competitionId": "MNP3",
+            "countryId": 184,
+            "clubId": "102400",
+            "coachId": "50620"
+          },
+          "transferDestination": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "68029",
+            "coachId": "63888"
+          },
+          "details": {
+            "playerId": "881260",
+            "date": "2024-02-07T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jassem-koleilat/transfers/spieler/881260/transfer_id/4878801"
+        },
+        {
+          "id": "4336529",
+          "transferSource": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "51828",
+            "coachId": "34485"
+          },
+          "transferDestination": {
+            "competitionId": "MNP3",
+            "countryId": 184,
+            "clubId": "102400",
+            "coachId": "100903"
+          },
+          "details": {
+            "playerId": "881260",
+            "date": "2023-03-24T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jassem-koleilat/transfers/spieler/881260/transfer_id/4336529"
+        },
+        {
+          "id": "4189732",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "51977",
+            "coachId": "155652"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "51828",
+            "coachId": "34485"
+          },
+          "details": {
+            "playerId": "881260",
+            "date": "2022-12-21T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "draft",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jassem-koleilat/transfers/spieler/881260/transfer_id/4189732"
+        },
+        {
+          "id": "4413212",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "41467",
+            "coachId": "64119"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "51977",
+            "coachId": "155652"
+          },
+          "details": {
+            "playerId": "881260",
+            "date": "2022-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jassem-koleilat/transfers/spieler/881260/transfer_id/4413212"
+        },
+        {
+          "id": "4413211",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "51977",
+            "coachId": "155652"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "41467",
+            "coachId": "64119"
+          },
+          "details": {
+            "playerId": "881260",
+            "date": "2022-05-01T00:00:00+02:00",
+            "contractUntilDate": "2022-08-01T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jassem-koleilat/transfers/spieler/881260/transfer_id/4413211"
+        },
+        {
+          "id": "3321950",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "57774",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "51977",
+            "coachId": "155652"
+          },
+          "details": {
+            "playerId": "881260",
+            "date": "2020-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jassem-koleilat/transfers/spieler/881260/transfer_id/3321950"
+        },
+        {
+          "id": "3321949",
+          "transferSource": {
+            "competitionId": "C3PL",
+            "countryId": 50,
+            "clubId": "24218",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "57774",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "881260",
+            "date": "2019-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jassem-koleilat/transfers/spieler/881260/transfer_id/3321949"
+        },
+        {
+          "id": "4189734",
+          "transferSource": {
+            "competitionId": "CZ21",
+            "countryId": 172,
+            "clubId": "6483",
+            "coachId": "58733"
+          },
+          "transferDestination": {
+            "competitionId": "C3NA",
+            "countryId": 50,
+            "clubId": "24218",
+            "coachId": "132672"
+          },
+          "details": {
+            "playerId": "881260",
+            "date": "2019-01-05T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jassem-koleilat/transfers/spieler/881260/transfer_id/4189734"
+        },
+        {
+          "id": "4189733",
+          "transferSource": {
+            "competitionId": "C3NA",
+            "countryId": 50,
+            "clubId": "24218",
+            "coachId": "132672"
+          },
+          "transferDestination": {
+            "competitionId": "CZ21",
+            "countryId": 172,
+            "clubId": "6483",
+            "coachId": "28479"
+          },
+          "details": {
+            "playerId": "881260",
+            "date": "2018-11-06T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jassem-koleilat/transfers/spieler/881260/transfer_id/4189733"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "68029",
+      "64480",
+      "102400",
+      "51828",
+      "51977",
+      "41467",
+      "57774",
+      "24218",
+      "6483"
+    ],
+    "coachIds": [
+      "63888",
+      "21776",
+      "50620",
+      "34485",
+      "100903",
+      "155652",
+      "64119",
+      "58733",
+      "132672",
+      "28479"
+    ],
+    "competitionIds": [
+      "CDN1",
+      "USL",
+      "MNP3",
+      "MLS1",
+      "C3PL",
+      "CZ21",
+      "C3NA"
+    ],
+    "mostRecentTransfer": {
+      "id": "6170386",
+      "transferSource": {
+        "competitionId": "CDN1",
+        "countryId": 80,
+        "clubId": "68029",
+        "coachId": "63888"
+      },
+      "transferDestination": {
+        "competitionId": "USL",
+        "countryId": 184,
+        "clubId": "64480",
+        "coachId": "21776"
+      },
+      "details": {
+        "playerId": "881260",
+        "date": "2026-02-05T00:00:00+01:00",
+        "contractUntilDate": "2026-11-30T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jassem-koleilat/transfers/spieler/881260/transfer_id/6170386"
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "828467",
+    "history": {
+      "terminated": [
+        {
+          "id": "6125169",
+          "transferSource": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "456",
+            "coachId": "39082"
+          },
+          "transferDestination": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "419",
+            "coachId": "39469"
+          },
+          "details": {
+            "playerId": "828467",
+            "date": "2026-01-16T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 165,
+              "daysDisplay": "5 Months, 14 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/paul-tabinas/transfers/spieler/828467/transfer_id/6125169"
+        },
+        {
+          "id": "4128108",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "16005",
+            "coachId": "43628"
+          },
+          "transferDestination": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "456",
+            "coachId": "25136"
+          },
+          "details": {
+            "playerId": "828467",
+            "date": "2023-02-22T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 343,
+              "daysDisplay": "11 Months, 9 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/paul-tabinas/transfers/spieler/828467/transfer_id/4128108"
+        },
+        {
+          "id": "3118108",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "25657",
+            "coachId": "104795"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "16005",
+            "coachId": "14862"
+          },
+          "details": {
+            "playerId": "828467",
+            "date": "2021-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/paul-tabinas/transfers/spieler/828467/transfer_id/3118108"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "456",
+      "419",
+      "16005",
+      "25657"
+    ],
+    "coachIds": [
+      "39082",
+      "39469",
+      "43628",
+      "25136",
+      "104795",
+      "14862"
+    ],
+    "competitionIds": [
+      "KR1",
+      "JAP3",
+      "KR2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6125169",
+      "transferSource": {
+        "competitionId": "KR1",
+        "countryId": 37,
+        "clubId": "456",
+        "coachId": "39082"
+      },
+      "transferDestination": {
+        "competitionId": "KR1",
+        "countryId": 37,
+        "clubId": "419",
+        "coachId": "39469"
+      },
+      "details": {
+        "playerId": "828467",
+        "date": "2026-01-16T00:00:00+01:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 165,
+          "daysDisplay": "5 Months, 14 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/paul-tabinas/transfers/spieler/828467/transfer_id/6125169"
+    }
+  }
+}

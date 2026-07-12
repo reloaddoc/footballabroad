@@ -1,0 +1,204 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1199951",
+    "history": {
+      "terminated": [
+        {
+          "id": "4716408",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "27109",
+            "coachId": "46363"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22175",
+            "coachId": "7840"
+          },
+          "details": {
+            "playerId": "1199951",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": "2026-01-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jeong-min-bae/transfers/spieler/1199951/transfer_id/4716408"
+        },
+        {
+          "id": "4716409",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "82276",
+            "coachId": "94281"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "27109",
+            "coachId": "46363"
+          },
+          "details": {
+            "playerId": "1199951",
+            "date": "2020-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jeong-min-bae/transfers/spieler/1199951/transfer_id/4716409"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "27109",
+      "22175",
+      "82276"
+    ],
+    "coachIds": [
+      "46363",
+      "7840",
+      "94281"
+    ],
+    "competitionIds": [
+      "JAP2"
+    ],
+    "mostRecentTransfer": {
+      "id": "4716408",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 77,
+        "clubId": "27109",
+        "coachId": "46363"
+      },
+      "transferDestination": {
+        "competitionId": "JAP2",
+        "countryId": 77,
+        "clubId": "22175",
+        "coachId": "7840"
+      },
+      "details": {
+        "playerId": "1199951",
+        "date": "2024-02-01T00:00:00+01:00",
+        "contractUntilDate": "2026-01-31T00:00:00+01:00",
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jeong-min-bae/transfers/spieler/1199951/transfer_id/4716408"
+    }
+  }
+}

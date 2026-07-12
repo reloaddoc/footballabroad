@@ -1,0 +1,268 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1044683",
+    "history": {
+      "terminated": [
+        {
+          "id": "6176944",
+          "transferSource": {
+            "competitionId": "ISR2",
+            "countryId": 74,
+            "clubId": "554",
+            "coachId": "70284"
+          },
+          "transferDestination": {
+            "competitionId": "ISR2",
+            "countryId": 74,
+            "clubId": "6025",
+            "coachId": "45531"
+          },
+          "details": {
+            "playerId": "1044683",
+            "date": "2026-02-09T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 141,
+              "daysDisplay": "4 Months, 21 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/junior-magico-traore/transfers/spieler/1044683/transfer_id/6176944"
+        },
+        {
+          "id": "5714816",
+          "transferSource": {
+            "competitionId": "ARM1",
+            "countryId": 10,
+            "clubId": "4807",
+            "coachId": "106689"
+          },
+          "transferDestination": {
+            "competitionId": "ISR2",
+            "countryId": 74,
+            "clubId": "554",
+            "coachId": "70284"
+          },
+          "details": {
+            "playerId": "1044683",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/junior-magico-traore/transfers/spieler/1044683/transfer_id/5714816"
+        },
+        {
+          "id": "4011389",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "ARM1",
+            "countryId": 10,
+            "clubId": "4807",
+            "coachId": "55726"
+          },
+          "details": {
+            "playerId": "1044683",
+            "date": "2022-08-12T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/junior-magico-traore/transfers/spieler/1044683/transfer_id/4011389"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 175000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "175.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "554",
+      "6025",
+      "4807",
+      "75"
+    ],
+    "coachIds": [
+      "70284",
+      "45531",
+      "106689",
+      "55726"
+    ],
+    "competitionIds": [
+      "ISR2",
+      "ARM1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6176944",
+      "transferSource": {
+        "competitionId": "ISR2",
+        "countryId": 74,
+        "clubId": "554",
+        "coachId": "70284"
+      },
+      "transferDestination": {
+        "competitionId": "ISR2",
+        "countryId": 74,
+        "clubId": "6025",
+        "coachId": "45531"
+      },
+      "details": {
+        "playerId": "1044683",
+        "date": "2026-02-09T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 175000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "175.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 141,
+          "daysDisplay": "4 Months, 21 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/junior-magico-traore/transfers/spieler/1044683/transfer_id/6176944"
+    }
+  }
+}

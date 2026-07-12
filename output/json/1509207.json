@@ -1,0 +1,200 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1509207",
+    "history": {
+      "terminated": [
+        {
+          "id": "6155406",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "129867",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CYP2",
+            "countryId": 188,
+            "clubId": "31804",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1509207",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andy-daniel-brumea/transfers/spieler/1509207/transfer_id/6155406"
+        },
+        {
+          "id": "6155407",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "129557",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "129867",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1509207",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andy-daniel-brumea/transfers/spieler/1509207/transfer_id/6155407"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "129867",
+      "31804",
+      "129557"
+    ],
+    "coachIds": [],
+    "competitionIds": [
+      "CYP2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6155406",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 188,
+        "clubId": "129867",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "CYP2",
+        "countryId": 188,
+        "clubId": "31804",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1509207",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/andy-daniel-brumea/transfers/spieler/1509207/transfer_id/6155406"
+    }
+  }
+}

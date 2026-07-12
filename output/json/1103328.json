@@ -1,0 +1,540 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1103328",
+    "history": {
+      "terminated": [
+        {
+          "id": "6323031",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "42125",
+            "coachId": "156758"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1103328",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vitor-venancio/transfers/spieler/1103328/transfer_id/6323031"
+        },
+        {
+          "id": "5868120",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 183,
+            "clubId": "113318",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CYP2",
+            "countryId": 188,
+            "clubId": "42125",
+            "coachId": "121218"
+          },
+          "details": {
+            "playerId": "1103328",
+            "date": "2025-09-03T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vitor-venancio/transfers/spieler/1103328/transfer_id/5868120"
+        },
+        {
+          "id": "5182190",
+          "transferSource": {
+            "competitionId": "CZ3C",
+            "countryId": 172,
+            "clubId": "58407",
+            "coachId": "84201"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 183,
+            "clubId": "113318",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1103328",
+            "date": "2024-09-01T00:00:00+02:00",
+            "contractUntilDate": "2025-04-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 302,
+              "daysDisplay": "9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vitor-venancio/transfers/spieler/1103328/transfer_id/5182190"
+        },
+        {
+          "id": "4905610",
+          "transferSource": {
+            "competitionId": "FIYK",
+            "countryId": 49,
+            "clubId": "8043",
+            "coachId": "63194"
+          },
+          "transferDestination": {
+            "competitionId": "CZ3C",
+            "countryId": 172,
+            "clubId": "58407",
+            "coachId": "84201"
+          },
+          "details": {
+            "playerId": "1103328",
+            "date": "2024-02-23T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vitor-venancio/transfers/spieler/1103328/transfer_id/4905610"
+        },
+        {
+          "id": "4267549",
+          "transferSource": {
+            "competitionId": "F4LA",
+            "countryId": 49,
+            "clubId": "61924",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "FI2",
+            "countryId": 49,
+            "clubId": "8043",
+            "coachId": "65425"
+          },
+          "details": {
+            "playerId": "1103328",
+            "date": "2023-02-09T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vitor-venancio/transfers/spieler/1103328/transfer_id/4267549"
+        },
+        {
+          "id": "4960476",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "90973",
+            "coachId": "133881"
+          },
+          "transferDestination": {
+            "competitionId": "F4LA",
+            "countryId": 49,
+            "clubId": "61924",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1103328",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vitor-venancio/transfers/spieler/1103328/transfer_id/4960476"
+        },
+        {
+          "id": "4960475",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "68576",
+            "coachId": "69283"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "90973",
+            "coachId": "133881"
+          },
+          "details": {
+            "playerId": "1103328",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vitor-venancio/transfers/spieler/1103328/transfer_id/4960475"
+        },
+        {
+          "id": "4960477",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "77028",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "68576",
+            "coachId": "69283"
+          },
+          "details": {
+            "playerId": "1103328",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vitor-venancio/transfers/spieler/1103328/transfer_id/4960477"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 28,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "42125",
+      "515",
+      "113318",
+      "58407",
+      "8043",
+      "61924",
+      "90973",
+      "68576",
+      "77028"
+    ],
+    "coachIds": [
+      "156758",
+      "121218",
+      "84201",
+      "63194",
+      "65425",
+      "133881",
+      "69283"
+    ],
+    "competitionIds": [
+      "CYP2",
+      "CZ3C",
+      "FIYK",
+      "F4LA",
+      "FI2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6323031",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 188,
+        "clubId": "42125",
+        "coachId": "156758"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1103328",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 28,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/vitor-venancio/transfers/spieler/1103328/transfer_id/6323031"
+    }
+  }
+}

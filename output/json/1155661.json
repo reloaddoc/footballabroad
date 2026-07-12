@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1155661",
+    "history": {
+      "terminated": [
+        {
+          "id": "5881516",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "70272",
+            "coachId": "77118"
+          },
+          "transferDestination": {
+            "competitionId": "PFL1",
+            "countryId": 134,
+            "clubId": "83908",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1155661",
+            "date": "2025-07-23T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eun-soo-park/transfers/spieler/1155661/transfer_id/5881516"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "70272",
+      "83908"
+    ],
+    "coachIds": [
+      "77118"
+    ],
+    "competitionIds": [
+      "PFL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5881516",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 87,
+        "clubId": "70272",
+        "coachId": "77118"
+      },
+      "transferDestination": {
+        "competitionId": "PFL1",
+        "countryId": 134,
+        "clubId": "83908",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1155661",
+        "date": "2025-07-23T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/eun-soo-park/transfers/spieler/1155661/transfer_id/5881516"
+    }
+  }
+}

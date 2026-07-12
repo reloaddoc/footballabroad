@@ -1,0 +1,213 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1072754",
+    "history": {
+      "terminated": [
+        {
+          "id": "6143229",
+          "transferSource": {
+            "competitionId": "MNE2",
+            "countryId": 216,
+            "clubId": "35545",
+            "coachId": "110122"
+          },
+          "transferDestination": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "16696",
+            "coachId": "100034"
+          },
+          "details": {
+            "playerId": "1072754",
+            "date": "2026-01-24T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 507,
+              "daysDisplay": "1 Year, 4 Months, 22 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/aleksa-karadzic/transfers/spieler/1072754/transfer_id/6143229"
+        },
+        {
+          "id": "4704476",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 216,
+            "clubId": "80621",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MNE2",
+            "countryId": 216,
+            "clubId": "35545",
+            "coachId": "4255"
+          },
+          "details": {
+            "playerId": "1072754",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-15T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/aleksa-karadzic/transfers/spieler/1072754/transfer_id/4704476"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "35545",
+      "16696",
+      "80621"
+    ],
+    "coachIds": [
+      "110122",
+      "100034",
+      "4255"
+    ],
+    "competitionIds": [
+      "MNE2",
+      "RSK2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6143229",
+      "transferSource": {
+        "competitionId": "MNE2",
+        "countryId": 216,
+        "clubId": "35545",
+        "coachId": "110122"
+      },
+      "transferDestination": {
+        "competitionId": "RSK2",
+        "countryId": 87,
+        "clubId": "16696",
+        "coachId": "100034"
+      },
+      "details": {
+        "playerId": "1072754",
+        "date": "2026-01-24T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 507,
+          "daysDisplay": "1 Year, 4 Months, 22 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/aleksa-karadzic/transfers/spieler/1072754/transfer_id/6143229"
+    }
+  }
+}

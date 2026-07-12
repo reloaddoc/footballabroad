@@ -1,0 +1,1025 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "328122",
+    "history": {
+      "terminated": [
+        {
+          "id": "6404977",
+          "transferSource": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15817",
+            "coachId": "67577"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "62736",
+            "coachId": "53005"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2026-07-06T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/6404977"
+        },
+        {
+          "id": "6147414",
+          "transferSource": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15630",
+            "coachId": "113416"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15817",
+            "coachId": "67577"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2026-01-28T00:00:00+01:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 123,
+              "daysDisplay": "4 Months, 3 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/6147414"
+        },
+        {
+          "id": "5705868",
+          "transferSource": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "28990",
+            "coachId": "119555"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15630",
+            "coachId": "8004"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/5705868"
+        },
+        {
+          "id": "5461896",
+          "transferSource": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "314",
+            "coachId": "77132"
+          },
+          "transferDestination": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "28990",
+            "coachId": "119555"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2025-01-17T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 164,
+              "daysDisplay": "5 Months, 13 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/5461896"
+        },
+        {
+          "id": "5264046",
+          "transferSource": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "38038",
+            "coachId": "41350"
+          },
+          "transferDestination": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "314",
+            "coachId": "77132"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2024-09-11T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 626,
+              "daysDisplay": "1 Year, 8 Months, 19 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/5264046"
+        },
+        {
+          "id": "4570428",
+          "transferSource": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "14621",
+            "coachId": "41350"
+          },
+          "transferDestination": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "38038",
+            "coachId": "119555"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2023-08-11T00:00:00+02:00",
+            "contractUntilDate": "2026-05-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/4570428"
+        },
+        {
+          "id": "3925363",
+          "transferSource": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "10439",
+            "coachId": "42663"
+          },
+          "transferDestination": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "14621",
+            "coachId": "48241"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2022-07-05T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/3925363"
+        },
+        {
+          "id": "3200524",
+          "transferSource": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "11100",
+            "coachId": "4210"
+          },
+          "transferDestination": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "10439",
+            "coachId": "42663"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2021-02-05T00:00:00+01:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 145,
+              "daysDisplay": "4 Months, 25 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/3200524"
+        },
+        {
+          "id": "2776759",
+          "transferSource": {
+            "competitionId": "CIR5",
+            "countryId": 148,
+            "clubId": "37671",
+            "coachId": "27445"
+          },
+          "transferDestination": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "11100",
+            "coachId": "42837"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2020-02-24T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/2776759"
+        },
+        {
+          "id": "2566086",
+          "transferSource": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "10439",
+            "coachId": "25462"
+          },
+          "transferDestination": {
+            "competitionId": "CIR5",
+            "countryId": 148,
+            "clubId": "37671",
+            "coachId": "27445"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2019-07-17T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/2566086"
+        },
+        {
+          "id": "2347161",
+          "transferSource": {
+            "competitionId": "BOS1",
+            "countryId": 24,
+            "clubId": "33627",
+            "coachId": "8974"
+          },
+          "transferDestination": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "10439",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2019-01-09T00:00:00+01:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 172,
+              "daysDisplay": "5 Months, 21 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/2347161"
+        },
+        {
+          "id": "2178891",
+          "transferSource": {
+            "competitionId": "BOS1",
+            "countryId": 24,
+            "clubId": "2573",
+            "coachId": "2740"
+          },
+          "transferDestination": {
+            "competitionId": "BOS1",
+            "countryId": 24,
+            "clubId": "33627",
+            "coachId": "40761"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2018-07-13T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 749,
+              "daysDisplay": "2 Years, 18 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/2178891"
+        },
+        {
+          "id": "2056642",
+          "transferSource": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "6804",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "BOS1",
+            "countryId": 24,
+            "clubId": "2573",
+            "coachId": "2740"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2018-06-20T00:00:00+02:00",
+            "contractUntilDate": "2020-07-31T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/2056642"
+        },
+        {
+          "id": "2056641",
+          "transferSource": {
+            "competitionId": "BOS1",
+            "countryId": 24,
+            "clubId": "2573",
+            "coachId": "35736"
+          },
+          "transferDestination": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "6804",
+            "coachId": "40389"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2018-03-08T00:00:00+01:00",
+            "contractUntilDate": "2018-06-20T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 876,
+              "daysDisplay": "2 Years, 4 Months, 23 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/2056641"
+        },
+        {
+          "id": "1876571",
+          "transferSource": {
+            "competitionId": "BI19",
+            "countryId": 24,
+            "clubId": "11252",
+            "coachId": "56547"
+          },
+          "transferDestination": {
+            "competitionId": "BOS1",
+            "countryId": 24,
+            "clubId": "2573",
+            "coachId": "35736"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2017-08-09T00:00:00+02:00",
+            "contractUntilDate": "2020-07-31T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/1876571"
+        },
+        {
+          "id": "1876570",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 24,
+            "clubId": "53703",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 24,
+            "clubId": "11252",
+            "coachId": "42658"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": "2017-06-23T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/1876570"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6404978",
+          "transferSource": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "62736",
+            "coachId": "53005"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15817",
+            "coachId": "67577"
+          },
+          "details": {
+            "playerId": "328122",
+            "date": "2027-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/6404978"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 28,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "62736",
+      "15817",
+      "15630",
+      "28990",
+      "314",
+      "38038",
+      "14621",
+      "10439",
+      "11100",
+      "37671",
+      "33627",
+      "2573",
+      "6804",
+      "11252",
+      "53703"
+    ],
+    "coachIds": [
+      "53005",
+      "67577",
+      "113416",
+      "119555",
+      "8004",
+      "77132",
+      "41350",
+      "42663",
+      "48241",
+      "4210",
+      "27445",
+      "42837",
+      "25462",
+      "8974",
+      "2740",
+      "40761",
+      "35736",
+      "40389",
+      "56547",
+      "42658"
+    ],
+    "competitionIds": [
+      "MYS1",
+      "KR2",
+      "BOS2",
+      "CIR5",
+      "BOS1",
+      "BI19"
+    ],
+    "mostRecentTransfer": {
+      "id": "6404977",
+      "transferSource": {
+        "competitionId": "MYS1",
+        "countryId": 103,
+        "clubId": "15817",
+        "coachId": "67577"
+      },
+      "transferDestination": {
+        "competitionId": "MYS1",
+        "countryId": 103,
+        "clubId": "62736",
+        "coachId": "53005"
+      },
+      "details": {
+        "playerId": "328122",
+        "date": "2026-07-06T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 400000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "400.00",
+            "suffix": "K"
+          }
+        },
+        "age": 28,
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/ajdin-mujagic/transfers/spieler/328122/transfer_id/6404977"
+    }
+  }
+}

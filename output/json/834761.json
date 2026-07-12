@@ -1,0 +1,471 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "834761",
+    "history": {
+      "terminated": [
+        {
+          "id": "6135875",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "9738",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "67001",
+            "coachId": "95717"
+          },
+          "details": {
+            "playerId": "834761",
+            "date": "2026-01-21T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miguel-arilla/transfers/spieler/834761/transfer_id/6135875"
+        },
+        {
+          "id": "4522603",
+          "transferSource": {
+            "competitionId": "E4G3",
+            "countryId": 157,
+            "clubId": "6182",
+            "coachId": "72839"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "9738",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "834761",
+            "date": "2023-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miguel-arilla/transfers/spieler/834761/transfer_id/4522603"
+        },
+        {
+          "id": "4010291",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "67509",
+            "coachId": "24758"
+          },
+          "transferDestination": {
+            "competitionId": "E4G3",
+            "countryId": 157,
+            "clubId": "6182",
+            "coachId": "72839"
+          },
+          "details": {
+            "playerId": "834761",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/miguel-arilla/transfers/spieler/834761/transfer_id/4010291"
+        },
+        {
+          "id": "4010290",
+          "transferSource": {
+            "competitionId": "E4G3",
+            "countryId": 157,
+            "clubId": "6182",
+            "coachId": "72839"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "67509",
+            "coachId": "43062"
+          },
+          "details": {
+            "playerId": "834761",
+            "date": "2022-08-12T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 322,
+              "daysDisplay": "10 Months, 18 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/miguel-arilla/transfers/spieler/834761/transfer_id/4010290"
+        },
+        {
+          "id": "3671996",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "10200",
+            "coachId": "113908"
+          },
+          "transferDestination": {
+            "competitionId": "E4G3",
+            "countryId": 157,
+            "clubId": "6182",
+            "coachId": "72839"
+          },
+          "details": {
+            "playerId": "834761",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miguel-arilla/transfers/spieler/834761/transfer_id/3671996"
+        },
+        {
+          "id": "3136977",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "70397",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "10200",
+            "coachId": "72839"
+          },
+          "details": {
+            "playerId": "834761",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miguel-arilla/transfers/spieler/834761/transfer_id/3136977"
+        },
+        {
+          "id": "3577572",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "86228",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "70397",
+            "coachId": "36301"
+          },
+          "details": {
+            "playerId": "834761",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miguel-arilla/transfers/spieler/834761/transfer_id/3577572"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "9738",
+      "67001",
+      "6182",
+      "67509",
+      "10200",
+      "70397",
+      "86228"
+    ],
+    "coachIds": [
+      "95717",
+      "72839",
+      "24758",
+      "43062",
+      "113908",
+      "36301"
+    ],
+    "competitionIds": [
+      "CDN1",
+      "E4G3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6135875",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 184,
+        "clubId": "9738",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "CDN1",
+        "countryId": 80,
+        "clubId": "67001",
+        "coachId": "95717"
+      },
+      "details": {
+        "playerId": "834761",
+        "date": "2026-01-21T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/miguel-arilla/transfers/spieler/834761/transfer_id/6135875"
+    }
+  }
+}

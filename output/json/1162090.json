@@ -1,0 +1,245 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1162090",
+    "history": {
+      "terminated": [
+        {
+          "id": "6235933",
+          "transferSource": {
+            "competitionId": "MNP3",
+            "countryId": 184,
+            "clubId": "46721",
+            "coachId": "51917"
+          },
+          "transferDestination": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "67001",
+            "coachId": "95717"
+          },
+          "details": {
+            "playerId": "1162090",
+            "date": "2026-03-18T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 288,
+              "daysDisplay": "9 Months, 13 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/cyprian-kachwele/transfers/spieler/1162090/transfer_id/6235933"
+        },
+        {
+          "id": "4556672",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 166,
+            "clubId": "28970",
+            "coachId": "67250"
+          },
+          "transferDestination": {
+            "competitionId": "MNP3",
+            "countryId": 184,
+            "clubId": "46721",
+            "coachId": "90514"
+          },
+          "details": {
+            "playerId": "1162090",
+            "date": "2023-11-16T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cyprian-kachwele/transfers/spieler/1162090/transfer_id/4556672"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6235934",
+          "transferSource": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "67001",
+            "coachId": "95717"
+          },
+          "transferDestination": {
+            "competitionId": "MNP3",
+            "countryId": 184,
+            "clubId": "46721",
+            "coachId": "51917"
+          },
+          "details": {
+            "playerId": "1162090",
+            "date": "2026-12-31T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/cyprian-kachwele/transfers/spieler/1162090/transfer_id/6235934"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "67001",
+      "46721",
+      "28970"
+    ],
+    "coachIds": [
+      "95717",
+      "51917",
+      "67250",
+      "90514"
+    ],
+    "competitionIds": [
+      "CDN1",
+      "MNP3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6235933",
+      "transferSource": {
+        "competitionId": "MNP3",
+        "countryId": 184,
+        "clubId": "46721",
+        "coachId": "51917"
+      },
+      "transferDestination": {
+        "competitionId": "CDN1",
+        "countryId": 80,
+        "clubId": "67001",
+        "coachId": "95717"
+      },
+      "details": {
+        "playerId": "1162090",
+        "date": "2026-03-18T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "remainingContractPeriod": {
+          "days": 288,
+          "daysDisplay": "9 Months, 13 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/cyprian-kachwele/transfers/spieler/1162090/transfer_id/6235933"
+    }
+  }
+}

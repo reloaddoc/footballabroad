@@ -1,0 +1,214 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "737659",
+    "history": {
+      "terminated": [
+        {
+          "id": "6079034",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "34177",
+            "coachId": "145373"
+          },
+          "transferDestination": {
+            "competitionId": "KTOS",
+            "countryId": 77,
+            "clubId": "78629",
+            "coachId": "136325"
+          },
+          "details": {
+            "playerId": "737659",
+            "date": "2026-01-12T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 19,
+              "daysDisplay": "19 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/onye-ogochukwu/transfers/spieler/737659/transfer_id/6079034"
+        },
+        {
+          "id": "2764521",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "82276",
+            "coachId": "94281"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "34177",
+            "coachId": "66397"
+          },
+          "details": {
+            "playerId": "737659",
+            "date": "2020-02-01T00:00:00+01:00",
+            "contractUntilDate": "2026-01-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/onye-ogochukwu/transfers/spieler/737659/transfer_id/2764521"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "34177",
+      "78629",
+      "82276"
+    ],
+    "coachIds": [
+      "145373",
+      "136325",
+      "94281",
+      "66397"
+    ],
+    "competitionIds": [
+      "KTOS",
+      "JAP3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6079034",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 77,
+        "clubId": "34177",
+        "coachId": "145373"
+      },
+      "transferDestination": {
+        "competitionId": "KTOS",
+        "countryId": 77,
+        "clubId": "78629",
+        "coachId": "136325"
+      },
+      "details": {
+        "playerId": "737659",
+        "date": "2026-01-12T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 19,
+          "daysDisplay": "19 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/onye-ogochukwu/transfers/spieler/737659/transfer_id/6079034"
+    }
+  }
+}

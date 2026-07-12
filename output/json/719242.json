@@ -1,0 +1,262 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "719242",
+    "history": {
+      "terminated": [
+        {
+          "id": "6387803",
+          "transferSource": {
+            "competitionId": "MO1N",
+            "countryId": 112,
+            "clubId": "2714",
+            "coachId": "52545"
+          },
+          "transferDestination": {
+            "competitionId": "UZ1",
+            "countryId": 180,
+            "clubId": "15300",
+            "coachId": "17342"
+          },
+          "details": {
+            "playerId": "719242",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mihail-stefan/transfers/spieler/719242/transfer_id/6387803"
+        },
+        {
+          "id": "4499974",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 112,
+            "clubId": "31276",
+            "coachId": "41639"
+          },
+          "transferDestination": {
+            "competitionId": "MOP2",
+            "countryId": 112,
+            "clubId": "2714",
+            "coachId": "19523"
+          },
+          "details": {
+            "playerId": "719242",
+            "date": "2023-07-09T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mihail-stefan/transfers/spieler/719242/transfer_id/4499974"
+        },
+        {
+          "id": "3259512",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 112,
+            "clubId": "45281",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MO1N",
+            "countryId": 112,
+            "clubId": "31276",
+            "coachId": "60256"
+          },
+          "details": {
+            "playerId": "719242",
+            "date": "2021-02-18T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mihail-stefan/transfers/spieler/719242/transfer_id/3259512"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2714",
+      "15300",
+      "31276",
+      "45281"
+    ],
+    "coachIds": [
+      "52545",
+      "17342",
+      "41639",
+      "19523",
+      "60256"
+    ],
+    "competitionIds": [
+      "MO1N",
+      "UZ1",
+      "MOP2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6387803",
+      "transferSource": {
+        "competitionId": "MO1N",
+        "countryId": 112,
+        "clubId": "2714",
+        "coachId": "52545"
+      },
+      "transferDestination": {
+        "competitionId": "UZ1",
+        "countryId": 180,
+        "clubId": "15300",
+        "coachId": "17342"
+      },
+      "details": {
+        "playerId": "719242",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-12-31T00:00:00+01:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/mihail-stefan/transfers/spieler/719242/transfer_id/6387803"
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1112831",
+    "history": {
+      "terminated": [
+        {
+          "id": "6412097",
+          "transferSource": {
+            "competitionId": "MYA1",
+            "countryId": 116,
+            "clubId": "26199",
+            "coachId": "154741"
+          },
+          "transferDestination": {
+            "competitionId": "TFPL",
+            "countryId": 164,
+            "clubId": "130590",
+            "coachId": "158228"
+          },
+          "details": {
+            "playerId": "1112831",
+            "date": "2026-07-08T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rintaro-hama/transfers/spieler/1112831/transfer_id/6412097"
+        },
+        {
+          "id": "5719906",
+          "transferSource": {
+            "competitionId": "PFL1",
+            "countryId": 134,
+            "clubId": "92045",
+            "coachId": "139216"
+          },
+          "transferDestination": {
+            "competitionId": "MYA1",
+            "countryId": 116,
+            "clubId": "26199",
+            "coachId": "107561"
+          },
+          "details": {
+            "playerId": "1112831",
+            "date": "2025-06-26T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rintaro-hama/transfers/spieler/1112831/transfer_id/5719906"
+        },
+        {
+          "id": "4295125",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "PFL1",
+            "countryId": 134,
+            "clubId": "92045",
+            "coachId": "102526"
+          },
+          "details": {
+            "playerId": "1112831",
+            "date": "2023-02-16T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rintaro-hama/transfers/spieler/1112831/transfer_id/4295125"
+        },
+        {
+          "id": "4295450",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "24160",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1112831",
+            "date": "2022-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rintaro-hama/transfers/spieler/1112831/transfer_id/4295450"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "26199",
+      "130590",
+      "92045",
+      "515",
+      "24160"
+    ],
+    "coachIds": [
+      "154741",
+      "158228",
+      "139216",
+      "107561",
+      "102526"
+    ],
+    "competitionIds": [
+      "MYA1",
+      "TFPL",
+      "PFL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6412097",
+      "transferSource": {
+        "competitionId": "MYA1",
+        "countryId": 116,
+        "clubId": "26199",
+        "coachId": "154741"
+      },
+      "transferDestination": {
+        "competitionId": "TFPL",
+        "countryId": 164,
+        "clubId": "130590",
+        "coachId": "158228"
+      },
+      "details": {
+        "playerId": "1112831",
+        "date": "2026-07-08T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/rintaro-hama/transfers/spieler/1112831/transfer_id/6412097"
+    }
+  }
+}

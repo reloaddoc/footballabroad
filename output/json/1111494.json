@@ -1,0 +1,511 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1111494",
+    "history": {
+      "terminated": [
+        {
+          "id": "6121878",
+          "transferSource": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "55243",
+            "coachId": "45906"
+          },
+          "transferDestination": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "94138",
+            "coachId": "8063"
+          },
+          "details": {
+            "playerId": "1111494",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/adolph-koudakpo/transfers/spieler/1111494/transfer_id/6121878"
+        },
+        {
+          "id": "6121877",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "94138",
+            "coachId": "47787"
+          },
+          "transferDestination": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "55243",
+            "coachId": "45906"
+          },
+          "details": {
+            "playerId": "1111494",
+            "date": "2026-01-09T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 172,
+              "daysDisplay": "5 Months, 21 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/adolph-koudakpo/transfers/spieler/1111494/transfer_id/6121877"
+        },
+        {
+          "id": "5841124",
+          "transferSource": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "34292",
+            "coachId": "114148"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "94138",
+            "coachId": "47787"
+          },
+          "details": {
+            "playerId": "1111494",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 181,
+              "daysDisplay": "5 Months, 30 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/adolph-koudakpo/transfers/spieler/1111494/transfer_id/5841124"
+        },
+        {
+          "id": "5841123",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "94138",
+            "coachId": "86282"
+          },
+          "transferDestination": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "34292",
+            "coachId": "114148"
+          },
+          "details": {
+            "playerId": "1111494",
+            "date": "2025-07-31T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 334,
+              "daysDisplay": "10 Months, 30 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/adolph-koudakpo/transfers/spieler/1111494/transfer_id/5841123"
+        },
+        {
+          "id": "5705161",
+          "transferSource": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "6726",
+            "coachId": "46654"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "94138",
+            "coachId": "86282"
+          },
+          "details": {
+            "playerId": "1111494",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adolph-koudakpo/transfers/spieler/1111494/transfer_id/5705161"
+        },
+        {
+          "id": "5155658",
+          "transferSource": {
+            "competitionId": "A2VI",
+            "countryId": 12,
+            "clubId": "11342",
+            "coachId": "101154"
+          },
+          "transferDestination": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "6726",
+            "coachId": "50322"
+          },
+          "details": {
+            "playerId": "1111494",
+            "date": "2024-07-26T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adolph-koudakpo/transfers/spieler/1111494/transfer_id/5155658"
+        },
+        {
+          "id": "4352504",
+          "transferSource": {
+            "competitionId": "A2SW",
+            "countryId": 12,
+            "clubId": "11375",
+            "coachId": "88207"
+          },
+          "transferDestination": {
+            "competitionId": "A2VI",
+            "countryId": 12,
+            "clubId": "11342",
+            "coachId": "112349"
+          },
+          "details": {
+            "playerId": "1111494",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adolph-koudakpo/transfers/spieler/1111494/transfer_id/4352504"
+        },
+        {
+          "id": "4352505",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "81867",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "A2SW",
+            "countryId": 12,
+            "clubId": "11375",
+            "coachId": "88207"
+          },
+          "details": {
+            "playerId": "1111494",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adolph-koudakpo/transfers/spieler/1111494/transfer_id/4352505"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "55243",
+      "94138",
+      "34292",
+      "6726",
+      "11342",
+      "11375",
+      "81867"
+    ],
+    "coachIds": [
+      "45906",
+      "8063",
+      "47787",
+      "114148",
+      "86282",
+      "46654",
+      "101154",
+      "50322",
+      "88207",
+      "112349"
+    ],
+    "competitionIds": [
+      "THA2",
+      "THA1",
+      "A2VI",
+      "A2SW"
+    ],
+    "mostRecentTransfer": {
+      "id": "6121878",
+      "transferSource": {
+        "competitionId": "THA2",
+        "countryId": 167,
+        "clubId": "55243",
+        "coachId": "45906"
+      },
+      "transferDestination": {
+        "competitionId": "THA2",
+        "countryId": 167,
+        "clubId": "94138",
+        "coachId": "8063"
+      },
+      "details": {
+        "playerId": "1111494",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/adolph-koudakpo/transfers/spieler/1111494/transfer_id/6121878"
+    }
+  }
+}

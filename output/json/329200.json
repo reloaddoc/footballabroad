@@ -1,0 +1,316 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "329200",
+    "history": {
+      "terminated": [
+        {
+          "id": "4437758",
+          "transferSource": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "1167",
+            "coachId": "50381"
+          },
+          "transferDestination": {
+            "competitionId": "UZ1",
+            "countryId": 180,
+            "clubId": "35157",
+            "coachId": "106084"
+          },
+          "details": {
+            "playerId": "329200",
+            "date": "2023-07-02T00:00:00+02:00",
+            "contractUntilDate": "2030-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ljupco-doriev/transfers/spieler/329200/transfer_id/4437758"
+        },
+        {
+          "id": "2977163",
+          "transferSource": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "45935",
+            "coachId": "63831"
+          },
+          "transferDestination": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "1167",
+            "coachId": "14657"
+          },
+          "details": {
+            "playerId": "329200",
+            "date": "2020-07-18T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 550000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "550.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": 70000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "70.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ljupco-doriev/transfers/spieler/329200/transfer_id/2977163"
+        },
+        {
+          "id": "1353234",
+          "transferSource": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "19627",
+            "coachId": "11403"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "45935",
+            "coachId": "54732"
+          },
+          "details": {
+            "playerId": "329200",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ljupco-doriev/transfers/spieler/329200/transfer_id/1353234"
+        },
+        {
+          "id": "1148420",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "45935",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "19627",
+            "coachId": "14602"
+          },
+          "details": {
+            "playerId": "329200",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ljupco-doriev/transfers/spieler/329200/transfer_id/1148420"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 70000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "70.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 30,
+      "totalMarketValue": {
+        "value": 1200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.20",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "1167",
+      "35157",
+      "45935",
+      "19627"
+    ],
+    "coachIds": [
+      "50381",
+      "106084",
+      "63831",
+      "14657",
+      "11403",
+      "54732",
+      "14602"
+    ],
+    "competitionIds": [
+      "MAZ1",
+      "UZ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "4437758",
+      "transferSource": {
+        "competitionId": "MAZ1",
+        "countryId": 100,
+        "clubId": "1167",
+        "coachId": "50381"
+      },
+      "transferDestination": {
+        "competitionId": "UZ1",
+        "countryId": 180,
+        "clubId": "35157",
+        "coachId": "106084"
+      },
+      "details": {
+        "playerId": "329200",
+        "date": "2023-07-02T00:00:00+02:00",
+        "contractUntilDate": "2030-12-31T00:00:00+01:00",
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 600000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "600.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ljupco-doriev/transfers/spieler/329200/transfer_id/4437758"
+    }
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "182380",
+    "history": {
+      "terminated": [
+        {
+          "id": "4129159",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "14579",
+            "coachId": "30358"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "123",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "182380",
+            "date": "2020-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 36,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kondwani-mtonga/transfers/spieler/182380/transfer_id/4129159"
+        },
+        {
+          "id": "1454938",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45276",
+            "coachId": "5595"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "14579",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "182380",
+            "date": "2015-10-15T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 31,
+            "remainingContractPeriod": {
+              "days": 77,
+              "daysDisplay": "2 Months, 16 Days"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kondwani-mtonga/transfers/spieler/182380/transfer_id/1454938"
+        },
+        {
+          "id": "1297096",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "14579",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45276",
+            "coachId": "5595"
+          },
+          "details": {
+            "playerId": "182380",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": "2015-12-31T00:00:00+01:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 31,
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kondwani-mtonga/transfers/spieler/182380/transfer_id/1297096"
+        },
+        {
+          "id": "1173686",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45276",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "14579",
+            "coachId": "30358"
+          },
+          "details": {
+            "playerId": "182380",
+            "date": "2014-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 30,
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kondwani-mtonga/transfers/spieler/182380/transfer_id/1173686"
+        },
+        {
+          "id": "1130636",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "14579",
+            "coachId": "30358"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "45276",
+            "coachId": "6814"
+          },
+          "details": {
+            "playerId": "182380",
+            "date": "2014-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 30,
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kondwani-mtonga/transfers/spieler/182380/transfer_id/1130636"
+        },
+        {
+          "id": "1173688",
+          "transferSource": {
+            "competitionId": "INIL",
+            "countryId": 67,
+            "clubId": "29572",
+            "coachId": "44492"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "14579",
+            "coachId": "30358"
+          },
+          "details": {
+            "playerId": "182380",
+            "date": "2014-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 30,
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kondwani-mtonga/transfers/spieler/182380/transfer_id/1173688"
+        },
+        {
+          "id": "1173687",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "14579",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "INIL",
+            "countryId": 67,
+            "clubId": "29572",
+            "coachId": "44492"
+          },
+          "details": {
+            "playerId": "182380",
+            "date": "2014-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 29,
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kondwani-mtonga/transfers/spieler/182380/transfer_id/1173687"
+        },
+        {
+          "id": "1173685",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 142,
+            "clubId": "14579",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "182380",
+            "date": "2008-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2007,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2007,
+              "display": "07/08",
+              "cyclicalName": "2008",
+              "nonCyclicalName": "07/08"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kondwani-mtonga/transfers/spieler/182380/transfer_id/1173685"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 42,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "14579",
+      "123",
+      "45276",
+      "29572",
+      "75"
+    ],
+    "coachIds": [
+      "30358",
+      "5595",
+      "6814",
+      "44492"
+    ],
+    "competitionIds": [
+      "INIL"
+    ],
+    "mostRecentTransfer": {
+      "id": "4129159",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 142,
+        "clubId": "14579",
+        "coachId": "30358"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "123",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "182380",
+        "date": "2020-09-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2020,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 36,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2020,
+          "display": "20/21",
+          "cyclicalName": "2021",
+          "nonCyclicalName": "20/21"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kondwani-mtonga/transfers/spieler/182380/transfer_id/4129159"
+    }
+  }
+}

@@ -1,0 +1,846 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "79976",
+    "history": {
+      "terminated": [
+        {
+          "id": "5811883",
+          "transferSource": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "85902",
+            "coachId": "24694"
+          },
+          "transferDestination": {
+            "competitionId": "INIL",
+            "countryId": 67,
+            "clubId": "99661",
+            "coachId": "4600"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2025-07-25T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 36,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/5811883"
+        },
+        {
+          "id": "4066060",
+          "transferSource": {
+            "competitionId": "INIL",
+            "countryId": 67,
+            "clubId": "63432",
+            "coachId": "6513"
+          },
+          "transferDestination": {
+            "competitionId": "INIL",
+            "countryId": 67,
+            "clubId": "85902",
+            "coachId": "31596"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2022-09-23T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 33,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/4066060"
+        },
+        {
+          "id": "3687701",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "77643",
+            "coachId": "76544"
+          },
+          "transferDestination": {
+            "competitionId": "INIL",
+            "countryId": 67,
+            "clubId": "63432",
+            "coachId": "46345"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2022-01-09T00:00:00+01:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 142,
+              "daysDisplay": "4 Months, 22 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/3687701"
+        },
+        {
+          "id": "3455640",
+          "transferSource": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "17836",
+            "coachId": "88579"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "77643",
+            "coachId": "76544"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2021-08-27T00:00:00+02:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/3455640"
+        },
+        {
+          "id": "3431948",
+          "transferSource": {
+            "competitionId": "INIL",
+            "countryId": 67,
+            "clubId": "14084",
+            "coachId": "70956"
+          },
+          "transferDestination": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "17836",
+            "coachId": "88579"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2021-05-31T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/3431948"
+        },
+        {
+          "id": "3052659",
+          "transferSource": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "17836",
+            "coachId": "36719"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 67,
+            "clubId": "14084",
+            "coachId": "70956"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2020-10-27T00:00:00+01:00",
+            "contractUntilDate": "2021-05-31T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "remainingContractPeriod": {
+              "days": 246,
+              "daysDisplay": "8 Months, 3 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/3052659"
+        },
+        {
+          "id": "1677648",
+          "transferSource": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "12908",
+            "coachId": "42385"
+          },
+          "transferDestination": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "17836",
+            "coachId": "14159"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2017-01-17T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/1677648"
+        },
+        {
+          "id": "1431687",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "12908",
+            "coachId": "37604"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2016-02-07T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/1431687"
+        },
+        {
+          "id": "1334971",
+          "transferSource": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "5862",
+            "coachId": "9512"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/1334971"
+        },
+        {
+          "id": "916343",
+          "transferSource": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "433",
+            "coachId": "2452"
+          },
+          "transferDestination": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "17836",
+            "coachId": "15783"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2013-08-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/916343"
+        },
+        {
+          "id": "729482",
+          "transferSource": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "789",
+            "coachId": "3048"
+          },
+          "transferDestination": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "433",
+            "coachId": "2891"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2012-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/729482"
+        },
+        {
+          "id": "603228",
+          "transferSource": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "11006",
+            "coachId": "19691"
+          },
+          "transferDestination": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "789",
+            "coachId": "3048"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2011-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/603228"
+        },
+        {
+          "id": "245684",
+          "transferSource": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "11966",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "11006",
+            "coachId": "7652"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2008-11-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/245684"
+        },
+        {
+          "id": "220970",
+          "transferSource": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "11006",
+            "coachId": "2719"
+          },
+          "transferDestination": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "11966",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "79976",
+            "date": "2008-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/220970"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 36,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "85902",
+      "99661",
+      "63432",
+      "77643",
+      "17836",
+      "14084",
+      "12908",
+      "515",
+      "5862",
+      "433",
+      "789",
+      "11006",
+      "11966"
+    ],
+    "coachIds": [
+      "24694",
+      "4600",
+      "6513",
+      "31596",
+      "76544",
+      "46345",
+      "88579",
+      "70956",
+      "36719",
+      "42385",
+      "14159",
+      "37604",
+      "9512",
+      "2452",
+      "15783",
+      "3048",
+      "2891",
+      "19691",
+      "7652",
+      "2719"
+    ],
+    "competitionIds": [
+      "IND1",
+      "INIL",
+      "SL2",
+      "SL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5811883",
+      "transferSource": {
+        "competitionId": "IND1",
+        "countryId": 67,
+        "clubId": "85902",
+        "coachId": "24694"
+      },
+      "transferDestination": {
+        "competitionId": "INIL",
+        "countryId": 67,
+        "clubId": "99661",
+        "coachId": "4600"
+      },
+      "details": {
+        "playerId": "79976",
+        "date": "2025-07-25T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 36,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/luka-majcen/transfers/spieler/79976/transfer_id/5811883"
+    }
+  }
+}

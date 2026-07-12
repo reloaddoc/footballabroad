@@ -1,0 +1,261 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1001354",
+    "history": {
+      "terminated": [
+        {
+          "id": "6285156",
+          "transferSource": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "6954",
+            "coachId": "39162"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15817",
+            "coachId": "67577"
+          },
+          "details": {
+            "playerId": "1001354",
+            "date": "2026-07-02T00:00:00+02:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/brad-tapp/transfers/spieler/1001354/transfer_id/6285156"
+        },
+        {
+          "id": "4790765",
+          "transferSource": {
+            "competitionId": "A2SW",
+            "countryId": 12,
+            "clubId": "26206",
+            "coachId": "100879"
+          },
+          "transferDestination": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "6954",
+            "coachId": "77117"
+          },
+          "details": {
+            "playerId": "1001354",
+            "date": "2023-12-29T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/brad-tapp/transfers/spieler/1001354/transfer_id/4790765"
+        },
+        {
+          "id": "6292665",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "114635",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "26206",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1001354",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/brad-tapp/transfers/spieler/1001354/transfer_id/6292665"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "6954",
+      "15817",
+      "26206",
+      "114635"
+    ],
+    "coachIds": [
+      "39162",
+      "67577",
+      "100879",
+      "77117"
+    ],
+    "competitionIds": [
+      "AUS1",
+      "MYS1",
+      "A2SW"
+    ],
+    "mostRecentTransfer": {
+      "id": "6285156",
+      "transferSource": {
+        "competitionId": "AUS1",
+        "countryId": 12,
+        "clubId": "6954",
+        "coachId": "39162"
+      },
+      "transferDestination": {
+        "competitionId": "MYS1",
+        "countryId": 103,
+        "clubId": "15817",
+        "coachId": "67577"
+      },
+      "details": {
+        "playerId": "1001354",
+        "date": "2026-07-02T00:00:00+02:00",
+        "contractUntilDate": "2028-12-31T00:00:00+01:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "500.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/brad-tapp/transfers/spieler/1001354/transfer_id/6285156"
+    }
+  }
+}

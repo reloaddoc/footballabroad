@@ -1,0 +1,998 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "309857",
+    "history": {
+      "terminated": [
+        {
+          "id": "6074984",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "18579",
+            "coachId": "11893"
+          },
+          "transferDestination": {
+            "competitionId": "ALB1",
+            "countryId": 3,
+            "clubId": "2049",
+            "coachId": "50381"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2026-01-05T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 541,
+              "daysDisplay": "1 Year, 5 Months, 25 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/6074984"
+        },
+        {
+          "id": "5682958",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25444",
+            "coachId": "101098"
+          },
+          "transferDestination": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "18579",
+            "coachId": "11893"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/5682958"
+        },
+        {
+          "id": "4435981",
+          "transferSource": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "4644",
+            "coachId": "5540"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25444",
+            "coachId": "61121"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2023-06-26T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 4,
+              "daysDisplay": "4 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/4435981"
+        },
+        {
+          "id": "3372485",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "41530",
+            "coachId": "22730"
+          },
+          "transferDestination": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "4644",
+            "coachId": "14602"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/3372485"
+        },
+        {
+          "id": "3012382",
+          "transferSource": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "4644",
+            "coachId": "14602"
+          },
+          "transferDestination": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "41530",
+            "coachId": "22730"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2021-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/3012382"
+        },
+        {
+          "id": "2990259",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "41530",
+            "coachId": "42835"
+          },
+          "transferDestination": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "4644",
+            "coachId": "77514"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2020-07-28T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 337,
+              "daysDisplay": "11 Months, 2 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/2990259"
+        },
+        {
+          "id": "2798508",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "2677",
+            "coachId": "22478"
+          },
+          "transferDestination": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "41530",
+            "coachId": "42835"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/2798508"
+        },
+        {
+          "id": "2798507",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "41530",
+            "coachId": "42835"
+          },
+          "transferDestination": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "2677",
+            "coachId": "29858"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2020-06-30T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/2798507"
+        },
+        {
+          "id": "2734041",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "2677",
+            "coachId": "29858"
+          },
+          "transferDestination": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "41530",
+            "coachId": "42835"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 181,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/2734041"
+        },
+        {
+          "id": "2488658",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "6478",
+            "coachId": "31018"
+          },
+          "transferDestination": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "2677",
+            "coachId": "22478"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 365,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/2488658"
+        },
+        {
+          "id": "1980299",
+          "transferSource": {
+            "competitionId": "TDeC",
+            "countryId": 133,
+            "clubId": "17974",
+            "coachId": "9278"
+          },
+          "transferDestination": {
+            "competitionId": "CVSP",
+            "countryId": 36,
+            "clubId": "6478",
+            "coachId": "7630"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2018-01-01T00:00:00+01:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/1980299"
+        },
+        {
+          "id": "1652463",
+          "transferSource": {
+            "competitionId": "CVSP",
+            "countryId": 36,
+            "clubId": "4720",
+            "coachId": "20488"
+          },
+          "transferDestination": {
+            "competitionId": "TDeC",
+            "countryId": 133,
+            "clubId": "17974",
+            "coachId": "45713"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2017-01-01T00:00:00+01:00",
+            "contractUntilDate": "2017-12-31T00:00:00+01:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/1652463"
+        },
+        {
+          "id": "1166965",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "23609",
+            "coachId": "24549"
+          },
+          "transferDestination": {
+            "competitionId": "CVSP",
+            "countryId": 36,
+            "clubId": "4720",
+            "coachId": "20488"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2016-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/1166965"
+        },
+        {
+          "id": "1166964",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "4720",
+            "coachId": "10098"
+          },
+          "transferDestination": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "23609",
+            "coachId": "29858"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2015-01-27T00:00:00+01:00",
+            "contractUntilDate": "2016-12-31T00:00:00+01:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/1166964"
+        },
+        {
+          "id": "1015926",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "35060",
+            "coachId": "20488"
+          },
+          "transferDestination": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "4720",
+            "coachId": "10098"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2014-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/1015926"
+        },
+        {
+          "id": "1015925",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "4720",
+            "coachId": "11721"
+          },
+          "transferDestination": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "35060",
+            "coachId": "20488"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2014-02-01T00:00:00+01:00",
+            "contractUntilDate": "2014-12-31T00:00:00+01:00",
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/1015925"
+        },
+        {
+          "id": "1009267",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 36,
+            "clubId": "33807",
+            "coachId": "42437"
+          },
+          "transferDestination": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "4720",
+            "coachId": "11721"
+          },
+          "details": {
+            "playerId": "309857",
+            "date": "2014-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/1009267"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 31,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "18579",
+      "2049",
+      "25444",
+      "4644",
+      "41530",
+      "2677",
+      "6478",
+      "17974",
+      "4720",
+      "23609",
+      "35060",
+      "33807"
+    ],
+    "coachIds": [
+      "11893",
+      "50381",
+      "101098",
+      "5540",
+      "61121",
+      "22730",
+      "14602",
+      "42835",
+      "77514",
+      "22478",
+      "29858",
+      "31018",
+      "9278",
+      "7630",
+      "20488",
+      "45713",
+      "24549",
+      "10098",
+      "11721",
+      "42437"
+    ],
+    "competitionIds": [
+      "PDV1",
+      "ALB1",
+      "THA1",
+      "MAZ1",
+      "TDeC",
+      "CVSP"
+    ],
+    "mostRecentTransfer": {
+      "id": "6074984",
+      "transferSource": {
+        "competitionId": "PDV1",
+        "countryId": 36,
+        "clubId": "18579",
+        "coachId": "11893"
+      },
+      "transferDestination": {
+        "competitionId": "ALB1",
+        "countryId": 3,
+        "clubId": "2049",
+        "coachId": "50381"
+      },
+      "details": {
+        "playerId": "309857",
+        "date": "2026-01-05T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 700000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "700.00",
+            "suffix": "K"
+          }
+        },
+        "age": 30,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 541,
+          "daysDisplay": "1 Year, 5 Months, 25 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/freddy-alvarez/transfers/spieler/309857/transfer_id/6074984"
+    }
+  }
+}

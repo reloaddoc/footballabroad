@@ -1,0 +1,405 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "518402",
+    "history": {
+      "terminated": [
+        {
+          "id": "5948194",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "4769",
+            "coachId": "19614"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "937",
+            "coachId": "44308"
+          },
+          "details": {
+            "playerId": "518402",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 325000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "325.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/hasan-hilu/transfers/spieler/518402/transfer_id/5948194"
+        },
+        {
+          "id": "5729529",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "937",
+            "coachId": "39162"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "4769",
+            "coachId": "44966"
+          },
+          "details": {
+            "playerId": "518402",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/hasan-hilu/transfers/spieler/518402/transfer_id/5729529"
+        },
+        {
+          "id": "5107971",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "4769",
+            "coachId": "23004"
+          },
+          "transferDestination": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "937",
+            "coachId": "20015"
+          },
+          "details": {
+            "playerId": "518402",
+            "date": "2024-07-10T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": 415000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "415.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 355,
+              "daysDisplay": "11 Months, 20 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/hasan-hilu/transfers/spieler/518402/transfer_id/5107971"
+        },
+        {
+          "id": "3401390",
+          "transferSource": {
+            "competitionId": "ISR2",
+            "countryId": 74,
+            "clubId": "70178",
+            "coachId": "52968"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "4769",
+            "coachId": "38559"
+          },
+          "details": {
+            "playerId": "518402",
+            "date": "2022-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/hasan-hilu/transfers/spieler/518402/transfer_id/3401390"
+        },
+        {
+          "id": "3401389",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "4769",
+            "coachId": "44966"
+          },
+          "transferDestination": {
+            "competitionId": "ISR2",
+            "countryId": 74,
+            "clubId": "70178",
+            "coachId": "52968"
+          },
+          "details": {
+            "playerId": "518402",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 1460,
+              "daysDisplay": "3 Years, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/hasan-hilu/transfers/spieler/518402/transfer_id/3401389"
+        },
+        {
+          "id": "2583745",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 74,
+            "clubId": "18073",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "ISR2",
+            "countryId": 74,
+            "clubId": "4769",
+            "coachId": "20989"
+          },
+          "details": {
+            "playerId": "518402",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/hasan-hilu/transfers/spieler/518402/transfer_id/2583745"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 415000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "415.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 325000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "325.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "4769",
+      "937",
+      "70178",
+      "18073"
+    ],
+    "coachIds": [
+      "19614",
+      "44308",
+      "39162",
+      "44966",
+      "23004",
+      "20015",
+      "52968",
+      "38559",
+      "20989"
+    ],
+    "competitionIds": [
+      "ISR1",
+      "JAP2",
+      "JAP1",
+      "ISR2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5948194",
+      "transferSource": {
+        "competitionId": "ISR1",
+        "countryId": 74,
+        "clubId": "4769",
+        "coachId": "19614"
+      },
+      "transferDestination": {
+        "competitionId": "JAP2",
+        "countryId": 77,
+        "clubId": "937",
+        "coachId": "44308"
+      },
+      "details": {
+        "playerId": "518402",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 325000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "325.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/hasan-hilu/transfers/spieler/518402/transfer_id/5948194"
+    }
+  }
+}

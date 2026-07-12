@@ -1,0 +1,379 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "435236",
+    "history": {
+      "terminated": [
+        {
+          "id": "6348533",
+          "transferSource": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "4994"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10157",
+            "coachId": "16220"
+          },
+          "details": {
+            "playerId": "435236",
+            "date": "2026-06-10T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 204,
+              "daysDisplay": "6 Months, 21 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giorgi-zaria/transfers/spieler/435236/transfer_id/6348533"
+        },
+        {
+          "id": "6100832",
+          "transferSource": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10482",
+            "coachId": "67079"
+          },
+          "transferDestination": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "72242"
+          },
+          "details": {
+            "playerId": "435236",
+            "date": "2026-03-06T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 900000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "900.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giorgi-zaria/transfers/spieler/435236/transfer_id/6100832"
+        },
+        {
+          "id": "4783756",
+          "transferSource": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "11344",
+            "coachId": "33344"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10482",
+            "coachId": "67978"
+          },
+          "details": {
+            "playerId": "435236",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giorgi-zaria/transfers/spieler/435236/transfer_id/4783756"
+        },
+        {
+          "id": "3145022",
+          "transferSource": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "57172"
+          },
+          "transferDestination": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "11344",
+            "coachId": "10586"
+          },
+          "details": {
+            "playerId": "435236",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giorgi-zaria/transfers/spieler/435236/transfer_id/3145022"
+        },
+        {
+          "id": "3781987",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 53,
+            "clubId": "31990",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "10586"
+          },
+          "details": {
+            "playerId": "435236",
+            "date": "2015-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giorgi-zaria/transfers/spieler/435236/transfer_id/3781987"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 28,
+      "totalMarketValue": {
+        "value": 600000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "600.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "663",
+      "10157",
+      "10482",
+      "11344",
+      "31990"
+    ],
+    "coachIds": [
+      "4994",
+      "16220",
+      "67079",
+      "72242",
+      "33344",
+      "67978",
+      "57172",
+      "10586"
+    ],
+    "competitionIds": [
+      "GE1N",
+      "KAS1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6348533",
+      "transferSource": {
+        "competitionId": "GE1N",
+        "countryId": 53,
+        "clubId": "663",
+        "coachId": "4994"
+      },
+      "transferDestination": {
+        "competitionId": "KAS1",
+        "countryId": 81,
+        "clubId": "10157",
+        "coachId": "16220"
+      },
+      "details": {
+        "playerId": "435236",
+        "date": "2026-06-10T00:00:00+02:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 600000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "600.00",
+            "suffix": "K"
+          }
+        },
+        "age": 28,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 204,
+          "daysDisplay": "6 Months, 21 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/giorgi-zaria/transfers/spieler/435236/transfer_id/6348533"
+    }
+  }
+}

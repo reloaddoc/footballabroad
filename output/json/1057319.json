@@ -1,0 +1,309 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1057319",
+    "history": {
+      "terminated": [
+        {
+          "id": "6418768",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "1064",
+            "coachId": "156944"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "698",
+            "coachId": "106421"
+          },
+          "details": {
+            "playerId": "1057319",
+            "date": "2026-07-10T00:00:00+02:00",
+            "contractUntilDate": "2030-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 1400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.40",
+                "suffix": "M"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 2500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "2.50",
+                "suffix": "M"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 355,
+              "daysDisplay": "11 Months, 20 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lisav-naif-eissat/transfers/spieler/1057319/transfer_id/6418768"
+        },
+        {
+          "id": "5215989",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "51931",
+            "coachId": "137903"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "1064",
+            "coachId": "48521"
+          },
+          "details": {
+            "playerId": "1057319",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lisav-naif-eissat/transfers/spieler/1057319/transfer_id/5215989"
+        },
+        {
+          "id": "5215988",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "1064",
+            "coachId": "26280"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "51931",
+            "coachId": "38559"
+          },
+          "details": {
+            "playerId": "1057319",
+            "date": "2024-08-21T00:00:00+02:00",
+            "contractUntilDate": "2025-05-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1774,
+              "daysDisplay": "4 Years, 10 Months, 9 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lisav-naif-eissat/transfers/spieler/1057319/transfer_id/5215988"
+        },
+        {
+          "id": "5210402",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 74,
+            "clubId": "18072",
+            "coachId": "48521"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "1064",
+            "coachId": "26280"
+          },
+          "details": {
+            "playerId": "1057319",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lisav-naif-eissat/transfers/spieler/1057319/transfer_id/5210402"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 2500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "2.50",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 1400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.40",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "1064",
+      "698",
+      "51931",
+      "18072"
+    ],
+    "coachIds": [
+      "156944",
+      "106421",
+      "137903",
+      "48521",
+      "26280",
+      "38559"
+    ],
+    "competitionIds": [
+      "ISR1",
+      "GB2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6418768",
+      "transferSource": {
+        "competitionId": "ISR1",
+        "countryId": 74,
+        "clubId": "1064",
+        "coachId": "156944"
+      },
+      "transferDestination": {
+        "competitionId": "GB2",
+        "countryId": 189,
+        "clubId": "698",
+        "coachId": "106421"
+      },
+      "details": {
+        "playerId": "1057319",
+        "date": "2026-07-10T00:00:00+02:00",
+        "contractUntilDate": "2030-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 1400000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "1.40",
+            "suffix": "M"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": 2500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "2.50",
+            "suffix": "M"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 355,
+          "daysDisplay": "11 Months, 20 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/lisav-naif-eissat/transfers/spieler/1057319/transfer_id/6418768"
+    }
+  }
+}

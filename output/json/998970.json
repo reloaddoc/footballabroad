@@ -1,0 +1,205 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "998970",
+    "history": {
+      "terminated": [
+        {
+          "id": "5571386",
+          "transferSource": {
+            "competitionId": "LAO1",
+            "countryId": 91,
+            "clubId": "57622",
+            "coachId": "81563"
+          },
+          "transferDestination": {
+            "competitionId": "VIE1",
+            "countryId": 185,
+            "clubId": "35327",
+            "coachId": "73779"
+          },
+          "details": {
+            "playerId": "998970",
+            "date": "2025-03-10T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/damoth-thongkhamsavath/transfers/spieler/998970/transfer_id/5571386"
+        },
+        {
+          "id": "4308540",
+          "transferSource": {
+            "competitionId": "LAO1",
+            "countryId": 91,
+            "clubId": "57625",
+            "coachId": "102044"
+          },
+          "transferDestination": {
+            "competitionId": "LAO1",
+            "countryId": 91,
+            "clubId": "57622",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "998970",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/damoth-thongkhamsavath/transfers/spieler/998970/transfer_id/4308540"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "57622",
+      "35327",
+      "57625"
+    ],
+    "coachIds": [
+      "81563",
+      "73779",
+      "102044"
+    ],
+    "competitionIds": [
+      "LAO1",
+      "VIE1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5571386",
+      "transferSource": {
+        "competitionId": "LAO1",
+        "countryId": 91,
+        "clubId": "57622",
+        "coachId": "81563"
+      },
+      "transferDestination": {
+        "competitionId": "VIE1",
+        "countryId": 185,
+        "clubId": "35327",
+        "coachId": "73779"
+      },
+      "details": {
+        "playerId": "998970",
+        "date": "2025-03-10T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/damoth-thongkhamsavath/transfers/spieler/998970/transfer_id/5571386"
+    }
+  }
+}

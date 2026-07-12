@@ -1,0 +1,764 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "649330",
+    "history": {
+      "terminated": [
+        {
+          "id": "6126571",
+          "transferSource": {
+            "competitionId": "COLP",
+            "countryId": 83,
+            "clubId": "11854",
+            "coachId": "23077"
+          },
+          "transferDestination": {
+            "competitionId": "COLP",
+            "countryId": 83,
+            "clubId": "9961",
+            "coachId": "9496"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2026-01-17T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "remainingContractPeriod": {
+              "days": 529,
+              "daysDisplay": "1 Year, 5 Months, 13 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/6126571"
+        },
+        {
+          "id": "5029980",
+          "transferSource": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "23077"
+          },
+          "transferDestination": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "11854",
+            "coachId": "27311"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/5029980"
+        },
+        {
+          "id": "4493660",
+          "transferSource": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "11854",
+            "coachId": "27311"
+          },
+          "transferDestination": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "23077"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/4493660"
+        },
+        {
+          "id": "4493659",
+          "transferSource": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "23077"
+          },
+          "transferDestination": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "11854",
+            "coachId": "2548"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2023-07-09T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 550000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "550.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/4493659"
+        },
+        {
+          "id": "4265413",
+          "transferSource": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "22902",
+            "coachId": "64782"
+          },
+          "transferDestination": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "115807"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 425000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "425.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 184,
+              "daysDisplay": "6 Months, 1 Day"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/4265413"
+        },
+        {
+          "id": "4265412",
+          "transferSource": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "105297"
+          },
+          "transferDestination": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "22902",
+            "coachId": "25709"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2023-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 425000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "425.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/4265412"
+        },
+        {
+          "id": "3866312",
+          "transferSource": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15824",
+            "coachId": "38850"
+          },
+          "transferDestination": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "105297"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2022-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 425000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "425.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/3866312"
+        },
+        {
+          "id": "3866311",
+          "transferSource": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "10787"
+          },
+          "transferDestination": {
+            "competitionId": "MYS1",
+            "countryId": 103,
+            "clubId": "15824",
+            "coachId": "51645"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2022-05-29T00:00:00+02:00",
+            "contractUntilDate": "2022-11-30T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/3866311"
+        },
+        {
+          "id": "3682804",
+          "transferSource": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "7136",
+            "coachId": "67322"
+          },
+          "transferDestination": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "10787"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2021-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/3682804"
+        },
+        {
+          "id": "3682805",
+          "transferSource": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "2548"
+          },
+          "transferDestination": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "7136",
+            "coachId": "67322"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2021-07-10T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/3682805"
+        },
+        {
+          "id": "3438359",
+          "transferSource": {
+            "competitionId": "CO22",
+            "countryId": 83,
+            "clubId": "10136",
+            "coachId": "27205"
+          },
+          "transferDestination": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "2548"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2021-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 184,
+              "daysDisplay": "6 Months, 1 Day"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/3438359"
+        },
+        {
+          "id": "3206843",
+          "transferSource": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "2548"
+          },
+          "transferDestination": {
+            "competitionId": "CO22",
+            "countryId": 83,
+            "clubId": "10136",
+            "coachId": "27205"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2021-01-15T00:00:00+01:00",
+            "contractUntilDate": "2021-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/3206843"
+        },
+        {
+          "id": "2392496",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 83,
+            "clubId": "16811",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "COL1",
+            "countryId": 83,
+            "clubId": "10093",
+            "coachId": "12255"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/2392496"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6126572",
+          "transferSource": {
+            "competitionId": "COLP",
+            "countryId": 83,
+            "clubId": "9961",
+            "coachId": "23984"
+          },
+          "transferDestination": {
+            "competitionId": "COLP",
+            "countryId": 83,
+            "clubId": "11854",
+            "coachId": "23077"
+          },
+          "details": {
+            "playerId": "649330",
+            "date": "2026-12-31T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/6126572"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 800000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "800.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "9961",
+      "11854",
+      "10093",
+      "22902",
+      "15824",
+      "7136",
+      "10136",
+      "16811"
+    ],
+    "coachIds": [
+      "23984",
+      "23077",
+      "9496",
+      "27311",
+      "2548",
+      "64782",
+      "115807",
+      "105297",
+      "25709",
+      "38850",
+      "10787",
+      "51645",
+      "67322",
+      "27205",
+      "12255"
+    ],
+    "competitionIds": [
+      "COLP",
+      "COL1",
+      "MYS1",
+      "CO22"
+    ],
+    "mostRecentTransfer": {
+      "id": "6126571",
+      "transferSource": {
+        "competitionId": "COLP",
+        "countryId": 83,
+        "clubId": "11854",
+        "coachId": "23077"
+      },
+      "transferDestination": {
+        "competitionId": "COLP",
+        "countryId": 83,
+        "clubId": "9961",
+        "coachId": "9496"
+      },
+      "details": {
+        "playerId": "649330",
+        "date": "2026-01-17T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 700000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "700.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "remainingContractPeriod": {
+          "days": 529,
+          "daysDisplay": "1 Year, 5 Months, 13 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/steven-rodriguez/transfers/spieler/649330/transfer_id/6126571"
+    }
+  }
+}

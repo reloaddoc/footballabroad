@@ -1,0 +1,705 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "551414",
+    "history": {
+      "terminated": [
+        {
+          "id": "5808845",
+          "transferSource": {
+            "competitionId": "GI1",
+            "countryId": 266,
+            "clubId": "42382",
+            "coachId": "34197"
+          },
+          "transferDestination": {
+            "competitionId": "ILI2",
+            "countryId": 68,
+            "clubId": "35114",
+            "coachId": "97536"
+          },
+          "details": {
+            "playerId": "551414",
+            "date": "2025-07-24T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/5808845"
+        },
+        {
+          "id": "5129792",
+          "transferSource": {
+            "competitionId": "GI1",
+            "countryId": 266,
+            "clubId": "40553",
+            "coachId": "48259"
+          },
+          "transferDestination": {
+            "competitionId": "GI1",
+            "countryId": 266,
+            "clubId": "42382",
+            "coachId": "34197"
+          },
+          "details": {
+            "playerId": "551414",
+            "date": "2024-07-22T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/5129792"
+        },
+        {
+          "id": "4620410",
+          "transferSource": {
+            "competitionId": "NCL1",
+            "countryId": 120,
+            "clubId": "26274",
+            "coachId": "76541"
+          },
+          "transferDestination": {
+            "competitionId": "GI1",
+            "countryId": 266,
+            "clubId": "40553",
+            "coachId": "48259"
+          },
+          "details": {
+            "playerId": "551414",
+            "date": "2023-08-31T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 122,
+              "daysDisplay": "4 Months"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/4620410"
+        },
+        {
+          "id": "4495866",
+          "transferSource": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "31330",
+            "coachId": "102603"
+          },
+          "transferDestination": {
+            "competitionId": "NCL1",
+            "countryId": 120,
+            "clubId": "26274",
+            "coachId": "76541"
+          },
+          "details": {
+            "playerId": "551414",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/4495866"
+        },
+        {
+          "id": "4366404",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "37573",
+            "coachId": "49819"
+          },
+          "transferDestination": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "31330",
+            "coachId": "102603"
+          },
+          "details": {
+            "playerId": "551414",
+            "date": "2023-04-13T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/4366404"
+        },
+        {
+          "id": "4067881",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "79148",
+            "coachId": "123645"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "37573",
+            "coachId": "123666"
+          },
+          "details": {
+            "playerId": "551414",
+            "date": "2022-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/4067881"
+        },
+        {
+          "id": "2913834",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "45458",
+            "coachId": "80443"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "79148",
+            "coachId": "123645"
+          },
+          "details": {
+            "playerId": "551414",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/2913834"
+        },
+        {
+          "id": "2665363",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "35164",
+            "coachId": "70353"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 188,
+            "clubId": "45458",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "551414",
+            "date": "2019-08-21T00:00:00+02:00",
+            "contractUntilDate": "2020-05-31T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/2665363"
+        },
+        {
+          "id": "2441016",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "40495",
+            "coachId": "54520"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "35164",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "551414",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/2441016"
+        },
+        {
+          "id": "2082876",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "63628",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "40495",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "551414",
+            "date": "2018-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/2082876"
+        },
+        {
+          "id": "1953074",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "40494",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "63628",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "551414",
+            "date": "2017-09-15T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/1953074"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 29,
+      "totalMarketValue": {
+        "value": 225000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "225.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "42382",
+      "35114",
+      "40553",
+      "26274",
+      "31330",
+      "37573",
+      "79148",
+      "45458",
+      "35164",
+      "40495",
+      "63628",
+      "40494"
+    ],
+    "coachIds": [
+      "34197",
+      "97536",
+      "48259",
+      "76541",
+      "102603",
+      "49819",
+      "123645",
+      "123666",
+      "80443",
+      "70353",
+      "54520"
+    ],
+    "competitionIds": [
+      "GI1",
+      "ILI2",
+      "NCL1",
+      "NSL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5808845",
+      "transferSource": {
+        "competitionId": "GI1",
+        "countryId": 266,
+        "clubId": "42382",
+        "coachId": "34197"
+      },
+      "transferDestination": {
+        "competitionId": "ILI2",
+        "countryId": 68,
+        "clubId": "35114",
+        "coachId": "97536"
+      },
+      "details": {
+        "playerId": "551414",
+        "date": "2025-07-24T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 28,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/connor-flynn-gillespie/transfers/spieler/551414/transfer_id/5808845"
+    }
+  }
+}

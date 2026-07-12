@@ -1,0 +1,194 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1061525",
+    "history": {
+      "terminated": [
+        {
+          "id": "5094168",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 99,
+            "clubId": "20543",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "LUX2",
+            "countryId": 99,
+            "clubId": "33344",
+            "coachId": "97928"
+          },
+          "details": {
+            "playerId": "1061525",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alex-masi/transfers/spieler/1061525/transfer_id/5094168"
+        },
+        {
+          "id": "4538749",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 99,
+            "clubId": "19312",
+            "coachId": "8002"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 99,
+            "clubId": "20543",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1061525",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/alex-masi/transfers/spieler/1061525/transfer_id/4538749"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "20543",
+      "33344",
+      "19312"
+    ],
+    "coachIds": [
+      "97928",
+      "8002"
+    ],
+    "competitionIds": [
+      "LUX2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5094168",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 99,
+        "clubId": "20543",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "LUX2",
+        "countryId": 99,
+        "clubId": "33344",
+        "coachId": "97928"
+      },
+      "details": {
+        "playerId": "1061525",
+        "date": "2024-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/alex-masi/transfers/spieler/1061525/transfer_id/5094168"
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "734658",
+    "history": {
+      "terminated": [
+        {
+          "id": "5748796",
+          "transferSource": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "45277",
+            "coachId": "70595"
+          },
+          "transferDestination": {
+            "competitionId": "KHM1",
+            "countryId": 79,
+            "clubId": "25383",
+            "coachId": "135687"
+          },
+          "details": {
+            "playerId": "734658",
+            "date": "2025-07-03T00:00:00+02:00",
+            "contractUntilDate": "2028-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 375000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "375.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kwame-peprah/transfers/spieler/734658/transfer_id/5748796"
+        },
+        {
+          "id": "4602379",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "51931",
+            "coachId": "56436"
+          },
+          "transferDestination": {
+            "competitionId": "IND1",
+            "countryId": 67,
+            "clubId": "45277",
+            "coachId": "37134"
+          },
+          "details": {
+            "playerId": "734658",
+            "date": "2023-08-20T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kwame-peprah/transfers/spieler/734658/transfer_id/4602379"
+        },
+        {
+          "id": "4595855",
+          "transferSource": {
+            "competitionId": "SFA1",
+            "countryId": 159,
+            "clubId": "2557",
+            "coachId": "44214"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "51931",
+            "coachId": "56436"
+          },
+          "details": {
+            "playerId": "734658",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 365,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kwame-peprah/transfers/spieler/734658/transfer_id/4595855"
+        },
+        {
+          "id": "4220472",
+          "transferSource": {
+            "competitionId": "SFA1",
+            "countryId": 159,
+            "clubId": "14187",
+            "coachId": "25901"
+          },
+          "transferDestination": {
+            "competitionId": "SFA1",
+            "countryId": 159,
+            "clubId": "2557",
+            "coachId": "44214"
+          },
+          "details": {
+            "playerId": "734658",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kwame-peprah/transfers/spieler/734658/transfer_id/4220472"
+        },
+        {
+          "id": "4220471",
+          "transferSource": {
+            "competitionId": "SFA1",
+            "countryId": 159,
+            "clubId": "2557",
+            "coachId": "44214"
+          },
+          "transferDestination": {
+            "competitionId": "SFA1",
+            "countryId": 159,
+            "clubId": "14187",
+            "coachId": "25901"
+          },
+          "details": {
+            "playerId": "734658",
+            "date": "2023-01-12T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 475000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "475.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 535,
+              "daysDisplay": "1 Year, 5 Months, 18 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kwame-peprah/transfers/spieler/734658/transfer_id/4220471"
+        },
+        {
+          "id": "3519402",
+          "transferSource": {
+            "competitionId": "GHPL",
+            "countryId": 54,
+            "clubId": "201",
+            "coachId": "93110"
+          },
+          "transferDestination": {
+            "competitionId": "SFA1",
+            "countryId": 159,
+            "clubId": "2557",
+            "coachId": "25901"
+          },
+          "details": {
+            "playerId": "734658",
+            "date": "2021-08-23T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 156794,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "156.79",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kwame-peprah/transfers/spieler/734658/transfer_id/3519402"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 156794,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "156.79",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "45277",
+      "25383",
+      "51931",
+      "2557",
+      "14187",
+      "201"
+    ],
+    "coachIds": [
+      "70595",
+      "135687",
+      "56436",
+      "37134",
+      "44214",
+      "25901",
+      "93110"
+    ],
+    "competitionIds": [
+      "IND1",
+      "KHM1",
+      "ISR1",
+      "SFA1",
+      "GHPL"
+    ],
+    "mostRecentTransfer": {
+      "id": "5748796",
+      "transferSource": {
+        "competitionId": "IND1",
+        "countryId": 67,
+        "clubId": "45277",
+        "coachId": "70595"
+      },
+      "transferDestination": {
+        "competitionId": "KHM1",
+        "countryId": 79,
+        "clubId": "25383",
+        "coachId": "135687"
+      },
+      "details": {
+        "playerId": "734658",
+        "date": "2025-07-03T00:00:00+02:00",
+        "contractUntilDate": "2028-05-31T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 375000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "375.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kwame-peprah/transfers/spieler/734658/transfer_id/5748796"
+    }
+  }
+}

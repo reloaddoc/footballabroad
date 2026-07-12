@@ -1,0 +1,259 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1060615",
+    "history": {
+      "terminated": [
+        {
+          "id": "6317046",
+          "transferSource": {
+            "competitionId": "CYP2",
+            "countryId": 188,
+            "clubId": "78776",
+            "coachId": "12618"
+          },
+          "transferDestination": {
+            "competitionId": "CYP2",
+            "countryId": 188,
+            "clubId": "3393",
+            "coachId": "49819"
+          },
+          "details": {
+            "playerId": "1060615",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-05-31T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jalex-jose/transfers/spieler/1060615/transfer_id/6317046"
+        },
+        {
+          "id": "5913597",
+          "transferSource": {
+            "competitionId": "CYP2",
+            "countryId": 188,
+            "clubId": "10816",
+            "coachId": "49297"
+          },
+          "transferDestination": {
+            "competitionId": "CYP2",
+            "countryId": 188,
+            "clubId": "78776",
+            "coachId": "61500"
+          },
+          "details": {
+            "playerId": "1060615",
+            "date": "2025-09-02T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jalex-jose/transfers/spieler/1060615/transfer_id/5913597"
+        },
+        {
+          "id": "5272361",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 51,
+            "clubId": "18809",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CYP2",
+            "countryId": 188,
+            "clubId": "10816",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1060615",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jalex-jose/transfers/spieler/1060615/transfer_id/5272361"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "78776",
+      "3393",
+      "10816",
+      "18809"
+    ],
+    "coachIds": [
+      "12618",
+      "49819",
+      "49297",
+      "61500"
+    ],
+    "competitionIds": [
+      "CYP2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6317046",
+      "transferSource": {
+        "competitionId": "CYP2",
+        "countryId": 188,
+        "clubId": "78776",
+        "coachId": "12618"
+      },
+      "transferDestination": {
+        "competitionId": "CYP2",
+        "countryId": 188,
+        "clubId": "3393",
+        "coachId": "49819"
+      },
+      "details": {
+        "playerId": "1060615",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-05-31T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jalex-jose/transfers/spieler/1060615/transfer_id/6317046"
+    }
+  }
+}

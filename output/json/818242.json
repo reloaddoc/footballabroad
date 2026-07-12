@@ -1,0 +1,487 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "818242",
+    "history": {
+      "terminated": [
+        {
+          "id": "5807635",
+          "transferSource": {
+            "competitionId": "CPSD",
+            "countryId": 136,
+            "clubId": "85471",
+            "coachId": "147903"
+          },
+          "transferDestination": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "21640",
+            "coachId": "30813"
+          },
+          "details": {
+            "playerId": "818242",
+            "date": "2025-07-24T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kenio-cabral/transfers/spieler/818242/transfer_id/5807635"
+        },
+        {
+          "id": "5079067",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "100622",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "85471",
+            "coachId": "73831"
+          },
+          "details": {
+            "playerId": "818242",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kenio-cabral/transfers/spieler/818242/transfer_id/5079067"
+        },
+        {
+          "id": "4882596",
+          "transferSource": {
+            "competitionId": "PT23",
+            "countryId": 136,
+            "clubId": "67731",
+            "coachId": "58519"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "100622",
+            "coachId": "134989"
+          },
+          "details": {
+            "playerId": "818242",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kenio-cabral/transfers/spieler/818242/transfer_id/4882596"
+        },
+        {
+          "id": "4606580",
+          "transferSource": {
+            "competitionId": "PT23",
+            "countryId": 136,
+            "clubId": "101419",
+            "coachId": "75246"
+          },
+          "transferDestination": {
+            "competitionId": "PT23",
+            "countryId": 136,
+            "clubId": "67731",
+            "coachId": "65199"
+          },
+          "details": {
+            "playerId": "818242",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kenio-cabral/transfers/spieler/818242/transfer_id/4606580"
+        },
+        {
+          "id": "3997999",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "14695",
+            "coachId": "109647"
+          },
+          "transferDestination": {
+            "competitionId": "PT23",
+            "countryId": 136,
+            "clubId": "101419",
+            "coachId": "106698"
+          },
+          "details": {
+            "playerId": "818242",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kenio-cabral/transfers/spieler/818242/transfer_id/3997999"
+        },
+        {
+          "id": "3997998",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "15608",
+            "coachId": "129659"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "14695",
+            "coachId": "106698"
+          },
+          "details": {
+            "playerId": "818242",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kenio-cabral/transfers/spieler/818242/transfer_id/3997998"
+        },
+        {
+          "id": "3263694",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "38377",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "15608",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "818242",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kenio-cabral/transfers/spieler/818242/transfer_id/3263694"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "85471",
+      "21640",
+      "100622",
+      "67731",
+      "101419",
+      "14695",
+      "15608",
+      "38377"
+    ],
+    "coachIds": [
+      "147903",
+      "30813",
+      "73831",
+      "58519",
+      "134989",
+      "75246",
+      "65199",
+      "109647",
+      "106698",
+      "129659"
+    ],
+    "competitionIds": [
+      "CPSD",
+      "LUX1",
+      "PT23"
+    ],
+    "mostRecentTransfer": {
+      "id": "5807635",
+      "transferSource": {
+        "competitionId": "CPSD",
+        "countryId": 136,
+        "clubId": "85471",
+        "coachId": "147903"
+      },
+      "transferDestination": {
+        "competitionId": "LUX1",
+        "countryId": 99,
+        "clubId": "21640",
+        "coachId": "30813"
+      },
+      "details": {
+        "playerId": "818242",
+        "date": "2025-07-24T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kenio-cabral/transfers/spieler/818242/transfer_id/5807635"
+    }
+  }
+}

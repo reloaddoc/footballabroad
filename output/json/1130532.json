@@ -1,0 +1,206 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1130532",
+    "history": {
+      "terminated": [
+        {
+          "id": "5188011",
+          "transferSource": {
+            "competitionId": "ARM2",
+            "countryId": 10,
+            "clubId": "21694",
+            "coachId": "80376"
+          },
+          "transferDestination": {
+            "competitionId": "ARM1",
+            "countryId": 10,
+            "clubId": "60368",
+            "coachId": "53922"
+          },
+          "details": {
+            "playerId": "1130532",
+            "date": "2024-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zaven-khudaverdyan/transfers/spieler/1130532/transfer_id/5188011"
+        },
+        {
+          "id": "4399323",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 10,
+            "clubId": "42773",
+            "coachId": "91327"
+          },
+          "transferDestination": {
+            "competitionId": "ARM2",
+            "countryId": 10,
+            "clubId": "21694",
+            "coachId": "26585"
+          },
+          "details": {
+            "playerId": "1130532",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zaven-khudaverdyan/transfers/spieler/1130532/transfer_id/4399323"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 175000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "175.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "21694",
+      "60368",
+      "42773"
+    ],
+    "coachIds": [
+      "80376",
+      "53922",
+      "91327",
+      "26585"
+    ],
+    "competitionIds": [
+      "ARM2",
+      "ARM1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5188011",
+      "transferSource": {
+        "competitionId": "ARM2",
+        "countryId": 10,
+        "clubId": "21694",
+        "coachId": "80376"
+      },
+      "transferDestination": {
+        "competitionId": "ARM1",
+        "countryId": 10,
+        "clubId": "60368",
+        "coachId": "53922"
+      },
+      "details": {
+        "playerId": "1130532",
+        "date": "2024-08-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 10000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "10.00",
+            "suffix": "K"
+          }
+        },
+        "age": 17,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/zaven-khudaverdyan/transfers/spieler/1130532/transfer_id/5188011"
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1173052",
+    "history": {
+      "terminated": [
+        {
+          "id": "6100259",
+          "transferSource": {
+            "competitionId": "ARM2",
+            "countryId": 10,
+            "clubId": "100827",
+            "coachId": "56522"
+          },
+          "transferDestination": {
+            "competitionId": "ARM2",
+            "countryId": 10,
+            "clubId": "110709",
+            "coachId": "51655"
+          },
+          "details": {
+            "playerId": "1173052",
+            "date": "2026-02-01T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/honore-ye/transfers/spieler/1173052/transfer_id/6100259"
+        },
+        {
+          "id": "5828324",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 29,
+            "clubId": "25540",
+            "coachId": "87065"
+          },
+          "transferDestination": {
+            "competitionId": "ARM2",
+            "countryId": 10,
+            "clubId": "100827",
+            "coachId": "56522"
+          },
+          "details": {
+            "playerId": "1173052",
+            "date": "2025-07-16T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/honore-ye/transfers/spieler/1173052/transfer_id/5828324"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 30,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "100827",
+      "110709",
+      "25540"
+    ],
+    "coachIds": [
+      "56522",
+      "51655",
+      "87065"
+    ],
+    "competitionIds": [
+      "ARM2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6100259",
+      "transferSource": {
+        "competitionId": "ARM2",
+        "countryId": 10,
+        "clubId": "100827",
+        "coachId": "56522"
+      },
+      "transferDestination": {
+        "competitionId": "ARM2",
+        "countryId": 10,
+        "clubId": "110709",
+        "coachId": "51655"
+      },
+      "details": {
+        "playerId": "1173052",
+        "date": "2026-02-01T00:00:00+01:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/honore-ye/transfers/spieler/1173052/transfer_id/6100259"
+    }
+  }
+}

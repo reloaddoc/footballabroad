@@ -1,0 +1,664 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "431453",
+    "history": {
+      "terminated": [
+        {
+          "id": "5921281",
+          "transferSource": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10482",
+            "coachId": "67079"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "3793",
+            "coachId": "93558"
+          },
+          "details": {
+            "playerId": "431453",
+            "date": "2025-09-06T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": 80000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "80.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 116,
+              "daysDisplay": "3 Months, 25 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-gadrani/transfers/spieler/431453/transfer_id/5921281"
+        },
+        {
+          "id": "4731447",
+          "transferSource": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10157",
+            "coachId": "29299"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10482",
+            "coachId": "67978"
+          },
+          "details": {
+            "playerId": "431453",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 550000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "550.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-gadrani/transfers/spieler/431453/transfer_id/4731447"
+        },
+        {
+          "id": "4225635",
+          "transferSource": {
+            "competitionId": "KAS2",
+            "countryId": 81,
+            "clubId": "22994",
+            "coachId": "28868"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "10157",
+            "coachId": "64334"
+          },
+          "details": {
+            "playerId": "431453",
+            "date": "2023-01-16T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-gadrani/transfers/spieler/431453/transfer_id/4225635"
+        },
+        {
+          "id": "3732499",
+          "transferSource": {
+            "competitionId": "LET1",
+            "countryId": 92,
+            "clubId": "5084",
+            "coachId": "15279"
+          },
+          "transferDestination": {
+            "competitionId": "KAS1",
+            "countryId": 81,
+            "clubId": "22994",
+            "coachId": "65807"
+          },
+          "details": {
+            "playerId": "431453",
+            "date": "2022-02-06T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-gadrani/transfers/spieler/431453/transfer_id/3732499"
+        },
+        {
+          "id": "3058104",
+          "transferSource": {
+            "competitionId": "IRN2",
+            "countryId": 71,
+            "clubId": "17575",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "LET1",
+            "countryId": 92,
+            "clubId": "5084",
+            "coachId": "15279"
+          },
+          "details": {
+            "playerId": "431453",
+            "date": "2020-09-10T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-gadrani/transfers/spieler/431453/transfer_id/3058104"
+        },
+        {
+          "id": "2598776",
+          "transferSource": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "1799",
+            "coachId": "11048"
+          },
+          "transferDestination": {
+            "competitionId": "IRN1",
+            "countryId": 71,
+            "clubId": "17575",
+            "coachId": "21982"
+          },
+          "details": {
+            "playerId": "431453",
+            "date": "2019-08-09T00:00:00+02:00",
+            "contractUntilDate": "2020-08-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-gadrani/transfers/spieler/431453/transfer_id/2598776"
+        },
+        {
+          "id": "2211996",
+          "transferSource": {
+            "competitionId": "GEO2",
+            "countryId": 53,
+            "clubId": "19090",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "1799",
+            "coachId": "11048"
+          },
+          "details": {
+            "playerId": "431453",
+            "date": "2018-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-gadrani/transfers/spieler/431453/transfer_id/2211996"
+        },
+        {
+          "id": "1718823",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "8880",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GEO1",
+            "countryId": 53,
+            "clubId": "19090",
+            "coachId": "39294"
+          },
+          "details": {
+            "playerId": "431453",
+            "date": "2017-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-gadrani/transfers/spieler/431453/transfer_id/1718823"
+        },
+        {
+          "id": "2716880",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 53,
+            "clubId": "31555",
+            "coachId": "72242"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "8880",
+            "coachId": "31059"
+          },
+          "details": {
+            "playerId": "431453",
+            "date": "2016-06-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-gadrani/transfers/spieler/431453/transfer_id/2716880"
+        },
+        {
+          "id": "2716881",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 53,
+            "clubId": "31868",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GE2H",
+            "countryId": 53,
+            "clubId": "31555",
+            "coachId": "18307"
+          },
+          "details": {
+            "playerId": "431453",
+            "date": "2015-06-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-gadrani/transfers/spieler/431453/transfer_id/2716881"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 80000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "80.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 29,
+      "totalMarketValue": {
+        "value": 1200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.20",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "10482",
+      "3793",
+      "10157",
+      "22994",
+      "5084",
+      "17575",
+      "1799",
+      "19090",
+      "8880",
+      "31555",
+      "31868"
+    ],
+    "coachIds": [
+      "67079",
+      "93558",
+      "29299",
+      "67978",
+      "28868",
+      "64334",
+      "15279",
+      "65807",
+      "11048",
+      "21982",
+      "39294",
+      "72242",
+      "31059",
+      "18307"
+    ],
+    "competitionIds": [
+      "KAS1",
+      "ISR1",
+      "KAS2",
+      "LET1",
+      "IRN2",
+      "GE1N",
+      "IRN1",
+      "GEO2",
+      "GEO1",
+      "GE2H"
+    ],
+    "mostRecentTransfer": {
+      "id": "5921281",
+      "transferSource": {
+        "competitionId": "KAS1",
+        "countryId": 81,
+        "clubId": "10482",
+        "coachId": "67079"
+      },
+      "transferDestination": {
+        "competitionId": "ISR1",
+        "countryId": 74,
+        "clubId": "3793",
+        "coachId": "93558"
+      },
+      "details": {
+        "playerId": "431453",
+        "date": "2025-09-06T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 350000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "350.00",
+            "suffix": "K"
+          }
+        },
+        "age": 28,
+        "fee": {
+          "value": 80000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "80.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 116,
+          "daysDisplay": "3 Months, 25 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/luka-gadrani/transfers/spieler/431453/transfer_id/5921281"
+    }
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "655080",
+    "history": {
+      "terminated": [
+        {
+          "id": "6393935",
+          "transferSource": {
+            "competitionId": "IN1L",
+            "countryId": 68,
+            "clubId": "14104",
+            "coachId": "9382"
+          },
+          "transferDestination": {
+            "competitionId": "IN1L",
+            "countryId": 68,
+            "clubId": "31444",
+            "coachId": "33571"
+          },
+          "details": {
+            "playerId": "655080",
+            "date": "2026-07-07T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 375000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "375.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuran-fernandes/transfers/spieler/655080/transfer_id/6393935"
+        },
+        {
+          "id": "3872082",
+          "transferSource": {
+            "competitionId": "3PTP",
+            "countryId": 136,
+            "clubId": "2432",
+            "coachId": "50859"
+          },
+          "transferDestination": {
+            "competitionId": "IN1L",
+            "countryId": 68,
+            "clubId": "14104",
+            "coachId": "33571"
+          },
+          "details": {
+            "playerId": "655080",
+            "date": "2022-06-04T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 26,
+              "daysDisplay": "26 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuran-fernandes/transfers/spieler/655080/transfer_id/3872082"
+        },
+        {
+          "id": "3459888",
+          "transferSource": {
+            "competitionId": "PO2",
+            "countryId": 136,
+            "clubId": "2431",
+            "coachId": "73021"
+          },
+          "transferDestination": {
+            "competitionId": "3PTP",
+            "countryId": 136,
+            "clubId": "2432",
+            "coachId": "3296"
+          },
+          "details": {
+            "playerId": "655080",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuran-fernandes/transfers/spieler/655080/transfer_id/3459888"
+        },
+        {
+          "id": "3084940",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "6986",
+            "coachId": "76160"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "2431",
+            "coachId": "73021"
+          },
+          "details": {
+            "playerId": "655080",
+            "date": "2020-08-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuran-fernandes/transfers/spieler/655080/transfer_id/3084940"
+        },
+        {
+          "id": "2707829",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "4750",
+            "coachId": "69307"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "6986",
+            "coachId": "71042"
+          },
+          "details": {
+            "playerId": "655080",
+            "date": "2019-07-22T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuran-fernandes/transfers/spieler/655080/transfer_id/2707829"
+        },
+        {
+          "id": "2414792",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "3352",
+            "coachId": "26878"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "4750",
+            "coachId": "69297"
+          },
+          "details": {
+            "playerId": "655080",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuran-fernandes/transfers/spieler/655080/transfer_id/2414792"
+        },
+        {
+          "id": "2414793",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "54596",
+            "coachId": "69297"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "3352",
+            "coachId": "26878"
+          },
+          "details": {
+            "playerId": "655080",
+            "date": "2018-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuran-fernandes/transfers/spieler/655080/transfer_id/2414793"
+        },
+        {
+          "id": "2414794",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "41745",
+            "coachId": "88677"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "54596",
+            "coachId": "69297"
+          },
+          "details": {
+            "playerId": "655080",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuran-fernandes/transfers/spieler/655080/transfer_id/2414794"
+        },
+        {
+          "id": "2414795",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "50966",
+            "coachId": "134171"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "41745",
+            "coachId": "158439"
+          },
+          "details": {
+            "playerId": "655080",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuran-fernandes/transfers/spieler/655080/transfer_id/2414795"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 31,
+      "totalMarketValue": {
+        "value": 375000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "375.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "14104",
+      "31444",
+      "2432",
+      "2431",
+      "6986",
+      "4750",
+      "3352",
+      "54596",
+      "41745",
+      "50966"
+    ],
+    "coachIds": [
+      "9382",
+      "33571",
+      "50859",
+      "73021",
+      "3296",
+      "76160",
+      "69307",
+      "71042",
+      "26878",
+      "69297",
+      "88677",
+      "134171",
+      "158439"
+    ],
+    "competitionIds": [
+      "IN1L",
+      "3PTP",
+      "PO2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6393935",
+      "transferSource": {
+        "competitionId": "IN1L",
+        "countryId": 68,
+        "clubId": "14104",
+        "coachId": "9382"
+      },
+      "transferDestination": {
+        "competitionId": "IN1L",
+        "countryId": 68,
+        "clubId": "31444",
+        "coachId": "33571"
+      },
+      "details": {
+        "playerId": "655080",
+        "date": "2026-07-07T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 375000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "375.00",
+            "suffix": "K"
+          }
+        },
+        "age": 31,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/yuran-fernandes/transfers/spieler/655080/transfer_id/6393935"
+    }
+  }
+}

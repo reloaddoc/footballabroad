@@ -1,0 +1,399 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1089578",
+    "history": {
+      "terminated": [
+        {
+          "id": "6184603",
+          "transferSource": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "1061",
+            "coachId": "17495"
+          },
+          "transferDestination": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "23565",
+            "coachId": "112238"
+          },
+          "details": {
+            "playerId": "1089578",
+            "date": "2026-02-13T00:00:00+01:00",
+            "contractUntilDate": "2026-11-30T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 321,
+              "daysDisplay": "10 Months, 18 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/gino-vivi/transfers/spieler/1089578/transfer_id/6184603"
+        },
+        {
+          "id": "5094270",
+          "transferSource": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "4720",
+            "coachId": "23766"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "1061",
+            "coachId": "17495"
+          },
+          "details": {
+            "playerId": "1089578",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 275000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "275.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/gino-vivi/transfers/spieler/1089578/transfer_id/5094270"
+        },
+        {
+          "id": "5094269",
+          "transferSource": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "1061",
+            "coachId": "17495"
+          },
+          "transferDestination": {
+            "competitionId": "PDV1",
+            "countryId": 36,
+            "clubId": "4720",
+            "coachId": "58000"
+          },
+          "details": {
+            "playerId": "1089578",
+            "date": "2024-07-04T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 910,
+              "daysDisplay": "2 Years, 5 Months, 27 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/gino-vivi/transfers/spieler/1089578/transfer_id/5094269"
+        },
+        {
+          "id": "4185220",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "31632",
+            "coachId": "65142"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "1061",
+            "coachId": "17495"
+          },
+          "details": {
+            "playerId": "1089578",
+            "date": "2022-12-21T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "draft",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gino-vivi/transfers/spieler/1089578/transfer_id/4185220"
+        },
+        {
+          "id": "4185726",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 36,
+            "clubId": "72673",
+            "coachId": "21483"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "31632",
+            "coachId": "65142"
+          },
+          "details": {
+            "playerId": "1089578",
+            "date": "2019-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gino-vivi/transfers/spieler/1089578/transfer_id/4185726"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6184604",
+          "transferSource": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "23565",
+            "coachId": "112238"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "1061",
+            "coachId": "17495"
+          },
+          "details": {
+            "playerId": "1089578",
+            "date": "2026-11-30T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/gino-vivi/transfers/spieler/1089578/transfer_id/6184604"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 175000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "175.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "23565",
+      "1061",
+      "4720",
+      "31632",
+      "72673"
+    ],
+    "coachIds": [
+      "112238",
+      "17495",
+      "23766",
+      "58000",
+      "65142",
+      "21483"
+    ],
+    "competitionIds": [
+      "USL",
+      "MLS1",
+      "PDV1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6184603",
+      "transferSource": {
+        "competitionId": "MLS1",
+        "countryId": 184,
+        "clubId": "1061",
+        "coachId": "17495"
+      },
+      "transferDestination": {
+        "competitionId": "USL",
+        "countryId": 184,
+        "clubId": "23565",
+        "coachId": "112238"
+      },
+      "details": {
+        "playerId": "1089578",
+        "date": "2026-02-13T00:00:00+01:00",
+        "contractUntilDate": "2026-11-30T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "remainingContractPeriod": {
+          "days": 321,
+          "daysDisplay": "10 Months, 18 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/gino-vivi/transfers/spieler/1089578/transfer_id/6184603"
+    }
+  }
+}

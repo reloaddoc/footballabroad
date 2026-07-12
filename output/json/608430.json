@@ -1,0 +1,382 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "608430",
+    "history": {
+      "terminated": [
+        {
+          "id": "6161308",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "4645",
+            "coachId": "9287"
+          },
+          "transferDestination": {
+            "competitionId": "CSL",
+            "countryId": 34,
+            "clubId": "70657",
+            "coachId": "51256"
+          },
+          "details": {
+            "playerId": "608430",
+            "date": "2026-02-02T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 148,
+              "daysDisplay": "4 Months, 28 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kilian-bevis/transfers/spieler/608430/transfer_id/6161308"
+        },
+        {
+          "id": "4379216",
+          "transferSource": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "6335",
+            "coachId": "88730"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "4645",
+            "coachId": "90466"
+          },
+          "details": {
+            "playerId": "608430",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kilian-bevis/transfers/spieler/608430/transfer_id/4379216"
+        },
+        {
+          "id": "3856402",
+          "transferSource": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "10262",
+            "coachId": "16908"
+          },
+          "transferDestination": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "6335",
+            "coachId": "88730"
+          },
+          "details": {
+            "playerId": "608430",
+            "date": "2022-07-25T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kilian-bevis/transfers/spieler/608430/transfer_id/3856402"
+        },
+        {
+          "id": "3486446",
+          "transferSource": {
+            "competitionId": "IT4I",
+            "countryId": 75,
+            "clubId": "38995",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MAL1",
+            "countryId": 106,
+            "clubId": "10262",
+            "coachId": "8286"
+          },
+          "details": {
+            "playerId": "608430",
+            "date": "2021-08-15T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kilian-bevis/transfers/spieler/608430/transfer_id/3486446"
+        },
+        {
+          "id": "2581188",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 75,
+            "clubId": "46933",
+            "coachId": "87587"
+          },
+          "transferDestination": {
+            "competitionId": "IT4I",
+            "countryId": 75,
+            "clubId": "38995",
+            "coachId": "36377"
+          },
+          "details": {
+            "playerId": "608430",
+            "date": "2019-07-29T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kilian-bevis/transfers/spieler/608430/transfer_id/2581188"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 28,
+      "totalMarketValue": {
+        "value": 900000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "900.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "4645",
+      "70657",
+      "6335",
+      "10262",
+      "38995",
+      "46933"
+    ],
+    "coachIds": [
+      "9287",
+      "51256",
+      "88730",
+      "90466",
+      "16908",
+      "8286",
+      "87587",
+      "36377"
+    ],
+    "competitionIds": [
+      "SER1",
+      "CSL",
+      "MAL1",
+      "IT4I"
+    ],
+    "mostRecentTransfer": {
+      "id": "6161308",
+      "transferSource": {
+        "competitionId": "SER1",
+        "countryId": 215,
+        "clubId": "4645",
+        "coachId": "9287"
+      },
+      "transferDestination": {
+        "competitionId": "CSL",
+        "countryId": 34,
+        "clubId": "70657",
+        "coachId": "51256"
+      },
+      "details": {
+        "playerId": "608430",
+        "date": "2026-02-02T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 1000000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "1.00",
+            "suffix": "M"
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 148,
+          "daysDisplay": "4 Months, 28 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kilian-bevis/transfers/spieler/608430/transfer_id/6161308"
+    }
+  }
+}

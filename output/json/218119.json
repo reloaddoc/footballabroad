@@ -1,0 +1,262 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "218119",
+    "history": {
+      "terminated": [
+        {
+          "id": "2766471",
+          "transferSource": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "4064",
+            "coachId": "71484"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "3734",
+            "coachId": "71140"
+          },
+          "details": {
+            "playerId": "218119",
+            "date": "2020-01-20T00:00:00+01:00",
+            "contractUntilDate": "2026-01-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/matheus/transfers/spieler/218119/transfer_id/2766471"
+        },
+        {
+          "id": "2353852",
+          "transferSource": {
+            "competitionId": "BRA1",
+            "countryId": 26,
+            "clubId": "199",
+            "coachId": "47350"
+          },
+          "transferDestination": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "4064",
+            "coachId": "24036"
+          },
+          "details": {
+            "playerId": "218119",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/matheus/transfers/spieler/218119/transfer_id/2353852"
+        },
+        {
+          "id": "719269",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "14699",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "BRA1",
+            "countryId": 26,
+            "clubId": "199",
+            "coachId": "6623"
+          },
+          "details": {
+            "playerId": "218119",
+            "date": "2012-05-01T00:00:00+02:00",
+            "contractUntilDate": "2018-12-31T00:00:00+01:00",
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/matheus/transfers/spieler/218119/transfer_id/719269"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 33,
+      "totalMarketValue": {
+        "value": 350000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "350.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "4064",
+      "3734",
+      "199",
+      "14699"
+    ],
+    "coachIds": [
+      "71484",
+      "71140",
+      "47350",
+      "24036",
+      "6623"
+    ],
+    "competitionIds": [
+      "BRA2",
+      "JAP2",
+      "BRA1"
+    ],
+    "mostRecentTransfer": {
+      "id": "2766471",
+      "transferSource": {
+        "competitionId": "BRA2",
+        "countryId": 26,
+        "clubId": "4064",
+        "coachId": "71484"
+      },
+      "transferDestination": {
+        "competitionId": "JAP2",
+        "countryId": 77,
+        "clubId": "3734",
+        "coachId": "71140"
+      },
+      "details": {
+        "playerId": "218119",
+        "date": "2020-01-20T00:00:00+01:00",
+        "contractUntilDate": "2026-01-31T00:00:00+01:00",
+        "seasonId": 2019,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2019,
+          "display": "19/20",
+          "cyclicalName": "2020",
+          "nonCyclicalName": "19/20"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/matheus/transfers/spieler/218119/transfer_id/2766471"
+    }
+  }
+}
