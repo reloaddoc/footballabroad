@@ -127,7 +127,6 @@ def prepare_dataset(df):
         on="to_league_code",
         how="left",
     )
-    print(data.columns.tolist())
 
     # ------------------------------------------------------
     # Level Difference
@@ -171,7 +170,6 @@ def prepare_dataset(df):
         ] = "Step Down"
 
     print("\nSpalten nach prepare_dataset():")
-    print(data.columns.tolist())
 
     return data
 
@@ -346,7 +344,7 @@ def recommended_leagues(
         ~valid["to_club_name"]
         .fillna("")
         .isin([
-            "Vereinslos",
+            "Without a club",
             "Unattached",
             "Retired",
             "Career break",
@@ -514,7 +512,7 @@ def recommended_paths(
         ~valid["to_club_name"]
         .fillna("")
         .isin([
-            "Vereinslos",
+            "Without a club",
             "Unattached",
             "Retired",
             "Career break",
@@ -542,13 +540,11 @@ def recommended_paths(
 
         .sort_values(
 
-            "Players",
+            ["Players", "Career Path"],
 
-            ascending=False,
+            ascending=[False, True],
 
         )
-
-        .head(top_n)
 
         .reset_index()
 

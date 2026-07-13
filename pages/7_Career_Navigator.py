@@ -263,7 +263,7 @@ if st.session_state.analysis_done:
     )
 
     st.dataframe(
-        paths,
+        paths.head(10),
         hide_index=True,
         width="stretch",
         height=300,
@@ -280,8 +280,12 @@ if st.session_state.analysis_done:
         selected_path = st.selectbox(
             "Select a career path",
             paths["Career Path"].tolist(),
+            index=None,
+            placeholder="Choose a career path...",
         )
 
+        if selected_path is None:
+            st.stop()
         path_players = matching.copy()
 
         path_players["Career Path"] = (
