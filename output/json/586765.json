@@ -1,0 +1,805 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "586765",
+    "history": {
+      "terminated": [
+        {
+          "id": "6412991",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "15213"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1127",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2026-07-08T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/6412991"
+        },
+        {
+          "id": "6056567",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "4052"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "44477"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": 40000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "40.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 698,
+              "daysDisplay": "1 Year, 10 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/6056567"
+        },
+        {
+          "id": "5455363",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9259",
+            "coachId": "109469"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "4052"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2025-01-15T00:00:00+01:00",
+            "contractUntilDate": "2027-11-30T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 166,
+              "daysDisplay": "5 Months, 15 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/5455363"
+        },
+        {
+          "id": "4799766",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "39218"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9259",
+            "coachId": "109469"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2024-05-31T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/4799766"
+        },
+        {
+          "id": "4799765",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9259",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "39218"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2024-01-03T00:00:00+01:00",
+            "contractUntilDate": "2024-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/4799765"
+        },
+        {
+          "id": "4260951",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "44477"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9259",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2023-11-30T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/4260951"
+        },
+        {
+          "id": "4260950",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9259",
+            "coachId": "122725"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "57789"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2023-02-04T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/4260950"
+        },
+        {
+          "id": "4147941",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3456",
+            "coachId": "70221"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9259",
+            "coachId": "122725"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2023-01-03T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/4147941"
+        },
+        {
+          "id": "4147940",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9259",
+            "coachId": "122725"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3456",
+            "coachId": "70221"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2022-11-18T00:00:00+01:00",
+            "contractUntilDate": "2023-01-03T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/4147940"
+        },
+        {
+          "id": "4121843",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1078",
+            "coachId": "15772"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9259",
+            "coachId": "122725"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2022-11-17T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/4121843"
+        },
+        {
+          "id": "4121842",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9259",
+            "coachId": "122725"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1078",
+            "coachId": "15772"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2022-10-21T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/4121842"
+        },
+        {
+          "id": "3869021",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "24226",
+            "coachId": "75599"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9259",
+            "coachId": "122725"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/3869021"
+        },
+        {
+          "id": "3018165",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "12801",
+            "coachId": "10975"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "24226",
+            "coachId": "75599"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/3018165"
+        },
+        {
+          "id": "2295600",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "54097",
+            "coachId": "108916"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "12801",
+            "coachId": "25488"
+          },
+          "details": {
+            "playerId": "586765",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/2295600"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 40000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "40.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "7609",
+      "1127",
+      "1189",
+      "9259",
+      "2454",
+      "3456",
+      "1078",
+      "24226",
+      "12801",
+      "54097"
+    ],
+    "coachIds": [
+      "15213",
+      "4052",
+      "44477",
+      "109469",
+      "39218",
+      "122725",
+      "57789",
+      "70221",
+      "15772",
+      "75599",
+      "10975",
+      "108916",
+      "25488"
+    ],
+    "competitionIds": [
+      "IR1",
+      "CNAT",
+      "GB4",
+      "GB21",
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "6412991",
+      "transferSource": {
+        "competitionId": "IR1",
+        "countryId": 72,
+        "clubId": "7609",
+        "coachId": "15213"
+      },
+      "transferDestination": {
+        "competitionId": "CNAT",
+        "countryId": 189,
+        "clubId": "1127",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "586765",
+        "date": "2026-07-08T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/conor-carty/transfers/spieler/586765/transfer_id/6412991"
+    }
+  }
+}

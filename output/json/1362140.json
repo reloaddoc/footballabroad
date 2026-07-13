@@ -1,0 +1,390 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1362140",
+    "history": {
+      "terminated": [
+        {
+          "id": "6194235",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "3654",
+            "coachId": "38112"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "6018",
+            "coachId": "74441"
+          },
+          "details": {
+            "playerId": "1362140",
+            "date": "2026-02-20T00:00:00+01:00",
+            "contractUntilDate": "2026-11-30T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1410,
+              "daysDisplay": "3 Years, 10 Months, 11 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/awaka-djoro/transfers/spieler/1362140/transfer_id/6194235"
+        },
+        {
+          "id": "5746557",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 38,
+            "clubId": "3891",
+            "coachId": "87047"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "3654",
+            "coachId": "38112"
+          },
+          "details": {
+            "playerId": "1362140",
+            "date": "2025-07-08T00:00:00+02:00",
+            "contractUntilDate": "2029-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/awaka-djoro/transfers/spieler/1362140/transfer_id/5746557"
+        },
+        {
+          "id": "5434022",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "3654",
+            "coachId": "38112"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 38,
+            "clubId": "3891",
+            "coachId": "87047"
+          },
+          "details": {
+            "playerId": "1362140",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 184,
+              "daysDisplay": "6 Months, 1 Day"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/awaka-djoro/transfers/spieler/1362140/transfer_id/5434022"
+        },
+        {
+          "id": "5434023",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 38,
+            "clubId": "3891",
+            "coachId": "87047"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "3654",
+            "coachId": "38112"
+          },
+          "details": {
+            "playerId": "1362140",
+            "date": "2025-01-29T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/awaka-djoro/transfers/spieler/1362140/transfer_id/5434023"
+        },
+        {
+          "id": "5435038",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 38,
+            "clubId": "16804",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 38,
+            "clubId": "3891",
+            "coachId": "87047"
+          },
+          "details": {
+            "playerId": "1362140",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/awaka-djoro/transfers/spieler/1362140/transfer_id/5435038"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6194236",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "6018",
+            "coachId": "74441"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "3654",
+            "coachId": "38112"
+          },
+          "details": {
+            "playerId": "1362140",
+            "date": "2026-11-30T00:00:00+01:00",
+            "contractUntilDate": "2029-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/awaka-djoro/transfers/spieler/1362140/transfer_id/6194236"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "6018",
+      "3654",
+      "3891",
+      "16804"
+    ],
+    "coachIds": [
+      "74441",
+      "38112",
+      "87047"
+    ],
+    "competitionIds": [
+      "SE2",
+      "SE1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6194235",
+      "transferSource": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "3654",
+        "coachId": "38112"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "6018",
+        "coachId": "74441"
+      },
+      "details": {
+        "playerId": "1362140",
+        "date": "2026-02-20T00:00:00+01:00",
+        "contractUntilDate": "2026-11-30T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "remainingContractPeriod": {
+          "days": 1410,
+          "daysDisplay": "3 Years, 10 Months, 11 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/awaka-djoro/transfers/spieler/1362140/transfer_id/6194235"
+    }
+  }
+}

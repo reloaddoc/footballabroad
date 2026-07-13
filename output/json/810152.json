@@ -1,0 +1,622 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "810152",
+    "history": {
+      "terminated": [
+        {
+          "id": "6101802",
+          "transferSource": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "7907"
+          },
+          "transferDestination": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "3301",
+            "coachId": "65603"
+          },
+          "details": {
+            "playerId": "810152",
+            "date": "2026-01-16T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 1080,
+              "daysDisplay": "2 Years, 11 Months, 15 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/min-woo-kim/transfers/spieler/810152/transfer_id/6101802"
+        },
+        {
+          "id": "5771296",
+          "transferSource": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "39429",
+            "coachId": "57302"
+          },
+          "transferDestination": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "7907"
+          },
+          "details": {
+            "playerId": "810152",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/min-woo-kim/transfers/spieler/810152/transfer_id/5771296"
+        },
+        {
+          "id": "5771295",
+          "transferSource": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "7907"
+          },
+          "transferDestination": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "39429",
+            "coachId": "57302"
+          },
+          "details": {
+            "playerId": "810152",
+            "date": "2025-07-11T00:00:00+02:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 538,
+              "daysDisplay": "1 Year, 5 Months, 20 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/min-woo-kim/transfers/spieler/810152/transfer_id/5771295"
+        },
+        {
+          "id": "5079752",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "4690",
+            "coachId": "54886"
+          },
+          "transferDestination": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "7907"
+          },
+          "details": {
+            "playerId": "810152",
+            "date": "2024-07-02T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 363,
+              "daysDisplay": "11 Months, 28 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/min-woo-kim/transfers/spieler/810152/transfer_id/5079752"
+        },
+        {
+          "id": "4465716",
+          "transferSource": {
+            "competitionId": "OBLK",
+            "countryId": 40,
+            "clubId": "87",
+            "coachId": "4610"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "4690",
+            "coachId": "361"
+          },
+          "details": {
+            "playerId": "810152",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/min-woo-kim/transfers/spieler/810152/transfer_id/4465716"
+        },
+        {
+          "id": "3490784",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "81831",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "87",
+            "coachId": "19933"
+          },
+          "details": {
+            "playerId": "810152",
+            "date": "2021-08-06T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/min-woo-kim/transfers/spieler/810152/transfer_id/3490784"
+        },
+        {
+          "id": "3071219",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "71582",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "81831",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "810152",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/min-woo-kim/transfers/spieler/810152/transfer_id/3071219"
+        },
+        {
+          "id": "3274116",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "88053",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "71582",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "810152",
+            "date": "2018-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/min-woo-kim/transfers/spieler/810152/transfer_id/3274116"
+        },
+        {
+          "id": "3274115",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "88231",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "88053",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "810152",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 12,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/min-woo-kim/transfers/spieler/810152/transfer_id/3274115"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6101803",
+          "transferSource": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "3301",
+            "coachId": "65603"
+          },
+          "transferDestination": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "7907"
+          },
+          "details": {
+            "playerId": "810152",
+            "date": "2026-12-31T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 731,
+              "daysDisplay": "2 Years"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/min-woo-kim/transfers/spieler/810152/transfer_id/6101803"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 250000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "250.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3301",
+      "6499",
+      "39429",
+      "4690",
+      "87",
+      "81831",
+      "71582",
+      "88053",
+      "88231"
+    ],
+    "coachIds": [
+      "65603",
+      "7907",
+      "57302",
+      "54886",
+      "4610",
+      "361",
+      "19933"
+    ],
+    "competitionIds": [
+      "RSK2",
+      "RSK1",
+      "RLW3",
+      "OBLK",
+      "RLN3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6101802",
+      "transferSource": {
+        "competitionId": "RSK1",
+        "countryId": 87,
+        "clubId": "6499",
+        "coachId": "7907"
+      },
+      "transferDestination": {
+        "competitionId": "RSK2",
+        "countryId": 87,
+        "clubId": "3301",
+        "coachId": "65603"
+      },
+      "details": {
+        "playerId": "810152",
+        "date": "2026-01-16T00:00:00+01:00",
+        "contractUntilDate": "2028-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 23,
+        "remainingContractPeriod": {
+          "days": 1080,
+          "daysDisplay": "2 Years, 11 Months, 15 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/min-woo-kim/transfers/spieler/810152/transfer_id/6101802"
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1299392",
+    "history": {
+      "terminated": [
+        {
+          "id": "6321174",
+          "transferSource": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "11603",
+            "coachId": "96628"
+          },
+          "transferDestination": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "897",
+            "coachId": "68884"
+          },
+          "details": {
+            "playerId": "1299392",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 545,
+              "daysDisplay": "1 Year, 5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bil-nsongo/transfers/spieler/1299392/transfer_id/6321174"
+        },
+        {
+          "id": "5201266",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 31,
+            "clubId": "24296",
+            "coachId": "127780"
+          },
+          "transferDestination": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "11603",
+            "coachId": "103363"
+          },
+          "details": {
+            "playerId": "1299392",
+            "date": "2024-08-16T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bil-nsongo/transfers/spieler/1299392/transfer_id/5201266"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 3000000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "3.00",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "11603",
+      "897",
+      "24296"
+    ],
+    "coachIds": [
+      "96628",
+      "68884",
+      "127780",
+      "103363"
+    ],
+    "competitionIds": [
+      "E4G1",
+      "ES2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6321174",
+      "transferSource": {
+        "competitionId": "E4G1",
+        "countryId": 157,
+        "clubId": "11603",
+        "coachId": "96628"
+      },
+      "transferDestination": {
+        "competitionId": "ES2",
+        "countryId": 157,
+        "clubId": "897",
+        "coachId": "68884"
+      },
+      "details": {
+        "playerId": "1299392",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 545,
+          "daysDisplay": "1 Year, 5 Months, 29 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/bil-nsongo/transfers/spieler/1299392/transfer_id/6321174"
+    }
+  }
+}

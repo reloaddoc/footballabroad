@@ -1,0 +1,211 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1265236",
+    "history": {
+      "terminated": [
+        {
+          "id": "6138659",
+          "transferSource": {
+            "competitionId": "511",
+            "countryId": 122,
+            "clubId": "8449",
+            "coachId": "44030"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "73829",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1265236",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 180,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lorenzo-koenders/transfers/spieler/1265236/transfer_id/6138659"
+        },
+        {
+          "id": "5209787",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "44921",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "511",
+            "countryId": 122,
+            "clubId": "8449",
+            "coachId": "75673"
+          },
+          "details": {
+            "playerId": "1265236",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lorenzo-koenders/transfers/spieler/1265236/transfer_id/5209787"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "8449",
+      "73829",
+      "44921"
+    ],
+    "coachIds": [
+      "44030",
+      "75673"
+    ],
+    "competitionIds": [
+      "511"
+    ],
+    "mostRecentTransfer": {
+      "id": "6138659",
+      "transferSource": {
+        "competitionId": "511",
+        "countryId": 122,
+        "clubId": "8449",
+        "coachId": "44030"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 19,
+        "clubId": "73829",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1265236",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 180,
+          "daysDisplay": "5 Months, 29 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/lorenzo-koenders/transfers/spieler/1265236/transfer_id/6138659"
+    }
+  }
+}

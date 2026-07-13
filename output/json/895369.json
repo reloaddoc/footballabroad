@@ -1,0 +1,260 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "895369",
+    "history": {
+      "terminated": [
+        {
+          "id": "6393594",
+          "transferSource": {
+            "competitionId": "TFPL",
+            "countryId": 164,
+            "clubId": "40508",
+            "coachId": "78727"
+          },
+          "transferDestination": {
+            "competitionId": "TFPL",
+            "countryId": 164,
+            "clubId": "130590",
+            "coachId": "158228"
+          },
+          "details": {
+            "playerId": "895369",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/genki-tateiwa/transfers/spieler/895369/transfer_id/6393594"
+        },
+        {
+          "id": "4931811",
+          "transferSource": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "34028",
+            "coachId": "11844"
+          },
+          "transferDestination": {
+            "competitionId": "TFPL",
+            "countryId": 164,
+            "clubId": "40508",
+            "coachId": "78727"
+          },
+          "details": {
+            "playerId": "895369",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/genki-tateiwa/transfers/spieler/895369/transfer_id/4931811"
+        },
+        {
+          "id": "3663580",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "24161",
+            "coachId": "92650"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "34028",
+            "coachId": "11844"
+          },
+          "details": {
+            "playerId": "895369",
+            "date": "2022-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/genki-tateiwa/transfers/spieler/895369/transfer_id/3663580"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "40508",
+      "130590",
+      "34028",
+      "24161"
+    ],
+    "coachIds": [
+      "78727",
+      "158228",
+      "11844",
+      "92650"
+    ],
+    "competitionIds": [
+      "TFPL",
+      "JFL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6393594",
+      "transferSource": {
+        "competitionId": "TFPL",
+        "countryId": 164,
+        "clubId": "40508",
+        "coachId": "78727"
+      },
+      "transferDestination": {
+        "competitionId": "TFPL",
+        "countryId": 164,
+        "clubId": "130590",
+        "coachId": "158228"
+      },
+      "details": {
+        "playerId": "895369",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/genki-tateiwa/transfers/spieler/895369/transfer_id/6393594"
+    }
+  }
+}

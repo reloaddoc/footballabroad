@@ -1,0 +1,906 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "450854",
+    "history": {
+      "terminated": [
+        {
+          "id": "6161928",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2795",
+            "coachId": "38505"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "6168",
+            "coachId": "37611"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2026-05-31T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/6161928"
+        },
+        {
+          "id": "6161927",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "6168",
+            "coachId": "93510"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2795",
+            "coachId": "38505"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2026-02-02T00:00:00+01:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 513,
+              "daysDisplay": "1 Year, 4 Months, 28 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/6161927"
+        },
+        {
+          "id": "5685315",
+          "transferSource": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2553",
+            "coachId": "36838"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "6168",
+            "coachId": "86195"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/5685315"
+        },
+        {
+          "id": "3722227",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "3001",
+            "coachId": "77489"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2553",
+            "coachId": "5526"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2022-05-06T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/3722227"
+        },
+        {
+          "id": "3722226",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2553",
+            "coachId": "5526"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "3001",
+            "coachId": "19719"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2022-01-31T00:00:00+01:00",
+            "contractUntilDate": "2022-05-06T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 485,
+              "daysDisplay": "1 Year, 4 Months"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/3722226"
+        },
+        {
+          "id": "3574522",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "3001",
+            "coachId": "19719"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2553",
+            "coachId": "5526"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2022-01-13T00:00:00+01:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 138,
+              "daysDisplay": "4 Months, 18 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/3574522"
+        },
+        {
+          "id": "3574521",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2553",
+            "coachId": "11832"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "3001",
+            "coachId": "19719"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2021-09-30T00:00:00+02:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 608,
+              "daysDisplay": "1 Year, 8 Months, 1 Day"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/3574521"
+        },
+        {
+          "id": "3231860",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "3020",
+            "coachId": "1993"
+          },
+          "transferDestination": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2553",
+            "coachId": "11832"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2021-05-01T00:00:00+02:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/3231860"
+        },
+        {
+          "id": "3231859",
+          "transferSource": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2553",
+            "coachId": "5990"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "3020",
+            "coachId": "1993"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2021-01-23T00:00:00+01:00",
+            "contractUntilDate": "2021-05-01T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 128,
+              "daysDisplay": "4 Months, 8 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/3231859"
+        },
+        {
+          "id": "3119633",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "1192",
+            "coachId": "73086"
+          },
+          "transferDestination": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2553",
+            "coachId": "5990"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2021-01-17T00:00:00+01:00",
+            "contractUntilDate": "2021-05-31T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/3119633"
+        },
+        {
+          "id": "3119632",
+          "transferSource": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2553",
+            "coachId": "5990"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "1192",
+            "coachId": "73086"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2020-10-23T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1681,
+              "daysDisplay": "4 Years, 7 Months, 8 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/3119632"
+        },
+        {
+          "id": "2920539",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "67284",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2553",
+            "coachId": "5990"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 334,
+              "daysDisplay": "10 Months, 30 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/2920539"
+        },
+        {
+          "id": "2263819",
+          "transferSource": {
+            "competitionId": "SC3",
+            "countryId": 190,
+            "clubId": "3034",
+            "coachId": "27133"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "67284",
+            "coachId": "3379"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2019-05-05T00:00:00+02:00",
+            "contractUntilDate": "2021-05-31T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/2263819"
+        },
+        {
+          "id": "2263818",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "67284",
+            "coachId": "3379"
+          },
+          "transferDestination": {
+            "competitionId": "SC3",
+            "countryId": 190,
+            "clubId": "3034",
+            "coachId": "27133"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2018-09-14T00:00:00+02:00",
+            "contractUntilDate": "2019-05-05T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 990,
+              "daysDisplay": "2 Years, 8 Months, 17 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/2263818"
+        },
+        {
+          "id": "2182099",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "9046",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "67284",
+            "coachId": "3379"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-05-31T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 334,
+              "daysDisplay": "10 Months, 30 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/2182099"
+        },
+        {
+          "id": "1796694",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "31033",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "9046",
+            "coachId": "3379"
+          },
+          "details": {
+            "playerId": "450854",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-05-31T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/1796694"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 175000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "175.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2795",
+      "6168",
+      "2553",
+      "3001",
+      "3020",
+      "1192",
+      "67284",
+      "3034",
+      "9046",
+      "31033"
+    ],
+    "coachIds": [
+      "38505",
+      "37611",
+      "93510",
+      "36838",
+      "86195",
+      "77489",
+      "5526",
+      "19719",
+      "11832",
+      "1993",
+      "5990",
+      "73086",
+      "27133",
+      "3379"
+    ],
+    "competitionIds": [
+      "SC2",
+      "GB4",
+      "SC1",
+      "SC3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6161928",
+      "transferSource": {
+        "competitionId": "SC2",
+        "countryId": 190,
+        "clubId": "2795",
+        "coachId": "38505"
+      },
+      "transferDestination": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "6168",
+        "coachId": "37611"
+      },
+      "details": {
+        "playerId": "450854",
+        "date": "2026-05-31T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 175000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "175.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/innes-cameron/transfers/spieler/450854/transfer_id/6161928"
+    }
+  }
+}

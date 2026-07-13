@@ -1,0 +1,202 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1197401",
+    "history": {
+      "terminated": [
+        {
+          "id": "5121638",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 192,
+            "clubId": "115770",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "10002",
+            "coachId": "120600"
+          },
+          "details": {
+            "playerId": "1197401",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alfie-friars/transfers/spieler/1197401/transfer_id/5121638"
+        },
+        {
+          "id": "4981239",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 192,
+            "clubId": "15246",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 192,
+            "clubId": "115770",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1197401",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alfie-friars/transfers/spieler/1197401/transfer_id/4981239"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 18,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "115770",
+      "10002",
+      "15246"
+    ],
+    "coachIds": [
+      "120600"
+    ],
+    "competitionIds": [
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "5121638",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 192,
+        "clubId": "115770",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "GB18",
+        "countryId": 189,
+        "clubId": "10002",
+        "coachId": "120600"
+      },
+      "details": {
+        "playerId": "1197401",
+        "date": "2024-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 16,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/alfie-friars/transfers/spieler/1197401/transfer_id/5121638"
+    }
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "344108",
+    "history": {
+      "terminated": [
+        {
+          "id": "5721671",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3537",
+            "coachId": "15215"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "27774",
+            "coachId": "55748"
+          },
+          "details": {
+            "playerId": "344108",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-feely/transfers/spieler/344108/transfer_id/5721671"
+        },
+        {
+          "id": "5486264",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "6168",
+            "coachId": "86195"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3537",
+            "coachId": "106981"
+          },
+          "details": {
+            "playerId": "344108",
+            "date": "2025-01-28T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 153,
+              "daysDisplay": "5 Months, 2 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-feely/transfers/spieler/344108/transfer_id/5486264"
+        },
+        {
+          "id": "4205526",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "9211",
+            "coachId": "22595"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "6168",
+            "coachId": "66031"
+          },
+          "details": {
+            "playerId": "344108",
+            "date": "2023-01-05T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-feely/transfers/spieler/344108/transfer_id/4205526"
+        },
+        {
+          "id": "3192866",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "73981"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "9211",
+            "coachId": "19906"
+          },
+          "details": {
+            "playerId": "344108",
+            "date": "2021-01-05T00:00:00+01:00",
+            "contractUntilDate": "2022-11-30T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-feely/transfers/spieler/344108/transfer_id/3192866"
+        },
+        {
+          "id": "2792281",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "19900"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "73981"
+          },
+          "details": {
+            "playerId": "344108",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": "2020-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-feely/transfers/spieler/344108/transfer_id/2792281"
+        },
+        {
+          "id": "1992303",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "12500"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "19900"
+          },
+          "details": {
+            "playerId": "344108",
+            "date": "2018-01-03T00:00:00+01:00",
+            "contractUntilDate": "2019-12-31T00:00:00+01:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-feely/transfers/spieler/344108/transfer_id/1992303"
+        },
+        {
+          "id": "1589989",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 72,
+            "clubId": "15436",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "12500"
+          },
+          "details": {
+            "playerId": "344108",
+            "date": "2016-01-01T00:00:00+01:00",
+            "contractUntilDate": "2017-12-31T00:00:00+01:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-feely/transfers/spieler/344108/transfer_id/1589989"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 29,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "3537",
+      "27774",
+      "6168",
+      "9211",
+      "1189",
+      "7609",
+      "15436"
+    ],
+    "coachIds": [
+      "15215",
+      "55748",
+      "86195",
+      "106981",
+      "22595",
+      "66031",
+      "73981",
+      "19906",
+      "19900",
+      "12500"
+    ],
+    "competitionIds": [
+      "GB4",
+      "IR1",
+      "GB3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5721671",
+      "transferSource": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "3537",
+        "coachId": "15215"
+      },
+      "transferDestination": {
+        "competitionId": "IR1",
+        "countryId": 72,
+        "clubId": "27774",
+        "coachId": "55748"
+      },
+      "details": {
+        "playerId": "344108",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 28,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 364,
+          "daysDisplay": "11 Months, 29 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/rory-feely/transfers/spieler/344108/transfer_id/5721671"
+    }
+  }
+}

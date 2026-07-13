@@ -1,0 +1,435 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "793844",
+    "history": {
+      "terminated": [
+        {
+          "id": "6362340",
+          "transferSource": {
+            "competitionId": "ARLS",
+            "countryId": 127,
+            "clubId": "28760",
+            "coachId": "5200"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "668",
+            "coachId": "105514"
+          },
+          "details": {
+            "playerId": "793844",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrie-deumi-nappi/transfers/spieler/793844/transfer_id/6362340"
+        },
+        {
+          "id": "5921780",
+          "transferSource": {
+            "competitionId": "C3PL",
+            "countryId": 50,
+            "clubId": "12770",
+            "coachId": "118649"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "28760",
+            "coachId": "26874"
+          },
+          "details": {
+            "playerId": "793844",
+            "date": "2025-09-05T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 298,
+              "daysDisplay": "9 Months, 25 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrie-deumi-nappi/transfers/spieler/793844/transfer_id/5921780"
+        },
+        {
+          "id": "5023410",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "1006",
+            "coachId": "66014"
+          },
+          "transferDestination": {
+            "competitionId": "C3PL",
+            "countryId": 50,
+            "clubId": "12770",
+            "coachId": "118649"
+          },
+          "details": {
+            "playerId": "793844",
+            "date": "2024-07-12T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrie-deumi-nappi/transfers/spieler/793844/transfer_id/5023410"
+        },
+        {
+          "id": "4427261",
+          "transferSource": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "4121",
+            "coachId": "59373"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "1006",
+            "coachId": "66014"
+          },
+          "details": {
+            "playerId": "793844",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrie-deumi-nappi/transfers/spieler/793844/transfer_id/4427261"
+        },
+        {
+          "id": "3456612",
+          "transferSource": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21056",
+            "coachId": "11061"
+          },
+          "transferDestination": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "4121",
+            "coachId": "14894"
+          },
+          "details": {
+            "playerId": "793844",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrie-deumi-nappi/transfers/spieler/793844/transfer_id/3456612"
+        },
+        {
+          "id": "2970230",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11845",
+            "coachId": "98828"
+          },
+          "transferDestination": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21056",
+            "coachId": "11061"
+          },
+          "details": {
+            "playerId": "793844",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrie-deumi-nappi/transfers/spieler/793844/transfer_id/2970230"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "28760",
+      "668",
+      "12770",
+      "1006",
+      "4121",
+      "21056",
+      "11845"
+    ],
+    "coachIds": [
+      "5200",
+      "105514",
+      "118649",
+      "26874",
+      "66014",
+      "59373",
+      "11061",
+      "14894",
+      "98828"
+    ],
+    "competitionIds": [
+      "ARLS",
+      "RLW3",
+      "C3PL",
+      "A2",
+      "AJ2",
+      "BJ2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6362340",
+      "transferSource": {
+        "competitionId": "ARLS",
+        "countryId": 127,
+        "clubId": "28760",
+        "coachId": "5200"
+      },
+      "transferDestination": {
+        "competitionId": "RLW3",
+        "countryId": 40,
+        "clubId": "668",
+        "coachId": "105514"
+      },
+      "details": {
+        "playerId": "793844",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/dimitrie-deumi-nappi/transfers/spieler/793844/transfer_id/6362340"
+    }
+  }
+}

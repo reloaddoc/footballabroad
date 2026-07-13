@@ -1,0 +1,403 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1364195",
+    "history": {
+      "terminated": [
+        {
+          "id": "6130257",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "1059",
+            "coachId": "53174"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "7945",
+            "coachId": "126834"
+          },
+          "details": {
+            "playerId": "1364195",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": "2030-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": 466000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "466.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1432,
+              "daysDisplay": "3 Years, 11 Months, 2 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/odera-samuel-adindu/transfers/spieler/1364195/transfer_id/6130257"
+        },
+        {
+          "id": "5785873",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "17938",
+            "coachId": "32513"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "1059",
+            "coachId": "68946"
+          },
+          "details": {
+            "playerId": "1364195",
+            "date": "2025-11-30T00:00:00+01:00",
+            "contractUntilDate": "2029-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/odera-samuel-adindu/transfers/spieler/1364195/transfer_id/5785873"
+        },
+        {
+          "id": "5785872",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "1059",
+            "coachId": "68946"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "17938",
+            "coachId": "32513"
+          },
+          "details": {
+            "playerId": "1364195",
+            "date": "2025-07-17T00:00:00+02:00",
+            "contractUntilDate": "2025-11-30T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1628,
+              "daysDisplay": "4 Years, 5 Months, 14 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/odera-samuel-adindu/transfers/spieler/1364195/transfer_id/5785872"
+        },
+        {
+          "id": "5785871",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 124,
+            "clubId": "25889",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "1059",
+            "coachId": "68946"
+          },
+          "details": {
+            "playerId": "1364195",
+            "date": "2025-07-16T00:00:00+02:00",
+            "contractUntilDate": "2029-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/odera-samuel-adindu/transfers/spieler/1364195/transfer_id/5785871"
+        },
+        {
+          "id": "5444966",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "17938",
+            "coachId": "32513"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 124,
+            "clubId": "25889",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1364195",
+            "date": "2025-07-15T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 138,
+              "daysDisplay": "4 Months, 15 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/odera-samuel-adindu/transfers/spieler/1364195/transfer_id/5444966"
+        },
+        {
+          "id": "5444965",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 124,
+            "clubId": "25889",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "17938",
+            "coachId": "32513"
+          },
+          "details": {
+            "playerId": "1364195",
+            "date": "2025-01-29T00:00:00+01:00",
+            "contractUntilDate": "2025-11-30T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/odera-samuel-adindu/transfers/spieler/1364195/transfer_id/5444965"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 466000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "466.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 350000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "350.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1059",
+      "7945",
+      "17938",
+      "25889"
+    ],
+    "coachIds": [
+      "53174",
+      "126834",
+      "32513",
+      "68946"
+    ],
+    "competitionIds": [
+      "SE1",
+      "SE3N"
+    ],
+    "mostRecentTransfer": {
+      "id": "6130257",
+      "transferSource": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "1059",
+        "coachId": "53174"
+      },
+      "transferDestination": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "7945",
+        "coachId": "126834"
+      },
+      "details": {
+        "playerId": "1364195",
+        "date": "2026-01-29T00:00:00+01:00",
+        "contractUntilDate": "2030-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": 466000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "466.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 1432,
+          "daysDisplay": "3 Years, 11 Months, 2 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/odera-samuel-adindu/transfers/spieler/1364195/transfer_id/6130257"
+    }
+  }
+}

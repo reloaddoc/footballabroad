@@ -1,0 +1,364 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "906315",
+    "history": {
+      "terminated": [
+        {
+          "id": "6164188",
+          "transferSource": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "56442",
+            "coachId": "141742"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "252",
+            "coachId": "90748"
+          },
+          "details": {
+            "playerId": "906315",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/hugo-cuenca/transfers/spieler/906315/transfer_id/6164188"
+        },
+        {
+          "id": "6164187",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "252",
+            "coachId": "90748"
+          },
+          "transferDestination": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "56442",
+            "coachId": "141742"
+          },
+          "details": {
+            "playerId": "906315",
+            "date": "2026-02-02T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 879,
+              "daysDisplay": "2 Years, 4 Months, 28 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/hugo-cuenca/transfers/spieler/906315/transfer_id/6164187"
+        },
+        {
+          "id": "5501094",
+          "transferSource": {
+            "competitionId": "IT3B",
+            "countryId": 75,
+            "clubId": "41107",
+            "coachId": "70910"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "252",
+            "coachId": "20029"
+          },
+          "details": {
+            "playerId": "906315",
+            "date": "2025-02-03T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 147,
+              "daysDisplay": "4 Months, 27 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/hugo-cuenca/transfers/spieler/906315/transfer_id/5501094"
+        },
+        {
+          "id": "5078159",
+          "transferSource": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "10958",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "IT3B",
+            "countryId": 75,
+            "clubId": "41107",
+            "coachId": "70910"
+          },
+          "details": {
+            "playerId": "906315",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/hugo-cuenca/transfers/spieler/906315/transfer_id/5078159"
+        },
+        {
+          "id": "3813550",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 132,
+            "clubId": "28609",
+            "coachId": "77720"
+          },
+          "transferDestination": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "10958",
+            "coachId": "107292"
+          },
+          "details": {
+            "playerId": "906315",
+            "date": "2022-08-08T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/hugo-cuenca/transfers/spieler/906315/transfer_id/3813550"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "56442",
+      "252",
+      "41107",
+      "10958",
+      "28609"
+    ],
+    "coachIds": [
+      "141742",
+      "90748",
+      "70910",
+      "20029",
+      "77720",
+      "107292"
+    ],
+    "competitionIds": [
+      "E4G1",
+      "IT1",
+      "IT3B",
+      "IJ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6164188",
+      "transferSource": {
+        "competitionId": "E4G1",
+        "countryId": 157,
+        "clubId": "56442",
+        "coachId": "141742"
+      },
+      "transferDestination": {
+        "competitionId": "IT1",
+        "countryId": 75,
+        "clubId": "252",
+        "coachId": "90748"
+      },
+      "details": {
+        "playerId": "906315",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/hugo-cuenca/transfers/spieler/906315/transfer_id/6164188"
+    }
+  }
+}

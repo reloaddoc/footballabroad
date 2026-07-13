@@ -1,0 +1,651 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "647534",
+    "history": {
+      "terminated": [
+        {
+          "id": "6245807",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1236",
+            "coachId": "43400"
+          },
+          "transferDestination": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "22162",
+            "coachId": "130451"
+          },
+          "details": {
+            "playerId": "647534",
+            "date": "2026-03-26T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 280,
+              "daysDisplay": "9 Months, 5 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joel-voelkerling-persson/transfers/spieler/647534/transfer_id/6245807"
+        },
+        {
+          "id": "5762761",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "1005",
+            "coachId": "12924"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "1236",
+            "coachId": "76509"
+          },
+          "details": {
+            "playerId": "647534",
+            "date": "2025-07-09T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 721,
+              "daysDisplay": "1 Year, 11 Months, 21 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joel-voelkerling-persson/transfers/spieler/647534/transfer_id/5762761"
+        },
+        {
+          "id": "5208898",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "3622",
+            "coachId": "79043"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "1005",
+            "coachId": "3257"
+          },
+          "details": {
+            "playerId": "647534",
+            "date": "2024-12-31T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/joel-voelkerling-persson/transfers/spieler/647534/transfer_id/5208898"
+        },
+        {
+          "id": "5208897",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "1005",
+            "coachId": "7521"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "3622",
+            "coachId": "69215"
+          },
+          "details": {
+            "playerId": "647534",
+            "date": "2024-08-17T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 1047,
+              "daysDisplay": "2 Years, 10 Months, 13 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/joel-voelkerling-persson/transfers/spieler/647534/transfer_id/5208897"
+        },
+        {
+          "id": "4614883",
+          "transferSource": {
+            "competitionId": "NL1",
+            "countryId": 122,
+            "clubId": "499",
+            "coachId": "597"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "1005",
+            "coachId": "7521"
+          },
+          "details": {
+            "playerId": "647534",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/joel-voelkerling-persson/transfers/spieler/647534/transfer_id/4614883"
+        },
+        {
+          "id": "4614882",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "1005",
+            "coachId": "35782"
+          },
+          "transferDestination": {
+            "competitionId": "NL1",
+            "countryId": 122,
+            "clubId": "499",
+            "coachId": "6405"
+          },
+          "details": {
+            "playerId": "647534",
+            "date": "2023-08-29T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1401,
+              "daysDisplay": "3 Years, 10 Months, 1 Day"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/joel-voelkerling-persson/transfers/spieler/647534/transfer_id/4614882"
+        },
+        {
+          "id": "3938833",
+          "transferSource": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "11997",
+            "coachId": "27200"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "1005",
+            "coachId": "12015"
+          },
+          "details": {
+            "playerId": "647534",
+            "date": "2022-07-13T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 352,
+              "daysDisplay": "11 Months, 17 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joel-voelkerling-persson/transfers/spieler/647534/transfer_id/3938833"
+        },
+        {
+          "id": "3476192",
+          "transferSource": {
+            "competitionId": "ITJ7",
+            "countryId": 75,
+            "clubId": "76094",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "11997",
+            "coachId": "4862"
+          },
+          "details": {
+            "playerId": "647534",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joel-voelkerling-persson/transfers/spieler/647534/transfer_id/3476192"
+        },
+        {
+          "id": "3033131",
+          "transferSource": {
+            "competitionId": "ITJ8",
+            "countryId": 75,
+            "clubId": "49576",
+            "coachId": "13639"
+          },
+          "transferDestination": {
+            "competitionId": "ITJ7",
+            "countryId": 75,
+            "clubId": "76094",
+            "coachId": "42093"
+          },
+          "details": {
+            "playerId": "647534",
+            "date": "2020-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joel-voelkerling-persson/transfers/spieler/647534/transfer_id/3033131"
+        },
+        {
+          "id": "2383295",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "67664",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "ITJ6",
+            "countryId": 75,
+            "clubId": "49576",
+            "coachId": "13639"
+          },
+          "details": {
+            "playerId": "647534",
+            "date": "2019-01-26T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joel-voelkerling-persson/transfers/spieler/647534/transfer_id/2383295"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "1236",
+      "22162",
+      "1005",
+      "3622",
+      "499",
+      "11997",
+      "76094",
+      "49576",
+      "67664"
+    ],
+    "coachIds": [
+      "43400",
+      "130451",
+      "12924",
+      "76509",
+      "79043",
+      "3257",
+      "7521",
+      "69215",
+      "597",
+      "35782",
+      "6405",
+      "27200",
+      "12015",
+      "4862",
+      "13639",
+      "42093"
+    ],
+    "competitionIds": [
+      "SE2",
+      "SE3S",
+      "IT1",
+      "SE1",
+      "NL1",
+      "IJ1",
+      "ITJ7",
+      "ITJ8",
+      "ITJ6"
+    ],
+    "mostRecentTransfer": {
+      "id": "6245807",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "1236",
+        "coachId": "43400"
+      },
+      "transferDestination": {
+        "competitionId": "SE3S",
+        "countryId": 147,
+        "clubId": "22162",
+        "coachId": "130451"
+      },
+      "details": {
+        "playerId": "647534",
+        "date": "2026-03-26T00:00:00+01:00",
+        "contractUntilDate": "2028-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 280,
+          "daysDisplay": "9 Months, 5 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/joel-voelkerling-persson/transfers/spieler/647534/transfer_id/6245807"
+    }
+  }
+}

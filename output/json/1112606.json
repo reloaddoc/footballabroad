@@ -1,0 +1,259 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1112606",
+    "history": {
+      "terminated": [
+        {
+          "id": "5572299",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "77067",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "20782",
+            "coachId": "24908"
+          },
+          "details": {
+            "playerId": "1112606",
+            "date": "2025-03-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/siem-duijs/transfers/spieler/1112606/transfer_id/5572299"
+        },
+        {
+          "id": "5018103",
+          "transferSource": {
+            "competitionId": "511",
+            "countryId": 122,
+            "clubId": "1097",
+            "coachId": "1610"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "77067",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1112606",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/siem-duijs/transfers/spieler/1112606/transfer_id/5018103"
+        },
+        {
+          "id": "4295514",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "46237",
+            "coachId": "110530"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "1097",
+            "coachId": "80990"
+          },
+          "details": {
+            "playerId": "1112606",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/siem-duijs/transfers/spieler/1112606/transfer_id/4295514"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "77067",
+      "20782",
+      "1097",
+      "46237"
+    ],
+    "coachIds": [
+      "24908",
+      "1610",
+      "110530",
+      "80990"
+    ],
+    "competitionIds": [
+      "511"
+    ],
+    "mostRecentTransfer": {
+      "id": "5572299",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 184,
+        "clubId": "77067",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 122,
+        "clubId": "20782",
+        "coachId": "24908"
+      },
+      "details": {
+        "playerId": "1112606",
+        "date": "2025-03-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/siem-duijs/transfers/spieler/1112606/transfer_id/5572299"
+    }
+  }
+}

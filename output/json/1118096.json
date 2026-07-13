@@ -1,0 +1,304 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1118096",
+    "history": {
+      "terminated": [
+        {
+          "id": "6165771",
+          "transferSource": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "6321",
+            "coachId": "10705"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "3418"
+          },
+          "details": {
+            "playerId": "1118096",
+            "date": "2026-02-03T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 331,
+              "daysDisplay": "10 Months, 28 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/giuseppe-bovalina/transfers/spieler/1118096/transfer_id/6165771"
+        },
+        {
+          "id": "4990167",
+          "transferSource": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "875",
+            "coachId": "8161"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "6321",
+            "coachId": "95717"
+          },
+          "details": {
+            "playerId": "1118096",
+            "date": "2024-04-24T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": 135000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "135.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 67,
+              "daysDisplay": "2 Months, 6 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giuseppe-bovalina/transfers/spieler/1118096/transfer_id/4990167"
+        },
+        {
+          "id": "4632419",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "27119",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "875",
+            "coachId": "8161"
+          },
+          "details": {
+            "playerId": "1118096",
+            "date": "2023-09-06T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giuseppe-bovalina/transfers/spieler/1118096/transfer_id/4632419"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6165772",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "3418"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "6321",
+            "coachId": "10705"
+          },
+          "details": {
+            "playerId": "1118096",
+            "date": "2026-12-31T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/giuseppe-bovalina/transfers/spieler/1118096/transfer_id/6165772"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 135000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "135.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1056",
+      "6321",
+      "875",
+      "27119"
+    ],
+    "coachIds": [
+      "3418",
+      "10705",
+      "8161",
+      "95717"
+    ],
+    "competitionIds": [
+      "SE2",
+      "MLS1",
+      "AUS1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6165771",
+      "transferSource": {
+        "competitionId": "MLS1",
+        "countryId": 184,
+        "clubId": "6321",
+        "coachId": "10705"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "1056",
+        "coachId": "3418"
+      },
+      "details": {
+        "playerId": "1118096",
+        "date": "2026-02-03T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "remainingContractPeriod": {
+          "days": 331,
+          "daysDisplay": "10 Months, 28 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/giuseppe-bovalina/transfers/spieler/1118096/transfer_id/6165771"
+    }
+  }
+}

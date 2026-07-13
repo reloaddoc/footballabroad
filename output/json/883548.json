@@ -1,0 +1,258 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "883548",
+    "history": {
+      "terminated": [
+        {
+          "id": "6407344",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "97084",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "49090",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "883548",
+            "date": "2025-12-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ethan-hartness/transfers/spieler/883548/transfer_id/6407344"
+        },
+        {
+          "id": "5124697",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6893",
+            "coachId": "94579"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "97084",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "883548",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ethan-hartness/transfers/spieler/883548/transfer_id/5124697"
+        },
+        {
+          "id": "3958488",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "50780",
+            "coachId": "15302"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6893",
+            "coachId": "29696"
+          },
+          "details": {
+            "playerId": "883548",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ethan-hartness/transfers/spieler/883548/transfer_id/3958488"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "97084",
+      "49090",
+      "6893",
+      "50780"
+    ],
+    "coachIds": [
+      "94579",
+      "15302",
+      "29696"
+    ],
+    "competitionIds": [
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "6407344",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 184,
+        "clubId": "97084",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 12,
+        "clubId": "49090",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "883548",
+        "date": "2025-12-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ethan-hartness/transfers/spieler/883548/transfer_id/6407344"
+    }
+  }
+}

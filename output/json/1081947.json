@@ -1,0 +1,423 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1081947",
+    "history": {
+      "terminated": [
+        {
+          "id": "6417450",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "6604",
+            "coachId": "61540"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "57",
+            "coachId": "7333"
+          },
+          "details": {
+            "playerId": "1081947",
+            "date": "2026-07-10T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 355,
+              "daysDisplay": "11 Months, 20 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/travis-de-jong/transfers/spieler/1081947/transfer_id/6417450"
+        },
+        {
+          "id": "6152287",
+          "transferSource": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "384",
+            "coachId": "10697"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "6604",
+            "coachId": "61540"
+          },
+          "details": {
+            "playerId": "1081947",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/travis-de-jong/transfers/spieler/1081947/transfer_id/6152287"
+        },
+        {
+          "id": "6152286",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "6604",
+            "coachId": "61540"
+          },
+          "transferDestination": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "384",
+            "coachId": "10697"
+          },
+          "details": {
+            "playerId": "1081947",
+            "date": "2026-01-30T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 151,
+              "daysDisplay": "5 Months"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/travis-de-jong/transfers/spieler/1081947/transfer_id/6152286"
+        },
+        {
+          "id": "5057626",
+          "transferSource": {
+            "competitionId": "19LB",
+            "countryId": 40,
+            "clubId": "8312",
+            "coachId": "70326"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "6604",
+            "coachId": "76253"
+          },
+          "details": {
+            "playerId": "1081947",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/travis-de-jong/transfers/spieler/1081947/transfer_id/5057626"
+        },
+        {
+          "id": "4438671",
+          "transferSource": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "5295",
+            "coachId": "114664"
+          },
+          "transferDestination": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "8312",
+            "coachId": "70326"
+          },
+          "details": {
+            "playerId": "1081947",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/travis-de-jong/transfers/spieler/1081947/transfer_id/4438671"
+        },
+        {
+          "id": "4155456",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "44864",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "5295",
+            "coachId": "114664"
+          },
+          "details": {
+            "playerId": "1081947",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/travis-de-jong/transfers/spieler/1081947/transfer_id/4155456"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "6604",
+      "57",
+      "384",
+      "8312",
+      "5295",
+      "44864"
+    ],
+    "coachIds": [
+      "61540",
+      "7333",
+      "10697",
+      "70326",
+      "76253",
+      "114664"
+    ],
+    "competitionIds": [
+      "RLW3",
+      "NL2",
+      "19LB",
+      "AJ2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6417450",
+      "transferSource": {
+        "competitionId": "RLW3",
+        "countryId": 40,
+        "clubId": "6604",
+        "coachId": "61540"
+      },
+      "transferDestination": {
+        "competitionId": "RLW3",
+        "countryId": 40,
+        "clubId": "57",
+        "coachId": "7333"
+      },
+      "details": {
+        "playerId": "1081947",
+        "date": "2026-07-10T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 355,
+          "daysDisplay": "11 Months, 20 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/travis-de-jong/transfers/spieler/1081947/transfer_id/6417450"
+    }
+  }
+}

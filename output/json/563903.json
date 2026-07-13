@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "563903",
+    "history": {
+      "terminated": [
+        {
+          "id": "5055783",
+          "transferSource": {
+            "competitionId": "SC3",
+            "countryId": 190,
+            "clubId": "2451",
+            "coachId": "75128"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1220",
+            "coachId": "3561"
+          },
+          "details": {
+            "playerId": "563903",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 375000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "375.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cameron-harper/transfers/spieler/563903/transfer_id/5055783"
+        },
+        {
+          "id": "3082252",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "12582",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2451",
+            "coachId": "1812"
+          },
+          "details": {
+            "playerId": "563903",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-05-31T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 699,
+              "daysDisplay": "1 Year, 10 Months, 30 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cameron-harper/transfers/spieler/563903/transfer_id/3082252"
+        },
+        {
+          "id": "2742888",
+          "transferSource": {
+            "competitionId": "SC4",
+            "countryId": 190,
+            "clubId": "3028",
+            "coachId": "38042"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "12582",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "563903",
+            "date": "2020-01-30T00:00:00+01:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/cameron-harper/transfers/spieler/563903/transfer_id/2742888"
+        },
+        {
+          "id": "2742887",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "12582",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SC4",
+            "countryId": 190,
+            "clubId": "3028",
+            "coachId": "38042"
+          },
+          "details": {
+            "playerId": "563903",
+            "date": "2020-01-02T00:00:00+01:00",
+            "contractUntilDate": "2020-01-30T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 880,
+              "daysDisplay": "2 Years, 4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/cameron-harper/transfers/spieler/563903/transfer_id/2742887"
+        },
+        {
+          "id": "2528344",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "67295",
+            "coachId": "23839"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "12582",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "563903",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1065,
+              "daysDisplay": "2 Years, 10 Months, 30 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cameron-harper/transfers/spieler/563903/transfer_id/2528344"
+        },
+        {
+          "id": "2105437",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "31032",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "67295",
+            "coachId": "23839"
+          },
+          "details": {
+            "playerId": "563903",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cameron-harper/transfers/spieler/563903/transfer_id/2105437"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "2451",
+      "1220",
+      "12582",
+      "3028",
+      "67295",
+      "31032"
+    ],
+    "coachIds": [
+      "75128",
+      "3561",
+      "1812",
+      "38042",
+      "23839"
+    ],
+    "competitionIds": [
+      "SC3",
+      "GB4",
+      "SC2",
+      "SC4"
+    ],
+    "mostRecentTransfer": {
+      "id": "5055783",
+      "transferSource": {
+        "competitionId": "SC3",
+        "countryId": 190,
+        "clubId": "2451",
+        "coachId": "75128"
+      },
+      "transferDestination": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "1220",
+        "coachId": "3561"
+      },
+      "details": {
+        "playerId": "563903",
+        "date": "2024-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 375000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "375.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/cameron-harper/transfers/spieler/563903/transfer_id/5055783"
+    }
+  }
+}

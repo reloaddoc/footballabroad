@@ -1,0 +1,554 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "673344",
+    "history": {
+      "terminated": [
+        {
+          "id": "6144184",
+          "transferSource": {
+            "competitionId": "E4G5",
+            "countryId": 157,
+            "clubId": "67212",
+            "coachId": "5173"
+          },
+          "transferDestination": {
+            "competitionId": "511",
+            "countryId": 122,
+            "clubId": "1227",
+            "coachId": "76006"
+          },
+          "details": {
+            "playerId": "673344",
+            "date": "2026-01-25T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 156,
+              "daysDisplay": "5 Months, 5 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/wesley-spieringhs/transfers/spieler/673344/transfer_id/6144184"
+        },
+        {
+          "id": "5899830",
+          "transferSource": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "192",
+            "coachId": "47535"
+          },
+          "transferDestination": {
+            "competitionId": "E4G5",
+            "countryId": 157,
+            "clubId": "67212",
+            "coachId": "49292"
+          },
+          "details": {
+            "playerId": "673344",
+            "date": "2025-08-28T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/wesley-spieringhs/transfers/spieler/673344/transfer_id/5899830"
+        },
+        {
+          "id": "4476893",
+          "transferSource": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "403",
+            "coachId": "23753"
+          },
+          "transferDestination": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "192",
+            "coachId": "55941"
+          },
+          "details": {
+            "playerId": "673344",
+            "date": "2023-07-04T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/wesley-spieringhs/transfers/spieler/673344/transfer_id/4476893"
+        },
+        {
+          "id": "3324668",
+          "transferSource": {
+            "competitionId": "212F",
+            "countryId": 122,
+            "clubId": "9005",
+            "coachId": "55110"
+          },
+          "transferDestination": {
+            "competitionId": "NL1",
+            "countryId": 122,
+            "clubId": "403",
+            "coachId": "1676"
+          },
+          "details": {
+            "playerId": "673344",
+            "date": "2021-04-09T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 812,
+              "daysDisplay": "2 Years, 2 Months, 21 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/wesley-spieringhs/transfers/spieler/673344/transfer_id/3324668"
+        },
+        {
+          "id": "3019337",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "4778",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "212F",
+            "countryId": 122,
+            "clubId": "9005",
+            "coachId": "55110"
+          },
+          "details": {
+            "playerId": "673344",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/wesley-spieringhs/transfers/spieler/673344/transfer_id/3019337"
+        },
+        {
+          "id": "2714499",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "53474",
+            "coachId": "97153"
+          },
+          "transferDestination": {
+            "competitionId": "NLAE",
+            "countryId": 122,
+            "clubId": "4778",
+            "coachId": "63146"
+          },
+          "details": {
+            "playerId": "673344",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/wesley-spieringhs/transfers/spieler/673344/transfer_id/2714499"
+        },
+        {
+          "id": "2714500",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "32807",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "53474",
+            "coachId": "37587"
+          },
+          "details": {
+            "playerId": "673344",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/wesley-spieringhs/transfers/spieler/673344/transfer_id/2714500"
+        },
+        {
+          "id": "2734868",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "78340",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "32807",
+            "coachId": "105094"
+          },
+          "details": {
+            "playerId": "673344",
+            "date": "2012-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 10,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/wesley-spieringhs/transfers/spieler/673344/transfer_id/2734868"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "67212",
+      "1227",
+      "192",
+      "403",
+      "9005",
+      "4778",
+      "53474",
+      "32807",
+      "78340"
+    ],
+    "coachIds": [
+      "5173",
+      "76006",
+      "47535",
+      "49292",
+      "23753",
+      "55941",
+      "55110",
+      "1676",
+      "97153",
+      "63146",
+      "37587",
+      "105094"
+    ],
+    "competitionIds": [
+      "E4G5",
+      "511",
+      "NL2",
+      "212F",
+      "NL1",
+      "NLAE"
+    ],
+    "mostRecentTransfer": {
+      "id": "6144184",
+      "transferSource": {
+        "competitionId": "E4G5",
+        "countryId": 157,
+        "clubId": "67212",
+        "coachId": "5173"
+      },
+      "transferDestination": {
+        "competitionId": "511",
+        "countryId": 122,
+        "clubId": "1227",
+        "coachId": "76006"
+      },
+      "details": {
+        "playerId": "673344",
+        "date": "2026-01-25T00:00:00+01:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 156,
+          "daysDisplay": "5 Months, 5 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/wesley-spieringhs/transfers/spieler/673344/transfer_id/6144184"
+    }
+  }
+}

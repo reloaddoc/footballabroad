@@ -1,0 +1,204 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1260069",
+    "history": {
+      "terminated": [
+        {
+          "id": "5434441",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "13653",
+            "coachId": "21426"
+          },
+          "transferDestination": {
+            "competitionId": "PT23",
+            "countryId": 136,
+            "clubId": "68110",
+            "coachId": "57719"
+          },
+          "details": {
+            "playerId": "1260069",
+            "date": "2025-01-07T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dijar-ferati/transfers/spieler/1260069/transfer_id/5434441"
+        },
+        {
+          "id": "5016083",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "102517",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "13653",
+            "coachId": "21426"
+          },
+          "details": {
+            "playerId": "1260069",
+            "date": "2024-03-27T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dijar-ferati/transfers/spieler/1260069/transfer_id/5016083"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 700000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "700.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 17,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "13653",
+      "68110",
+      "102517"
+    ],
+    "coachIds": [
+      "21426",
+      "57719"
+    ],
+    "competitionIds": [
+      "SE2",
+      "PT23"
+    ],
+    "mostRecentTransfer": {
+      "id": "5434441",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "13653",
+        "coachId": "21426"
+      },
+      "transferDestination": {
+        "competitionId": "PT23",
+        "countryId": 136,
+        "clubId": "68110",
+        "coachId": "57719"
+      },
+      "details": {
+        "playerId": "1260069",
+        "date": "2025-01-07T00:00:00+01:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 16,
+        "fee": {
+          "value": 700000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "700.00",
+            "suffix": "K"
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/dijar-ferati/transfers/spieler/1260069/transfer_id/5434441"
+    }
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "542462",
+    "history": {
+      "terminated": [
+        {
+          "id": "4944959",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5817",
+            "coachId": "24881"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "239",
+            "coachId": "50533"
+          },
+          "details": {
+            "playerId": "542462",
+            "date": "2024-03-22T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 284,
+              "daysDisplay": "9 Months, 9 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/peter-christiansen/transfers/spieler/542462/transfer_id/4944959"
+        },
+        {
+          "id": "3400922",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "22110",
+            "coachId": "12944"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "5817",
+            "coachId": "65948"
+          },
+          "details": {
+            "playerId": "542462",
+            "date": "2021-12-31T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/peter-christiansen/transfers/spieler/542462/transfer_id/3400922"
+        },
+        {
+          "id": "3400921",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "5817",
+            "coachId": "2710"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "22110",
+            "coachId": "12944"
+          },
+          "details": {
+            "playerId": "542462",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 1279,
+              "daysDisplay": "3 Years, 5 Months, 30 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/peter-christiansen/transfers/spieler/542462/transfer_id/3400921"
+        },
+        {
+          "id": "2338932",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "10445",
+            "coachId": "56671"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "5817",
+            "coachId": "8237"
+          },
+          "details": {
+            "playerId": "542462",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 180,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/peter-christiansen/transfers/spieler/542462/transfer_id/2338932"
+        },
+        {
+          "id": "1955243",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "52883",
+            "coachId": "80156"
+          },
+          "transferDestination": {
+            "competitionId": "DKDD",
+            "countryId": 39,
+            "clubId": "10445",
+            "coachId": "56633"
+          },
+          "details": {
+            "playerId": "542462",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/peter-christiansen/transfers/spieler/542462/transfer_id/1955243"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 600000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "600.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 5000000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "5.00",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "5817",
+      "239",
+      "22110",
+      "10445",
+      "52883"
+    ],
+    "coachIds": [
+      "24881",
+      "50533",
+      "12944",
+      "65948",
+      "2710",
+      "56671",
+      "8237",
+      "80156",
+      "56633"
+    ],
+    "competitionIds": [
+      "DK2",
+      "NO1",
+      "DK1",
+      "DKDL",
+      "DKDD"
+    ],
+    "mostRecentTransfer": {
+      "id": "4944959",
+      "transferSource": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "5817",
+        "coachId": "24881"
+      },
+      "transferDestination": {
+        "competitionId": "NO1",
+        "countryId": 125,
+        "clubId": "239",
+        "coachId": "50533"
+      },
+      "details": {
+        "playerId": "542462",
+        "date": "2024-03-22T00:00:00+01:00",
+        "contractUntilDate": "2027-12-31T00:00:00+01:00",
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 800000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "800.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": 600000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "600.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 284,
+          "daysDisplay": "9 Months, 9 Days"
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/peter-christiansen/transfers/spieler/542462/transfer_id/4944959"
+    }
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "808308",
+    "history": {
+      "terminated": [
+        {
+          "id": "6315558",
+          "transferSource": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "1251",
+            "coachId": "3312"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "1218",
+            "coachId": "91489"
+          },
+          "details": {
+            "playerId": "808308",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sean-robertson/transfers/spieler/808308/transfer_id/6315558"
+        },
+        {
+          "id": "5931969",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "1251",
+            "coachId": "3312"
+          },
+          "details": {
+            "playerId": "808308",
+            "date": "2025-09-09T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sean-robertson/transfers/spieler/808308/transfer_id/5931969"
+        },
+        {
+          "id": "5738818",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "3258",
+            "coachId": "47925"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "808308",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 152,
+              "daysDisplay": "4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sean-robertson/transfers/spieler/808308/transfer_id/5738818"
+        },
+        {
+          "id": "5548006",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "920",
+            "coachId": "57288"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "3258",
+            "coachId": "47925"
+          },
+          "details": {
+            "playerId": "808308",
+            "date": "2025-03-01T00:00:00+01:00",
+            "contractUntilDate": "2025-11-30T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 274,
+              "daysDisplay": "8 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sean-robertson/transfers/spieler/808308/transfer_id/5548006"
+        },
+        {
+          "id": "4999148",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3455",
+            "coachId": "2001"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "920",
+            "coachId": "69106"
+          },
+          "details": {
+            "playerId": "808308",
+            "date": "2024-08-23T00:00:00+02:00",
+            "contractUntilDate": "2025-11-30T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sean-robertson/transfers/spieler/808308/transfer_id/4999148"
+        },
+        {
+          "id": "4254101",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1042",
+            "coachId": "69615"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3455",
+            "coachId": "75128"
+          },
+          "details": {
+            "playerId": "808308",
+            "date": "2023-05-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/sean-robertson/transfers/spieler/808308/transfer_id/4254101"
+        },
+        {
+          "id": "4254100",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3455",
+            "coachId": "75128"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1042",
+            "coachId": "69615"
+          },
+          "details": {
+            "playerId": "808308",
+            "date": "2023-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/sean-robertson/transfers/spieler/808308/transfer_id/4254100"
+        },
+        {
+          "id": "3881246",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "6945",
+            "coachId": "49542"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3455",
+            "coachId": "50075"
+          },
+          "details": {
+            "playerId": "808308",
+            "date": "2022-08-04T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sean-robertson/transfers/spieler/808308/transfer_id/3881246"
+        },
+        {
+          "id": "3212882",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "6950",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "6945",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "808308",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sean-robertson/transfers/spieler/808308/transfer_id/3212882"
+        },
+        {
+          "id": "3212881",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "53100",
+            "coachId": "127811"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "6950",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "808308",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sean-robertson/transfers/spieler/808308/transfer_id/3212881"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1251",
+      "1218",
+      "515",
+      "3258",
+      "920",
+      "3455",
+      "1042",
+      "6945",
+      "6950",
+      "53100"
+    ],
+    "coachIds": [
+      "3312",
+      "91489",
+      "47925",
+      "57288",
+      "2001",
+      "69106",
+      "69615",
+      "75128",
+      "49542",
+      "50075",
+      "127811"
+    ],
+    "competitionIds": [
+      "NIR1",
+      "NLS6",
+      "IR1",
+      "CNAT",
+      "GB4",
+      "GB3",
+      "GB21"
+    ],
+    "mostRecentTransfer": {
+      "id": "6315558",
+      "transferSource": {
+        "competitionId": "NIR1",
+        "countryId": 192,
+        "clubId": "1251",
+        "coachId": "3312"
+      },
+      "transferDestination": {
+        "competitionId": "NLS6",
+        "countryId": 189,
+        "clubId": "1218",
+        "coachId": "91489"
+      },
+      "details": {
+        "playerId": "808308",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/sean-robertson/transfers/spieler/808308/transfer_id/6315558"
+    }
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "515025",
+    "history": {
+      "terminated": [
+        {
+          "id": "6397321",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "120616"
+          },
+          "transferDestination": {
+            "competitionId": "PO1",
+            "countryId": 136,
+            "clubId": "2424",
+            "coachId": "51375"
+          },
+          "details": {
+            "playerId": "515025",
+            "date": "2026-07-02T00:00:00+02:00",
+            "contractUntilDate": "2030-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": 670000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "670.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 363,
+              "daysDisplay": "11 Months, 28 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andreas-lausen/transfers/spieler/515025/transfer_id/6397321"
+        },
+        {
+          "id": "4446241",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5776",
+            "coachId": "7792"
+          },
+          "transferDestination": {
+            "competitionId": "DK3V",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "28077"
+          },
+          "details": {
+            "playerId": "515025",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andreas-lausen/transfers/spieler/515025/transfer_id/4446241"
+        },
+        {
+          "id": "3453505",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14349",
+            "coachId": "85464"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5776",
+            "coachId": "7792"
+          },
+          "details": {
+            "playerId": "515025",
+            "date": "2021-07-21T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andreas-lausen/transfers/spieler/515025/transfer_id/3453505"
+        },
+        {
+          "id": "2470318",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "11253",
+            "coachId": "46974"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14349",
+            "coachId": "56731"
+          },
+          "details": {
+            "playerId": "515025",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andreas-lausen/transfers/spieler/515025/transfer_id/2470318"
+        },
+        {
+          "id": "1800709",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "24727",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "11253",
+            "coachId": "46974"
+          },
+          "details": {
+            "playerId": "515025",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andreas-lausen/transfers/spieler/515025/transfer_id/1800709"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 670000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "670.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 700000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "700.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3426",
+      "2424",
+      "5776",
+      "14349",
+      "11253",
+      "24727"
+    ],
+    "coachIds": [
+      "120616",
+      "51375",
+      "7792",
+      "28077",
+      "85464",
+      "46974",
+      "56731"
+    ],
+    "competitionIds": [
+      "DK2",
+      "PO1",
+      "DK3V",
+      "DKDL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6397321",
+      "transferSource": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "3426",
+        "coachId": "120616"
+      },
+      "transferDestination": {
+        "competitionId": "PO1",
+        "countryId": 136,
+        "clubId": "2424",
+        "coachId": "51375"
+      },
+      "details": {
+        "playerId": "515025",
+        "date": "2026-07-02T00:00:00+02:00",
+        "contractUntilDate": "2030-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 700000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "700.00",
+            "suffix": "K"
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": 670000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "670.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 363,
+          "daysDisplay": "11 Months, 28 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/andreas-lausen/transfers/spieler/515025/transfer_id/6397321"
+    }
+  }
+}

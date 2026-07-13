@@ -1,0 +1,492 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "676902",
+    "history": {
+      "terminated": [
+        {
+          "id": "5272224",
+          "transferSource": {
+            "competitionId": "OBLJ",
+            "countryId": 40,
+            "clubId": "803",
+            "coachId": "129169"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "65581",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "676902",
+            "date": "2024-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 302,
+              "daysDisplay": "9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-borrero/transfers/spieler/676902/transfer_id/5272224"
+        },
+        {
+          "id": "5160908",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "65581",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "OBLJ",
+            "countryId": 40,
+            "clubId": "803",
+            "coachId": "129169"
+          },
+          "details": {
+            "playerId": "676902",
+            "date": "2024-07-22T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-borrero/transfers/spieler/676902/transfer_id/5160908"
+        },
+        {
+          "id": "4702236",
+          "transferSource": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "225",
+            "coachId": "10283"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "65581",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "676902",
+            "date": "2023-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-borrero/transfers/spieler/676902/transfer_id/4702236"
+        },
+        {
+          "id": "3766727",
+          "transferSource": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "2486",
+            "coachId": "95289"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "225",
+            "coachId": "10283"
+          },
+          "details": {
+            "playerId": "676902",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-borrero/transfers/spieler/676902/transfer_id/3766727"
+        },
+        {
+          "id": "2905757",
+          "transferSource": {
+            "competitionId": "BJ1",
+            "countryId": 40,
+            "clubId": "21062",
+            "coachId": "84075"
+          },
+          "transferDestination": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "2486",
+            "coachId": "62188"
+          },
+          "details": {
+            "playerId": "676902",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-borrero/transfers/spieler/676902/transfer_id/2905757"
+        },
+        {
+          "id": "2493979",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "29107",
+            "coachId": "95289"
+          },
+          "transferDestination": {
+            "competitionId": "BJ1",
+            "countryId": 40,
+            "clubId": "21062",
+            "coachId": "62188"
+          },
+          "details": {
+            "playerId": "676902",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-borrero/transfers/spieler/676902/transfer_id/2493979"
+        },
+        {
+          "id": "2598515",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "38550",
+            "coachId": "33551"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "29107",
+            "coachId": "49100"
+          },
+          "details": {
+            "playerId": "676902",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-borrero/transfers/spieler/676902/transfer_id/2598515"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "803",
+      "65581",
+      "225",
+      "2486",
+      "21062",
+      "29107",
+      "38550"
+    ],
+    "coachIds": [
+      "129169",
+      "10283",
+      "95289",
+      "84075",
+      "62188",
+      "33551",
+      "49100"
+    ],
+    "competitionIds": [
+      "OBLJ",
+      "RLN3",
+      "AJ1",
+      "BJ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5272224",
+      "transferSource": {
+        "competitionId": "OBLJ",
+        "countryId": 40,
+        "clubId": "803",
+        "coachId": "129169"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 184,
+        "clubId": "65581",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "676902",
+        "date": "2024-09-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 302,
+          "daysDisplay": "9 Months, 29 Days"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/luis-borrero/transfers/spieler/676902/transfer_id/5272224"
+    }
+  }
+}

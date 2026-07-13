@@ -1,0 +1,259 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1391729",
+    "history": {
+      "terminated": [
+        {
+          "id": "5700141",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "49675",
+            "coachId": "15396"
+          },
+          "transferDestination": {
+            "competitionId": "FAR2",
+            "countryId": 208,
+            "clubId": "11539",
+            "coachId": "145480"
+          },
+          "details": {
+            "playerId": "1391729",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tobias-koktvedgaard/transfers/spieler/1391729/transfer_id/5700141"
+        },
+        {
+          "id": "5595788",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "78978",
+            "coachId": "157544"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "49675",
+            "coachId": "15396"
+          },
+          "details": {
+            "playerId": "1391729",
+            "date": "2025-01-16T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tobias-koktvedgaard/transfers/spieler/1391729/transfer_id/5595788"
+        },
+        {
+          "id": "5595789",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "9712",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "78978",
+            "coachId": "157544"
+          },
+          "details": {
+            "playerId": "1391729",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tobias-koktvedgaard/transfers/spieler/1391729/transfer_id/5595789"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "49675",
+      "11539",
+      "78978",
+      "9712"
+    ],
+    "coachIds": [
+      "15396",
+      "145480",
+      "157544"
+    ],
+    "competitionIds": [
+      "DK2",
+      "FAR2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5700141",
+      "transferSource": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "49675",
+        "coachId": "15396"
+      },
+      "transferDestination": {
+        "competitionId": "FAR2",
+        "countryId": 208,
+        "clubId": "11539",
+        "coachId": "145480"
+      },
+      "details": {
+        "playerId": "1391729",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 25000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "25.00",
+            "suffix": "K"
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/tobias-koktvedgaard/transfers/spieler/1391729/transfer_id/5700141"
+    }
+  }
+}

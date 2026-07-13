@@ -1,0 +1,430 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1000301",
+    "history": {
+      "terminated": [
+        {
+          "id": "6086697",
+          "transferSource": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "87",
+            "coachId": "399"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "626",
+            "coachId": "24972"
+          },
+          "details": {
+            "playerId": "1000301",
+            "date": "2026-01-26T00:00:00+01:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 520,
+              "daysDisplay": "1 Year, 5 Months, 4 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ethan-kohler/transfers/spieler/1000301/transfer_id/6086697"
+        },
+        {
+          "id": "5725763",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "30133"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "87",
+            "coachId": "4610"
+          },
+          "details": {
+            "playerId": "1000301",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 181,
+              "daysDisplay": "5 Months, 30 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ethan-kohler/transfers/spieler/1000301/transfer_id/5725763"
+        },
+        {
+          "id": "5725762",
+          "transferSource": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "87",
+            "coachId": "4610"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "30133"
+          },
+          "details": {
+            "playerId": "1000301",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ethan-kohler/transfers/spieler/1000301/transfer_id/5725762"
+        },
+        {
+          "id": "5077119",
+          "transferSource": {
+            "competitionId": "19LA",
+            "countryId": 40,
+            "clubId": "2491",
+            "coachId": "58410"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "87",
+            "coachId": "4610"
+          },
+          "details": {
+            "playerId": "1000301",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ethan-kohler/transfers/spieler/1000301/transfer_id/5077119"
+        },
+        {
+          "id": "5077118",
+          "transferSource": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "69044",
+            "coachId": "100765"
+          },
+          "transferDestination": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "2491",
+            "coachId": "58410"
+          },
+          "details": {
+            "playerId": "1000301",
+            "date": "2023-07-03T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 27 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ethan-kohler/transfers/spieler/1000301/transfer_id/5077118"
+        },
+        {
+          "id": "4244886",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "45259",
+            "coachId": "104339"
+          },
+          "transferDestination": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "69044",
+            "coachId": "100765"
+          },
+          "details": {
+            "playerId": "1000301",
+            "date": "2023-01-26T00:00:00+01:00",
+            "contractUntilDate": "2023-11-30T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ethan-kohler/transfers/spieler/1000301/transfer_id/4244886"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "87",
+      "626",
+      "93",
+      "2491",
+      "69044",
+      "45259"
+    ],
+    "coachIds": [
+      "399",
+      "24972",
+      "30133",
+      "4610",
+      "58410",
+      "100765",
+      "104339"
+    ],
+    "competitionIds": [
+      "RLN3",
+      "MLS1",
+      "L3",
+      "19LA",
+      "USL",
+      "AJ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6086697",
+      "transferSource": {
+        "competitionId": "RLN3",
+        "countryId": 40,
+        "clubId": "87",
+        "coachId": "399"
+      },
+      "transferDestination": {
+        "competitionId": "MLS1",
+        "countryId": 184,
+        "clubId": "626",
+        "coachId": "24972"
+      },
+      "details": {
+        "playerId": "1000301",
+        "date": "2026-01-26T00:00:00+01:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 520,
+          "daysDisplay": "1 Year, 5 Months, 4 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ethan-kohler/transfers/spieler/1000301/transfer_id/6086697"
+    }
+  }
+}

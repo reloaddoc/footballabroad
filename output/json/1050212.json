@@ -1,0 +1,267 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1050212",
+    "history": {
+      "terminated": [
+        {
+          "id": "6316442",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "851",
+            "coachId": "4048"
+          },
+          "transferDestination": {
+            "competitionId": "HO1A",
+            "countryId": 66,
+            "clubId": "4523",
+            "coachId": "21938"
+          },
+          "details": {
+            "playerId": "1050212",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nayrobi-vargas/transfers/spieler/1050212/transfer_id/6316442"
+        },
+        {
+          "id": "5080306",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "851",
+            "coachId": "4048"
+          },
+          "details": {
+            "playerId": "1050212",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nayrobi-vargas/transfers/spieler/1050212/transfer_id/5080306"
+        },
+        {
+          "id": "4940026",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "1196",
+            "coachId": "33609"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1050212",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nayrobi-vargas/transfers/spieler/1050212/transfer_id/4940026"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "851",
+      "4523",
+      "515",
+      "1196"
+    ],
+    "coachIds": [
+      "4048",
+      "21938",
+      "33609"
+    ],
+    "competitionIds": [
+      "RLSW",
+      "HO1A"
+    ],
+    "mostRecentTransfer": {
+      "id": "6316442",
+      "transferSource": {
+        "competitionId": "RLSW",
+        "countryId": 40,
+        "clubId": "851",
+        "coachId": "4048"
+      },
+      "transferDestination": {
+        "competitionId": "HO1A",
+        "countryId": 66,
+        "clubId": "4523",
+        "coachId": "21938"
+      },
+      "details": {
+        "playerId": "1050212",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 364,
+          "daysDisplay": "11 Months, 29 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/nayrobi-vargas/transfers/spieler/1050212/transfer_id/6316442"
+    }
+  }
+}

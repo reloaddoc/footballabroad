@@ -1,0 +1,953 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "258881",
+    "history": {
+      "terminated": [
+        {
+          "id": "6388846",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3716",
+            "coachId": "42619"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/6388846"
+        },
+        {
+          "id": "5665188",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1045",
+            "coachId": "75962"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/5665188"
+        },
+        {
+          "id": "5425598",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "6168",
+            "coachId": "86195"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1045",
+            "coachId": "90282"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2025-05-31T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/5425598"
+        },
+        {
+          "id": "5425597",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1045",
+            "coachId": "90282"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "6168",
+            "coachId": "17451"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2025-01-03T00:00:00+01:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "remainingContractPeriod": {
+              "days": 178,
+              "daysDisplay": "5 Months, 27 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/5425597"
+        },
+        {
+          "id": "5096809",
+          "transferSource": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2578",
+            "coachId": "13171"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1045",
+            "coachId": "90282"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2025-01-02T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "remainingContractPeriod": {
+              "days": 149,
+              "daysDisplay": "4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/5096809"
+        },
+        {
+          "id": "5096808",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1045",
+            "coachId": "90282"
+          },
+          "transferDestination": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2578",
+            "coachId": "625"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2024-07-05T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "remainingContractPeriod": {
+              "days": 360,
+              "daysDisplay": "11 Months, 25 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/5096808"
+        },
+        {
+          "id": "3409945",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1218",
+            "coachId": "4144"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1045",
+            "coachId": "50075"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/3409945"
+        },
+        {
+          "id": "2179747",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9253",
+            "coachId": "62915"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "1218",
+            "coachId": "15242"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2018-07-16T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/2179747"
+        },
+        {
+          "id": "2007682",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "3001",
+            "coachId": "30678"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9253",
+            "coachId": "62915"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2018-04-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/2007682"
+        },
+        {
+          "id": "2007681",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9253",
+            "coachId": "62915"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "3001",
+            "coachId": "30678"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2018-01-18T00:00:00+01:00",
+            "contractUntilDate": "2018-04-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/2007681"
+        },
+        {
+          "id": "1587734",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3716",
+            "coachId": "6536"
+          },
+          "transferDestination": {
+            "competitionId": "E21P",
+            "countryId": 189,
+            "clubId": "9253",
+            "coachId": "15931"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2017-01-02T00:00:00+01:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/1587734"
+        },
+        {
+          "id": "1587733",
+          "transferSource": {
+            "competitionId": "E21P",
+            "countryId": 189,
+            "clubId": "9253",
+            "coachId": "15931"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3716",
+            "coachId": "35115"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2016-08-31T00:00:00+02:00",
+            "contractUntilDate": "2017-01-02T00:00:00+01:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/1587733"
+        },
+        {
+          "id": "1403728",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1252",
+            "coachId": "18753"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9253",
+            "coachId": "15931"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2016-05-31T00:00:00+02:00",
+            "contractUntilDate": "2016-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/1403728"
+        },
+        {
+          "id": "1403727",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9253",
+            "coachId": "15931"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1252",
+            "coachId": "18753"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2016-01-11T00:00:00+01:00",
+            "contractUntilDate": "2016-05-31T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/1403727"
+        },
+        {
+          "id": "5078642",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "4080",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9253",
+            "coachId": "15931"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2016-01-10T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/5078642"
+        },
+        {
+          "id": "5078641",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9253",
+            "coachId": "15931"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "4080",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2015-12-10T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 568,
+              "daysDisplay": "1 Year, 6 Months, 20 Days"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/5078641"
+        },
+        {
+          "id": "1350551",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "6943",
+            "coachId": "25856"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9253",
+            "coachId": "15931"
+          },
+          "details": {
+            "playerId": "258881",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/1350551"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 29,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "8981",
+      "3716",
+      "1045",
+      "6168",
+      "2578",
+      "1218",
+      "9253",
+      "3001",
+      "1252",
+      "4080",
+      "6943"
+    ],
+    "coachIds": [
+      "15362",
+      "42619",
+      "75962",
+      "86195",
+      "90282",
+      "17451",
+      "13171",
+      "625",
+      "4144",
+      "50075",
+      "62915",
+      "15242",
+      "30678",
+      "6536",
+      "15931",
+      "35115",
+      "18753",
+      "25856"
+    ],
+    "competitionIds": [
+      "GB3",
+      "GB4",
+      "SC1",
+      "CNAT",
+      "GB21",
+      "NLS6",
+      "SC2",
+      "E21P"
+    ],
+    "mostRecentTransfer": {
+      "id": "6388846",
+      "transferSource": {
+        "competitionId": "GB3",
+        "countryId": 189,
+        "clubId": "8981",
+        "coachId": "15362"
+      },
+      "transferDestination": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "3716",
+        "coachId": "42619"
+      },
+      "details": {
+        "playerId": "258881",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kyle-cameron/transfers/spieler/258881/transfer_id/6388846"
+    }
+  }
+}

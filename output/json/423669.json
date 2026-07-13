@@ -1,0 +1,822 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "423669",
+    "history": {
+      "terminated": [
+        {
+          "id": "6162077",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "48744",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "3835",
+            "coachId": "122526"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2026-02-08T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 27,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/6162077"
+        },
+        {
+          "id": "6181730",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "3835",
+            "coachId": "122526"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "2113",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2026-02-08T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/6181730"
+        },
+        {
+          "id": "6162076",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "3835",
+            "coachId": "122526"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "48744",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2026-01-30T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 27,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/6162076"
+        },
+        {
+          "id": "5019794",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "11428",
+            "coachId": "150595"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3835",
+            "coachId": "122526"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/5019794"
+        },
+        {
+          "id": "4576136",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "971",
+            "coachId": "29840"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "11428",
+            "coachId": "150595"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/4576136"
+        },
+        {
+          "id": "3912107",
+          "transferSource": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "15244",
+            "coachId": "7209"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "971",
+            "coachId": "29840"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2022-08-06T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/3912107"
+        },
+        {
+          "id": "3511594",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "39338",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "15244",
+            "coachId": "7209"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2021-08-19T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/3511594"
+        },
+        {
+          "id": "3210978",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "6168",
+            "coachId": "7586"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "39338",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2021-05-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/3210978"
+        },
+        {
+          "id": "3210966",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "39338",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "6168",
+            "coachId": "54194"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2021-01-18T00:00:00+01:00",
+            "contractUntilDate": "2021-05-31T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/3210966"
+        },
+        {
+          "id": "3064711",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "10895",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "39338",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2020-09-17T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/3064711"
+        },
+        {
+          "id": "2854553",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "16040",
+            "coachId": "109118"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "10895",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2020-03-06T00:00:00+01:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/2854553"
+        },
+        {
+          "id": "2500793",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9261",
+            "coachId": "15772"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "16040",
+            "coachId": "16853"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2019-08-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/2500793"
+        },
+        {
+          "id": "1799555",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6920",
+            "coachId": "55740"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9261",
+            "coachId": "15772"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/1799555"
+        },
+        {
+          "id": "1752348",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "50769",
+            "coachId": "100579"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "6920",
+            "coachId": "53143"
+          },
+          "details": {
+            "playerId": "423669",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/1752348"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "48744",
+      "3835",
+      "2113",
+      "11428",
+      "971",
+      "15244",
+      "39338",
+      "6168",
+      "10895",
+      "16040",
+      "9261",
+      "6920",
+      "50769"
+    ],
+    "coachIds": [
+      "122526",
+      "150595",
+      "29840",
+      "7209",
+      "7586",
+      "54194",
+      "109118",
+      "15772",
+      "16853",
+      "55740",
+      "100579",
+      "53143"
+    ],
+    "competitionIds": [
+      "NLN6",
+      "NIR1",
+      "GB4",
+      "GB21",
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "6162077",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 189,
+        "clubId": "48744",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "NLN6",
+        "countryId": 189,
+        "clubId": "3835",
+        "coachId": "122526"
+      },
+      "details": {
+        "playerId": "423669",
+        "date": "2026-02-08T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 27,
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/dan-bramall/transfers/spieler/423669/transfer_id/6162077"
+    }
+  }
+}

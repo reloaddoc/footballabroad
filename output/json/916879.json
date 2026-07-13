@@ -1,0 +1,205 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "916879",
+    "history": {
+      "terminated": [
+        {
+          "id": "5641593",
+          "transferSource": {
+            "competitionId": "OLB2",
+            "countryId": 40,
+            "clubId": "24235",
+            "coachId": "132754"
+          },
+          "transferDestination": {
+            "competitionId": "A4S",
+            "countryId": 127,
+            "clubId": "23631",
+            "coachId": "81122"
+          },
+          "details": {
+            "playerId": "916879",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dominik-buxmann/transfers/spieler/916879/transfer_id/5641593"
+        },
+        {
+          "id": "3554118",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "77225",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "OLB2",
+            "countryId": 40,
+            "clubId": "24235",
+            "coachId": "11924"
+          },
+          "details": {
+            "playerId": "916879",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dominik-buxmann/transfers/spieler/916879/transfer_id/3554118"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "24235",
+      "23631",
+      "77225"
+    ],
+    "coachIds": [
+      "132754",
+      "81122",
+      "11924"
+    ],
+    "competitionIds": [
+      "OLB2",
+      "A4S"
+    ],
+    "mostRecentTransfer": {
+      "id": "5641593",
+      "transferSource": {
+        "competitionId": "OLB2",
+        "countryId": 40,
+        "clubId": "24235",
+        "coachId": "132754"
+      },
+      "transferDestination": {
+        "competitionId": "A4S",
+        "countryId": 127,
+        "clubId": "23631",
+        "coachId": "81122"
+      },
+      "details": {
+        "playerId": "916879",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/dominik-buxmann/transfers/spieler/916879/transfer_id/5641593"
+    }
+  }
+}

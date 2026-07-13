@@ -1,0 +1,955 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "931852",
+    "history": {
+      "terminated": [
+        {
+          "id": "6306726",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3052",
+            "coachId": "129192"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/6306726"
+        },
+        {
+          "id": "5663624",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3052",
+            "coachId": "97512"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/5663624"
+        },
+        {
+          "id": "5493308",
+          "transferSource": {
+            "competitionId": "IR2",
+            "countryId": 72,
+            "clubId": "5568",
+            "coachId": "19529"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/5493308"
+        },
+        {
+          "id": "5493307",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "transferDestination": {
+            "competitionId": "IR2",
+            "countryId": 72,
+            "clubId": "5568",
+            "coachId": "36167"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2025-01-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/5493307"
+        },
+        {
+          "id": "5316195",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "4074",
+            "coachId": "13257"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2024-11-12T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/5316195"
+        },
+        {
+          "id": "5316194",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "4074",
+            "coachId": "13257"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2024-10-12T00:00:00+02:00",
+            "contractUntilDate": "2024-11-12T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 261,
+              "daysDisplay": "8 Months, 18 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/5316194"
+        },
+        {
+          "id": "5204104",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "56852",
+            "coachId": "72821"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2024-10-11T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 4,
+              "daysDisplay": "4 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/5204104"
+        },
+        {
+          "id": "5204103",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "56852",
+            "coachId": "72821"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2024-08-15T00:00:00+02:00",
+            "contractUntilDate": "2024-10-15T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 319,
+              "daysDisplay": "10 Months, 15 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/5204103"
+        },
+        {
+          "id": "4768585",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "3936",
+            "coachId": "64064"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2024-01-09T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/4768585"
+        },
+        {
+          "id": "4768584",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "3936",
+            "coachId": "64064"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2023-12-09T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 569,
+              "daysDisplay": "1 Year, 6 Months, 21 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/4768584"
+        },
+        {
+          "id": "4730497",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "29512",
+            "coachId": "149947"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2023-12-03T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/4730497"
+        },
+        {
+          "id": "4730496",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "29512",
+            "coachId": "149947"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2023-11-03T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 605,
+              "daysDisplay": "1 Year, 7 Months, 27 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/4730496"
+        },
+        {
+          "id": "4418985",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "33614",
+            "coachId": "23509"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/4418985"
+        },
+        {
+          "id": "4006746",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6898",
+            "coachId": "98946"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "33614",
+            "coachId": "23509"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/4006746"
+        },
+        {
+          "id": "3718179",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "14465",
+            "coachId": "82526"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6898",
+            "coachId": "11699"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2022-02-14T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 75,
+              "daysDisplay": "2 Months, 16 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/3718179"
+        },
+        {
+          "id": "3718178",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6898",
+            "coachId": "11699"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "14465",
+            "coachId": "82526"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2021-11-22T00:00:00+01:00",
+            "contractUntilDate": "2022-04-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 585,
+              "daysDisplay": "1 Year, 7 Months, 8 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/3718178"
+        },
+        {
+          "id": "3540402",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "92719",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6898",
+            "coachId": "11699"
+          },
+          "details": {
+            "playerId": "931852",
+            "date": "2021-08-16T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/3540402"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "3052",
+      "515",
+      "8981",
+      "5568",
+      "4074",
+      "56852",
+      "3936",
+      "29512",
+      "33614",
+      "6898",
+      "14465",
+      "92719"
+    ],
+    "coachIds": [
+      "129192",
+      "15362",
+      "97512",
+      "19529",
+      "36167",
+      "13257",
+      "72821",
+      "64064",
+      "149947",
+      "23509",
+      "98946",
+      "82526",
+      "11699"
+    ],
+    "competitionIds": [
+      "CNAT",
+      "GB4",
+      "IR2",
+      "NLS6",
+      "GB21",
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "6306726",
+      "transferSource": {
+        "competitionId": "CNAT",
+        "countryId": 189,
+        "clubId": "3052",
+        "coachId": "129192"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "931852",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/david-aziaya/transfers/spieler/931852/transfer_id/6306726"
+    }
+  }
+}

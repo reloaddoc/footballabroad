@@ -1,0 +1,583 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "452563",
+    "history": {
+      "terminated": [
+        {
+          "id": "6399517",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "12275",
+            "coachId": "79097"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "476",
+            "coachId": "81289"
+          },
+          "details": {
+            "playerId": "452563",
+            "date": "2026-07-03T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 728,
+              "daysDisplay": "1 Year, 11 Months, 27 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/eric-voufack/transfers/spieler/452563/transfer_id/6399517"
+        },
+        {
+          "id": "5651794",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "56",
+            "coachId": "4688"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "12275",
+            "coachId": "96644"
+          },
+          "details": {
+            "playerId": "452563",
+            "date": "2025-07-29T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eric-voufack/transfers/spieler/452563/transfer_id/5651794"
+        },
+        {
+          "id": "4444629",
+          "transferSource": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "497",
+            "coachId": "18422"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "56",
+            "coachId": "31525"
+          },
+          "details": {
+            "playerId": "452563",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eric-voufack/transfers/spieler/452563/transfer_id/4444629"
+        },
+        {
+          "id": "3327080",
+          "transferSource": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "113",
+            "coachId": "2749"
+          },
+          "transferDestination": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "497",
+            "coachId": "18422"
+          },
+          "details": {
+            "playerId": "452563",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eric-voufack/transfers/spieler/452563/transfer_id/3327080"
+        },
+        {
+          "id": "2507860",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "8663",
+            "coachId": "35048"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "113",
+            "coachId": "25375"
+          },
+          "details": {
+            "playerId": "452563",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eric-voufack/transfers/spieler/452563/transfer_id/2507860"
+        },
+        {
+          "id": "2171469",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "23928",
+            "coachId": "31147"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "8663",
+            "coachId": "10897"
+          },
+          "details": {
+            "playerId": "452563",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eric-voufack/transfers/spieler/452563/transfer_id/2171469"
+        },
+        {
+          "id": "1579122",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "37365",
+            "coachId": "23899"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "23928",
+            "coachId": "31147"
+          },
+          "details": {
+            "playerId": "452563",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eric-voufack/transfers/spieler/452563/transfer_id/1579122"
+        },
+        {
+          "id": "5964897",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "68747",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "37365",
+            "coachId": "60523"
+          },
+          "details": {
+            "playerId": "452563",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 11,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eric-voufack/transfers/spieler/452563/transfer_id/5964897"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6399518",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "476",
+            "coachId": "81289"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "12275",
+            "coachId": "79097"
+          },
+          "details": {
+            "playerId": "452563",
+            "date": "2027-06-30T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/eric-voufack/transfers/spieler/452563/transfer_id/6399518"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "476",
+      "12275",
+      "56",
+      "497",
+      "113",
+      "8663",
+      "23928",
+      "37365",
+      "68747"
+    ],
+    "coachIds": [
+      "81289",
+      "79097",
+      "4688",
+      "96644",
+      "18422",
+      "31525",
+      "2749",
+      "35048",
+      "25375",
+      "31147",
+      "10897",
+      "23899",
+      "60523"
+    ],
+    "competitionIds": [
+      "L3",
+      "DK2",
+      "RLN4"
+    ],
+    "mostRecentTransfer": {
+      "id": "6399517",
+      "transferSource": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "12275",
+        "coachId": "79097"
+      },
+      "transferDestination": {
+        "competitionId": "L3",
+        "countryId": 40,
+        "clubId": "476",
+        "coachId": "81289"
+      },
+      "details": {
+        "playerId": "452563",
+        "date": "2026-07-03T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "remainingContractPeriod": {
+          "days": 728,
+          "daysDisplay": "1 Year, 11 Months, 27 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/eric-voufack/transfers/spieler/452563/transfer_id/6399517"
+    }
+  }
+}

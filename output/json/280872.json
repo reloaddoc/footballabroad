@@ -1,0 +1,319 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "280872",
+    "history": {
+      "terminated": [
+        {
+          "id": "6237460",
+          "transferSource": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "8037",
+            "coachId": "65966"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "2283",
+            "coachId": "34781"
+          },
+          "details": {
+            "playerId": "280872",
+            "date": "2026-03-19T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sindri-kristinn-olafsson/transfers/spieler/280872/transfer_id/6237460"
+        },
+        {
+          "id": "5570887",
+          "transferSource": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "1185",
+            "coachId": "8880"
+          },
+          "transferDestination": {
+            "competitionId": "IS2",
+            "countryId": 73,
+            "clubId": "8037",
+            "coachId": "65966"
+          },
+          "details": {
+            "playerId": "280872",
+            "date": "2025-03-21T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 240,
+              "daysDisplay": "7 Months, 26 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sindri-kristinn-olafsson/transfers/spieler/280872/transfer_id/5570887"
+        },
+        {
+          "id": "4152399",
+          "transferSource": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "8037",
+            "coachId": "32788"
+          },
+          "transferDestination": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "1185",
+            "coachId": "8880"
+          },
+          "details": {
+            "playerId": "280872",
+            "date": "2023-02-02T00:00:00+01:00",
+            "contractUntilDate": "2025-11-16T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sindri-kristinn-olafsson/transfers/spieler/280872/transfer_id/4152399"
+        },
+        {
+          "id": "1113819",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 73,
+            "clubId": "23650",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "8037",
+            "coachId": "9410"
+          },
+          "details": {
+            "playerId": "280872",
+            "date": "2013-07-08T00:00:00+02:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sindri-kristinn-olafsson/transfers/spieler/280872/transfer_id/1113819"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 29,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "8037",
+      "2283",
+      "1185",
+      "23650"
+    ],
+    "coachIds": [
+      "65966",
+      "34781",
+      "8880",
+      "32788",
+      "9410"
+    ],
+    "competitionIds": [
+      "IS1",
+      "SE3N",
+      "IS2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6237460",
+      "transferSource": {
+        "competitionId": "IS1",
+        "countryId": 73,
+        "clubId": "8037",
+        "coachId": "65966"
+      },
+      "transferDestination": {
+        "competitionId": "SE3N",
+        "countryId": 147,
+        "clubId": "2283",
+        "coachId": "34781"
+      },
+      "details": {
+        "playerId": "280872",
+        "date": "2026-03-19T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/sindri-kristinn-olafsson/transfers/spieler/280872/transfer_id/6237460"
+    }
+  }
+}

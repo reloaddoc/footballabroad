@@ -1,0 +1,150 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1310801",
+    "history": {
+      "terminated": [
+        {
+          "id": "5951500",
+          "transferSource": {
+            "competitionId": "NPFL",
+            "countryId": 124,
+            "clubId": "2930",
+            "coachId": "59458"
+          },
+          "transferDestination": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "16055",
+            "coachId": "115355"
+          },
+          "details": {
+            "playerId": "1310801",
+            "date": "2025-09-16T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/daniel-onyia/transfers/spieler/1310801/transfer_id/5951500"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2930",
+      "16055"
+    ],
+    "coachIds": [
+      "59458",
+      "115355"
+    ],
+    "competitionIds": [
+      "NPFL",
+      "E4G1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5951500",
+      "transferSource": {
+        "competitionId": "NPFL",
+        "countryId": 124,
+        "clubId": "2930",
+        "coachId": "59458"
+      },
+      "transferDestination": {
+        "competitionId": "E4G1",
+        "countryId": 157,
+        "clubId": "16055",
+        "coachId": "115355"
+      },
+      "details": {
+        "playerId": "1310801",
+        "date": "2025-09-16T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/daniel-onyia/transfers/spieler/1310801/transfer_id/5951500"
+    }
+  }
+}

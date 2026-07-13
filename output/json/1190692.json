@@ -1,0 +1,203 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1190692",
+    "history": {
+      "terminated": [
+        {
+          "id": "6347399",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "12799",
+            "coachId": "111411"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1190692",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/scott-hamilton/transfers/spieler/1190692/transfer_id/6347399"
+        },
+        {
+          "id": "5180458",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 192,
+            "clubId": "41080",
+            "coachId": "117946"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "12799",
+            "coachId": "111411"
+          },
+          "details": {
+            "playerId": "1190692",
+            "date": "2024-08-16T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/scott-hamilton/transfers/spieler/1190692/transfer_id/5180458"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 18,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "12799",
+      "515",
+      "41080"
+    ],
+    "coachIds": [
+      "111411",
+      "117946"
+    ],
+    "competitionIds": [
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "6347399",
+      "transferSource": {
+        "competitionId": "GB18",
+        "countryId": 189,
+        "clubId": "12799",
+        "coachId": "111411"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1190692",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/scott-hamilton/transfers/spieler/1190692/transfer_id/6347399"
+    }
+  }
+}

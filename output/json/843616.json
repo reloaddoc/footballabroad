@@ -1,0 +1,204 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "843616",
+    "history": {
+      "terminated": [
+        {
+          "id": "5527358",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "9606",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 183,
+            "clubId": "83822",
+            "coachId": "113715"
+          },
+          "details": {
+            "playerId": "843616",
+            "date": "2025-02-18T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/layth-gulzar/transfers/spieler/843616/transfer_id/5527358"
+        },
+        {
+          "id": "4178815",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "54168",
+            "coachId": "111473"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "9606",
+            "coachId": "117198"
+          },
+          "details": {
+            "playerId": "843616",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/layth-gulzar/transfers/spieler/843616/transfer_id/4178815"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "9606",
+      "83822",
+      "54168"
+    ],
+    "coachIds": [
+      "113715",
+      "111473",
+      "117198"
+    ],
+    "competitionIds": [
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "5527358",
+      "transferSource": {
+        "competitionId": "GB18",
+        "countryId": 189,
+        "clubId": "9606",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 183,
+        "clubId": "83822",
+        "coachId": "113715"
+      },
+      "details": {
+        "playerId": "843616",
+        "date": "2025-02-18T00:00:00+01:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/layth-gulzar/transfers/spieler/843616/transfer_id/5527358"
+    }
+  }
+}

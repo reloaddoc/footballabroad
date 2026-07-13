@@ -1,0 +1,403 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "815381",
+    "history": {
+      "terminated": [
+        {
+          "id": "5902304",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "34888",
+            "coachId": "37978"
+          },
+          "transferDestination": {
+            "competitionId": "URUI",
+            "countryId": 179,
+            "clubId": "37535",
+            "coachId": "53066"
+          },
+          "details": {
+            "playerId": "815381",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/nicolas-siri/transfers/spieler/815381/transfer_id/5902304"
+        },
+        {
+          "id": "5902303",
+          "transferSource": {
+            "competitionId": "URUC",
+            "countryId": 179,
+            "clubId": "37535",
+            "coachId": "53066"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "34888",
+            "coachId": "13985"
+          },
+          "details": {
+            "playerId": "815381",
+            "date": "2025-08-29T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 670,
+              "daysDisplay": "1 Year, 10 Months, 1 Day"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/nicolas-siri/transfers/spieler/815381/transfer_id/5902303"
+        },
+        {
+          "id": "5482836",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "5026",
+            "coachId": "28097"
+          },
+          "transferDestination": {
+            "competitionId": "URUC",
+            "countryId": 179,
+            "clubId": "37535",
+            "coachId": "91580"
+          },
+          "details": {
+            "playerId": "815381",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/nicolas-siri/transfers/spieler/815381/transfer_id/5482836"
+        },
+        {
+          "id": "5482819",
+          "transferSource": {
+            "competitionId": "URUC",
+            "countryId": 179,
+            "clubId": "37535",
+            "coachId": "91580"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "5026",
+            "coachId": "21186"
+          },
+          "details": {
+            "playerId": "815381",
+            "date": "2025-01-27T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 884,
+              "daysDisplay": "2 Years, 5 Months, 3 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/nicolas-siri/transfers/spieler/815381/transfer_id/5482819"
+        },
+        {
+          "id": "3522401",
+          "transferSource": {
+            "competitionId": "URU2",
+            "countryId": 179,
+            "clubId": "1306",
+            "coachId": "2066"
+          },
+          "transferDestination": {
+            "competitionId": "URUC",
+            "countryId": 179,
+            "clubId": "37535",
+            "coachId": "65171"
+          },
+          "details": {
+            "playerId": "815381",
+            "date": "2021-08-27T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": 3100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "3.10",
+                "suffix": "M"
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nicolas-siri/transfers/spieler/815381/transfer_id/3522401"
+        },
+        {
+          "id": "3114485",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 179,
+            "clubId": "20352",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "URUC",
+            "countryId": 179,
+            "clubId": "1306",
+            "coachId": "22718"
+          },
+          "details": {
+            "playerId": "815381",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nicolas-siri/transfers/spieler/815381/transfer_id/3114485"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 3100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "3.10",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 250000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "250.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "34888",
+      "37535",
+      "5026",
+      "1306",
+      "20352"
+    ],
+    "coachIds": [
+      "37978",
+      "53066",
+      "13985",
+      "28097",
+      "91580",
+      "21186",
+      "2066",
+      "65171",
+      "22718"
+    ],
+    "competitionIds": [
+      "GB4",
+      "URUI",
+      "URUC",
+      "BE2",
+      "URU2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5902304",
+      "transferSource": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "34888",
+        "coachId": "37978"
+      },
+      "transferDestination": {
+        "competitionId": "URUI",
+        "countryId": 179,
+        "clubId": "37535",
+        "coachId": "53066"
+      },
+      "details": {
+        "playerId": "815381",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/nicolas-siri/transfers/spieler/815381/transfer_id/5902304"
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1117106",
+    "history": {
+      "terminated": [
+        {
+          "id": "6184230",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "110",
+            "coachId": "104859"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "18303",
+            "coachId": "67028"
+          },
+          "details": {
+            "playerId": "1117106",
+            "date": "2026-02-13T00:00:00+01:00",
+            "contractUntilDate": "2029-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 502,
+              "daysDisplay": "1 Year, 4 Months, 17 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/artur-andreichyk/transfers/spieler/1117106/transfer_id/6184230"
+        },
+        {
+          "id": "4487966",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "8228",
+            "coachId": "117256"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "110",
+            "coachId": "62033"
+          },
+          "details": {
+            "playerId": "1117106",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/artur-andreichyk/transfers/spieler/1117106/transfer_id/4487966"
+        },
+        {
+          "id": "4983424",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 177,
+            "clubId": "114881",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "8228",
+            "coachId": "2082"
+          },
+          "details": {
+            "playerId": "1117106",
+            "date": "2022-04-20T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/artur-andreichyk/transfers/spieler/1117106/transfer_id/4983424"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "110",
+      "18303",
+      "8228",
+      "114881"
+    ],
+    "coachIds": [
+      "104859",
+      "67028",
+      "117256",
+      "62033",
+      "2082"
+    ],
+    "competitionIds": [
+      "RLB3",
+      "UKR1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6184230",
+      "transferSource": {
+        "competitionId": "RLB3",
+        "countryId": 40,
+        "clubId": "110",
+        "coachId": "104859"
+      },
+      "transferDestination": {
+        "competitionId": "UKR1",
+        "countryId": 177,
+        "clubId": "18303",
+        "coachId": "67028"
+      },
+      "details": {
+        "playerId": "1117106",
+        "date": "2026-02-13T00:00:00+01:00",
+        "contractUntilDate": "2029-05-31T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 502,
+          "daysDisplay": "1 Year, 4 Months, 17 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/artur-andreichyk/transfers/spieler/1117106/transfer_id/6184230"
+    }
+  }
+}

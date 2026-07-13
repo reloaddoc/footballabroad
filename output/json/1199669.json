@@ -1,0 +1,203 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1199669",
+    "history": {
+      "terminated": [
+        {
+          "id": "5653100",
+          "transferSource": {
+            "competitionId": "511",
+            "countryId": 122,
+            "clubId": "12451",
+            "coachId": "66263"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "3773",
+            "coachId": "49058"
+          },
+          "details": {
+            "playerId": "1199669",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/monir-afansiou/transfers/spieler/1199669/transfer_id/5653100"
+        },
+        {
+          "id": "5125933",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "76113",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "12451",
+            "coachId": "66263"
+          },
+          "details": {
+            "playerId": "1199669",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/monir-afansiou/transfers/spieler/1199669/transfer_id/5125933"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "12451",
+      "3773",
+      "76113"
+    ],
+    "coachIds": [
+      "66263",
+      "49058"
+    ],
+    "competitionIds": [
+      "511"
+    ],
+    "mostRecentTransfer": {
+      "id": "5653100",
+      "transferSource": {
+        "competitionId": "511",
+        "countryId": 122,
+        "clubId": "12451",
+        "coachId": "66263"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 19,
+        "clubId": "3773",
+        "coachId": "49058"
+      },
+      "details": {
+        "playerId": "1199669",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/monir-afansiou/transfers/spieler/1199669/transfer_id/5653100"
+    }
+  }
+}

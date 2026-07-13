@@ -1,0 +1,381 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "415830",
+    "history": {
+      "terminated": [
+        {
+          "id": "6103136",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "3692",
+            "coachId": "26773"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "80015"
+          },
+          "details": {
+            "playerId": "415830",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ryan-nelson/transfers/spieler/415830/transfer_id/6103136"
+        },
+        {
+          "id": "4569238",
+          "transferSource": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "10940",
+            "coachId": "23991"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "3692",
+            "coachId": "10074"
+          },
+          "details": {
+            "playerId": "415830",
+            "date": "2023-08-08T00:00:00+02:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ryan-nelson/transfers/spieler/415830/transfer_id/4569238"
+        },
+        {
+          "id": "2381144",
+          "transferSource": {
+            "competitionId": "NO44",
+            "countryId": 125,
+            "clubId": "36254",
+            "coachId": "60375"
+          },
+          "transferDestination": {
+            "competitionId": "NO45",
+            "countryId": 125,
+            "clubId": "10940",
+            "coachId": "23991"
+          },
+          "details": {
+            "playerId": "415830",
+            "date": "2019-01-18T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ryan-nelson/transfers/spieler/415830/transfer_id/2381144"
+        },
+        {
+          "id": "1692932",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "3001",
+            "coachId": "30678"
+          },
+          "transferDestination": {
+            "competitionId": "NO42",
+            "countryId": 125,
+            "clubId": "36254",
+            "coachId": "43949"
+          },
+          "details": {
+            "playerId": "415830",
+            "date": "2017-03-29T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 63,
+              "daysDisplay": "2 Months, 2 Days"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ryan-nelson/transfers/spieler/415830/transfer_id/1692932"
+        },
+        {
+          "id": "1401229",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "38926",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "3001",
+            "coachId": "35453"
+          },
+          "details": {
+            "playerId": "415830",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": "2017-05-31T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ryan-nelson/transfers/spieler/415830/transfer_id/1401229"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 28,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3692",
+      "2844",
+      "10940",
+      "36254",
+      "3001",
+      "38926"
+    ],
+    "coachIds": [
+      "26773",
+      "80015",
+      "23991",
+      "10074",
+      "60375",
+      "30678",
+      "43949",
+      "35453"
+    ],
+    "competitionIds": [
+      "NO2",
+      "SE2",
+      "NO32",
+      "NO44",
+      "NO45",
+      "SC2",
+      "NO42"
+    ],
+    "mostRecentTransfer": {
+      "id": "6103136",
+      "transferSource": {
+        "competitionId": "NO2",
+        "countryId": 125,
+        "clubId": "3692",
+        "coachId": "26773"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "2844",
+        "coachId": "80015"
+      },
+      "details": {
+        "playerId": "415830",
+        "date": "2026-01-29T00:00:00+01:00",
+        "contractUntilDate": "2028-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 28,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ryan-nelson/transfers/spieler/415830/transfer_id/6103136"
+    }
+  }
+}

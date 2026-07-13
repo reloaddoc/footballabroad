@@ -1,0 +1,646 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "271816",
+    "history": {
+      "terminated": [
+        {
+          "id": "5150259",
+          "transferSource": {
+            "competitionId": "NL1",
+            "countryId": 122,
+            "clubId": "132",
+            "coachId": "58865"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "5202",
+            "coachId": "53174"
+          },
+          "details": {
+            "playerId": "271816",
+            "date": "2024-07-25T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/victor-wernersson/transfers/spieler/271816/transfer_id/5150259"
+        },
+        {
+          "id": "4239171",
+          "transferSource": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "354",
+            "coachId": "94448"
+          },
+          "transferDestination": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "132",
+            "coachId": "4853"
+          },
+          "details": {
+            "playerId": "271816",
+            "date": "2023-01-23T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 524,
+              "daysDisplay": "1 Year, 5 Months, 7 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/victor-wernersson/transfers/spieler/271816/transfer_id/4239171"
+        },
+        {
+          "id": "3768793",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "1274",
+            "coachId": "28441"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "354",
+            "coachId": "94448"
+          },
+          "details": {
+            "playerId": "271816",
+            "date": "2022-12-31T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/victor-wernersson/transfers/spieler/271816/transfer_id/3768793"
+        },
+        {
+          "id": "3768792",
+          "transferSource": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "354",
+            "coachId": "49546"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "1274",
+            "coachId": "57116"
+          },
+          "details": {
+            "playerId": "271816",
+            "date": "2022-03-03T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 850,
+              "daysDisplay": "2 Years, 3 Months, 27 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/victor-wernersson/transfers/spieler/271816/transfer_id/3768792"
+        },
+        {
+          "id": "3478309",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "1274",
+            "coachId": "57116"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "354",
+            "coachId": "49546"
+          },
+          "details": {
+            "playerId": "271816",
+            "date": "2021-12-31T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/victor-wernersson/transfers/spieler/271816/transfer_id/3478309"
+        },
+        {
+          "id": "3478308",
+          "transferSource": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "354",
+            "coachId": "49546"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "1274",
+            "coachId": "57116"
+          },
+          "details": {
+            "playerId": "271816",
+            "date": "2021-08-04T00:00:00+02:00",
+            "contractUntilDate": "2021-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 1061,
+              "daysDisplay": "2 Years, 10 Months, 26 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/victor-wernersson/transfers/spieler/271816/transfer_id/3478308"
+        },
+        {
+          "id": "2956173",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "801",
+            "coachId": "43537"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "354",
+            "coachId": "49546"
+          },
+          "details": {
+            "playerId": "271816",
+            "date": "2020-09-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 750000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "750.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 121,
+              "daysDisplay": "3 Months, 30 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/victor-wernersson/transfers/spieler/271816/transfer_id/2956173"
+        },
+        {
+          "id": "1991574",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "443",
+            "coachId": "20947"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "801",
+            "coachId": "43537"
+          },
+          "details": {
+            "playerId": "271816",
+            "date": "2018-01-04T00:00:00+01:00",
+            "contractUntilDate": "2020-12-31T00:00:00+01:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 908,
+              "daysDisplay": "2 Years, 5 Months, 26 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/victor-wernersson/transfers/spieler/271816/transfer_id/1991574"
+        },
+        {
+          "id": "1828746",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "7406",
+            "coachId": "20336"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "443",
+            "coachId": "20947"
+          },
+          "details": {
+            "playerId": "271816",
+            "date": "2017-07-09T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 175,
+              "daysDisplay": "5 Months, 22 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/victor-wernersson/transfers/spieler/271816/transfer_id/1828746"
+        },
+        {
+          "id": "1157217",
+          "transferSource": {
+            "competitionId": "JUSÖ",
+            "countryId": 147,
+            "clubId": "7917",
+            "coachId": "19043"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "7406",
+            "coachId": "39158"
+          },
+          "details": {
+            "playerId": "271816",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": "2017-12-31T00:00:00+01:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/victor-wernersson/transfers/spieler/271816/transfer_id/1157217"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 31,
+      "totalMarketValue": {
+        "value": 225000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "225.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "132",
+      "5202",
+      "354",
+      "1274",
+      "801",
+      "443",
+      "7406",
+      "7917"
+    ],
+    "coachIds": [
+      "58865",
+      "53174",
+      "94448",
+      "4853",
+      "28441",
+      "49546",
+      "57116",
+      "43537",
+      "20947",
+      "20336",
+      "19043",
+      "39158"
+    ],
+    "competitionIds": [
+      "NL1",
+      "SE1",
+      "BE1",
+      "NL2",
+      "NO2",
+      "NO1",
+      "DK2",
+      "SE2",
+      "JUSÖ"
+    ],
+    "mostRecentTransfer": {
+      "id": "5150259",
+      "transferSource": {
+        "competitionId": "NL1",
+        "countryId": 122,
+        "clubId": "132",
+        "coachId": "58865"
+      },
+      "transferDestination": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "5202",
+        "coachId": "53174"
+      },
+      "details": {
+        "playerId": "271816",
+        "date": "2024-07-25T00:00:00+02:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/victor-wernersson/transfers/spieler/271816/transfer_id/5150259"
+    }
+  }
+}

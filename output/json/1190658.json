@@ -1,0 +1,321 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1190658",
+    "history": {
+      "terminated": [
+        {
+          "id": "6393689",
+          "transferSource": {
+            "competitionId": "E3G1",
+            "countryId": 157,
+            "clubId": "12405",
+            "coachId": "103771"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "8384",
+            "coachId": "132242"
+          },
+          "details": {
+            "playerId": "1190658",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/laken-torres/transfers/spieler/1190658/transfer_id/6393689"
+        },
+        {
+          "id": "5731171",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "12588",
+            "coachId": "83348"
+          },
+          "transferDestination": {
+            "competitionId": "E4G2",
+            "countryId": 157,
+            "clubId": "12405",
+            "coachId": "103771"
+          },
+          "details": {
+            "playerId": "1190658",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/laken-torres/transfers/spieler/1190658/transfer_id/5731171"
+        },
+        {
+          "id": "5484035",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "37993",
+            "coachId": "109377"
+          },
+          "transferDestination": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "12588",
+            "coachId": "103109"
+          },
+          "details": {
+            "playerId": "1190658",
+            "date": "2025-01-27T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 154,
+              "daysDisplay": "5 Months, 3 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/laken-torres/transfers/spieler/1190658/transfer_id/5484035"
+        },
+        {
+          "id": "4676129",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "15000",
+            "coachId": "137803"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "37993",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1190658",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/laken-torres/transfers/spieler/1190658/transfer_id/4676129"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "12405",
+      "8384",
+      "12588",
+      "37993",
+      "15000"
+    ],
+    "coachIds": [
+      "103771",
+      "132242",
+      "83348",
+      "109377",
+      "103109",
+      "137803"
+    ],
+    "competitionIds": [
+      "E3G1",
+      "E4G2",
+      "E4G1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6393689",
+      "transferSource": {
+        "competitionId": "E3G1",
+        "countryId": 157,
+        "clubId": "12405",
+        "coachId": "103771"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 157,
+        "clubId": "8384",
+        "coachId": "132242"
+      },
+      "details": {
+        "playerId": "1190658",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/laken-torres/transfers/spieler/1190658/transfer_id/6393689"
+    }
+  }
+}

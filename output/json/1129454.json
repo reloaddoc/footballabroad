@@ -1,0 +1,439 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1129454",
+    "history": {
+      "terminated": [
+        {
+          "id": "6324239",
+          "transferSource": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "1328",
+            "coachId": "11897"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "668",
+            "coachId": "105514"
+          },
+          "details": {
+            "playerId": "1129454",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karlo-grgic/transfers/spieler/1129454/transfer_id/6324239"
+        },
+        {
+          "id": "5462825",
+          "transferSource": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "14621",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "1328",
+            "coachId": "105535"
+          },
+          "details": {
+            "playerId": "1129454",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 180,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karlo-grgic/transfers/spieler/1129454/transfer_id/5462825"
+        },
+        {
+          "id": "4860668",
+          "transferSource": {
+            "competitionId": "CZ3M",
+            "countryId": 172,
+            "clubId": "13716",
+            "coachId": "48080"
+          },
+          "transferDestination": {
+            "competitionId": "BOS2",
+            "countryId": 24,
+            "clubId": "14621",
+            "coachId": "41350"
+          },
+          "details": {
+            "playerId": "1129454",
+            "date": "2024-03-22T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 100,
+              "daysDisplay": "3 Months, 8 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karlo-grgic/transfers/spieler/1129454/transfer_id/4860668"
+        },
+        {
+          "id": "4564634",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "61121",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CZ3M",
+            "countryId": 172,
+            "clubId": "13716",
+            "coachId": "82640"
+          },
+          "details": {
+            "playerId": "1129454",
+            "date": "2023-08-03T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 28 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karlo-grgic/transfers/spieler/1129454/transfer_id/4564634"
+        },
+        {
+          "id": "4361735",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "110241",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "61121",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1129454",
+            "date": "2023-03-11T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karlo-grgic/transfers/spieler/1129454/transfer_id/4361735"
+        },
+        {
+          "id": "4458745",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "18036",
+            "coachId": "62505"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "110241",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1129454",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karlo-grgic/transfers/spieler/1129454/transfer_id/4458745"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1328",
+      "668",
+      "14621",
+      "13716",
+      "61121",
+      "110241",
+      "18036"
+    ],
+    "coachIds": [
+      "11897",
+      "105514",
+      "105535",
+      "48080",
+      "41350",
+      "82640",
+      "62505"
+    ],
+    "competitionIds": [
+      "RLN3",
+      "RLW3",
+      "BOS2",
+      "CZ3M"
+    ],
+    "mostRecentTransfer": {
+      "id": "6324239",
+      "transferSource": {
+        "competitionId": "RLN3",
+        "countryId": 40,
+        "clubId": "1328",
+        "coachId": "11897"
+      },
+      "transferDestination": {
+        "competitionId": "RLW3",
+        "countryId": 40,
+        "clubId": "668",
+        "coachId": "105514"
+      },
+      "details": {
+        "playerId": "1129454",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 25000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "25.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/karlo-grgic/transfers/spieler/1129454/transfer_id/6324239"
+    }
+  }
+}

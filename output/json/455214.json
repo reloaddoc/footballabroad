@@ -1,0 +1,520 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "455214",
+    "history": {
+      "terminated": [
+        {
+          "id": "5505094",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 92,
+            "clubId": "5084",
+            "coachId": "103763"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "69752",
+            "coachId": "52773"
+          },
+          "details": {
+            "playerId": "455214",
+            "date": "2025-02-05T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/carlos-duke/transfers/spieler/455214/transfer_id/5505094"
+        },
+        {
+          "id": "4806241",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "23548",
+            "coachId": "110162"
+          },
+          "transferDestination": {
+            "competitionId": "LET1",
+            "countryId": 92,
+            "clubId": "5084",
+            "coachId": "46300"
+          },
+          "details": {
+            "playerId": "455214",
+            "date": "2024-02-20T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 346,
+              "daysDisplay": "11 Months, 11 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/carlos-duke/transfers/spieler/455214/transfer_id/4806241"
+        },
+        {
+          "id": "4192746",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22171",
+            "coachId": "2070"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "23548",
+            "coachId": "110162"
+          },
+          "details": {
+            "playerId": "455214",
+            "date": "2023-02-01T00:00:00+01:00",
+            "contractUntilDate": "2025-01-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/carlos-duke/transfers/spieler/455214/transfer_id/4192746"
+        },
+        {
+          "id": "3683577",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "25738",
+            "coachId": "66397"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22171",
+            "coachId": "2070"
+          },
+          "details": {
+            "playerId": "455214",
+            "date": "2023-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-01-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/carlos-duke/transfers/spieler/455214/transfer_id/3683577"
+        },
+        {
+          "id": "3683576",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22171",
+            "coachId": "2070"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "25738",
+            "coachId": "66397"
+          },
+          "details": {
+            "playerId": "455214",
+            "date": "2022-02-01T00:00:00+01:00",
+            "contractUntilDate": "2023-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/carlos-duke/transfers/spieler/455214/transfer_id/3683576"
+        },
+        {
+          "id": "3201784",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "23568",
+            "coachId": "5584"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22171",
+            "coachId": "32802"
+          },
+          "details": {
+            "playerId": "455214",
+            "date": "2022-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/carlos-duke/transfers/spieler/455214/transfer_id/3201784"
+        },
+        {
+          "id": "3201783",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22171",
+            "coachId": "32802"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "23568",
+            "coachId": "5584"
+          },
+          "details": {
+            "playerId": "455214",
+            "date": "2021-02-01T00:00:00+01:00",
+            "contractUntilDate": "2022-01-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/carlos-duke/transfers/spieler/455214/transfer_id/3201783"
+        },
+        {
+          "id": "1926594",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "24120",
+            "coachId": "25051"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22171",
+            "coachId": "28668"
+          },
+          "details": {
+            "playerId": "455214",
+            "date": "2018-02-01T00:00:00+01:00",
+            "contractUntilDate": "2023-01-31T00:00:00+01:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/carlos-duke/transfers/spieler/455214/transfer_id/1926594"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "5084",
+      "69752",
+      "23548",
+      "22171",
+      "25738",
+      "23568",
+      "24120"
+    ],
+    "coachIds": [
+      "103763",
+      "52773",
+      "110162",
+      "46300",
+      "2070",
+      "66397",
+      "5584",
+      "32802",
+      "25051",
+      "28668"
+    ],
+    "competitionIds": [
+      "LI1",
+      "JAP3",
+      "LET1",
+      "JAP2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5505094",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 92,
+        "clubId": "5084",
+        "coachId": "103763"
+      },
+      "transferDestination": {
+        "competitionId": "LI1",
+        "countryId": 98,
+        "clubId": "69752",
+        "coachId": "52773"
+      },
+      "details": {
+        "playerId": "455214",
+        "date": "2025-02-05T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/carlos-duke/transfers/spieler/455214/transfer_id/5505094"
+    }
+  }
+}

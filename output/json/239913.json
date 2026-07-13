@@ -1,0 +1,761 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "239913",
+    "history": {
+      "terminated": [
+        {
+          "id": "5019720",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "293",
+            "coachId": "52336"
+          },
+          "transferDestination": {
+            "competitionId": "ATRW",
+            "countryId": 127,
+            "clubId": "4466",
+            "coachId": "49935"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/5019720"
+        },
+        {
+          "id": "4033881",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "293",
+            "coachId": "52336"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2022-08-24T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/4033881"
+        },
+        {
+          "id": "3843798",
+          "transferSource": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "2444",
+            "coachId": "941"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2022-05-09T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 417,
+              "daysDisplay": "1 Year, 1 Month, 21 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/3843798"
+        },
+        {
+          "id": "1806823",
+          "transferSource": {
+            "competitionId": "ATRW",
+            "countryId": 127,
+            "clubId": "18344",
+            "coachId": "25477"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "2444",
+            "coachId": "2325"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/1806823"
+        },
+        {
+          "id": "1560155",
+          "transferSource": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "2444",
+            "coachId": "557"
+          },
+          "transferDestination": {
+            "competitionId": "ATRW",
+            "countryId": 127,
+            "clubId": "18344",
+            "coachId": "25477"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/1560155"
+        },
+        {
+          "id": "1491557",
+          "transferSource": {
+            "competitionId": "ATRW",
+            "countryId": 127,
+            "clubId": "18344",
+            "coachId": "25477"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "2444",
+            "coachId": "2406"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2016-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/1491557"
+        },
+        {
+          "id": "1016108",
+          "transferSource": {
+            "competitionId": "JGD2",
+            "countryId": 127,
+            "clubId": "4389",
+            "coachId": "30707"
+          },
+          "transferDestination": {
+            "competitionId": "ATRW",
+            "countryId": 127,
+            "clubId": "18344",
+            "coachId": "25477"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2014-01-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/1016108"
+        },
+        {
+          "id": "1233813",
+          "transferSource": {
+            "competitionId": "JGD3",
+            "countryId": 127,
+            "clubId": "42834",
+            "coachId": "20345"
+          },
+          "transferDestination": {
+            "competitionId": "JGD2",
+            "countryId": 127,
+            "clubId": "4389",
+            "coachId": "25606"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2012-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/1233813"
+        },
+        {
+          "id": "1233812",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "42833",
+            "coachId": "20345"
+          },
+          "transferDestination": {
+            "competitionId": "JGD3",
+            "countryId": 127,
+            "clubId": "42834",
+            "coachId": "10857"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2011-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/1233812"
+        },
+        {
+          "id": "1233811",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "20285",
+            "coachId": "17585"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "42833",
+            "coachId": "5287"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2010-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/1233811"
+        },
+        {
+          "id": "1233810",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "31415",
+            "coachId": "52326"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "20285",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2009-09-09T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 12,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/1233810"
+        },
+        {
+          "id": "1233809",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "42695",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "31415",
+            "coachId": "52326"
+          },
+          "details": {
+            "playerId": "239913",
+            "date": "2008-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 11,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/1233809"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 29,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "293",
+      "4466",
+      "515",
+      "2444",
+      "18344",
+      "4389",
+      "42834",
+      "42833",
+      "20285",
+      "31415",
+      "42695"
+    ],
+    "coachIds": [
+      "52336",
+      "49935",
+      "941",
+      "25477",
+      "2325",
+      "557",
+      "2406",
+      "30707",
+      "20345",
+      "25606",
+      "10857",
+      "17585",
+      "5287",
+      "52326"
+    ],
+    "competitionIds": [
+      "RLSW",
+      "ATRW",
+      "A2",
+      "JGD2",
+      "JGD3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5019720",
+      "transferSource": {
+        "competitionId": "RLSW",
+        "countryId": 40,
+        "clubId": "293",
+        "coachId": "52336"
+      },
+      "transferDestination": {
+        "competitionId": "ATRW",
+        "countryId": 127,
+        "clubId": "4466",
+        "coachId": "49935"
+      },
+      "details": {
+        "playerId": "239913",
+        "date": "2024-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/lukas-hupfauf/transfers/spieler/239913/transfer_id/5019720"
+    }
+  }
+}

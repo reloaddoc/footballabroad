@@ -1,0 +1,581 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "579295",
+    "history": {
+      "terminated": [
+        {
+          "id": "5493401",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "64940"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "2288",
+            "coachId": "110157"
+          },
+          "details": {
+            "playerId": "579295",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 1500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.50",
+                "suffix": "M"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/melker-widell/transfers/spieler/579295/transfer_id/5493401"
+        },
+        {
+          "id": "5493400",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "2288",
+            "coachId": "32169"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "69478"
+          },
+          "details": {
+            "playerId": "579295",
+            "date": "2025-02-01T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 1610,
+              "daysDisplay": "4 Years, 4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/melker-widell/transfers/spieler/579295/transfer_id/5493400"
+        },
+        {
+          "id": "5493399",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "69478"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "2288",
+            "coachId": "32169"
+          },
+          "details": {
+            "playerId": "579295",
+            "date": "2025-01-31T00:00:00+01:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": 3350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "3.35",
+                "suffix": "M"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 515,
+              "daysDisplay": "1 Year, 4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/melker-widell/transfers/spieler/579295/transfer_id/5493399"
+        },
+        {
+          "id": "4513780",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2294",
+            "coachId": "29086"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "93316"
+          },
+          "details": {
+            "playerId": "579295",
+            "date": "2023-07-18T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1262,
+              "daysDisplay": "3 Years, 5 Months, 13 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/melker-widell/transfers/spieler/579295/transfer_id/4513780"
+        },
+        {
+          "id": "4245957",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "496",
+            "coachId": "32577"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2294",
+            "coachId": "29086"
+          },
+          "details": {
+            "playerId": "579295",
+            "date": "2023-01-27T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 338,
+              "daysDisplay": "11 Months, 4 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/melker-widell/transfers/spieler/579295/transfer_id/4245957"
+        },
+        {
+          "id": "3664212",
+          "transferSource": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "45631",
+            "coachId": "85669"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "496",
+            "coachId": "592"
+          },
+          "details": {
+            "playerId": "579295",
+            "date": "2022-11-30T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/melker-widell/transfers/spieler/579295/transfer_id/3664212"
+        },
+        {
+          "id": "3664211",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "496",
+            "coachId": "41893"
+          },
+          "transferDestination": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "45631",
+            "coachId": "85669"
+          },
+          "details": {
+            "playerId": "579295",
+            "date": "2022-01-08T00:00:00+01:00",
+            "contractUntilDate": "2022-11-30T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 722,
+              "daysDisplay": "1 Year, 11 Months, 23 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/melker-widell/transfers/spieler/579295/transfer_id/3664211"
+        },
+        {
+          "id": "3664210",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "7917",
+            "coachId": "58217"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "496",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "579295",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/melker-widell/transfers/spieler/579295/transfer_id/3664210"
+        },
+        {
+          "id": "2848717",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "40593",
+            "coachId": "58217"
+          },
+          "transferDestination": {
+            "competitionId": "JUSÖ",
+            "countryId": 147,
+            "clubId": "7917",
+            "coachId": "27396"
+          },
+          "details": {
+            "playerId": "579295",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/melker-widell/transfers/spieler/579295/transfer_id/2848717"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 3350000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "3.35",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 1800000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.80",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "1053",
+      "2288",
+      "2294",
+      "496",
+      "45631",
+      "7917",
+      "40593"
+    ],
+    "coachIds": [
+      "64940",
+      "110157",
+      "32169",
+      "69478",
+      "29086",
+      "93316",
+      "32577",
+      "85669",
+      "592",
+      "41893",
+      "58217",
+      "27396"
+    ],
+    "competitionIds": [
+      "DK1",
+      "GB2",
+      "SE2",
+      "DK2",
+      "SE1",
+      "SE3S",
+      "JUSÖ"
+    ],
+    "mostRecentTransfer": {
+      "id": "5493401",
+      "transferSource": {
+        "competitionId": "DK1",
+        "countryId": 39,
+        "clubId": "1053",
+        "coachId": "64940"
+      },
+      "transferDestination": {
+        "competitionId": "GB2",
+        "countryId": 189,
+        "clubId": "2288",
+        "coachId": "110157"
+      },
+      "details": {
+        "playerId": "579295",
+        "date": "2025-06-30T00:00:00+02:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 1500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "1.50",
+            "suffix": "M"
+          }
+        },
+        "age": 23,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/melker-widell/transfers/spieler/579295/transfer_id/5493401"
+    }
+  }
+}

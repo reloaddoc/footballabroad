@@ -1,0 +1,957 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "426781",
+    "history": {
+      "terminated": [
+        {
+          "id": "5430733",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "20682",
+            "coachId": "22179"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25444",
+            "coachId": "101098"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 375000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "375.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 184,
+              "daysDisplay": "6 Months, 1 Day"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/5430733"
+        },
+        {
+          "id": "5430732",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25444",
+            "coachId": "101098"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "20682",
+            "coachId": "27060"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2025-01-20T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 1622,
+              "daysDisplay": "4 Years, 5 Months, 10 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/5430732"
+        },
+        {
+          "id": "5432504",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "21283",
+            "coachId": "1013"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25444",
+            "coachId": "22240"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2025-01-06T00:00:00+01:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": 835000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "835.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 540,
+              "daysDisplay": "1 Year, 5 Months, 24 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/5432504"
+        },
+        {
+          "id": "4528242",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "828",
+            "coachId": "2475"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "21283",
+            "coachId": "1013"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2024-12-31T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/4528242"
+        },
+        {
+          "id": "4528241",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "21283",
+            "coachId": "78392"
+          },
+          "transferDestination": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "828",
+            "coachId": "2475"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2023-07-24T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 1072,
+              "daysDisplay": "2 Years, 11 Months, 6 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/4528241"
+        },
+        {
+          "id": "3924755",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "6759",
+            "coachId": "86281"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "21283",
+            "coachId": "78392"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2022-07-06T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1060,
+              "daysDisplay": "2 Years, 10 Months, 25 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/3924755"
+        },
+        {
+          "id": "3676955",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "60393",
+            "coachId": "50519"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "6759",
+            "coachId": "86281"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2022-05-31T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/3676955"
+        },
+        {
+          "id": "3676954",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "6759",
+            "coachId": "86281"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "60393",
+            "coachId": "40539"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2022-01-02T00:00:00+01:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 697,
+              "daysDisplay": "1 Year, 10 Months, 28 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/3676954"
+        },
+        {
+          "id": "2403487",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "34852",
+            "coachId": "46916"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "6759",
+            "coachId": "40539"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2019-07-17T00:00:00+02:00",
+            "contractUntilDate": "2023-11-30T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/2403487"
+        },
+        {
+          "id": "2403486",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "6759",
+            "coachId": "40539"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "34852",
+            "coachId": "58338"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2019-02-13T00:00:00+01:00",
+            "contractUntilDate": "2019-07-17T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1751,
+              "daysDisplay": "4 Years, 9 Months, 17 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/2403486"
+        },
+        {
+          "id": "1990210",
+          "transferSource": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "34852",
+            "coachId": "58338"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "6759",
+            "coachId": "46654"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2018-11-30T00:00:00+01:00",
+            "contractUntilDate": "2023-11-30T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/1990210"
+        },
+        {
+          "id": "1990209",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "6759",
+            "coachId": "37277"
+          },
+          "transferDestination": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "34852",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2018-01-02T00:00:00+01:00",
+            "contractUntilDate": "2018-11-30T00:00:00+01:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 2158,
+              "daysDisplay": "5 Years, 10 Months, 28 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/1990209"
+        },
+        {
+          "id": "1709420",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 167,
+            "clubId": "55235",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "6759",
+            "coachId": "37277"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2017-11-30T00:00:00+01:00",
+            "contractUntilDate": "2023-11-30T00:00:00+01:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/1709420"
+        },
+        {
+          "id": "1709419",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "6759",
+            "coachId": "37277"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 167,
+            "clubId": "55235",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2017-02-17T00:00:00+01:00",
+            "contractUntilDate": "2017-11-30T00:00:00+01:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 3025,
+              "daysDisplay": "8 Years, 3 Months, 14 Days"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/1709419"
+        },
+        {
+          "id": "1963783",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 167,
+            "clubId": "63136",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "6759",
+            "coachId": "45884"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/1963783"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6348718",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "35387",
+            "coachId": "45959"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25444",
+            "coachId": "65891"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2027-06-30T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/6348718"
+        },
+        {
+          "id": "6348717",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25444",
+            "coachId": "65891"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "35387",
+            "coachId": "45959"
+          },
+          "details": {
+            "playerId": "426781",
+            "date": "2026-07-22T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 1074,
+              "daysDisplay": "2 Years, 11 Months, 8 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/6348717"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 1635000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.64",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "35387",
+      "25444",
+      "20682",
+      "21283",
+      "828",
+      "6759",
+      "60393",
+      "34852",
+      "55235",
+      "63136"
+    ],
+    "coachIds": [
+      "45959",
+      "65891",
+      "22179",
+      "101098",
+      "27060",
+      "1013",
+      "22240",
+      "2475",
+      "78392",
+      "86281",
+      "50519",
+      "40539",
+      "46916",
+      "58338",
+      "46654",
+      "37277",
+      "45884"
+    ],
+    "competitionIds": [
+      "THA1",
+      "JAP2",
+      "JAP1",
+      "THA2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5430733",
+      "transferSource": {
+        "competitionId": "JAP2",
+        "countryId": 77,
+        "clubId": "20682",
+        "coachId": "22179"
+      },
+      "transferDestination": {
+        "competitionId": "THA1",
+        "countryId": 167,
+        "clubId": "25444",
+        "coachId": "101098"
+      },
+      "details": {
+        "playerId": "426781",
+        "date": "2025-06-30T00:00:00+02:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 375000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "375.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "remainingContractPeriod": {
+          "days": 184,
+          "daysDisplay": "6 Months, 1 Day"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/ekanit-panya/transfers/spieler/426781/transfer_id/5430733"
+    }
+  }
+}

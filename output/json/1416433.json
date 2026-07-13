@@ -1,0 +1,213 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1416433",
+    "history": {
+      "terminated": [
+        {
+          "id": "6202878",
+          "transferSource": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "3728",
+            "coachId": "113944"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "5113",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1416433",
+            "date": "2026-02-25T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 125,
+              "daysDisplay": "4 Months, 5 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/killian-dassabliga/transfers/spieler/1416433/transfer_id/6202878"
+        },
+        {
+          "id": "5700577",
+          "transferSource": {
+            "competitionId": "BE21",
+            "countryId": 19,
+            "clubId": "83546",
+            "coachId": "147195"
+          },
+          "transferDestination": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "3728",
+            "coachId": "72215"
+          },
+          "details": {
+            "playerId": "1416433",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/killian-dassabliga/transfers/spieler/1416433/transfer_id/5700577"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "3728",
+      "5113",
+      "83546"
+    ],
+    "coachIds": [
+      "113944",
+      "147195",
+      "72215"
+    ],
+    "competitionIds": [
+      "BE3A",
+      "BE21"
+    ],
+    "mostRecentTransfer": {
+      "id": "6202878",
+      "transferSource": {
+        "competitionId": "BE3A",
+        "countryId": 19,
+        "clubId": "3728",
+        "coachId": "113944"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 37,
+        "clubId": "5113",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1416433",
+        "date": "2026-02-25T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 125,
+          "daysDisplay": "4 Months, 5 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/killian-dassabliga/transfers/spieler/1416433/transfer_id/6202878"
+    }
+  }
+}

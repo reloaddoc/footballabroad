@@ -1,0 +1,617 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1070872",
+    "history": {
+      "terminated": [
+        {
+          "id": "5871512",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2715",
+            "coachId": "18962"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "10850",
+            "coachId": "18197"
+          },
+          "details": {
+            "playerId": "1070872",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/maxime-mejjati-alami/transfers/spieler/1070872/transfer_id/5871512"
+        },
+        {
+          "id": "5871511",
+          "transferSource": {
+            "competitionId": "C3NA",
+            "countryId": 50,
+            "clubId": "10850",
+            "coachId": "18197"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2715",
+            "coachId": "105722"
+          },
+          "details": {
+            "playerId": "1070872",
+            "date": "2025-08-11T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 688,
+              "daysDisplay": "1 Year, 10 Months, 19 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/maxime-mejjati-alami/transfers/spieler/1070872/transfer_id/5871511"
+        },
+        {
+          "id": "5871510",
+          "transferSource": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "24394",
+            "coachId": "40045"
+          },
+          "transferDestination": {
+            "competitionId": "C3NA",
+            "countryId": 50,
+            "clubId": "10850",
+            "coachId": "18197"
+          },
+          "details": {
+            "playerId": "1070872",
+            "date": "2025-08-10T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 324,
+              "daysDisplay": "10 Months, 20 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/maxime-mejjati-alami/transfers/spieler/1070872/transfer_id/5871510"
+        },
+        {
+          "id": "5680193",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2974",
+            "coachId": "45182"
+          },
+          "transferDestination": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "24394",
+            "coachId": "3700"
+          },
+          "details": {
+            "playerId": "1070872",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/maxime-mejjati-alami/transfers/spieler/1070872/transfer_id/5680193"
+        },
+        {
+          "id": "5189836",
+          "transferSource": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "24394",
+            "coachId": "29675"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2974",
+            "coachId": "3700"
+          },
+          "details": {
+            "playerId": "1070872",
+            "date": "2024-08-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 698,
+              "daysDisplay": "1 Year, 10 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/maxime-mejjati-alami/transfers/spieler/1070872/transfer_id/5189836"
+        },
+        {
+          "id": "5680192",
+          "transferSource": {
+            "competitionId": "C3PL",
+            "countryId": 50,
+            "clubId": "10850",
+            "coachId": "18197"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "24394",
+            "coachId": "75960"
+          },
+          "details": {
+            "playerId": "1070872",
+            "date": "2024-01-31T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 881,
+              "daysDisplay": "2 Years, 4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/maxime-mejjati-alami/transfers/spieler/1070872/transfer_id/5680192"
+        },
+        {
+          "id": "4614764",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "24394",
+            "coachId": "75960"
+          },
+          "transferDestination": {
+            "competitionId": "C3PL",
+            "countryId": 50,
+            "clubId": "10850",
+            "coachId": "18197"
+          },
+          "details": {
+            "playerId": "1070872",
+            "date": "2024-01-30T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 152,
+              "daysDisplay": "5 Months"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/maxime-mejjati-alami/transfers/spieler/1070872/transfer_id/4614764"
+        },
+        {
+          "id": "4614763",
+          "transferSource": {
+            "competitionId": "C3PL",
+            "countryId": 50,
+            "clubId": "10850",
+            "coachId": "18197"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "24394",
+            "coachId": "38220"
+          },
+          "details": {
+            "playerId": "1070872",
+            "date": "2023-08-29T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 1036,
+              "daysDisplay": "2 Years, 10 Months, 1 Day"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/maxime-mejjati-alami/transfers/spieler/1070872/transfer_id/4614763"
+        },
+        {
+          "id": "4496718",
+          "transferSource": {
+            "competitionId": "F19C",
+            "countryId": 50,
+            "clubId": "10851",
+            "coachId": "118749"
+          },
+          "transferDestination": {
+            "competitionId": "C3PL",
+            "countryId": 50,
+            "clubId": "10850",
+            "coachId": "18197"
+          },
+          "details": {
+            "playerId": "1070872",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/maxime-mejjati-alami/transfers/spieler/1070872/transfer_id/4496718"
+        },
+        {
+          "id": "4110849",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "66537",
+            "coachId": "97524"
+          },
+          "transferDestination": {
+            "competitionId": "F19C",
+            "countryId": 50,
+            "clubId": "10851",
+            "coachId": "82583"
+          },
+          "details": {
+            "playerId": "1070872",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/maxime-mejjati-alami/transfers/spieler/1070872/transfer_id/4110849"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2715",
+      "10850",
+      "24394",
+      "2974",
+      "10851",
+      "66537"
+    ],
+    "coachIds": [
+      "18962",
+      "18197",
+      "105722",
+      "40045",
+      "45182",
+      "3700",
+      "29675",
+      "75960",
+      "38220",
+      "118749",
+      "97524",
+      "82583"
+    ],
+    "competitionIds": [
+      "BE2",
+      "C3NA",
+      "BE3A",
+      "C3PL",
+      "F19C"
+    ],
+    "mostRecentTransfer": {
+      "id": "5871512",
+      "transferSource": {
+        "competitionId": "BE2",
+        "countryId": 19,
+        "clubId": "2715",
+        "coachId": "18962"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 50,
+        "clubId": "10850",
+        "coachId": "18197"
+      },
+      "details": {
+        "playerId": "1070872",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/maxime-mejjati-alami/transfers/spieler/1070872/transfer_id/5871512"
+    }
+  }
+}

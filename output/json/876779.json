@@ -1,0 +1,710 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "876779",
+    "history": {
+      "terminated": [
+        {
+          "id": "5750005",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "12020",
+            "coachId": "26453"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "39218"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2026-05-31T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/5750005"
+        },
+        {
+          "id": "5750004",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "39218"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "12020",
+            "coachId": "26453"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2025-07-02T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/5750004"
+        },
+        {
+          "id": "5461688",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "10895",
+            "coachId": "115246"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "39218"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2025-05-31T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/5461688"
+        },
+        {
+          "id": "5461687",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "39218"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "10895",
+            "coachId": "115246"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2025-01-17T00:00:00+01:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 164,
+              "daysDisplay": "5 Months, 13 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/5461687"
+        },
+        {
+          "id": "5086011",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "6066",
+            "coachId": "95700"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "39218"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2024-11-30T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/5086011"
+        },
+        {
+          "id": "5086010",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "39218"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "6066",
+            "coachId": "44477"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-11-30T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/5086010"
+        },
+        {
+          "id": "4264843",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "45922",
+            "coachId": "49933"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "82067"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2023-03-20T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/4264843"
+        },
+        {
+          "id": "4264842",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "82067"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "45922",
+            "coachId": "49933"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2023-02-03T00:00:00+01:00",
+            "contractUntilDate": "2023-03-03T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/4264842"
+        },
+        {
+          "id": "5082294",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3835",
+            "coachId": "122526"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "82067"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2023-01-16T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/5082294"
+        },
+        {
+          "id": "5082293",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "82067"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3835",
+            "coachId": "122526"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2022-12-16T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 1657,
+              "daysDisplay": "4 Years, 6 Months, 14 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/5082293"
+        },
+        {
+          "id": "3867890",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "15900",
+            "coachId": "88232"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "98995"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/3867890"
+        },
+        {
+          "id": "3867892",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "12572",
+            "coachId": "58053"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "15900",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2022-03-12T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/3867892"
+        },
+        {
+          "id": "3867891",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "15900",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "12572",
+            "coachId": "58053"
+          },
+          "details": {
+            "playerId": "876779",
+            "date": "2022-01-13T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/3867891"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "12020",
+      "2454",
+      "10895",
+      "6066",
+      "45922",
+      "3835",
+      "15900",
+      "12572"
+    ],
+    "coachIds": [
+      "26453",
+      "39218",
+      "115246",
+      "95700",
+      "44477",
+      "49933",
+      "82067",
+      "122526",
+      "88232",
+      "98995",
+      "58053"
+    ],
+    "competitionIds": [
+      "GB4",
+      "GB3",
+      "NLN6",
+      "IR1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5750005",
+      "transferSource": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "12020",
+        "coachId": "26453"
+      },
+      "transferDestination": {
+        "competitionId": "GB3",
+        "countryId": 189,
+        "clubId": "2454",
+        "coachId": "39218"
+      },
+      "details": {
+        "playerId": "876779",
+        "date": "2026-05-31T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/bobby-faulkner/transfers/spieler/876779/transfer_id/5750005"
+    }
+  }
+}

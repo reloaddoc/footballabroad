@@ -1,0 +1,608 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "222007",
+    "history": {
+      "terminated": [
+        {
+          "id": "6416531",
+          "transferSource": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "2773",
+            "coachId": "101544"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "222007",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bernard-kyere/transfers/spieler/222007/transfer_id/6416531"
+        },
+        {
+          "id": "5700157",
+          "transferSource": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "2660",
+            "coachId": "37227"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "2773",
+            "coachId": "13468"
+          },
+          "details": {
+            "playerId": "222007",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bernard-kyere/transfers/spieler/222007/transfer_id/5700157"
+        },
+        {
+          "id": "4464269",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "66",
+            "coachId": "62513"
+          },
+          "transferDestination": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "2660",
+            "coachId": "37227"
+          },
+          "details": {
+            "playerId": "222007",
+            "date": "2023-08-11T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bernard-kyere/transfers/spieler/222007/transfer_id/4464269"
+        },
+        {
+          "id": "3384214",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "1622",
+            "coachId": "442"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "66",
+            "coachId": "90969"
+          },
+          "details": {
+            "playerId": "222007",
+            "date": "2021-08-23T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bernard-kyere/transfers/spieler/222007/transfer_id/3384214"
+        },
+        {
+          "id": "2493282",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "92",
+            "coachId": "2031"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "1622",
+            "coachId": "419"
+          },
+          "details": {
+            "playerId": "222007",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bernard-kyere/transfers/spieler/222007/transfer_id/2493282"
+        },
+        {
+          "id": "1798878",
+          "transferSource": {
+            "competitionId": "OLRP",
+            "countryId": 40,
+            "clubId": "151",
+            "coachId": "337"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "92",
+            "coachId": "4688"
+          },
+          "details": {
+            "playerId": "222007",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bernard-kyere/transfers/spieler/222007/transfer_id/1798878"
+        },
+        {
+          "id": "1065380",
+          "transferSource": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "2371",
+            "coachId": "313"
+          },
+          "transferDestination": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "151",
+            "coachId": "19933"
+          },
+          "details": {
+            "playerId": "222007",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bernard-kyere/transfers/spieler/222007/transfer_id/1065380"
+        },
+        {
+          "id": "755080",
+          "transferSource": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21047",
+            "coachId": "5273"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "2371",
+            "coachId": "313"
+          },
+          "details": {
+            "playerId": "222007",
+            "date": "2012-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bernard-kyere/transfers/spieler/222007/transfer_id/755080"
+        },
+        {
+          "id": "704076",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "24987",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "21047",
+            "coachId": "5273"
+          },
+          "details": {
+            "playerId": "222007",
+            "date": "2012-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bernard-kyere/transfers/spieler/222007/transfer_id/704076"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 31,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2773",
+      "515",
+      "2660",
+      "66",
+      "1622",
+      "92",
+      "151",
+      "2371",
+      "21047",
+      "24987"
+    ],
+    "coachIds": [
+      "101544",
+      "37227",
+      "13468",
+      "62513",
+      "442",
+      "90969",
+      "2031",
+      "419",
+      "337",
+      "4688",
+      "313",
+      "19933",
+      "5273"
+    ],
+    "competitionIds": [
+      "RLN3",
+      "LUX1",
+      "L3",
+      "RLB3",
+      "RLW3",
+      "OLRP",
+      "AJ3",
+      "RLSW",
+      "BJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6416531",
+      "transferSource": {
+        "competitionId": "RLN3",
+        "countryId": 40,
+        "clubId": "2773",
+        "coachId": "101544"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "222007",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 31,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 364,
+          "daysDisplay": "11 Months, 29 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/bernard-kyere/transfers/spieler/222007/transfer_id/6416531"
+    }
+  }
+}

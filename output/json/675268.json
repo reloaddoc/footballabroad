@@ -1,0 +1,789 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "675268",
+    "history": {
+      "terminated": [
+        {
+          "id": "6244568",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "50061",
+            "coachId": "138353"
+          },
+          "transferDestination": {
+            "competitionId": "IS2",
+            "countryId": 73,
+            "clubId": "28433",
+            "coachId": "20595"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2026-03-25T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/6244568"
+        },
+        {
+          "id": "4945745",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "46170",
+            "coachId": "127993"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "50061",
+            "coachId": "123555"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2024-03-17T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/4945745"
+        },
+        {
+          "id": "4477251",
+          "transferSource": {
+            "competitionId": "GI1",
+            "countryId": 266,
+            "clubId": "44631",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "46170",
+            "coachId": "65016"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2023-07-07T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 359,
+              "daysDisplay": "11 Months, 23 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/4477251"
+        },
+        {
+          "id": "4316147",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "46170",
+            "coachId": "65016"
+          },
+          "transferDestination": {
+            "competitionId": "GI1",
+            "countryId": 266,
+            "clubId": "44631",
+            "coachId": "63187"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2023-06-22T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/4316147"
+        },
+        {
+          "id": "4316146",
+          "transferSource": {
+            "competitionId": "GI1",
+            "countryId": 266,
+            "clubId": "44631",
+            "coachId": "63187"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "46170",
+            "coachId": "65016"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2023-03-13T00:00:00+01:00",
+            "contractUntilDate": "2023-06-22T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 475,
+              "daysDisplay": "1 Year, 3 Months, 17 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/4316146"
+        },
+        {
+          "id": "4231816",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "8985",
+            "coachId": "50307"
+          },
+          "transferDestination": {
+            "competitionId": "GI1",
+            "countryId": 266,
+            "clubId": "44631",
+            "coachId": "63187"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2023-01-16T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/4231816"
+        },
+        {
+          "id": "3763592",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "46170",
+            "coachId": "65016"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "8985",
+            "coachId": "101531"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2022-02-14T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/3763592"
+        },
+        {
+          "id": "3358399",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "1092",
+            "coachId": "29045"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "46170",
+            "coachId": "102919"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2021-03-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/3358399"
+        },
+        {
+          "id": "2821805",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "3645",
+            "coachId": "77064"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "1092",
+            "coachId": "74461"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2020-11-30T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/2821805"
+        },
+        {
+          "id": "2821804",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "1092",
+            "coachId": "74461"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "3645",
+            "coachId": "77064"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2020-03-05T00:00:00+01:00",
+            "contractUntilDate": "2020-11-30T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/2821804"
+        },
+        {
+          "id": "2721686",
+          "transferSource": {
+            "competitionId": "JUNO",
+            "countryId": 147,
+            "clubId": "8955",
+            "coachId": "69141"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "1092",
+            "coachId": "74461"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/2721686"
+        },
+        {
+          "id": "4780928",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "96276",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "JUNO",
+            "countryId": 147,
+            "clubId": "8955",
+            "coachId": "42032"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2018-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/4780928"
+        },
+        {
+          "id": "4780927",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "86070",
+            "coachId": "40805"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "96276",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "675268",
+            "date": "2017-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/4780927"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "50061",
+      "28433",
+      "46170",
+      "44631",
+      "8985",
+      "1092",
+      "3645",
+      "8955",
+      "96276",
+      "86070"
+    ],
+    "coachIds": [
+      "138353",
+      "20595",
+      "127993",
+      "123555",
+      "65016",
+      "63187",
+      "50307",
+      "101531",
+      "29045",
+      "102919",
+      "77064",
+      "74461",
+      "69141",
+      "42032",
+      "40805"
+    ],
+    "competitionIds": [
+      "SE3N",
+      "IS2",
+      "GI1",
+      "JUNO"
+    ],
+    "mostRecentTransfer": {
+      "id": "6244568",
+      "transferSource": {
+        "competitionId": "SE3N",
+        "countryId": 147,
+        "clubId": "50061",
+        "coachId": "138353"
+      },
+      "transferDestination": {
+        "competitionId": "IS2",
+        "countryId": 73,
+        "clubId": "28433",
+        "coachId": "20595"
+      },
+      "details": {
+        "playerId": "675268",
+        "date": "2026-03-25T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/modoumatarr-mbye/transfers/spieler/675268/transfer_id/6244568"
+    }
+  }
+}

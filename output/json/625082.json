@@ -1,0 +1,757 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "625082",
+    "history": {
+      "terminated": [
+        {
+          "id": "6339401",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "34888",
+            "coachId": "37978"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "3225",
+            "coachId": "45443"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/6339401"
+        },
+        {
+          "id": "5237786",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "112345"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "34888",
+            "coachId": "13985"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2024-08-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/5237786"
+        },
+        {
+          "id": "4552654",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3717",
+            "coachId": "14570"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "112345"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2024-05-31T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/4552654"
+        },
+        {
+          "id": "4552653",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "112345"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3717",
+            "coachId": "14570"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2023-08-02T00:00:00+02:00",
+            "contractUntilDate": "2024-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 333,
+              "daysDisplay": "10 Months, 28 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/4552653"
+        },
+        {
+          "id": "4229299",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3717",
+            "coachId": "14570"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "112345"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2023-05-31T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/4229299"
+        },
+        {
+          "id": "4229298",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "21047"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3717",
+            "coachId": "110855"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2023-01-17T00:00:00+01:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 530,
+              "daysDisplay": "1 Year, 5 Months, 13 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/4229298"
+        },
+        {
+          "id": "4052360",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2814",
+            "coachId": "32718"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "21047"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2023-01-05T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 146,
+              "daysDisplay": "4 Months, 26 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/4052360"
+        },
+        {
+          "id": "4052359",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "37278"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2814",
+            "coachId": "32718"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2022-09-01T00:00:00+02:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 668,
+              "daysDisplay": "1 Year, 9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/4052359"
+        },
+        {
+          "id": "3686420",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3822",
+            "coachId": "17635"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "37278"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2022-05-31T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/3686420"
+        },
+        {
+          "id": "3686419",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "37278"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3822",
+            "coachId": "84630"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2022-01-08T00:00:00+01:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 904,
+              "daysDisplay": "2 Years, 5 Months, 22 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/3686419"
+        },
+        {
+          "id": "3531184",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "37278"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2022-01-02T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/3531184"
+        },
+        {
+          "id": "3531183",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "37278"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "8981",
+            "coachId": "15362"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2021-08-31T00:00:00+02:00",
+            "contractUntilDate": "2022-01-02T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1034,
+              "daysDisplay": "2 Years, 9 Months, 30 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/3531183"
+        },
+        {
+          "id": "3176281",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "6939",
+            "coachId": "65644"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "4155"
+          },
+          "details": {
+            "playerId": "625082",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/3176281"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 250000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "250.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "34888",
+      "3225",
+      "1020",
+      "3717",
+      "2814",
+      "3822",
+      "8981",
+      "6939"
+    ],
+    "coachIds": [
+      "37978",
+      "45443",
+      "112345",
+      "13985",
+      "14570",
+      "21047",
+      "110855",
+      "32718",
+      "37278",
+      "17635",
+      "84630",
+      "15362",
+      "65644",
+      "4155"
+    ],
+    "competitionIds": [
+      "GB4",
+      "BE2",
+      "GB2",
+      "CNAT",
+      "GB3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6339401",
+      "transferSource": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "34888",
+        "coachId": "37978"
+      },
+      "transferDestination": {
+        "competitionId": "BE2",
+        "countryId": 19,
+        "clubId": "3225",
+        "coachId": "45443"
+      },
+      "details": {
+        "playerId": "625082",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/haji-mnoga/transfers/spieler/625082/transfer_id/6339401"
+    }
+  }
+}

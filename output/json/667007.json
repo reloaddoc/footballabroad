@@ -1,0 +1,603 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "667007",
+    "history": {
+      "terminated": [
+        {
+          "id": "6146389",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "76",
+            "coachId": "22844"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2455",
+            "coachId": "4127"
+          },
+          "details": {
+            "playerId": "667007",
+            "date": "2026-01-27T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 338,
+              "daysDisplay": "11 Months, 4 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mees-rijks/transfers/spieler/667007/transfer_id/6146389"
+        },
+        {
+          "id": "5834008",
+          "transferSource": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "642",
+            "coachId": "25155"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "76",
+            "coachId": "22844"
+          },
+          "details": {
+            "playerId": "667007",
+            "date": "2026-01-26T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 155,
+              "daysDisplay": "5 Months, 4 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mees-rijks/transfers/spieler/667007/transfer_id/5834008"
+        },
+        {
+          "id": "5834007",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "76",
+            "coachId": "22844"
+          },
+          "transferDestination": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "642",
+            "coachId": "25155"
+          },
+          "details": {
+            "playerId": "667007",
+            "date": "2025-08-04T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 514,
+              "daysDisplay": "1 Year, 4 Months, 27 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mees-rijks/transfers/spieler/667007/transfer_id/5834007"
+        },
+        {
+          "id": "4885983",
+          "transferSource": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "17596",
+            "coachId": "17822"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "76",
+            "coachId": "22844"
+          },
+          "details": {
+            "playerId": "667007",
+            "date": "2024-02-15T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 136,
+              "daysDisplay": "4 Months, 15 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mees-rijks/transfers/spieler/667007/transfer_id/4885983"
+        },
+        {
+          "id": "3425354",
+          "transferSource": {
+            "competitionId": "181F",
+            "countryId": 122,
+            "clubId": "81339",
+            "coachId": "68108"
+          },
+          "transferDestination": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "17596",
+            "coachId": "9382"
+          },
+          "details": {
+            "playerId": "667007",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mees-rijks/transfers/spieler/667007/transfer_id/3425354"
+        },
+        {
+          "id": "2920363",
+          "transferSource": {
+            "competitionId": "NLVB",
+            "countryId": 122,
+            "clubId": "51705",
+            "coachId": "68108"
+          },
+          "transferDestination": {
+            "competitionId": "181F",
+            "countryId": 122,
+            "clubId": "81339",
+            "coachId": "33877"
+          },
+          "details": {
+            "playerId": "667007",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mees-rijks/transfers/spieler/667007/transfer_id/2920363"
+        },
+        {
+          "id": "2495388",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "32797",
+            "coachId": "23319"
+          },
+          "transferDestination": {
+            "competitionId": "NLVB",
+            "countryId": 122,
+            "clubId": "51705",
+            "coachId": "68108"
+          },
+          "details": {
+            "playerId": "667007",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mees-rijks/transfers/spieler/667007/transfer_id/2495388"
+        },
+        {
+          "id": "2453965",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "52790",
+            "coachId": "98933"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "32797",
+            "coachId": "99558"
+          },
+          "details": {
+            "playerId": "667007",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 12,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mees-rijks/transfers/spieler/667007/transfer_id/2453965"
+        },
+        {
+          "id": "2453964",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "73103",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "52790",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "667007",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 11,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mees-rijks/transfers/spieler/667007/transfer_id/2453964"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "76",
+      "2455",
+      "642",
+      "17596",
+      "81339",
+      "51705",
+      "32797",
+      "52790",
+      "73103"
+    ],
+    "coachIds": [
+      "22844",
+      "4127",
+      "25155",
+      "17822",
+      "68108",
+      "9382",
+      "33877",
+      "23319",
+      "98933",
+      "99558"
+    ],
+    "competitionIds": [
+      "NO1",
+      "GB4",
+      "NL2",
+      "NO2",
+      "181F",
+      "NLVB"
+    ],
+    "mostRecentTransfer": {
+      "id": "6146389",
+      "transferSource": {
+        "competitionId": "NO1",
+        "countryId": 125,
+        "clubId": "76",
+        "coachId": "22844"
+      },
+      "transferDestination": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "2455",
+        "coachId": "4127"
+      },
+      "details": {
+        "playerId": "667007",
+        "date": "2026-01-27T00:00:00+01:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 350000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "350.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 338,
+          "daysDisplay": "11 Months, 4 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/mees-rijks/transfers/spieler/667007/transfer_id/6146389"
+    }
+  }
+}

@@ -1,0 +1,765 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "441987",
+    "history": {
+      "terminated": [
+        {
+          "id": "6415187",
+          "transferSource": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "105",
+            "coachId": "16013"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "316",
+            "coachId": "42889"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2026-07-09T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/6415187"
+        },
+        {
+          "id": "6132905",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "316",
+            "coachId": "42889"
+          },
+          "transferDestination": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "105",
+            "coachId": "16013"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/6132905"
+        },
+        {
+          "id": "6132904",
+          "transferSource": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "105",
+            "coachId": "16013"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "316",
+            "coachId": "42889"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2026-01-20T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/6132904"
+        },
+        {
+          "id": "5718105",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "369",
+            "coachId": "35316"
+          },
+          "transferDestination": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "105",
+            "coachId": "16013"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/5718105"
+        },
+        {
+          "id": "5077427",
+          "transferSource": {
+            "competitionId": "RU1",
+            "countryId": 141,
+            "clubId": "232",
+            "coachId": "35560"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "369",
+            "coachId": "35316"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2024-08-29T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 305,
+              "daysDisplay": "10 Months, 1 Day"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/5077427"
+        },
+        {
+          "id": "3673041",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "2446",
+            "coachId": "4952"
+          },
+          "transferDestination": {
+            "competitionId": "RU1",
+            "countryId": 141,
+            "clubId": "232",
+            "coachId": "31876"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 900000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "900.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/3673041"
+        },
+        {
+          "id": "3367775",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "72",
+            "coachId": "31636"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "2446",
+            "coachId": "4952"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/3367775"
+        },
+        {
+          "id": "2477533",
+          "transferSource": {
+            "competitionId": "OLB2",
+            "countryId": 40,
+            "clubId": "73",
+            "coachId": "3273"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "72",
+            "coachId": "38870"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 365,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/2477533"
+        },
+        {
+          "id": "2418099",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "2510",
+            "coachId": "67393"
+          },
+          "transferDestination": {
+            "competitionId": "OLB2",
+            "countryId": 40,
+            "clubId": "73",
+            "coachId": "55834"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 180,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/2418099"
+        },
+        {
+          "id": "1787357",
+          "transferSource": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21048",
+            "coachId": "16306"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "2510",
+            "coachId": "8420"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/1787357"
+        },
+        {
+          "id": "1509652",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11880",
+            "coachId": "40756"
+          },
+          "transferDestination": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21048",
+            "coachId": "23773"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/1509652"
+        },
+        {
+          "id": "2628461",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "21127",
+            "coachId": "20467"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11880",
+            "coachId": "60247"
+          },
+          "details": {
+            "playerId": "441987",
+            "date": "2011-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 11,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/2628461"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 1000000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.00",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 600000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "600.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "105",
+      "316",
+      "369",
+      "232",
+      "2446",
+      "72",
+      "73",
+      "2510",
+      "21048",
+      "11880",
+      "21127"
+    ],
+    "coachIds": [
+      "16013",
+      "42889",
+      "35316",
+      "35560",
+      "4952",
+      "31876",
+      "31636",
+      "3273",
+      "38870",
+      "67393",
+      "55834",
+      "16306",
+      "8420",
+      "40756",
+      "23773",
+      "20467",
+      "60247"
+    ],
+    "competitionIds": [
+      "L2",
+      "A1",
+      "DK2",
+      "RU1",
+      "DK1",
+      "L3",
+      "OLB2",
+      "BJ2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6415187",
+      "transferSource": {
+        "competitionId": "L2",
+        "countryId": 40,
+        "clubId": "105",
+        "coachId": "16013"
+      },
+      "transferDestination": {
+        "competitionId": "A1",
+        "countryId": 127,
+        "clubId": "316",
+        "coachId": "42889"
+      },
+      "details": {
+        "playerId": "441987",
+        "date": "2026-07-09T00:00:00+02:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 600000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "600.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/leon-klassen/transfers/spieler/441987/transfer_id/6415187"
+    }
+  }
+}

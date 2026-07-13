@@ -1,0 +1,358 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "634848",
+    "history": {
+      "terminated": [
+        {
+          "id": "5577516",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "353",
+            "coachId": "29212"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "8201"
+          },
+          "details": {
+            "playerId": "634848",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jubril-adedeji/transfers/spieler/634848/transfer_id/5577516"
+        },
+        {
+          "id": "5577515",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "69478"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "353",
+            "coachId": "29212"
+          },
+          "details": {
+            "playerId": "634848",
+            "date": "2025-03-27T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 825,
+              "daysDisplay": "2 Years, 3 Months, 3 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jubril-adedeji/transfers/spieler/634848/transfer_id/5577515"
+        },
+        {
+          "id": "4749376",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "23297",
+            "coachId": "76042"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "93316"
+          },
+          "details": {
+            "playerId": "634848",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jubril-adedeji/transfers/spieler/634848/transfer_id/4749376"
+        },
+        {
+          "id": "2374004",
+          "transferSource": {
+            "competitionId": "DKDD",
+            "countryId": 39,
+            "clubId": "25016",
+            "coachId": "65701"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "23297",
+            "coachId": "35316"
+          },
+          "details": {
+            "playerId": "634848",
+            "date": "2019-01-17T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jubril-adedeji/transfers/spieler/634848/transfer_id/2374004"
+        },
+        {
+          "id": "2318275",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "10732",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "DKDD",
+            "countryId": 39,
+            "clubId": "25016",
+            "coachId": "53914"
+          },
+          "details": {
+            "playerId": "634848",
+            "date": "2018-11-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jubril-adedeji/transfers/spieler/634848/transfer_id/2318275"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "353",
+      "1053",
+      "23297",
+      "25016",
+      "10732"
+    ],
+    "coachIds": [
+      "29212",
+      "8201",
+      "69478",
+      "76042",
+      "93316",
+      "65701",
+      "35316",
+      "53914"
+    ],
+    "competitionIds": [
+      "NO2",
+      "DK2",
+      "DK1",
+      "DKDD"
+    ],
+    "mostRecentTransfer": {
+      "id": "5577516",
+      "transferSource": {
+        "competitionId": "NO2",
+        "countryId": 125,
+        "clubId": "353",
+        "coachId": "29212"
+      },
+      "transferDestination": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "1053",
+        "coachId": "8201"
+      },
+      "details": {
+        "playerId": "634848",
+        "date": "2025-12-31T00:00:00+01:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/jubril-adedeji/transfers/spieler/634848/transfer_id/5577516"
+    }
+  }
+}

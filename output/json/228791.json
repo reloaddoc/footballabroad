@@ -1,0 +1,1401 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "228791",
+    "history": {
+      "terminated": [
+        {
+          "id": "5204070",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1060",
+            "coachId": "37278"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "12335",
+            "coachId": "86195"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2024-08-16T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/5204070"
+        },
+        {
+          "id": "4799145",
+          "transferSource": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "987",
+            "coachId": "36838"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1060",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2024-01-03T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 514,
+              "daysDisplay": "1 Year, 4 Months, 28 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/4799145"
+        },
+        {
+          "id": "4404649",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "899",
+            "coachId": "116309"
+          },
+          "transferDestination": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "987",
+            "coachId": "36838"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2023-07-04T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/4404649"
+        },
+        {
+          "id": "3394072",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1150",
+            "coachId": "4155"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "899",
+            "coachId": "59564"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/3394072"
+        },
+        {
+          "id": "2511381",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3696",
+            "coachId": "1650"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1150",
+            "coachId": "57520"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 365,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/2511381"
+        },
+        {
+          "id": "2372948",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "2814",
+            "coachId": "39039"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3696",
+            "coachId": "1650"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2019-01-17T00:00:00+01:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/2372948"
+        },
+        {
+          "id": "2304998",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3696",
+            "coachId": "1650"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "2814",
+            "coachId": "39039"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2019-01-07T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/2304998"
+        },
+        {
+          "id": "2304997",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "2814",
+            "coachId": "39039"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3696",
+            "coachId": "1650"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2018-11-01T00:00:00+01:00",
+            "contractUntilDate": "2019-01-07T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 241,
+              "daysDisplay": "7 Months, 29 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/2304997"
+        },
+        {
+          "id": "1764314",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "3540"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "2814",
+            "coachId": "13257"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1764314"
+        },
+        {
+          "id": "1588780",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1219",
+            "coachId": "2003"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "3540"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2017-01-02T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1588780"
+        },
+        {
+          "id": "1588779",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "3540"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1219",
+            "coachId": "2003"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2016-08-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1588779"
+        },
+        {
+          "id": "1459564",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "8661"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "4463"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2016-05-31T00:00:00+02:00",
+            "contractUntilDate": "2016-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1459564"
+        },
+        {
+          "id": "1459563",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "4463"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1020",
+            "coachId": "8661"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2016-03-23T00:00:00+01:00",
+            "contractUntilDate": "2016-05-31T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 99,
+              "daysDisplay": "3 Months, 7 Days"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1459563"
+        },
+        {
+          "id": "1414571",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3716",
+            "coachId": "35115"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "4463"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2016-03-21T00:00:00+01:00",
+            "contractUntilDate": "2016-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1414571"
+        },
+        {
+          "id": "1414570",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "6266"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3716",
+            "coachId": "35115"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2016-01-21T00:00:00+01:00",
+            "contractUntilDate": "2016-03-21T00:00:00+01:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1414570"
+        },
+        {
+          "id": "1283471",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "349",
+            "coachId": "28097"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "6266"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2016-01-04T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1283471"
+        },
+        {
+          "id": "1283470",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "6266"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "349",
+            "coachId": "28097"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2015-07-10T00:00:00+02:00",
+            "contractUntilDate": "2016-01-04T00:00:00+01:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1086,
+              "daysDisplay": "2 Years, 11 Months, 20 Days"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1283470"
+        },
+        {
+          "id": "1186782",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1078",
+            "coachId": "40196"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "6266"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2015-05-31T00:00:00+02:00",
+            "contractUntilDate": "2018-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1186782"
+        },
+        {
+          "id": "1186781",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "6266"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1078",
+            "coachId": "28097"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2015-02-02T00:00:00+01:00",
+            "contractUntilDate": "2015-05-31T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 148,
+              "daysDisplay": "4 Months, 28 Days"
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1186781"
+        },
+        {
+          "id": "1131897",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1078",
+            "coachId": "28097"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2014-10-12T00:00:00+02:00",
+            "contractUntilDate": "2015-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1131897"
+        },
+        {
+          "id": "1131896",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "13187"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1078",
+            "coachId": "28097"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2014-09-12T00:00:00+02:00",
+            "contractUntilDate": "2014-10-12T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1131896"
+        },
+        {
+          "id": "1020138",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1218",
+            "coachId": "32820"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "13187"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2014-05-31T00:00:00+02:00",
+            "contractUntilDate": "2014-06-30T00:00:00+02:00",
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1020138"
+        },
+        {
+          "id": "1020137",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "13187"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1218",
+            "coachId": "32820"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2014-02-14T00:00:00+01:00",
+            "contractUntilDate": "2014-05-31T00:00:00+02:00",
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/1020137"
+        },
+        {
+          "id": "970471",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "31367",
+            "coachId": "29002"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "13187"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2013-12-02T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/970471"
+        },
+        {
+          "id": "970470",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "13187"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "31367",
+            "coachId": "29002"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2013-10-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/970470"
+        },
+        {
+          "id": "871079",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "14620",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "13187"
+          },
+          "details": {
+            "playerId": "228791",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/871079"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 31,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "1060",
+      "12335",
+      "987",
+      "899",
+      "1150",
+      "3696",
+      "2814",
+      "355",
+      "1219",
+      "1020",
+      "3716",
+      "349",
+      "1078",
+      "1218",
+      "31367",
+      "14620"
+    ],
+    "coachIds": [
+      "37278",
+      "86195",
+      "36838",
+      "116309",
+      "4155",
+      "59564",
+      "1650",
+      "57520",
+      "39039",
+      "3540",
+      "13257",
+      "2003",
+      "8661",
+      "4463",
+      "35115",
+      "6266",
+      "28097",
+      "40196",
+      "13187",
+      "32820",
+      "29002"
+    ],
+    "competitionIds": [
+      "GB4",
+      "CNAT",
+      "SC1",
+      "GB3",
+      "GB2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5204070",
+      "transferSource": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "1060",
+        "coachId": "37278"
+      },
+      "transferDestination": {
+        "competitionId": "CNAT",
+        "countryId": 189,
+        "clubId": "12335",
+        "coachId": "86195"
+      },
+      "details": {
+        "playerId": "228791",
+        "date": "2024-08-16T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/conor-wilkinson/transfers/spieler/228791/transfer_id/5204070"
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "975938",
+    "history": {
+      "terminated": [
+        {
+          "id": "5482334",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "10161",
+            "coachId": "125046"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "34335",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "975938",
+            "date": "2025-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oscar-dawber/transfers/spieler/975938/transfer_id/5482334"
+        },
+        {
+          "id": "4271631",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "84125",
+            "coachId": "142169"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "10161",
+            "coachId": "83987"
+          },
+          "details": {
+            "playerId": "975938",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oscar-dawber/transfers/spieler/975938/transfer_id/4271631"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "10161",
+      "34335",
+      "84125"
+    ],
+    "coachIds": [
+      "125046",
+      "142169",
+      "83987"
+    ],
+    "competitionIds": [
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "5482334",
+      "transferSource": {
+        "competitionId": "GB18",
+        "countryId": 189,
+        "clubId": "10161",
+        "coachId": "125046"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 184,
+        "clubId": "34335",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "975938",
+        "date": "2025-08-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/oscar-dawber/transfers/spieler/975938/transfer_id/5482334"
+    }
+  }
+}

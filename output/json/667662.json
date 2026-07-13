@@ -1,0 +1,449 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "667662",
+    "history": {
+      "terminated": [
+        {
+          "id": "6341189",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "3937",
+            "coachId": "97980"
+          },
+          "transferDestination": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "50598",
+            "coachId": "131790"
+          },
+          "details": {
+            "playerId": "667662",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-05-31T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alex-john/transfers/spieler/667662/transfer_id/6341189"
+        },
+        {
+          "id": "3427121",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "972",
+            "coachId": "44988"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "3937",
+            "coachId": "100553"
+          },
+          "details": {
+            "playerId": "667662",
+            "date": "2021-08-09T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alex-john/transfers/spieler/667662/transfer_id/3427121"
+        },
+        {
+          "id": "2784233",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "19715",
+            "coachId": "142111"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "972",
+            "coachId": "44988"
+          },
+          "details": {
+            "playerId": "667662",
+            "date": "2020-05-31T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/alex-john/transfers/spieler/667662/transfer_id/2784233"
+        },
+        {
+          "id": "2784232",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "972",
+            "coachId": "44988"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "19715",
+            "coachId": "142111"
+          },
+          "details": {
+            "playerId": "667662",
+            "date": "2020-01-31T00:00:00+01:00",
+            "contractUntilDate": "2020-05-31T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/alex-john/transfers/spieler/667662/transfer_id/2784232"
+        },
+        {
+          "id": "3366384",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "20955",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "972",
+            "coachId": "44988"
+          },
+          "details": {
+            "playerId": "667662",
+            "date": "2019-10-07T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/alex-john/transfers/spieler/667662/transfer_id/3366384"
+        },
+        {
+          "id": "3366383",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "972",
+            "coachId": "44988"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "20955",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "667662",
+            "date": "2019-09-09T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 660,
+              "daysDisplay": "1 Year, 9 Months, 21 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/alex-john/transfers/spieler/667662/transfer_id/3366383"
+        },
+        {
+          "id": "2478918",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "18101",
+            "coachId": "58817"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "972",
+            "coachId": "44988"
+          },
+          "details": {
+            "playerId": "667662",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alex-john/transfers/spieler/667662/transfer_id/2478918"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "3937",
+      "50598",
+      "972",
+      "19715",
+      "20955",
+      "18101"
+    ],
+    "coachIds": [
+      "97980",
+      "131790",
+      "44988",
+      "100553",
+      "142111",
+      "58817"
+    ],
+    "competitionIds": [
+      "NLN6",
+      "WAL1",
+      "CNAT"
+    ],
+    "mostRecentTransfer": {
+      "id": "6341189",
+      "transferSource": {
+        "competitionId": "NLN6",
+        "countryId": 189,
+        "clubId": "3937",
+        "coachId": "97980"
+      },
+      "transferDestination": {
+        "competitionId": "WAL1",
+        "countryId": 191,
+        "clubId": "50598",
+        "coachId": "131790"
+      },
+      "details": {
+        "playerId": "667662",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-05-31T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/alex-john/transfers/spieler/667662/transfer_id/6341189"
+    }
+  }
+}

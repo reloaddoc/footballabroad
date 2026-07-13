@@ -1,0 +1,620 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "640357",
+    "history": {
+      "terminated": [
+        {
+          "id": "6150982",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "9614",
+            "coachId": "39158"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "3362",
+            "coachId": "114703"
+          },
+          "details": {
+            "playerId": "640357",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/albin-sporrong/transfers/spieler/640357/transfer_id/6150982"
+        },
+        {
+          "id": "4800235",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "11338",
+            "coachId": "32704"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "9614",
+            "coachId": "9057"
+          },
+          "details": {
+            "playerId": "640357",
+            "date": "2024-03-18T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 288,
+              "daysDisplay": "9 Months, 13 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/albin-sporrong/transfers/spieler/640357/transfer_id/4800235"
+        },
+        {
+          "id": "4767687",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "9614",
+            "coachId": "9057"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "11338",
+            "coachId": "32704"
+          },
+          "details": {
+            "playerId": "640357",
+            "date": "2023-11-30T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 31,
+              "daysDisplay": "1 Month, 1 Day"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/albin-sporrong/transfers/spieler/640357/transfer_id/4767687"
+        },
+        {
+          "id": "4337318",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "11338",
+            "coachId": "32704"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "9614",
+            "coachId": "9057"
+          },
+          "details": {
+            "playerId": "640357",
+            "date": "2023-03-24T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 648,
+              "daysDisplay": "1 Year, 9 Months, 7 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/albin-sporrong/transfers/spieler/640357/transfer_id/4337318"
+        },
+        {
+          "id": "3484632",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "5202",
+            "coachId": "53174"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "11338",
+            "coachId": "9583"
+          },
+          "details": {
+            "playerId": "640357",
+            "date": "2021-08-06T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 116,
+              "daysDisplay": "3 Months, 24 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/albin-sporrong/transfers/spieler/640357/transfer_id/3484632"
+        },
+        {
+          "id": "2929181",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "3039",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "5202",
+            "coachId": "11881"
+          },
+          "details": {
+            "playerId": "640357",
+            "date": "2020-11-30T00:00:00+01:00",
+            "contractUntilDate": "2021-11-30T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/albin-sporrong/transfers/spieler/640357/transfer_id/2929181"
+        },
+        {
+          "id": "2929180",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "5202",
+            "coachId": "11881"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "3039",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "640357",
+            "date": "2020-06-12T00:00:00+02:00",
+            "contractUntilDate": "2020-11-30T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 536,
+              "daysDisplay": "1 Year, 5 Months, 18 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/albin-sporrong/transfers/spieler/640357/transfer_id/2929180"
+        },
+        {
+          "id": "2607482",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "8010",
+            "coachId": "59278"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "5202",
+            "coachId": "19705"
+          },
+          "details": {
+            "playerId": "640357",
+            "date": "2019-11-30T00:00:00+01:00",
+            "contractUntilDate": "2021-11-30T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/albin-sporrong/transfers/spieler/640357/transfer_id/2607482"
+        },
+        {
+          "id": "2607481",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "5202",
+            "coachId": "62161"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "8010",
+            "coachId": "59278"
+          },
+          "details": {
+            "playerId": "640357",
+            "date": "2019-08-14T00:00:00+02:00",
+            "contractUntilDate": "2019-11-30T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 839,
+              "daysDisplay": "2 Years, 3 Months, 16 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/albin-sporrong/transfers/spieler/640357/transfer_id/2607481"
+        },
+        {
+          "id": "2340317",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "23541",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "5202",
+            "coachId": "62161"
+          },
+          "details": {
+            "playerId": "640357",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": "2021-11-30T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/albin-sporrong/transfers/spieler/640357/transfer_id/2340317"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 350000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "350.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "9614",
+      "3362",
+      "11338",
+      "5202",
+      "3039",
+      "8010",
+      "23541"
+    ],
+    "coachIds": [
+      "39158",
+      "114703",
+      "32704",
+      "9057",
+      "53174",
+      "9583",
+      "11881",
+      "59278",
+      "19705",
+      "62161"
+    ],
+    "competitionIds": [
+      "SE2",
+      "NO2",
+      "NO1",
+      "SE3N"
+    ],
+    "mostRecentTransfer": {
+      "id": "6150982",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "9614",
+        "coachId": "39158"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "3362",
+        "coachId": "114703"
+      },
+      "details": {
+        "playerId": "640357",
+        "date": "2026-01-29T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/albin-sporrong/transfers/spieler/640357/transfer_id/6150982"
+    }
+  }
+}

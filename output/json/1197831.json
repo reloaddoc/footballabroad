@@ -1,0 +1,211 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1197831",
+    "history": {
+      "terminated": [
+        {
+          "id": "5633651",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "66588",
+            "coachId": "20585"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1197831",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 910,
+              "daysDisplay": "2 Years, 5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miguel-caro/transfers/spieler/1197831/transfer_id/5633651"
+        },
+        {
+          "id": "5061990",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "72081",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "66588",
+            "coachId": "48982"
+          },
+          "details": {
+            "playerId": "1197831",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miguel-caro/transfers/spieler/1197831/transfer_id/5061990"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "66588",
+      "75",
+      "72081"
+    ],
+    "coachIds": [
+      "20585",
+      "48982"
+    ],
+    "competitionIds": [
+      "RLSW"
+    ],
+    "mostRecentTransfer": {
+      "id": "5633651",
+      "transferSource": {
+        "competitionId": "RLSW",
+        "countryId": 40,
+        "clubId": "66588",
+        "coachId": "20585"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "75",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1197831",
+        "date": "2025-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 910,
+          "daysDisplay": "2 Years, 5 Months, 29 Days"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/miguel-caro/transfers/spieler/1197831/transfer_id/5633651"
+    }
+  }
+}

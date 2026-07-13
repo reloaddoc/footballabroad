@@ -1,0 +1,430 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "490842",
+    "history": {
+      "terminated": [
+        {
+          "id": "4620295",
+          "transferSource": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "8970",
+            "coachId": "12924"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5818",
+            "coachId": "54438"
+          },
+          "details": {
+            "playerId": "490842",
+            "date": "2023-09-01T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 668,
+              "daysDisplay": "1 Year, 9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-klitten/transfers/spieler/490842/transfer_id/4620295"
+        },
+        {
+          "id": "3919438",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1177",
+            "coachId": "2882"
+          },
+          "transferDestination": {
+            "competitionId": "IT1",
+            "countryId": 75,
+            "clubId": "8970",
+            "coachId": "34361"
+          },
+          "details": {
+            "playerId": "490842",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lukas-klitten/transfers/spieler/490842/transfer_id/3919438"
+        },
+        {
+          "id": "3919437",
+          "transferSource": {
+            "competitionId": "IT2",
+            "countryId": 75,
+            "clubId": "8970",
+            "coachId": "34361"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1177",
+            "coachId": "2882"
+          },
+          "details": {
+            "playerId": "490842",
+            "date": "2022-07-04T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 1092,
+              "daysDisplay": "2 Years, 11 Months, 26 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lukas-klitten/transfers/spieler/490842/transfer_id/3919437"
+        },
+        {
+          "id": "3374387",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "34166"
+          },
+          "transferDestination": {
+            "competitionId": "IT2",
+            "countryId": 75,
+            "clubId": "8970",
+            "coachId": "34361"
+          },
+          "details": {
+            "playerId": "490842",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-klitten/transfers/spieler/490842/transfer_id/3374387"
+        },
+        {
+          "id": "2501100",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "9113",
+            "coachId": "65763"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "44514"
+          },
+          "details": {
+            "playerId": "490842",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-klitten/transfers/spieler/490842/transfer_id/2501100"
+        },
+        {
+          "id": "1869065",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "19115",
+            "coachId": "65763"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "9113",
+            "coachId": "57334"
+          },
+          "details": {
+            "playerId": "490842",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-klitten/transfers/spieler/490842/transfer_id/1869065"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 700000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "700.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "8970",
+      "5818",
+      "1177",
+      "1053",
+      "9113",
+      "19115"
+    ],
+    "coachIds": [
+      "12924",
+      "54438",
+      "2882",
+      "34361",
+      "34166",
+      "65763",
+      "44514",
+      "57334"
+    ],
+    "competitionIds": [
+      "IT1",
+      "DK2",
+      "DK1",
+      "IT2",
+      "DKDL"
+    ],
+    "mostRecentTransfer": {
+      "id": "4620295",
+      "transferSource": {
+        "competitionId": "IT1",
+        "countryId": 75,
+        "clubId": "8970",
+        "coachId": "12924"
+      },
+      "transferDestination": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "5818",
+        "coachId": "54438"
+      },
+      "details": {
+        "playerId": "490842",
+        "date": "2023-09-01T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 668,
+          "daysDisplay": "1 Year, 9 Months, 29 Days"
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/lukas-klitten/transfers/spieler/490842/transfer_id/4620295"
+    }
+  }
+}

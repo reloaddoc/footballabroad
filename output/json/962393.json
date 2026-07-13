@@ -1,0 +1,304 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "962393",
+    "history": {
+      "terminated": [
+        {
+          "id": "4751771",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2294",
+            "coachId": "43400"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "962393",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alec-brandt-erlandsson/transfers/spieler/962393/transfer_id/4751771"
+        },
+        {
+          "id": "3722475",
+          "transferSource": {
+            "competitionId": "ITJ7",
+            "countryId": 75,
+            "clubId": "91714",
+            "coachId": "15798"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2294",
+            "coachId": "29086"
+          },
+          "details": {
+            "playerId": "962393",
+            "date": "2022-06-30T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/alec-brandt-erlandsson/transfers/spieler/962393/transfer_id/3722475"
+        },
+        {
+          "id": "3722474",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2294",
+            "coachId": "29086"
+          },
+          "transferDestination": {
+            "competitionId": "ITJ7",
+            "countryId": 75,
+            "clubId": "91714",
+            "coachId": "15798"
+          },
+          "details": {
+            "playerId": "962393",
+            "date": "2022-01-31T00:00:00+01:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 699,
+              "daysDisplay": "1 Year, 11 Months"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/alec-brandt-erlandsson/transfers/spieler/962393/transfer_id/3722474"
+        },
+        {
+          "id": "3644738",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "42806",
+            "coachId": "52990"
+          },
+          "transferDestination": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "2294",
+            "coachId": "29086"
+          },
+          "details": {
+            "playerId": "962393",
+            "date": "2020-12-03T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alec-brandt-erlandsson/transfers/spieler/962393/transfer_id/3644738"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "2294",
+      "515",
+      "91714",
+      "42806"
+    ],
+    "coachIds": [
+      "43400",
+      "15798",
+      "29086",
+      "52990"
+    ],
+    "competitionIds": [
+      "SE2",
+      "ITJ7",
+      "SE3S"
+    ],
+    "mostRecentTransfer": {
+      "id": "4751771",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "2294",
+        "coachId": "43400"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "962393",
+        "date": "2024-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 25000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "25.00",
+            "suffix": "K"
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/alec-brandt-erlandsson/transfers/spieler/962393/transfer_id/4751771"
+    }
+  }
+}

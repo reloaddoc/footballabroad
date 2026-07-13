@@ -1,0 +1,692 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "717076",
+    "history": {
+      "terminated": [
+        {
+          "id": "6406198",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "26957",
+            "coachId": "91463"
+          },
+          "transferDestination": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "499",
+            "coachId": "11289"
+          },
+          "details": {
+            "playerId": "717076",
+            "date": "2026-07-07T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/6406198"
+        },
+        {
+          "id": "5709308",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "30133"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "26957",
+            "coachId": "53752"
+          },
+          "details": {
+            "playerId": "717076",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/5709308"
+        },
+        {
+          "id": "4533742",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "220",
+            "coachId": "67753"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "30051"
+          },
+          "details": {
+            "playerId": "717076",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/4533742"
+        },
+        {
+          "id": "4533741",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "30051"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "220",
+            "coachId": "67753"
+          },
+          "details": {
+            "playerId": "717076",
+            "date": "2023-07-26T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 705,
+              "daysDisplay": "1 Year, 11 Months, 4 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/4533741"
+        },
+        {
+          "id": "3874813",
+          "transferSource": {
+            "competitionId": "OLW3",
+            "countryId": 40,
+            "clubId": "4855",
+            "coachId": "47291"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "35168"
+          },
+          "details": {
+            "playerId": "717076",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/3874813"
+        },
+        {
+          "id": "2935750",
+          "transferSource": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "10029",
+            "coachId": "62415"
+          },
+          "transferDestination": {
+            "competitionId": "OLW3",
+            "countryId": 40,
+            "clubId": "4855",
+            "coachId": "47291"
+          },
+          "details": {
+            "playerId": "717076",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/2935750"
+        },
+        {
+          "id": "2681963",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11330",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "10029",
+            "coachId": "62415"
+          },
+          "details": {
+            "playerId": "717076",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/2681963"
+        },
+        {
+          "id": "2820446",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "40067",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11330",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "717076",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/2820446"
+        },
+        {
+          "id": "3879250",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "81471",
+            "coachId": "136336"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "40067",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "717076",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/3879250"
+        },
+        {
+          "id": "3879251",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "41200",
+            "coachId": "66732"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "81471",
+            "coachId": "136336"
+          },
+          "details": {
+            "playerId": "717076",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/3879251"
+        },
+        {
+          "id": "3879252",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "71083",
+            "coachId": "65509"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "41200",
+            "coachId": "66732"
+          },
+          "details": {
+            "playerId": "717076",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/3879252"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "26957",
+      "499",
+      "93",
+      "220",
+      "4855",
+      "10029",
+      "11330",
+      "40067",
+      "81471",
+      "41200",
+      "71083"
+    ],
+    "coachIds": [
+      "91463",
+      "11289",
+      "30133",
+      "53752",
+      "67753",
+      "30051",
+      "47291",
+      "35168",
+      "62415",
+      "136336",
+      "66732",
+      "65509"
+    ],
+    "competitionIds": [
+      "RLW3",
+      "NL2",
+      "L3",
+      "OLW3",
+      "AJ2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6406198",
+      "transferSource": {
+        "competitionId": "RLW3",
+        "countryId": 40,
+        "clubId": "26957",
+        "coachId": "91463"
+      },
+      "transferDestination": {
+        "competitionId": "NL2",
+        "countryId": 122,
+        "clubId": "499",
+        "coachId": "11289"
+      },
+      "details": {
+        "playerId": "717076",
+        "date": "2026-07-07T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/eduard-probst/transfers/spieler/717076/transfer_id/6406198"
+    }
+  }
+}

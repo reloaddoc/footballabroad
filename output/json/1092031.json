@@ -1,0 +1,259 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1092031",
+    "history": {
+      "terminated": [
+        {
+          "id": "5851727",
+          "transferSource": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "24394",
+            "coachId": "40045"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1092031",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mathis-hannedouche/transfers/spieler/1092031/transfer_id/5851727"
+        },
+        {
+          "id": "5225291",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "1424",
+            "coachId": "137516"
+          },
+          "transferDestination": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "24394",
+            "coachId": "29675"
+          },
+          "details": {
+            "playerId": "1092031",
+            "date": "2024-08-26T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mathis-hannedouche/transfers/spieler/1092031/transfer_id/5225291"
+        },
+        {
+          "id": "4749721",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "107845",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "1424",
+            "coachId": "84543"
+          },
+          "details": {
+            "playerId": "1092031",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mathis-hannedouche/transfers/spieler/1092031/transfer_id/4749721"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "24394",
+      "515",
+      "1424",
+      "107845"
+    ],
+    "coachIds": [
+      "40045",
+      "137516",
+      "29675",
+      "84543"
+    ],
+    "competitionIds": [
+      "BE3A"
+    ],
+    "mostRecentTransfer": {
+      "id": "5851727",
+      "transferSource": {
+        "competitionId": "BE3A",
+        "countryId": 19,
+        "clubId": "24394",
+        "coachId": "40045"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1092031",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/mathis-hannedouche/transfers/spieler/1092031/transfer_id/5851727"
+    }
+  }
+}

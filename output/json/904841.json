@@ -1,0 +1,363 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "904841",
+    "history": {
+      "terminated": [
+        {
+          "id": "6177116",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "94391"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "23564",
+            "coachId": "64224"
+          },
+          "details": {
+            "playerId": "904841",
+            "date": "2026-02-10T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1055,
+              "daysDisplay": "2 Years, 10 Months, 21 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/max-bjurstroem/transfers/spieler/904841/transfer_id/6177116"
+        },
+        {
+          "id": "5462520",
+          "transferSource": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "13233",
+            "coachId": "24524"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "21702"
+          },
+          "details": {
+            "playerId": "904841",
+            "date": "2025-01-29T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/max-bjurstroem/transfers/spieler/904841/transfer_id/5462520"
+        },
+        {
+          "id": "5238107",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "76",
+            "coachId": "22844"
+          },
+          "transferDestination": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "13233",
+            "coachId": "24524"
+          },
+          "details": {
+            "playerId": "904841",
+            "date": "2024-08-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 488,
+              "daysDisplay": "1 Year, 4 Months, 1 Day"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/max-bjurstroem/transfers/spieler/904841/transfer_id/5238107"
+        },
+        {
+          "id": "3424980",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "17331",
+            "coachId": "35397"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "76",
+            "coachId": "4432"
+          },
+          "details": {
+            "playerId": "904841",
+            "date": "2021-03-23T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/max-bjurstroem/transfers/spieler/904841/transfer_id/3424980"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6177117",
+          "transferSource": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "23564",
+            "coachId": "64224"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "94391"
+          },
+          "details": {
+            "playerId": "904841",
+            "date": "2026-12-31T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/max-bjurstroem/transfers/spieler/904841/transfer_id/6177117"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "23564",
+      "699",
+      "13233",
+      "76",
+      "17331"
+    ],
+    "coachIds": [
+      "64224",
+      "94391",
+      "24524",
+      "21702",
+      "22844",
+      "35397",
+      "4432"
+    ],
+    "competitionIds": [
+      "FI1",
+      "SE2",
+      "NO32",
+      "NO2",
+      "NO1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6177116",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "699",
+        "coachId": "94391"
+      },
+      "transferDestination": {
+        "competitionId": "FI1",
+        "countryId": 49,
+        "clubId": "23564",
+        "coachId": "64224"
+      },
+      "details": {
+        "playerId": "904841",
+        "date": "2026-02-10T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 20,
+        "remainingContractPeriod": {
+          "days": 1055,
+          "daysDisplay": "2 Years, 10 Months, 21 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/max-bjurstroem/transfers/spieler/904841/transfer_id/6177116"
+    }
+  }
+}

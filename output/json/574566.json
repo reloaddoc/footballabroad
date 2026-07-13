@@ -1,0 +1,388 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "574566",
+    "history": {
+      "terminated": [
+        {
+          "id": "4452048",
+          "transferSource": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "1328",
+            "coachId": "105535"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "46259",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "574566",
+            "date": "2023-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 334,
+              "daysDisplay": "10 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bennet-glinder/transfers/spieler/574566/transfer_id/4452048"
+        },
+        {
+          "id": "4088896",
+          "transferSource": {
+            "competitionId": "OBLK",
+            "countryId": 40,
+            "clubId": "115",
+            "coachId": "30195"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "1328",
+            "coachId": "5028"
+          },
+          "details": {
+            "playerId": "574566",
+            "date": "2022-09-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 302,
+              "daysDisplay": "9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bennet-glinder/transfers/spieler/574566/transfer_id/4088896"
+        },
+        {
+          "id": "3876532",
+          "transferSource": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "2491",
+            "coachId": "4610"
+          },
+          "transferDestination": {
+            "competitionId": "OBLK",
+            "countryId": 40,
+            "clubId": "115",
+            "coachId": "30195"
+          },
+          "details": {
+            "playerId": "574566",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bennet-glinder/transfers/spieler/574566/transfer_id/3876532"
+        },
+        {
+          "id": "2962851",
+          "transferSource": {
+            "competitionId": "BJ1",
+            "countryId": 40,
+            "clubId": "21079",
+            "coachId": "39907"
+          },
+          "transferDestination": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "2491",
+            "coachId": "4610"
+          },
+          "details": {
+            "playerId": "574566",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bennet-glinder/transfers/spieler/574566/transfer_id/2962851"
+        },
+        {
+          "id": "2366087",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "12012",
+            "coachId": "65640"
+          },
+          "transferDestination": {
+            "competitionId": "BJ1",
+            "countryId": 40,
+            "clubId": "21079",
+            "coachId": "4610"
+          },
+          "details": {
+            "playerId": "574566",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bennet-glinder/transfers/spieler/574566/transfer_id/2366087"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "1328",
+      "46259",
+      "115",
+      "2491",
+      "21079",
+      "12012"
+    ],
+    "coachIds": [
+      "105535",
+      "30195",
+      "5028",
+      "4610",
+      "39907",
+      "65640"
+    ],
+    "competitionIds": [
+      "RLN3",
+      "OBLK",
+      "AJ1",
+      "BJ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "4452048",
+      "transferSource": {
+        "competitionId": "RLN3",
+        "countryId": 40,
+        "clubId": "1328",
+        "coachId": "105535"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 184,
+        "clubId": "46259",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "574566",
+        "date": "2023-08-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 334,
+          "daysDisplay": "10 Months, 29 Days"
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/bennet-glinder/transfers/spieler/574566/transfer_id/4452048"
+    }
+  }
+}

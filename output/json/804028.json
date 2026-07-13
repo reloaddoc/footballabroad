@@ -1,0 +1,738 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "804028",
+    "history": {
+      "terminated": [
+        {
+          "id": "6135140",
+          "transferSource": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "222",
+            "coachId": "13343"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "413",
+            "coachId": "8364"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/6135140"
+        },
+        {
+          "id": "6135139",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "413",
+            "coachId": "8364"
+          },
+          "transferDestination": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "222",
+            "coachId": "13343"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2026-01-21T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/6135139"
+        },
+        {
+          "id": "5800190",
+          "transferSource": {
+            "competitionId": "ATRM",
+            "countryId": 127,
+            "clubId": "935",
+            "coachId": "24224"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "413",
+            "coachId": "58079"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/5800190"
+        },
+        {
+          "id": "5021610",
+          "transferSource": {
+            "competitionId": "19LA",
+            "countryId": 40,
+            "clubId": "5343",
+            "coachId": "38340"
+          },
+          "transferDestination": {
+            "competitionId": "ATRM",
+            "countryId": 127,
+            "clubId": "935",
+            "coachId": "63544"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/5021610"
+        },
+        {
+          "id": "4413880",
+          "transferSource": {
+            "competitionId": "JGD2",
+            "countryId": 127,
+            "clubId": "11263",
+            "coachId": "88138"
+          },
+          "transferDestination": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "5343",
+            "coachId": "38340"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/4413880"
+        },
+        {
+          "id": "3475529",
+          "transferSource": {
+            "competitionId": "JGD3",
+            "countryId": 127,
+            "clubId": "42826",
+            "coachId": "88138"
+          },
+          "transferDestination": {
+            "competitionId": "JGD2",
+            "countryId": 127,
+            "clubId": "11263",
+            "coachId": "54687"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/3475529"
+        },
+        {
+          "id": "3790896",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "42825",
+            "coachId": "83801"
+          },
+          "transferDestination": {
+            "competitionId": "JGD3",
+            "countryId": 127,
+            "clubId": "42826",
+            "coachId": "60649"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/3790896"
+        },
+        {
+          "id": "3790895",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "20161",
+            "coachId": "53659"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "42825",
+            "coachId": "60649"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/3790895"
+        },
+        {
+          "id": "3790893",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "20135",
+            "coachId": "87921"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "20161",
+            "coachId": "60649"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 12,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/3790893"
+        },
+        {
+          "id": "3790892",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "47848",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "20135",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 9,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/3790892"
+        },
+        {
+          "id": "3790891",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "84420",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "47848",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 8,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/3790891"
+        },
+        {
+          "id": "3790890",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "47848",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "84420",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "804028",
+            "date": "2013-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 7,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/3790890"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "222",
+      "413",
+      "935",
+      "5343",
+      "11263",
+      "42826",
+      "42825",
+      "20161",
+      "20135",
+      "47848",
+      "84420"
+    ],
+    "coachIds": [
+      "13343",
+      "8364",
+      "24224",
+      "58079",
+      "38340",
+      "63544",
+      "88138",
+      "54687",
+      "83801",
+      "60649",
+      "53659",
+      "87921"
+    ],
+    "competitionIds": [
+      "RLN4",
+      "A1",
+      "ATRM",
+      "19LA",
+      "JGD2",
+      "AJ1",
+      "JGD3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6135140",
+      "transferSource": {
+        "competitionId": "RLN4",
+        "countryId": 40,
+        "clubId": "222",
+        "coachId": "13343"
+      },
+      "transferDestination": {
+        "competitionId": "A1",
+        "countryId": 127,
+        "clubId": "413",
+        "coachId": "8364"
+      },
+      "details": {
+        "playerId": "804028",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/kevin-lebersorger/transfers/spieler/804028/transfer_id/6135140"
+    }
+  }
+}

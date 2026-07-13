@@ -1,0 +1,204 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1132633",
+    "history": {
+      "terminated": [
+        {
+          "id": "6165150",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 38,
+            "clubId": "9369",
+            "coachId": "56817"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "24490"
+          },
+          "details": {
+            "playerId": "1132633",
+            "date": "2026-01-27T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/abdoulaye-gouba/transfers/spieler/1132633/transfer_id/6165150"
+        },
+        {
+          "id": "5220172",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 105,
+            "clubId": "72310",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 38,
+            "clubId": "9369",
+            "coachId": "28743"
+          },
+          "details": {
+            "playerId": "1132633",
+            "date": "2024-08-07T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/abdoulaye-gouba/transfers/spieler/1132633/transfer_id/5220172"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "9369",
+      "2414",
+      "72310"
+    ],
+    "coachIds": [
+      "56817",
+      "24490",
+      "28743"
+    ],
+    "competitionIds": [
+      "DK2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6165150",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 38,
+        "clubId": "9369",
+        "coachId": "56817"
+      },
+      "transferDestination": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "2414",
+        "coachId": "24490"
+      },
+      "details": {
+        "playerId": "1132633",
+        "date": "2026-01-27T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/abdoulaye-gouba/transfers/spieler/1132633/transfer_id/6165150"
+    }
+  }
+}

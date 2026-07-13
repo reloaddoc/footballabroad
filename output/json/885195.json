@@ -1,0 +1,782 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "885195",
+    "history": {
+      "terminated": [
+        {
+          "id": "6362574",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "29512",
+            "coachId": "149947"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "8908",
+            "coachId": "112140"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/6362574"
+        },
+        {
+          "id": "5726888",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3683",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "29512",
+            "coachId": "149947"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/5726888"
+        },
+        {
+          "id": "5575365",
+          "transferSource": {
+            "competitionId": "KO1",
+            "countryId": 244,
+            "clubId": "1918",
+            "coachId": "3962"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3683",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2025-02-18T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 497,
+              "daysDisplay": "1 Year, 4 Months, 12 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/5575365"
+        },
+        {
+          "id": "5249340",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 244,
+            "clubId": "81125",
+            "coachId": "134729"
+          },
+          "transferDestination": {
+            "competitionId": "KO1",
+            "countryId": 244,
+            "clubId": "1918",
+            "coachId": "3962"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2025-02-17T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 133,
+              "daysDisplay": "4 Months, 13 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/5249340"
+        },
+        {
+          "id": "5249339",
+          "transferSource": {
+            "competitionId": "KO1",
+            "countryId": 244,
+            "clubId": "1918",
+            "coachId": "3962"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 244,
+            "clubId": "81125",
+            "coachId": "137115"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2024-09-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 667,
+              "daysDisplay": "1 Year, 9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/5249339"
+        },
+        {
+          "id": "5122746",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3052",
+            "coachId": "97512"
+          },
+          "transferDestination": {
+            "competitionId": "KO1",
+            "countryId": 244,
+            "clubId": "1918",
+            "coachId": "3962"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2024-07-15T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/5122746"
+        },
+        {
+          "id": "4844948",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "8820",
+            "coachId": "15354"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3052",
+            "coachId": "97512"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2024-02-20T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/4844948"
+        },
+        {
+          "id": "4844947",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3052",
+            "coachId": "97512"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "8820",
+            "coachId": "15354"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2024-01-23T00:00:00+01:00",
+            "contractUntilDate": "2024-02-20T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 159,
+              "daysDisplay": "5 Months, 7 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/4844947"
+        },
+        {
+          "id": "4233098",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1218",
+            "coachId": "4144"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3052",
+            "coachId": "20958"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2023-02-28T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/4233098"
+        },
+        {
+          "id": "4233097",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3052",
+            "coachId": "20958"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1218",
+            "coachId": "4144"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2023-01-19T00:00:00+01:00",
+            "contractUntilDate": "2023-02-28T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 528,
+              "daysDisplay": "1 Year, 5 Months, 11 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/4233097"
+        },
+        {
+          "id": "3949759",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "45547",
+            "coachId": "26095"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3052",
+            "coachId": "20958"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2022-07-16T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/3949759"
+        },
+        {
+          "id": "3335440",
+          "transferSource": {
+            "competitionId": "FI3C",
+            "countryId": 49,
+            "clubId": "17398",
+            "coachId": "41988"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "45547",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/3335440"
+        },
+        {
+          "id": "3335441",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "11242",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 49,
+            "clubId": "17398",
+            "coachId": "30248"
+          },
+          "details": {
+            "playerId": "885195",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/3335441"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "29512",
+      "8908",
+      "3683",
+      "1918",
+      "81125",
+      "3052",
+      "8820",
+      "1218",
+      "45547",
+      "17398",
+      "11242"
+    ],
+    "coachIds": [
+      "149947",
+      "112140",
+      "3962",
+      "134729",
+      "137115",
+      "97512",
+      "15354",
+      "4144",
+      "20958",
+      "26095",
+      "41988",
+      "30248"
+    ],
+    "competitionIds": [
+      "KO1",
+      "CNAT",
+      "NLS6",
+      "GB4",
+      "FI3C"
+    ],
+    "mostRecentTransfer": {
+      "id": "6362574",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 189,
+        "clubId": "29512",
+        "coachId": "149947"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 189,
+        "clubId": "8908",
+        "coachId": "112140"
+      },
+      "details": {
+        "playerId": "885195",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/tope-fadahunsi/transfers/spieler/885195/transfer_id/6362574"
+    }
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "966902",
+    "history": {
+      "terminated": [
+        {
+          "id": "6123432",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "6399",
+            "coachId": "64815"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "80015"
+          },
+          "details": {
+            "playerId": "966902",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": "2026-11-30T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 701,
+              "daysDisplay": "1 Year, 11 Months, 2 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/elias-jemal/transfers/spieler/966902/transfer_id/6123432"
+        },
+        {
+          "id": "5913313",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "267",
+            "coachId": "109242"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "6399",
+            "coachId": "64815"
+          },
+          "details": {
+            "playerId": "966902",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/elias-jemal/transfers/spieler/966902/transfer_id/5913313"
+        },
+        {
+          "id": "5913312",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "6399",
+            "coachId": "64815"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "267",
+            "coachId": "109242"
+          },
+          "details": {
+            "playerId": "966902",
+            "date": "2025-09-02T00:00:00+02:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 850,
+              "daysDisplay": "2 Years, 3 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/elias-jemal/transfers/spieler/966902/transfer_id/5913312"
+        },
+        {
+          "id": "5162059",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "2283",
+            "coachId": "103889"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "6399",
+            "coachId": "29212"
+          },
+          "details": {
+            "playerId": "966902",
+            "date": "2024-08-01T00:00:00+02:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/elias-jemal/transfers/spieler/966902/transfer_id/5162059"
+        },
+        {
+          "id": "4213443",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "1092",
+            "coachId": "43704"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "2283",
+            "coachId": "102916"
+          },
+          "details": {
+            "playerId": "966902",
+            "date": "2023-01-09T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/elias-jemal/transfers/spieler/966902/transfer_id/4213443"
+        },
+        {
+          "id": "3659277",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "8955",
+            "coachId": "69141"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1092",
+            "coachId": "29045"
+          },
+          "details": {
+            "playerId": "966902",
+            "date": "2022-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/elias-jemal/transfers/spieler/966902/transfer_id/3659277"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6123433",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "80015"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "6399",
+            "coachId": "64815"
+          },
+          "details": {
+            "playerId": "966902",
+            "date": "2026-11-30T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/elias-jemal/transfers/spieler/966902/transfer_id/6123433"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2844",
+      "6399",
+      "267",
+      "2283",
+      "1092",
+      "8955"
+    ],
+    "coachIds": [
+      "80015",
+      "64815",
+      "109242",
+      "103889",
+      "29212",
+      "43704",
+      "102916",
+      "69141",
+      "29045"
+    ],
+    "competitionIds": [
+      "SE2",
+      "NO1",
+      "NO2",
+      "SE3N",
+      "SE1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6123432",
+      "transferSource": {
+        "competitionId": "NO1",
+        "countryId": 125,
+        "clubId": "6399",
+        "coachId": "64815"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "2844",
+        "coachId": "80015"
+      },
+      "details": {
+        "playerId": "966902",
+        "date": "2026-01-29T00:00:00+01:00",
+        "contractUntilDate": "2026-11-30T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "remainingContractPeriod": {
+          "days": 701,
+          "daysDisplay": "1 Year, 11 Months, 2 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/elias-jemal/transfers/spieler/966902/transfer_id/6123432"
+    }
+  }
+}

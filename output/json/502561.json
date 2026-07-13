@@ -1,0 +1,732 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "502561",
+    "history": {
+      "terminated": [
+        {
+          "id": "5541304",
+          "transferSource": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "6493",
+            "coachId": "116294"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "6469",
+            "coachId": "123865"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2025-03-13T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/5541304"
+        },
+        {
+          "id": "4823985",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "1100",
+            "coachId": "23209"
+          },
+          "transferDestination": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "6493",
+            "coachId": "116294"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2024-04-17T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 258,
+              "daysDisplay": "8 Months, 14 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/4823985"
+        },
+        {
+          "id": "4607253",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "13025",
+            "coachId": "18946"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "1100",
+            "coachId": "23209"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2023-12-31T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/4607253"
+        },
+        {
+          "id": "4607252",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "1100",
+            "coachId": "23209"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "13025",
+            "coachId": "18946"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2023-08-26T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 493,
+              "daysDisplay": "1 Year, 4 Months, 5 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/4607252"
+        },
+        {
+          "id": "4273181",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "7411",
+            "coachId": "84699"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "1100",
+            "coachId": "23209"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2023-08-25T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 1,
+              "daysDisplay": "1 Day"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/4273181"
+        },
+        {
+          "id": "4273180",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "1100",
+            "coachId": "23209"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "7411",
+            "coachId": "84699"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2023-02-12T00:00:00+01:00",
+            "contractUntilDate": "2023-08-26T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 688,
+              "daysDisplay": "1 Year, 10 Months, 19 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/4273180"
+        },
+        {
+          "id": "3860458",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "23184",
+            "coachId": "50374"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "1100",
+            "coachId": "23209"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2022-12-31T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/3860458"
+        },
+        {
+          "id": "3860457",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "1100",
+            "coachId": "23209"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "23184",
+            "coachId": "50374"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2022-05-23T00:00:00+02:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 953,
+              "daysDisplay": "2 Years, 7 Months, 8 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/3860457"
+        },
+        {
+          "id": "3225356",
+          "transferSource": {
+            "competitionId": "NL1",
+            "countryId": 122,
+            "clubId": "499",
+            "coachId": "335"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "1100",
+            "coachId": "5401"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2021-01-28T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 883,
+              "daysDisplay": "2 Years, 5 Months, 2 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/3225356"
+        },
+        {
+          "id": "2780730",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "1058",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NL1",
+            "countryId": 122,
+            "clubId": "499",
+            "coachId": "597"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2020-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": 275000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "275.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/2780730"
+        },
+        {
+          "id": "2203285",
+          "transferSource": {
+            "competitionId": "NO31",
+            "countryId": 125,
+            "clubId": "35023",
+            "coachId": "39561"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "1058",
+            "coachId": "4432"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2018-07-30T00:00:00+02:00",
+            "contractUntilDate": "2019-12-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/2203285"
+        },
+        {
+          "id": "2934040",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "15679",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "35023",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "502561",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/2934040"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 425000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "425.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "6493",
+      "6469",
+      "1100",
+      "13025",
+      "7411",
+      "23184",
+      "499",
+      "1058",
+      "35023",
+      "15679"
+    ],
+    "coachIds": [
+      "116294",
+      "123865",
+      "23209",
+      "18946",
+      "84699",
+      "50374",
+      "335",
+      "5401",
+      "597",
+      "39561",
+      "4432"
+    ],
+    "competitionIds": [
+      "NO32",
+      "NO2",
+      "NO1",
+      "SE2",
+      "NL1",
+      "NO31"
+    ],
+    "mostRecentTransfer": {
+      "id": "5541304",
+      "transferSource": {
+        "competitionId": "NO32",
+        "countryId": 125,
+        "clubId": "6493",
+        "coachId": "116294"
+      },
+      "transferDestination": {
+        "competitionId": "NO2",
+        "countryId": 125,
+        "clubId": "6469",
+        "coachId": "123865"
+      },
+      "details": {
+        "playerId": "502561",
+        "date": "2025-03-13T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/filip-moeller-delaveris/transfers/spieler/502561/transfer_id/5541304"
+    }
+  }
+}

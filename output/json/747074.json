@@ -1,0 +1,710 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "747074",
+    "history": {
+      "terminated": [
+        {
+          "id": "5471929",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "53667",
+            "coachId": "90381"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "86029",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "747074",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 180,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/5471929"
+        },
+        {
+          "id": "5121507",
+          "transferSource": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "25446",
+            "coachId": "125081"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "53667",
+            "coachId": "106718"
+          },
+          "details": {
+            "playerId": "747074",
+            "date": "2024-07-15T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/5121507"
+        },
+        {
+          "id": "4517386",
+          "transferSource": {
+            "competitionId": "K4L",
+            "countryId": 87,
+            "clubId": "64836",
+            "coachId": "79926"
+          },
+          "transferDestination": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "25446",
+            "coachId": "106718"
+          },
+          "details": {
+            "playerId": "747074",
+            "date": "2023-08-02T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/4517386"
+        },
+        {
+          "id": "4269506",
+          "transferSource": {
+            "competitionId": "K4L",
+            "countryId": 87,
+            "clubId": "86382",
+            "coachId": "86813"
+          },
+          "transferDestination": {
+            "competitionId": "K4L",
+            "countryId": 87,
+            "clubId": "64836",
+            "coachId": "79926"
+          },
+          "details": {
+            "playerId": "747074",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/4269506"
+        },
+        {
+          "id": "3704159",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "99864"
+          },
+          "transferDestination": {
+            "competitionId": "K4L",
+            "countryId": 87,
+            "clubId": "86382",
+            "coachId": "86813"
+          },
+          "details": {
+            "playerId": "747074",
+            "date": "2022-01-20T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/3704159"
+        },
+        {
+          "id": "3706026",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 56,
+            "clubId": "61045",
+            "coachId": "11986"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "747074",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/3706026"
+        },
+        {
+          "id": "3141286",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GR2",
+            "countryId": 56,
+            "clubId": "61045",
+            "coachId": "6155"
+          },
+          "details": {
+            "playerId": "747074",
+            "date": "2020-10-24T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/3141286"
+        },
+        {
+          "id": "3132236",
+          "transferSource": {
+            "competitionId": "MNE1",
+            "countryId": 216,
+            "clubId": "35545",
+            "coachId": "31371"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "747074",
+            "date": "2020-07-20T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/3132236"
+        },
+        {
+          "id": "2811315",
+          "transferSource": {
+            "competitionId": "K3L",
+            "countryId": 87,
+            "clubId": "43177",
+            "coachId": "47492"
+          },
+          "transferDestination": {
+            "competitionId": "MNE1",
+            "countryId": 216,
+            "clubId": "35545",
+            "coachId": "31371"
+          },
+          "details": {
+            "playerId": "747074",
+            "date": "2020-02-14T00:00:00+01:00",
+            "contractUntilDate": "2020-06-15T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/2811315"
+        },
+        {
+          "id": "2811699",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 172,
+            "clubId": "59590",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "43177",
+            "coachId": "47492"
+          },
+          "details": {
+            "playerId": "747074",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/2811699"
+        },
+        {
+          "id": "2811698",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "42166",
+            "coachId": "99118"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 172,
+            "clubId": "59590",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "747074",
+            "date": "2019-02-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/2811698"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "53667",
+      "86029",
+      "25446",
+      "64836",
+      "86382",
+      "515",
+      "61045",
+      "35545",
+      "43177",
+      "59590",
+      "42166"
+    ],
+    "coachIds": [
+      "90381",
+      "125081",
+      "106718",
+      "79926",
+      "86813",
+      "99864",
+      "11986",
+      "6155",
+      "31371",
+      "47492",
+      "99118"
+    ],
+    "competitionIds": [
+      "THA1",
+      "THA2",
+      "K4L",
+      "GR2",
+      "MNE1",
+      "K3L"
+    ],
+    "mostRecentTransfer": {
+      "id": "5471929",
+      "transferSource": {
+        "competitionId": "THA1",
+        "countryId": 167,
+        "clubId": "53667",
+        "coachId": "90381"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 87,
+        "clubId": "86029",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "747074",
+        "date": "2025-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 180,
+          "daysDisplay": "5 Months, 29 Days"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/sang-jin-lee/transfers/spieler/747074/transfer_id/5471929"
+    }
+  }
+}

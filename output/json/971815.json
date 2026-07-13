@@ -1,0 +1,262 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "971815",
+    "history": {
+      "terminated": [
+        {
+          "id": "5394300",
+          "transferSource": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "67002",
+            "coachId": "129483"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "971815",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kadin-martin-pereux/transfers/spieler/971815/transfer_id/5394300"
+        },
+        {
+          "id": "4484129",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "6604",
+            "coachId": "65982"
+          },
+          "transferDestination": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "67002",
+            "coachId": "17254"
+          },
+          "details": {
+            "playerId": "971815",
+            "date": "2023-09-07T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kadin-martin-pereux/transfers/spieler/971815/transfer_id/4484129"
+        },
+        {
+          "id": "3687752",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 80,
+            "clubId": "35405",
+            "coachId": "63848"
+          },
+          "transferDestination": {
+            "competitionId": "OLW3",
+            "countryId": 40,
+            "clubId": "6604",
+            "coachId": "35168"
+          },
+          "details": {
+            "playerId": "971815",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kadin-martin-pereux/transfers/spieler/971815/transfer_id/3687752"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "67002",
+      "515",
+      "6604",
+      "35405"
+    ],
+    "coachIds": [
+      "129483",
+      "65982",
+      "17254",
+      "63848",
+      "35168"
+    ],
+    "competitionIds": [
+      "CDN1",
+      "RLW3",
+      "OLW3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5394300",
+      "transferSource": {
+        "competitionId": "CDN1",
+        "countryId": 80,
+        "clubId": "67002",
+        "coachId": "129483"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "971815",
+        "date": "2025-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kadin-martin-pereux/transfers/spieler/971815/transfer_id/5394300"
+    }
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "687130",
+    "history": {
+      "terminated": [
+        {
+          "id": "5243570",
+          "transferSource": {
+            "competitionId": "IT3A",
+            "countryId": 75,
+            "clubId": "41110",
+            "coachId": "61640"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "75341",
+            "coachId": "110971"
+          },
+          "details": {
+            "playerId": "687130",
+            "date": "2024-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/david-perez/transfers/spieler/687130/transfer_id/5243570"
+        },
+        {
+          "id": "4616598",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "801",
+            "coachId": "38063"
+          },
+          "transferDestination": {
+            "competitionId": "IT3A",
+            "countryId": 75,
+            "clubId": "41110",
+            "coachId": "61640"
+          },
+          "details": {
+            "playerId": "687130",
+            "date": "2024-01-29T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 153,
+              "daysDisplay": "5 Months, 1 Day"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/david-perez/transfers/spieler/687130/transfer_id/4616598"
+        },
+        {
+          "id": "4641663",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "5027",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "801",
+            "coachId": "38063"
+          },
+          "details": {
+            "playerId": "687130",
+            "date": "2023-11-30T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/david-perez/transfers/spieler/687130/transfer_id/4641663"
+        },
+        {
+          "id": "4641662",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "801",
+            "coachId": "38063"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "5027",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "687130",
+            "date": "2023-09-03T00:00:00+02:00",
+            "contractUntilDate": "2023-11-30T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/david-perez/transfers/spieler/687130/transfer_id/4641662"
+        },
+        {
+          "id": "4616597",
+          "transferSource": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "11998",
+            "coachId": "29394"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "801",
+            "coachId": "38063"
+          },
+          "details": {
+            "playerId": "687130",
+            "date": "2023-08-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 305,
+              "daysDisplay": "10 Months"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/david-perez/transfers/spieler/687130/transfer_id/4616597"
+        },
+        {
+          "id": "3490204",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "8955",
+            "coachId": "69141"
+          },
+          "transferDestination": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "11998",
+            "coachId": "42109"
+          },
+          "details": {
+            "playerId": "687130",
+            "date": "2021-08-10T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": 155000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "155.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/david-perez/transfers/spieler/687130/transfer_id/3490204"
+        },
+        {
+          "id": "3054468",
+          "transferSource": {
+            "competitionId": "ITJ8",
+            "countryId": 75,
+            "clubId": "49568",
+            "coachId": "29394"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "8955",
+            "coachId": "69141"
+          },
+          "details": {
+            "playerId": "687130",
+            "date": "2021-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/david-perez/transfers/spieler/687130/transfer_id/3054468"
+        },
+        {
+          "id": "3049586",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "42543",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "ITJ8",
+            "countryId": 75,
+            "clubId": "49568",
+            "coachId": "29394"
+          },
+          "details": {
+            "playerId": "687130",
+            "date": "2020-09-07T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": 5000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "Loan fee"
+          },
+          "relativeUrl": "/david-perez/transfers/spieler/687130/transfer_id/3049586"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 160000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "160.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "41110",
+      "75341",
+      "801",
+      "5027",
+      "11998",
+      "8955",
+      "49568",
+      "42543"
+    ],
+    "coachIds": [
+      "61640",
+      "110971",
+      "38063",
+      "29394",
+      "69141",
+      "42109"
+    ],
+    "competitionIds": [
+      "IT3A",
+      "SE3N",
+      "SE1",
+      "IJ1",
+      "ITJ8"
+    ],
+    "mostRecentTransfer": {
+      "id": "5243570",
+      "transferSource": {
+        "competitionId": "IT3A",
+        "countryId": 75,
+        "clubId": "41110",
+        "coachId": "61640"
+      },
+      "transferDestination": {
+        "competitionId": "SE3N",
+        "countryId": 147,
+        "clubId": "75341",
+        "coachId": "110971"
+      },
+      "details": {
+        "playerId": "687130",
+        "date": "2024-09-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 10000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "10.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/david-perez/transfers/spieler/687130/transfer_id/5243570"
+    }
+  }
+}

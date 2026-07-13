@@ -1,0 +1,592 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "605113",
+    "history": {
+      "terminated": [
+        {
+          "id": "5911460",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "transferDestination": {
+            "competitionId": "JO1L",
+            "countryId": 78,
+            "clubId": "15795",
+            "coachId": "14236"
+          },
+          "details": {
+            "playerId": "605113",
+            "date": "2025-09-09T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 294,
+              "daysDisplay": "9 Months, 21 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yousef-qashi/transfers/spieler/605113/transfer_id/5911460"
+        },
+        {
+          "id": "5218581",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "299",
+            "coachId": "93731"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "details": {
+            "playerId": "605113",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/yousef-qashi/transfers/spieler/605113/transfer_id/5218581"
+        },
+        {
+          "id": "5218580",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "299",
+            "coachId": "53957"
+          },
+          "details": {
+            "playerId": "605113",
+            "date": "2024-08-23T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 676,
+              "daysDisplay": "1 Year, 10 Months, 7 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/yousef-qashi/transfers/spieler/605113/transfer_id/5218580"
+        },
+        {
+          "id": "4550725",
+          "transferSource": {
+            "competitionId": "19LA",
+            "countryId": 40,
+            "clubId": "1462",
+            "coachId": "54519"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "details": {
+            "playerId": "605113",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yousef-qashi/transfers/spieler/605113/transfer_id/4550725"
+        },
+        {
+          "id": "4550724",
+          "transferSource": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "17847",
+            "coachId": "65034"
+          },
+          "transferDestination": {
+            "competitionId": "19LA",
+            "countryId": 40,
+            "clubId": "1462",
+            "coachId": "49415"
+          },
+          "details": {
+            "playerId": "605113",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/yousef-qashi/transfers/spieler/605113/transfer_id/4550724"
+        },
+        {
+          "id": "4550723",
+          "transferSource": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "1462",
+            "coachId": "7400"
+          },
+          "transferDestination": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "17847",
+            "coachId": "928"
+          },
+          "details": {
+            "playerId": "605113",
+            "date": "2023-08-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 699,
+              "daysDisplay": "1 Year, 10 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/yousef-qashi/transfers/spieler/605113/transfer_id/4550723"
+        },
+        {
+          "id": "3842079",
+          "transferSource": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21058",
+            "coachId": "7400"
+          },
+          "transferDestination": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "1462",
+            "coachId": "44682"
+          },
+          "details": {
+            "playerId": "605113",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yousef-qashi/transfers/spieler/605113/transfer_id/3842079"
+        },
+        {
+          "id": "3419801",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "18936",
+            "coachId": "54519"
+          },
+          "transferDestination": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21058",
+            "coachId": "48142"
+          },
+          "details": {
+            "playerId": "605113",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yousef-qashi/transfers/spieler/605113/transfer_id/3419801"
+        },
+        {
+          "id": "2234156",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "39962",
+            "coachId": "41165"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "18936",
+            "coachId": "61269"
+          },
+          "details": {
+            "playerId": "605113",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yousef-qashi/transfers/spieler/605113/transfer_id/2234156"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "28",
+      "15795",
+      "299",
+      "1462",
+      "17847",
+      "21058",
+      "18936",
+      "39962"
+    ],
+    "coachIds": [
+      "5716",
+      "14236",
+      "93731",
+      "53957",
+      "54519",
+      "65034",
+      "49415",
+      "7400",
+      "928",
+      "44682",
+      "48142",
+      "41165",
+      "61269"
+    ],
+    "competitionIds": [
+      "RLB3",
+      "JO1L",
+      "RLW3",
+      "19LA",
+      "RLN4",
+      "AJ3",
+      "BJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5911460",
+      "transferSource": {
+        "competitionId": "RLB3",
+        "countryId": 40,
+        "clubId": "28",
+        "coachId": "5716"
+      },
+      "transferDestination": {
+        "competitionId": "JO1L",
+        "countryId": 78,
+        "clubId": "15795",
+        "coachId": "14236"
+      },
+      "details": {
+        "playerId": "605113",
+        "date": "2025-09-09T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 294,
+          "daysDisplay": "9 Months, 21 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/yousef-qashi/transfers/spieler/605113/transfer_id/5911460"
+    }
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "921767",
+    "history": {
+      "terminated": [
+        {
+          "id": "5417071",
+          "transferSource": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "7907"
+          },
+          "transferDestination": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "43177",
+            "coachId": "71634"
+          },
+          "details": {
+            "playerId": "921767",
+            "date": "2025-01-24T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jun-seo-park/transfers/spieler/921767/transfer_id/5417071"
+        },
+        {
+          "id": "4204506",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "24321",
+            "coachId": "34207"
+          },
+          "transferDestination": {
+            "competitionId": "RSK1",
+            "countryId": 87,
+            "clubId": "6499",
+            "coachId": "46831"
+          },
+          "details": {
+            "playerId": "921767",
+            "date": "2023-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jun-seo-park/transfers/spieler/921767/transfer_id/4204506"
+        },
+        {
+          "id": "4204505",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "88035",
+            "coachId": "99926"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "24321",
+            "coachId": "34207"
+          },
+          "details": {
+            "playerId": "921767",
+            "date": "2023-02-01T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jun-seo-park/transfers/spieler/921767/transfer_id/4204505"
+        },
+        {
+          "id": "3503980",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "92520",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "88035",
+            "coachId": "64978"
+          },
+          "details": {
+            "playerId": "921767",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jun-seo-park/transfers/spieler/921767/transfer_id/3503980"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 225000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "225.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "6499",
+      "43177",
+      "24321",
+      "88035",
+      "92520"
+    ],
+    "coachIds": [
+      "7907",
+      "71634",
+      "34207",
+      "46831",
+      "99926",
+      "64978"
+    ],
+    "competitionIds": [
+      "RSK1",
+      "RSK2",
+      "JAP2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5417071",
+      "transferSource": {
+        "competitionId": "RSK1",
+        "countryId": 87,
+        "clubId": "6499",
+        "coachId": "7907"
+      },
+      "transferDestination": {
+        "competitionId": "RSK2",
+        "countryId": 87,
+        "clubId": "43177",
+        "coachId": "71634"
+      },
+      "details": {
+        "playerId": "921767",
+        "date": "2025-01-24T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jun-seo-park/transfers/spieler/921767/transfer_id/5417071"
+    }
+  }
+}

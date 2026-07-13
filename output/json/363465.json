@@ -1,0 +1,674 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "363465",
+    "history": {
+      "terminated": [
+        {
+          "id": "5555585",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "22178",
+            "coachId": "33951"
+          },
+          "transferDestination": {
+            "competitionId": "USC3",
+            "countryId": 184,
+            "clubId": "124312",
+            "coachId": "10275"
+          },
+          "details": {
+            "playerId": "363465",
+            "date": "2025-03-05T00:00:00+01:00",
+            "contractUntilDate": "2026-11-30T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/5555585"
+        },
+        {
+          "id": "4792989",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "16005",
+            "coachId": "76679"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22178",
+            "coachId": "59839"
+          },
+          "details": {
+            "playerId": "363465",
+            "date": "2024-01-08T00:00:00+01:00",
+            "contractUntilDate": "2025-01-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 23,
+              "daysDisplay": "23 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/4792989"
+        },
+        {
+          "id": "3669769",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "23548",
+            "coachId": "10242"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "16005",
+            "coachId": "14862"
+          },
+          "details": {
+            "playerId": "363465",
+            "date": "2022-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/3669769"
+        },
+        {
+          "id": "3482499",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "16005",
+            "coachId": "14862"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "23548",
+            "coachId": "10242"
+          },
+          "details": {
+            "playerId": "363465",
+            "date": "2022-01-31T00:00:00+01:00",
+            "contractUntilDate": "2022-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/3482499"
+        },
+        {
+          "id": "3482498",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "23548",
+            "coachId": "10242"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "16005",
+            "coachId": "14862"
+          },
+          "details": {
+            "playerId": "363465",
+            "date": "2021-08-05T00:00:00+02:00",
+            "contractUntilDate": "2022-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 179,
+              "daysDisplay": "5 Months, 26 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/3482498"
+        },
+        {
+          "id": "2755895",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "11929"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "23548",
+            "coachId": "44308"
+          },
+          "details": {
+            "playerId": "363465",
+            "date": "2020-02-01T00:00:00+01:00",
+            "contractUntilDate": "2022-01-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/2755895"
+        },
+        {
+          "id": "2348549",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "23580",
+            "coachId": "4423"
+          },
+          "transferDestination": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "11929"
+          },
+          "details": {
+            "playerId": "363465",
+            "date": "2020-01-31T00:00:00+01:00",
+            "contractUntilDate": "2020-01-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/2348549"
+        },
+        {
+          "id": "2348548",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "11929"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "23580",
+            "coachId": "4423"
+          },
+          "details": {
+            "playerId": "363465",
+            "date": "2019-02-01T00:00:00+01:00",
+            "contractUntilDate": "2020-01-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/2348548"
+        },
+        {
+          "id": "1667568",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "28730",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "1241"
+          },
+          "details": {
+            "playerId": "363465",
+            "date": "2018-01-31T00:00:00+01:00",
+            "contractUntilDate": "2020-01-31T00:00:00+01:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/1667568"
+        },
+        {
+          "id": "1667567",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "1241"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "28730",
+            "coachId": "13970"
+          },
+          "details": {
+            "playerId": "363465",
+            "date": "2017-02-01T00:00:00+01:00",
+            "contractUntilDate": "2018-01-31T00:00:00+01:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1094,
+              "daysDisplay": "2 Years, 11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/1667567"
+        },
+        {
+          "id": "1214182",
+          "transferSource": {
+            "competitionId": "J18E",
+            "countryId": 77,
+            "clubId": "24137",
+            "coachId": "76616"
+          },
+          "transferDestination": {
+            "competitionId": "JL11",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "1241"
+          },
+          "details": {
+            "playerId": "363465",
+            "date": "2016-02-01T00:00:00+01:00",
+            "contractUntilDate": "2020-01-31T00:00:00+01:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/1214182"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 29,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "22178",
+      "124312",
+      "16005",
+      "23548",
+      "3828",
+      "23580",
+      "28730",
+      "24137"
+    ],
+    "coachIds": [
+      "33951",
+      "10275",
+      "76679",
+      "59839",
+      "10242",
+      "14862",
+      "11929",
+      "44308",
+      "4423",
+      "1241",
+      "13970",
+      "76616"
+    ],
+    "competitionIds": [
+      "JAP3",
+      "USC3",
+      "JAP2",
+      "JAP1",
+      "J18E",
+      "JL11"
+    ],
+    "mostRecentTransfer": {
+      "id": "5555585",
+      "transferSource": {
+        "competitionId": "JAP3",
+        "countryId": 77,
+        "clubId": "22178",
+        "coachId": "33951"
+      },
+      "transferDestination": {
+        "competitionId": "USC3",
+        "countryId": 184,
+        "clubId": "124312",
+        "coachId": "10275"
+      },
+      "details": {
+        "playerId": "363465",
+        "date": "2025-03-05T00:00:00+01:00",
+        "contractUntilDate": "2026-11-30T00:00:00+01:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 225000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "225.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/masashi-wada/transfers/spieler/363465/transfer_id/5555585"
+    }
+  }
+}

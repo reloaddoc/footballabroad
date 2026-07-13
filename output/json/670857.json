@@ -1,0 +1,594 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "670857",
+    "history": {
+      "terminated": [
+        {
+          "id": "6318185",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1034",
+            "coachId": "47358"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "670857",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jude-soonsup-bell/transfers/spieler/670857/transfer_id/6318185"
+        },
+        {
+          "id": "5855204",
+          "transferSource": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "993",
+            "coachId": "47512"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1034",
+            "coachId": "47358"
+          },
+          "details": {
+            "playerId": "670857",
+            "date": "2025-08-11T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 323,
+              "daysDisplay": "10 Months, 19 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jude-soonsup-bell/transfers/spieler/670857/transfer_id/5855204"
+        },
+        {
+          "id": "5501056",
+          "transferSource": {
+            "competitionId": "E3G2",
+            "countryId": 157,
+            "clubId": "21322",
+            "coachId": "54075"
+          },
+          "transferDestination": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "993",
+            "coachId": "47512"
+          },
+          "details": {
+            "playerId": "670857",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jude-soonsup-bell/transfers/spieler/670857/transfer_id/5501056"
+        },
+        {
+          "id": "5501053",
+          "transferSource": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "993",
+            "coachId": "47512"
+          },
+          "transferDestination": {
+            "competitionId": "E3G2",
+            "countryId": 157,
+            "clubId": "21322",
+            "coachId": "134996"
+          },
+          "details": {
+            "playerId": "670857",
+            "date": "2025-02-03T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 512,
+              "daysDisplay": "1 Year, 4 Months, 27 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jude-soonsup-bell/transfers/spieler/670857/transfer_id/5501053"
+        },
+        {
+          "id": "5217274",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9254",
+            "coachId": "33031"
+          },
+          "transferDestination": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "993",
+            "coachId": "47512"
+          },
+          "details": {
+            "playerId": "670857",
+            "date": "2024-08-22T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 312,
+              "daysDisplay": "10 Months, 8 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jude-soonsup-bell/transfers/spieler/670857/transfer_id/5217274"
+        },
+        {
+          "id": "4251792",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9250",
+            "coachId": "89192"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9254",
+            "coachId": "33031"
+          },
+          "details": {
+            "playerId": "670857",
+            "date": "2023-01-31T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jude-soonsup-bell/transfers/spieler/670857/transfer_id/4251792"
+        },
+        {
+          "id": "3516140",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6918",
+            "coachId": "70728"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9250",
+            "coachId": "89192"
+          },
+          "details": {
+            "playerId": "670857",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jude-soonsup-bell/transfers/spieler/670857/transfer_id/3516140"
+        },
+        {
+          "id": "2954515",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "50677",
+            "coachId": "121913"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6918",
+            "coachId": "70728"
+          },
+          "details": {
+            "playerId": "670857",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jude-soonsup-bell/transfers/spieler/670857/transfer_id/2954515"
+        },
+        {
+          "id": "5856922",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "52915",
+            "coachId": "124999"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "50677",
+            "coachId": "127201"
+          },
+          "details": {
+            "playerId": "670857",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 11,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jude-soonsup-bell/transfers/spieler/670857/transfer_id/5856922"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1034",
+      "515",
+      "993",
+      "21322",
+      "9254",
+      "9250",
+      "6918",
+      "50677",
+      "52915"
+    ],
+    "coachIds": [
+      "47358",
+      "47512",
+      "54075",
+      "134996",
+      "33031",
+      "89192",
+      "70728",
+      "121913",
+      "124999",
+      "127201"
+    ],
+    "competitionIds": [
+      "GB4",
+      "ES2",
+      "E3G2",
+      "GB21",
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "6318185",
+      "transferSource": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "1034",
+        "coachId": "47358"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "670857",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jude-soonsup-bell/transfers/spieler/670857/transfer_id/6318185"
+    }
+  }
+}

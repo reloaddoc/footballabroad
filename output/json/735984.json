@@ -1,0 +1,435 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "735984",
+    "history": {
+      "terminated": [
+        {
+          "id": "6322523",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 56,
+            "clubId": "2984",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "735984",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-shlimon/transfers/spieler/735984/transfer_id/6322523"
+        },
+        {
+          "id": "6137576",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "4380",
+            "coachId": "40805"
+          },
+          "transferDestination": {
+            "competitionId": "GRS2",
+            "countryId": 56,
+            "clubId": "2984",
+            "coachId": "56513"
+          },
+          "details": {
+            "playerId": "735984",
+            "date": "2026-01-22T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-shlimon/transfers/spieler/735984/transfer_id/6137576"
+        },
+        {
+          "id": "5902854",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "145281"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "4380",
+            "coachId": "141040"
+          },
+          "details": {
+            "playerId": "735984",
+            "date": "2025-08-29T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 124,
+              "daysDisplay": "4 Months, 2 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-shlimon/transfers/spieler/735984/transfer_id/5902854"
+        },
+        {
+          "id": "3687869",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "45537",
+            "coachId": "4411"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "735984",
+            "date": "2022-01-09T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 356,
+              "daysDisplay": "11 Months, 22 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-shlimon/transfers/spieler/735984/transfer_id/3687869"
+        },
+        {
+          "id": "2754945",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "80781",
+            "coachId": "115683"
+          },
+          "transferDestination": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "45537",
+            "coachId": "64815"
+          },
+          "details": {
+            "playerId": "735984",
+            "date": "2020-01-11T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-shlimon/transfers/spieler/735984/transfer_id/2754945"
+        },
+        {
+          "id": "4742671",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "102943",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "80781",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "735984",
+            "date": "2018-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-shlimon/transfers/spieler/735984/transfer_id/4742671"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2984",
+      "515",
+      "4380",
+      "1056",
+      "45537",
+      "80781",
+      "102943"
+    ],
+    "coachIds": [
+      "40805",
+      "56513",
+      "145281",
+      "141040",
+      "4411",
+      "115683",
+      "64815"
+    ],
+    "competitionIds": [
+      "SE3N",
+      "GRS2",
+      "SE2",
+      "SE3S"
+    ],
+    "mostRecentTransfer": {
+      "id": "6322523",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 56,
+        "clubId": "2984",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "735984",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/lucas-shlimon/transfers/spieler/735984/transfer_id/6322523"
+    }
+  }
+}

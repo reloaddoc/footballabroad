@@ -1,0 +1,928 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "141655",
+    "history": {
+      "terminated": [
+        {
+          "id": "4828749",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "8877",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "123",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/4828749"
+        },
+        {
+          "id": "4284947",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "85287",
+            "coachId": "116938"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "8877",
+            "coachId": "59885"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2023-02-19T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 131,
+              "daysDisplay": "4 Months, 11 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/4284947"
+        },
+        {
+          "id": "3858683",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "7454",
+            "coachId": "35115"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "85287",
+            "coachId": "154238"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/3858683"
+        },
+        {
+          "id": "3682799",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1098",
+            "coachId": "26630"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "7454",
+            "coachId": "35115"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2022-04-02T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 89,
+              "daysDisplay": "2 Months, 28 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/3682799"
+        },
+        {
+          "id": "3367134",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "352",
+            "coachId": "33915"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1098",
+            "coachId": "38908"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2021-09-11T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 292,
+              "daysDisplay": "9 Months, 19 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/3367134"
+        },
+        {
+          "id": "2480461",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "349",
+            "coachId": "8501"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "352",
+            "coachId": "56532"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 365,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/2480461"
+        },
+        {
+          "id": "1818259",
+          "transferSource": {
+            "competitionId": "GB1",
+            "countryId": 189,
+            "clubId": "873",
+            "coachId": "8371"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "349",
+            "coachId": "45358"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 1500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.50",
+                "suffix": "M"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/1818259"
+        },
+        {
+          "id": "1219391",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "677",
+            "coachId": "599"
+          },
+          "transferDestination": {
+            "competitionId": "GB1",
+            "countryId": 189,
+            "clubId": "873",
+            "coachId": "1988"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2015-05-31T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 3500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "3.50",
+                "suffix": "M"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/1219391"
+        },
+        {
+          "id": "1219390",
+          "transferSource": {
+            "competitionId": "GB1",
+            "countryId": 189,
+            "clubId": "873",
+            "coachId": "1988"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "677",
+            "coachId": "599"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2015-03-26T00:00:00+01:00",
+            "contractUntilDate": "2015-05-31T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 3500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "3.50",
+                "suffix": "M"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 827,
+              "daysDisplay": "2 Years, 3 Months, 4 Days"
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/1219390"
+        },
+        {
+          "id": "1193282",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "1194",
+            "coachId": "4127"
+          },
+          "transferDestination": {
+            "competitionId": "GB1",
+            "countryId": 189,
+            "clubId": "873",
+            "coachId": "1988"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2015-03-15T00:00:00+01:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 3500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "3.50",
+                "suffix": "M"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/1193282"
+        },
+        {
+          "id": "1193281",
+          "transferSource": {
+            "competitionId": "GB1",
+            "countryId": 189,
+            "clubId": "873",
+            "coachId": "1988"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "1194",
+            "coachId": "4127"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2015-01-16T00:00:00+01:00",
+            "contractUntilDate": "2015-02-15T00:00:00+01:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 3500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "3.50",
+                "suffix": "M"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 896,
+              "daysDisplay": "2 Years, 5 Months, 14 Days"
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/1193281"
+        },
+        {
+          "id": "1123123",
+          "transferSource": {
+            "competitionId": "GB1",
+            "countryId": 189,
+            "clubId": "148",
+            "coachId": "9044"
+          },
+          "transferDestination": {
+            "competitionId": "GB1",
+            "countryId": 189,
+            "clubId": "873",
+            "coachId": "1527"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2014-09-01T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 2500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "2.50",
+                "suffix": "M"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 3800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "3.80",
+                "suffix": "M"
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/1123123"
+        },
+        {
+          "id": "816797",
+          "transferSource": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "3057",
+            "coachId": "4796"
+          },
+          "transferDestination": {
+            "competitionId": "GB1",
+            "countryId": 189,
+            "clubId": "148",
+            "coachId": "1696"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2013-01-03T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 3500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "3.50",
+                "suffix": "M"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 543,
+              "daysDisplay": "1 Year, 5 Months, 27 Days"
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/816797"
+        },
+        {
+          "id": "773460",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9251",
+            "coachId": "3866"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "3057",
+            "coachId": "512"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2012-08-23T00:00:00+02:00",
+            "contractUntilDate": "2014-06-30T00:00:00+02:00",
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/773460"
+        },
+        {
+          "id": "648791",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "5242",
+            "coachId": "16208"
+          },
+          "transferDestination": {
+            "competitionId": "GBR",
+            "countryId": 189,
+            "clubId": "9251",
+            "coachId": "7286"
+          },
+          "details": {
+            "playerId": "141655",
+            "date": "2010-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/648791"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 7300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "7.30",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 33,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "8877",
+      "123",
+      "85287",
+      "7454",
+      "1098",
+      "352",
+      "349",
+      "873",
+      "677",
+      "1194",
+      "148",
+      "3057",
+      "9251",
+      "5242"
+    ],
+    "coachIds": [
+      "116938",
+      "59885",
+      "35115",
+      "154238",
+      "26630",
+      "33915",
+      "38908",
+      "8501",
+      "56532",
+      "8371",
+      "45358",
+      "599",
+      "1988",
+      "4127",
+      "9044",
+      "1527",
+      "4796",
+      "1696",
+      "3866",
+      "512",
+      "16208",
+      "7286"
+    ],
+    "competitionIds": [
+      "SE3N",
+      "SE2",
+      "NLS6",
+      "CNAT",
+      "GB4",
+      "GB2",
+      "GB1",
+      "BE1",
+      "GB21",
+      "GBR"
+    ],
+    "mostRecentTransfer": {
+      "id": "4828749",
+      "transferSource": {
+        "competitionId": "SE3N",
+        "countryId": 147,
+        "clubId": "8877",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "123",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "141655",
+        "date": "2024-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 31,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/zeki-fryers/transfers/spieler/141655/transfer_id/4828749"
+    }
+  }
+}

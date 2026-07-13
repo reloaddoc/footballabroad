@@ -1,0 +1,602 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "944742",
+    "history": {
+      "terminated": [
+        {
+          "id": "6133979",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2793",
+            "coachId": "41965"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3820",
+            "coachId": "4374"
+          },
+          "details": {
+            "playerId": "944742",
+            "date": "2026-04-26T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/6133979"
+        },
+        {
+          "id": "6133978",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3820",
+            "coachId": "4374"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2793",
+            "coachId": "41965"
+          },
+          "details": {
+            "playerId": "944742",
+            "date": "2026-01-20T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/6133978"
+        },
+        {
+          "id": "5481291",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3456",
+            "coachId": "91726"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3820",
+            "coachId": "4374"
+          },
+          "details": {
+            "playerId": "944742",
+            "date": "2025-05-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/5481291"
+        },
+        {
+          "id": "5354820",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3820",
+            "coachId": "4374"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3456",
+            "coachId": "91726"
+          },
+          "details": {
+            "playerId": "944742",
+            "date": "2024-11-13T00:00:00+01:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/5354820"
+        },
+        {
+          "id": "4498186",
+          "transferSource": {
+            "competitionId": "IR2",
+            "countryId": 72,
+            "clubId": "26765",
+            "coachId": "99855"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3820",
+            "coachId": "4374"
+          },
+          "details": {
+            "playerId": "944742",
+            "date": "2024-07-25T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/4498186"
+        },
+        {
+          "id": "4498185",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3820",
+            "coachId": "4374"
+          },
+          "transferDestination": {
+            "competitionId": "IR2",
+            "countryId": 72,
+            "clubId": "26765",
+            "coachId": "99855"
+          },
+          "details": {
+            "playerId": "944742",
+            "date": "2023-07-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 354,
+              "daysDisplay": "11 Months, 18 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/4498185"
+        },
+        {
+          "id": "4121963",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "3818",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3820",
+            "coachId": "4374"
+          },
+          "details": {
+            "playerId": "944742",
+            "date": "2023-05-31T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/4121963"
+        },
+        {
+          "id": "4121962",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3820",
+            "coachId": "4374"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "3818",
+            "coachId": "6348"
+          },
+          "details": {
+            "playerId": "944742",
+            "date": "2022-09-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/4121962"
+        },
+        {
+          "id": "3881431",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "15892",
+            "coachId": "36981"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3820",
+            "coachId": "4374"
+          },
+          "details": {
+            "playerId": "944742",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/3881431"
+        },
+        {
+          "id": "3672277",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "12658",
+            "coachId": "26437"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "15892",
+            "coachId": "36981"
+          },
+          "details": {
+            "playerId": "944742",
+            "date": "2022-01-09T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/3672277"
+        },
+        {
+          "id": "3672276",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "15892",
+            "coachId": "36981"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "12658",
+            "coachId": "26437"
+          },
+          "details": {
+            "playerId": "944742",
+            "date": "2021-12-11T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/3672276"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2793",
+      "3820",
+      "3456",
+      "26765",
+      "3818",
+      "15892",
+      "12658"
+    ],
+    "coachIds": [
+      "41965",
+      "4374",
+      "91726",
+      "99855",
+      "6348",
+      "36981",
+      "26437"
+    ],
+    "competitionIds": [
+      "CNAT",
+      "GB3",
+      "IR2",
+      "GB4",
+      "NLN6"
+    ],
+    "mostRecentTransfer": {
+      "id": "6133979",
+      "transferSource": {
+        "competitionId": "CNAT",
+        "countryId": 189,
+        "clubId": "2793",
+        "coachId": "41965"
+      },
+      "transferDestination": {
+        "competitionId": "GB3",
+        "countryId": 189,
+        "clubId": "3820",
+        "coachId": "4374"
+      },
+      "details": {
+        "playerId": "944742",
+        "date": "2026-04-26T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/owen-mason/transfers/spieler/944742/transfer_id/6133979"
+    }
+  }
+}

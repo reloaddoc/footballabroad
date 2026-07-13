@@ -1,0 +1,274 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "631704",
+    "history": {
+      "terminated": [
+        {
+          "id": "4864320",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1063",
+            "coachId": "90625"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1045",
+            "coachId": "90282"
+          },
+          "details": {
+            "playerId": "631704",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alassana-jatta/transfers/spieler/631704/transfer_id/4864320"
+        },
+        {
+          "id": "2590917",
+          "transferSource": {
+            "competitionId": "EST1",
+            "countryId": 47,
+            "clubId": "23371",
+            "coachId": "38985"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1063",
+            "coachId": "27714"
+          },
+          "details": {
+            "playerId": "631704",
+            "date": "2019-08-05T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 514,
+              "daysDisplay": "1 Year, 4 Months, 26 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alassana-jatta/transfers/spieler/631704/transfer_id/2590917"
+        },
+        {
+          "id": "2307709",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 52,
+            "clubId": "2871",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "EST1",
+            "countryId": 47,
+            "clubId": "23371",
+            "coachId": "38985"
+          },
+          "details": {
+            "playerId": "631704",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": "2020-12-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alassana-jatta/transfers/spieler/631704/transfer_id/2307709"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 250000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "250.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 600000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "600.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1063",
+      "1045",
+      "23371",
+      "2871"
+    ],
+    "coachIds": [
+      "90625",
+      "90282",
+      "38985",
+      "27714"
+    ],
+    "competitionIds": [
+      "DK1",
+      "GB4",
+      "EST1",
+      "DK2"
+    ],
+    "mostRecentTransfer": {
+      "id": "4864320",
+      "transferSource": {
+        "competitionId": "DK1",
+        "countryId": 39,
+        "clubId": "1063",
+        "coachId": "90625"
+      },
+      "transferDestination": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "1045",
+        "coachId": "90282"
+      },
+      "details": {
+        "playerId": "631704",
+        "date": "2024-02-01T00:00:00+01:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 400000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "400.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 150,
+          "daysDisplay": "4 Months, 29 Days"
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/alassana-jatta/transfers/spieler/631704/transfer_id/4864320"
+    }
+  }
+}

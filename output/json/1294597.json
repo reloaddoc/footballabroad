@@ -1,0 +1,203 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1294597",
+    "history": {
+      "terminated": [
+        {
+          "id": "5478680",
+          "transferSource": {
+            "competitionId": "511",
+            "countryId": 122,
+            "clubId": "10790",
+            "coachId": "114928"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "4750",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1294597",
+            "date": "2025-01-24T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giornny-dos-santos/transfers/spieler/1294597/transfer_id/5478680"
+        },
+        {
+          "id": "5207173",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "33139",
+            "coachId": "68106"
+          },
+          "transferDestination": {
+            "competitionId": "511",
+            "countryId": 122,
+            "clubId": "10790",
+            "coachId": "114928"
+          },
+          "details": {
+            "playerId": "1294597",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giornny-dos-santos/transfers/spieler/1294597/transfer_id/5207173"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "10790",
+      "4750",
+      "33139"
+    ],
+    "coachIds": [
+      "114928",
+      "68106"
+    ],
+    "competitionIds": [
+      "511"
+    ],
+    "mostRecentTransfer": {
+      "id": "5478680",
+      "transferSource": {
+        "competitionId": "511",
+        "countryId": 122,
+        "clubId": "10790",
+        "coachId": "114928"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 136,
+        "clubId": "4750",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1294597",
+        "date": "2025-01-24T00:00:00+01:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/giornny-dos-santos/transfers/spieler/1294597/transfer_id/5478680"
+    }
+  }
+}

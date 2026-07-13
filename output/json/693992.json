@@ -1,0 +1,438 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "693992",
+    "history": {
+      "terminated": [
+        {
+          "id": "6388660",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "66",
+            "coachId": "104860"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2974",
+            "coachId": "6744"
+          },
+          "details": {
+            "playerId": "693992",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nils-ortel/transfers/spieler/693992/transfer_id/6388660"
+        },
+        {
+          "id": "5050213",
+          "transferSource": {
+            "competitionId": "LBSW",
+            "countryId": 40,
+            "clubId": "67",
+            "coachId": "97905"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "66",
+            "coachId": "62513"
+          },
+          "details": {
+            "playerId": "693992",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 181,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nils-ortel/transfers/spieler/693992/transfer_id/5050213"
+        },
+        {
+          "id": "4218703",
+          "transferSource": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "8207",
+            "coachId": "62513"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "67",
+            "coachId": "62513"
+          },
+          "details": {
+            "playerId": "693992",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nils-ortel/transfers/spieler/693992/transfer_id/4218703"
+        },
+        {
+          "id": "3438389",
+          "transferSource": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "33034",
+            "coachId": "62513"
+          },
+          "transferDestination": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "8207",
+            "coachId": "9128"
+          },
+          "details": {
+            "playerId": "693992",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nils-ortel/transfers/spieler/693992/transfer_id/3438389"
+        },
+        {
+          "id": "2602736",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "36747",
+            "coachId": "95409"
+          },
+          "transferDestination": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "33034",
+            "coachId": "62513"
+          },
+          "details": {
+            "playerId": "693992",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nils-ortel/transfers/spieler/693992/transfer_id/2602736"
+        },
+        {
+          "id": "4979706",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "18936",
+            "coachId": "24855"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "36747",
+            "coachId": "92408"
+          },
+          "details": {
+            "playerId": "693992",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nils-ortel/transfers/spieler/693992/transfer_id/4979706"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "66",
+      "2974",
+      "67",
+      "8207",
+      "33034",
+      "36747",
+      "18936"
+    ],
+    "coachIds": [
+      "104860",
+      "6744",
+      "97905",
+      "62513",
+      "9128",
+      "95409",
+      "24855",
+      "92408"
+    ],
+    "competitionIds": [
+      "RLB3",
+      "BE2",
+      "LBSW",
+      "L3",
+      "AJ3",
+      "BJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6388660",
+      "transferSource": {
+        "competitionId": "RLB3",
+        "countryId": 40,
+        "clubId": "66",
+        "coachId": "104860"
+      },
+      "transferDestination": {
+        "competitionId": "BE2",
+        "countryId": 19,
+        "clubId": "2974",
+        "coachId": "6744"
+      },
+      "details": {
+        "playerId": "693992",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/nils-ortel/transfers/spieler/693992/transfer_id/6388660"
+    }
+  }
+}

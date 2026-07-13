@@ -1,0 +1,260 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1171635",
+    "history": {
+      "terminated": [
+        {
+          "id": "6176565",
+          "transferSource": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "23564",
+            "coachId": "64224"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5784",
+            "coachId": "35332"
+          },
+          "details": {
+            "playerId": "1171635",
+            "date": "2026-02-05T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/marcus-ryberg/transfers/spieler/1171635/transfer_id/6176565"
+        },
+        {
+          "id": "5885381",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "15642",
+            "coachId": "82620"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "23564",
+            "coachId": "64224"
+          },
+          "details": {
+            "playerId": "1171635",
+            "date": "2025-08-22T00:00:00+02:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/marcus-ryberg/transfers/spieler/1171635/transfer_id/5885381"
+        },
+        {
+          "id": "4597497",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "15734",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "15642",
+            "coachId": "82620"
+          },
+          "details": {
+            "playerId": "1171635",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/marcus-ryberg/transfers/spieler/1171635/transfer_id/4597497"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "23564",
+      "5784",
+      "15642",
+      "15734"
+    ],
+    "coachIds": [
+      "64224",
+      "35332",
+      "82620"
+    ],
+    "competitionIds": [
+      "FI1",
+      "DK2",
+      "DKDL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6176565",
+      "transferSource": {
+        "competitionId": "FI1",
+        "countryId": 49,
+        "clubId": "23564",
+        "coachId": "64224"
+      },
+      "transferDestination": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "5784",
+        "coachId": "35332"
+      },
+      "details": {
+        "playerId": "1171635",
+        "date": "2026-02-05T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 25000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "25.00",
+            "suffix": "K"
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/marcus-ryberg/transfers/spieler/1171635/transfer_id/6176565"
+    }
+  }
+}

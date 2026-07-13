@@ -1,0 +1,872 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "509630",
+    "history": {
+      "terminated": [
+        {
+          "id": "6346386",
+          "transferSource": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "90",
+            "coachId": "54574"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/6346386"
+        },
+        {
+          "id": "5729232",
+          "transferSource": {
+            "competitionId": "MNP3",
+            "countryId": 184,
+            "clubId": "33285",
+            "coachId": "98165"
+          },
+          "transferDestination": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "90",
+            "coachId": "53458"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 183,
+              "daysDisplay": "5 Months, 30 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/5729232"
+        },
+        {
+          "id": "5557910",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MNP3",
+            "countryId": 184,
+            "clubId": "33285",
+            "coachId": "98165"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2025-03-06T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/5557910"
+        },
+        {
+          "id": "5371569",
+          "transferSource": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "51828",
+            "coachId": "34485"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/5371569"
+        },
+        {
+          "id": "5003535",
+          "transferSource": {
+            "competitionId": "MNP3",
+            "countryId": 184,
+            "clubId": "102400",
+            "coachId": "50620"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "51828",
+            "coachId": "34485"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2024-05-03T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 242,
+              "daysDisplay": "7 Months, 28 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/5003535"
+        },
+        {
+          "id": "4936086",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "65581",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MNP3",
+            "countryId": 184,
+            "clubId": "102400",
+            "coachId": "50620"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2024-03-11T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/4936086"
+        },
+        {
+          "id": "4945860",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "118518",
+            "coachId": "93481"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "65581",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2023-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/4945860"
+        },
+        {
+          "id": "4945859",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "65581",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "118518",
+            "coachId": "93481"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2023-05-01T00:00:00+02:00",
+            "contractUntilDate": "2023-08-01T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/4945859"
+        },
+        {
+          "id": "2998833",
+          "transferSource": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "2492",
+            "coachId": "24949"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "65581",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2020-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/2998833"
+        },
+        {
+          "id": "2785103",
+          "transferSource": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "10075",
+            "coachId": "2091"
+          },
+          "transferDestination": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "2492",
+            "coachId": "16818"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 181,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/2785103"
+        },
+        {
+          "id": "2504750",
+          "transferSource": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "1461",
+            "coachId": "1985"
+          },
+          "transferDestination": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "10075",
+            "coachId": "2091"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/2504750"
+        },
+        {
+          "id": "2129849",
+          "transferSource": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21048",
+            "coachId": "40756"
+          },
+          "transferDestination": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "1461",
+            "coachId": "1985"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/2129849"
+        },
+        {
+          "id": "1841223",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11880",
+            "coachId": "75055"
+          },
+          "transferDestination": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21048",
+            "coachId": "16306"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/1841223"
+        },
+        {
+          "id": "2785104",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "17958",
+            "coachId": "584"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11880",
+            "coachId": "40756"
+          },
+          "details": {
+            "playerId": "509630",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/2785104"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "90",
+      "515",
+      "33285",
+      "51828",
+      "102400",
+      "65581",
+      "118518",
+      "2492",
+      "10075",
+      "1461",
+      "21048",
+      "11880",
+      "17958"
+    ],
+    "coachIds": [
+      "54574",
+      "98165",
+      "53458",
+      "34485",
+      "50620",
+      "93481",
+      "24949",
+      "2091",
+      "16818",
+      "1985",
+      "40756",
+      "75055",
+      "16306",
+      "584"
+    ],
+    "competitionIds": [
+      "RLN4",
+      "MNP3",
+      "MLS1",
+      "AJ1",
+      "AJ2",
+      "BJ2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6346386",
+      "transferSource": {
+        "competitionId": "RLN4",
+        "countryId": 40,
+        "clubId": "90",
+        "coachId": "54574"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "509630",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 364,
+          "daysDisplay": "11 Months, 29 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/luis-mueller/transfers/spieler/509630/transfer_id/6346386"
+    }
+  }
+}

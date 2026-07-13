@@ -1,0 +1,558 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "445449",
+    "history": {
+      "terminated": [
+        {
+          "id": "6191927",
+          "transferSource": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "456",
+            "coachId": "39082"
+          },
+          "transferDestination": {
+            "competitionId": "LI1",
+            "countryId": 98,
+            "clubId": "23559",
+            "coachId": "69610"
+          },
+          "details": {
+            "playerId": "445449",
+            "date": "2026-02-14T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ricardo-henning/transfers/spieler/445449/transfer_id/6191927"
+        },
+        {
+          "id": "5487680",
+          "transferSource": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "404",
+            "coachId": "28556"
+          },
+          "transferDestination": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "456",
+            "coachId": "108827"
+          },
+          "details": {
+            "playerId": "445449",
+            "date": "2025-02-17T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 133,
+              "daysDisplay": "4 Months, 13 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ricardo-henning/transfers/spieler/445449/transfer_id/5487680"
+        },
+        {
+          "id": "4477561",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "438",
+            "coachId": "57371"
+          },
+          "transferDestination": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "404",
+            "coachId": "10813"
+          },
+          "details": {
+            "playerId": "445449",
+            "date": "2023-07-27T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ricardo-henning/transfers/spieler/445449/transfer_id/4477561"
+        },
+        {
+          "id": "2498343",
+          "transferSource": {
+            "competitionId": "LNBR",
+            "countryId": 40,
+            "clubId": "1212",
+            "coachId": "13378"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "438",
+            "coachId": "6509"
+          },
+          "details": {
+            "playerId": "445449",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ricardo-henning/transfers/spieler/445449/transfer_id/2498343"
+        },
+        {
+          "id": "2456348",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "9196",
+            "coachId": "14894"
+          },
+          "transferDestination": {
+            "competitionId": "OBLN",
+            "countryId": 40,
+            "clubId": "1212",
+            "coachId": "40810"
+          },
+          "details": {
+            "playerId": "445449",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 180,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ricardo-henning/transfers/spieler/445449/transfer_id/2456348"
+        },
+        {
+          "id": "1819791",
+          "transferSource": {
+            "competitionId": "BJ1",
+            "countryId": 40,
+            "clubId": "22725",
+            "coachId": "22092"
+          },
+          "transferDestination": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "9196",
+            "coachId": "14894"
+          },
+          "details": {
+            "playerId": "445449",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ricardo-henning/transfers/spieler/445449/transfer_id/1819791"
+        },
+        {
+          "id": "1532970",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "18657",
+            "coachId": "56342"
+          },
+          "transferDestination": {
+            "competitionId": "BJ1",
+            "countryId": 40,
+            "clubId": "22725",
+            "coachId": "22092"
+          },
+          "details": {
+            "playerId": "445449",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ricardo-henning/transfers/spieler/445449/transfer_id/1532970"
+        },
+        {
+          "id": "1533690",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "46020",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "18657",
+            "coachId": "39907"
+          },
+          "details": {
+            "playerId": "445449",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ricardo-henning/transfers/spieler/445449/transfer_id/1533690"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 350000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "350.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "456",
+      "23559",
+      "404",
+      "438",
+      "1212",
+      "9196",
+      "22725",
+      "18657",
+      "46020"
+    ],
+    "coachIds": [
+      "39082",
+      "69610",
+      "28556",
+      "108827",
+      "57371",
+      "10813",
+      "13378",
+      "6509",
+      "14894",
+      "40810",
+      "22092",
+      "56342",
+      "39907"
+    ],
+    "competitionIds": [
+      "KR1",
+      "LI1",
+      "NL2",
+      "KR2",
+      "RLW3",
+      "LNBR",
+      "OBLN",
+      "BJ1",
+      "AJ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6191927",
+      "transferSource": {
+        "competitionId": "KR1",
+        "countryId": 37,
+        "clubId": "456",
+        "coachId": "39082"
+      },
+      "transferDestination": {
+        "competitionId": "LI1",
+        "countryId": 98,
+        "clubId": "23559",
+        "coachId": "69610"
+      },
+      "details": {
+        "playerId": "445449",
+        "date": "2026-02-14T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ricardo-henning/transfers/spieler/445449/transfer_id/6191927"
+    }
+  }
+}

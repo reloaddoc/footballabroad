@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1282419",
+    "history": {
+      "terminated": [
+        {
+          "id": "5238597",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "67285",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "12801",
+            "coachId": "60251"
+          },
+          "details": {
+            "playerId": "1282419",
+            "date": "2024-08-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": null,
+            "fee": {
+              "value": 355000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "355.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastian-lochhead/transfers/spieler/1282419/transfer_id/5238597"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 355000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "355.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 0,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "67285",
+      "12801"
+    ],
+    "coachIds": [
+      "60251"
+    ],
+    "competitionIds": [
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "5238597",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 190,
+        "clubId": "67285",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "GB18",
+        "countryId": 189,
+        "clubId": "12801",
+        "coachId": "60251"
+      },
+      "details": {
+        "playerId": "1282419",
+        "date": "2024-08-30T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": null,
+        "fee": {
+          "value": 355000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "355.00",
+            "suffix": "K"
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/sebastian-lochhead/transfers/spieler/1282419/transfer_id/5238597"
+    }
+  }
+}

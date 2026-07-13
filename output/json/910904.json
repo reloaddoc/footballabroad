@@ -1,0 +1,360 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "910904",
+    "history": {
+      "terminated": [
+        {
+          "id": "5863912",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "54189",
+            "coachId": "147187"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "12764",
+            "coachId": "61491"
+          },
+          "details": {
+            "playerId": "910904",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/yacine-chaib/transfers/spieler/910904/transfer_id/5863912"
+        },
+        {
+          "id": "5863911",
+          "transferSource": {
+            "competitionId": "C3IF",
+            "countryId": 50,
+            "clubId": "12764",
+            "coachId": "61491"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "54189",
+            "coachId": "129450"
+          },
+          "details": {
+            "playerId": "910904",
+            "date": "2025-08-14T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 685,
+              "daysDisplay": "1 Year, 10 Months, 16 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/yacine-chaib/transfers/spieler/910904/transfer_id/5863911"
+        },
+        {
+          "id": "5009582",
+          "transferSource": {
+            "competitionId": "F19B",
+            "countryId": 50,
+            "clubId": "7813",
+            "coachId": "97064"
+          },
+          "transferDestination": {
+            "competitionId": "C3AR",
+            "countryId": 50,
+            "clubId": "12764",
+            "coachId": "61491"
+          },
+          "details": {
+            "playerId": "910904",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1460,
+              "daysDisplay": "3 Years, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yacine-chaib/transfers/spieler/910904/transfer_id/5009582"
+        },
+        {
+          "id": "4001457",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "106295",
+            "coachId": "120162"
+          },
+          "transferDestination": {
+            "competitionId": "F19B",
+            "countryId": 50,
+            "clubId": "7813",
+            "coachId": "23296"
+          },
+          "details": {
+            "playerId": "910904",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yacine-chaib/transfers/spieler/910904/transfer_id/4001457"
+        },
+        {
+          "id": "4504061",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "69570",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "106295",
+            "coachId": "120162"
+          },
+          "details": {
+            "playerId": "910904",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yacine-chaib/transfers/spieler/910904/transfer_id/4504061"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "54189",
+      "12764",
+      "7813",
+      "106295",
+      "69570"
+    ],
+    "coachIds": [
+      "147187",
+      "61491",
+      "129450",
+      "97064",
+      "120162",
+      "23296"
+    ],
+    "competitionIds": [
+      "BE2",
+      "C3IF",
+      "F19B",
+      "C3AR"
+    ],
+    "mostRecentTransfer": {
+      "id": "5863912",
+      "transferSource": {
+        "competitionId": "BE2",
+        "countryId": 19,
+        "clubId": "54189",
+        "coachId": "147187"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 50,
+        "clubId": "12764",
+        "coachId": "61491"
+      },
+      "details": {
+        "playerId": "910904",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/yacine-chaib/transfers/spieler/910904/transfer_id/5863912"
+    }
+  }
+}

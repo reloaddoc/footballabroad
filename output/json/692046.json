@@ -1,0 +1,326 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "692046",
+    "history": {
+      "terminated": [
+        {
+          "id": "5807478",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "transferDestination": {
+            "competitionId": "IT3A",
+            "countryId": 75,
+            "clubId": "6692",
+            "coachId": "29628"
+          },
+          "details": {
+            "playerId": "692046",
+            "date": "2025-07-24T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 706,
+              "daysDisplay": "1 Year, 11 Months, 6 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/davide-dell-erba/transfers/spieler/692046/transfer_id/5807478"
+        },
+        {
+          "id": "4405028",
+          "transferSource": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "4780",
+            "coachId": "84981"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "details": {
+            "playerId": "692046",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/davide-dell-erba/transfers/spieler/692046/transfer_id/4405028"
+        },
+        {
+          "id": "3441108",
+          "transferSource": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "29176",
+            "coachId": "50886"
+          },
+          "transferDestination": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "4780",
+            "coachId": "38841"
+          },
+          "details": {
+            "playerId": "692046",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/davide-dell-erba/transfers/spieler/692046/transfer_id/3441108"
+        },
+        {
+          "id": "2606422",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "28103",
+            "coachId": "64282"
+          },
+          "transferDestination": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "29176",
+            "coachId": "50886"
+          },
+          "details": {
+            "playerId": "692046",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/davide-dell-erba/transfers/spieler/692046/transfer_id/2606422"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 225000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "225.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "28",
+      "6692",
+      "4780",
+      "29176",
+      "28103"
+    ],
+    "coachIds": [
+      "5716",
+      "29628",
+      "84981",
+      "50886",
+      "38841",
+      "64282"
+    ],
+    "competitionIds": [
+      "RLB3",
+      "IT3A",
+      "AJ3",
+      "BJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5807478",
+      "transferSource": {
+        "competitionId": "RLB3",
+        "countryId": 40,
+        "clubId": "28",
+        "coachId": "5716"
+      },
+      "transferDestination": {
+        "competitionId": "IT3A",
+        "countryId": 75,
+        "clubId": "6692",
+        "coachId": "29628"
+      },
+      "details": {
+        "playerId": "692046",
+        "date": "2025-07-24T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 706,
+          "daysDisplay": "1 Year, 11 Months, 6 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/davide-dell-erba/transfers/spieler/692046/transfer_id/5807478"
+    }
+  }
+}

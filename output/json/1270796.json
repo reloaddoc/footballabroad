@@ -1,0 +1,214 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1270796",
+    "history": {
+      "terminated": [
+        {
+          "id": "6413843",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "70232"
+          },
+          "transferDestination": {
+            "competitionId": "FR1",
+            "countryId": 50,
+            "clubId": "415",
+            "coachId": "38063"
+          },
+          "details": {
+            "playerId": "1270796",
+            "date": "2026-07-09T00:00:00+02:00",
+            "contractUntilDate": "2030-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 2500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "2.50",
+                "suffix": "M"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 722,
+              "daysDisplay": "1 Year, 11 Months, 21 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/christ-tape/transfers/spieler/1270796/transfer_id/6413843"
+        },
+        {
+          "id": "5171213",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 38,
+            "clubId": "47637",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "51796"
+          },
+          "details": {
+            "playerId": "1270796",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/christ-tape/transfers/spieler/1270796/transfer_id/5171213"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 2500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "2.50",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 800000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "800.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2414",
+      "415",
+      "47637"
+    ],
+    "coachIds": [
+      "70232",
+      "38063",
+      "51796"
+    ],
+    "competitionIds": [
+      "DK1",
+      "FR1",
+      "DK2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6413843",
+      "transferSource": {
+        "competitionId": "DK1",
+        "countryId": 39,
+        "clubId": "2414",
+        "coachId": "70232"
+      },
+      "transferDestination": {
+        "competitionId": "FR1",
+        "countryId": 50,
+        "clubId": "415",
+        "coachId": "38063"
+      },
+      "details": {
+        "playerId": "1270796",
+        "date": "2026-07-09T00:00:00+02:00",
+        "contractUntilDate": "2030-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 800000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "800.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": 2500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "2.50",
+            "suffix": "M"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 722,
+          "daysDisplay": "1 Year, 11 Months, 21 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/christ-tape/transfers/spieler/1270796/transfer_id/6413843"
+    }
+  }
+}

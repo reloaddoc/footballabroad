@@ -1,0 +1,640 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "626801",
+    "history": {
+      "terminated": [
+        {
+          "id": "6387956",
+          "transferSource": {
+            "competitionId": "BOS1",
+            "countryId": 24,
+            "clubId": "11040",
+            "coachId": "79816"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "626801",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-nikolov/transfers/spieler/626801/transfer_id/6387956"
+        },
+        {
+          "id": "6096532",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "5817",
+            "coachId": "24881"
+          },
+          "transferDestination": {
+            "competitionId": "BOS1",
+            "countryId": 24,
+            "clubId": "11040",
+            "coachId": "68000"
+          },
+          "details": {
+            "playerId": "626801",
+            "date": "2026-01-28T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 153,
+              "daysDisplay": "5 Months, 2 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-nikolov/transfers/spieler/626801/transfer_id/6096532"
+        },
+        {
+          "id": "5502224",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "19657",
+            "coachId": "88371"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "5817",
+            "coachId": "24881"
+          },
+          "details": {
+            "playerId": "626801",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ivan-nikolov/transfers/spieler/626801/transfer_id/5502224"
+        },
+        {
+          "id": "5502223",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "5817",
+            "coachId": "24881"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "19657",
+            "coachId": "88371"
+          },
+          "details": {
+            "playerId": "626801",
+            "date": "2025-02-03T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 512,
+              "daysDisplay": "1 Year, 4 Months, 27 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ivan-nikolov/transfers/spieler/626801/transfer_id/5502223"
+        },
+        {
+          "id": "4506698",
+          "transferSource": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "9892",
+            "coachId": "99641"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5817",
+            "coachId": "24881"
+          },
+          "details": {
+            "playerId": "626801",
+            "date": "2023-07-15T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 40000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "40.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-nikolov/transfers/spieler/626801/transfer_id/4506698"
+        },
+        {
+          "id": "3965248",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "77",
+            "coachId": "115930"
+          },
+          "transferDestination": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "9892",
+            "coachId": "6127"
+          },
+          "details": {
+            "playerId": "626801",
+            "date": "2022-07-22T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-nikolov/transfers/spieler/626801/transfer_id/3965248"
+        },
+        {
+          "id": "3527988",
+          "transferSource": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "45935",
+            "coachId": "27014"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "77",
+            "coachId": "69209"
+          },
+          "details": {
+            "playerId": "626801",
+            "date": "2021-09-04T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-nikolov/transfers/spieler/626801/transfer_id/3527988"
+        },
+        {
+          "id": "2703400",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "60195",
+            "coachId": "84410"
+          },
+          "transferDestination": {
+            "competitionId": "MAZ1",
+            "countryId": 100,
+            "clubId": "45935",
+            "coachId": "12108"
+          },
+          "details": {
+            "playerId": "626801",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-nikolov/transfers/spieler/626801/transfer_id/2703400"
+        },
+        {
+          "id": "2298471",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "35717",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "60195",
+            "coachId": "84410"
+          },
+          "details": {
+            "playerId": "626801",
+            "date": "2017-09-07T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-nikolov/transfers/spieler/626801/transfer_id/2298471"
+        },
+        {
+          "id": "2298472",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "35717",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "626801",
+            "date": "2014-02-10T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 11,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-nikolov/transfers/spieler/626801/transfer_id/2298472"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 40000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "40.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "11040",
+      "515",
+      "5817",
+      "19657",
+      "9892",
+      "77",
+      "45935",
+      "60195",
+      "35717",
+      "75"
+    ],
+    "coachIds": [
+      "79816",
+      "24881",
+      "68000",
+      "88371",
+      "99641",
+      "115930",
+      "6127",
+      "27014",
+      "69209",
+      "84410",
+      "12108"
+    ],
+    "competitionIds": [
+      "BOS1",
+      "DK1",
+      "DK2",
+      "MAZ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6387956",
+      "transferSource": {
+        "competitionId": "BOS1",
+        "countryId": 24,
+        "clubId": "11040",
+        "coachId": "79816"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "626801",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ivan-nikolov/transfers/spieler/626801/transfer_id/6387956"
+    }
+  }
+}

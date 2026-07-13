@@ -1,0 +1,548 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "563813",
+    "history": {
+      "terminated": [
+        {
+          "id": "6040063",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "8885",
+            "coachId": "47675"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "44477"
+          },
+          "details": {
+            "playerId": "563813",
+            "date": "2026-01-20T00:00:00+01:00",
+            "contractUntilDate": "2026-11-30T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 345,
+              "daysDisplay": "11 Months, 11 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joergen-voilaas/transfers/spieler/563813/transfer_id/6040063"
+        },
+        {
+          "id": "5458934",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "2692",
+            "coachId": "94022"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "8885",
+            "coachId": "114703"
+          },
+          "details": {
+            "playerId": "563813",
+            "date": "2025-03-17T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joergen-voilaas/transfers/spieler/563813/transfer_id/5458934"
+        },
+        {
+          "id": "4316943",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "1057",
+            "coachId": "27536"
+          },
+          "transferDestination": {
+            "competitionId": "NO31",
+            "countryId": 125,
+            "clubId": "2692",
+            "coachId": "53298"
+          },
+          "details": {
+            "playerId": "563813",
+            "date": "2023-03-09T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joergen-voilaas/transfers/spieler/563813/transfer_id/4316943"
+        },
+        {
+          "id": "3661702",
+          "transferSource": {
+            "competitionId": "NO31",
+            "countryId": 125,
+            "clubId": "9908",
+            "coachId": "75335"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "1057",
+            "coachId": "27536"
+          },
+          "details": {
+            "playerId": "563813",
+            "date": "2022-01-08T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joergen-voilaas/transfers/spieler/563813/transfer_id/3661702"
+        },
+        {
+          "id": "2794015",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "48392",
+            "coachId": "95010"
+          },
+          "transferDestination": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "9908",
+            "coachId": "75335"
+          },
+          "details": {
+            "playerId": "563813",
+            "date": "2020-01-31T00:00:00+01:00",
+            "contractUntilDate": "2021-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joergen-voilaas/transfers/spieler/563813/transfer_id/2794015"
+        },
+        {
+          "id": "2467425",
+          "transferSource": {
+            "competitionId": "NO44",
+            "countryId": 125,
+            "clubId": "6477",
+            "coachId": "69433"
+          },
+          "transferDestination": {
+            "competitionId": "NO44",
+            "countryId": 125,
+            "clubId": "48392",
+            "coachId": "94022"
+          },
+          "details": {
+            "playerId": "563813",
+            "date": "2019-02-25T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joergen-voilaas/transfers/spieler/563813/transfer_id/2467425"
+        },
+        {
+          "id": "2021345",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "48392",
+            "coachId": "94022"
+          },
+          "transferDestination": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "6477",
+            "coachId": "60033"
+          },
+          "details": {
+            "playerId": "563813",
+            "date": "2018-01-27T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joergen-voilaas/transfers/spieler/563813/transfer_id/2021345"
+        },
+        {
+          "id": "6236117",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "115318",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "48392",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "563813",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joergen-voilaas/transfers/spieler/563813/transfer_id/6236117"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "8885",
+      "7609",
+      "2692",
+      "1057",
+      "9908",
+      "48392",
+      "6477",
+      "115318"
+    ],
+    "coachIds": [
+      "47675",
+      "44477",
+      "94022",
+      "114703",
+      "27536",
+      "53298",
+      "75335",
+      "95010",
+      "69433",
+      "60033"
+    ],
+    "competitionIds": [
+      "SE3N",
+      "IR1",
+      "NO2",
+      "SE2",
+      "NO31",
+      "NO32",
+      "NO44"
+    ],
+    "mostRecentTransfer": {
+      "id": "6040063",
+      "transferSource": {
+        "competitionId": "SE3N",
+        "countryId": 147,
+        "clubId": "8885",
+        "coachId": "47675"
+      },
+      "transferDestination": {
+        "competitionId": "IR1",
+        "countryId": 72,
+        "clubId": "7609",
+        "coachId": "44477"
+      },
+      "details": {
+        "playerId": "563813",
+        "date": "2026-01-20T00:00:00+01:00",
+        "contractUntilDate": "2026-11-30T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 345,
+          "daysDisplay": "11 Months, 11 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/joergen-voilaas/transfers/spieler/563813/transfer_id/6040063"
+    }
+  }
+}

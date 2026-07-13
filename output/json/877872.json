@@ -1,0 +1,419 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "877872",
+    "history": {
+      "terminated": [
+        {
+          "id": "5658895",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "33616",
+            "coachId": "55755"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "986",
+            "coachId": "32718"
+          },
+          "details": {
+            "playerId": "877872",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ben-hughes/transfers/spieler/877872/transfer_id/5658895"
+        },
+        {
+          "id": "5432606",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "22461",
+            "coachId": "114125"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "33616",
+            "coachId": "55755"
+          },
+          "details": {
+            "playerId": "877872",
+            "date": "2025-05-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ben-hughes/transfers/spieler/877872/transfer_id/5432606"
+        },
+        {
+          "id": "5432605",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "33616",
+            "coachId": "55755"
+          },
+          "transferDestination": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "22461",
+            "coachId": "114125"
+          },
+          "details": {
+            "playerId": "877872",
+            "date": "2025-01-07T00:00:00+01:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 174,
+              "daysDisplay": "5 Months, 23 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ben-hughes/transfers/spieler/877872/transfer_id/5432605"
+        },
+        {
+          "id": "3858517",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "14626",
+            "coachId": "32306"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "33616",
+            "coachId": "33969"
+          },
+          "details": {
+            "playerId": "877872",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ben-hughes/transfers/spieler/877872/transfer_id/3858517"
+        },
+        {
+          "id": "3372873",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "21652",
+            "coachId": "95171"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "14626",
+            "coachId": "91191"
+          },
+          "details": {
+            "playerId": "877872",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ben-hughes/transfers/spieler/877872/transfer_id/3372873"
+        },
+        {
+          "id": "5014482",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "119738",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "21652",
+            "coachId": "95171"
+          },
+          "details": {
+            "playerId": "877872",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ben-hughes/transfers/spieler/877872/transfer_id/5014482"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "33616",
+      "986",
+      "22461",
+      "14626",
+      "21652",
+      "119738"
+    ],
+    "coachIds": [
+      "55755",
+      "32718",
+      "114125",
+      "32306",
+      "33969",
+      "95171",
+      "91191"
+    ],
+    "competitionIds": [
+      "GB4",
+      "WAL1",
+      "NLS6"
+    ],
+    "mostRecentTransfer": {
+      "id": "5658895",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 191,
+        "clubId": "33616",
+        "coachId": "55755"
+      },
+      "transferDestination": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "986",
+        "coachId": "32718"
+      },
+      "details": {
+        "playerId": "877872",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ben-hughes/transfers/spieler/877872/transfer_id/5658895"
+    }
+  }
+}

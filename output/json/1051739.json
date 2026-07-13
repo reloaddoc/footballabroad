@@ -1,0 +1,275 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1051739",
+    "history": {
+      "terminated": [
+        {
+          "id": "5895766",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "24490"
+          },
+          "transferDestination": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "269",
+            "coachId": "24235"
+          },
+          "details": {
+            "playerId": "1051739",
+            "date": "2025-08-26T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": 1200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.20",
+                "suffix": "M"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 673,
+              "daysDisplay": "1 Year, 10 Months, 4 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/frederik-roslyng/transfers/spieler/1051739/transfer_id/5895766"
+        },
+        {
+          "id": "4986336",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14347",
+            "coachId": "56644"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "51796"
+          },
+          "details": {
+            "playerId": "1051739",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/frederik-roslyng/transfers/spieler/1051739/transfer_id/4986336"
+        },
+        {
+          "id": "4039119",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "20984",
+            "coachId": "76377"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14347",
+            "coachId": "76138"
+          },
+          "details": {
+            "playerId": "1051739",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/frederik-roslyng/transfers/spieler/1051739/transfer_id/4039119"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 1200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.20",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 1000000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.00",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "2414",
+      "269",
+      "14347",
+      "20984"
+    ],
+    "coachIds": [
+      "24490",
+      "24235",
+      "56644",
+      "51796",
+      "76377",
+      "76138"
+    ],
+    "competitionIds": [
+      "DK2",
+      "L2",
+      "DKDL"
+    ],
+    "mostRecentTransfer": {
+      "id": "5895766",
+      "transferSource": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "2414",
+        "coachId": "24490"
+      },
+      "transferDestination": {
+        "competitionId": "L2",
+        "countryId": 40,
+        "clubId": "269",
+        "coachId": "24235"
+      },
+      "details": {
+        "playerId": "1051739",
+        "date": "2025-08-26T00:00:00+02:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 450000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "450.00",
+            "suffix": "K"
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": 1200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "1.20",
+            "suffix": "M"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 673,
+          "daysDisplay": "1 Year, 10 Months, 4 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/frederik-roslyng/transfers/spieler/1051739/transfer_id/5895766"
+    }
+  }
+}

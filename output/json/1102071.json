@@ -1,0 +1,317 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1102071",
+    "history": {
+      "terminated": [
+        {
+          "id": "5717461",
+          "transferSource": {
+            "competitionId": "NLAE",
+            "countryId": 122,
+            "clubId": "4694",
+            "coachId": "130292"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "1065",
+            "coachId": "8501"
+          },
+          "details": {
+            "playerId": "1102071",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giordinelo-meulens/transfers/spieler/1102071/transfer_id/5717461"
+        },
+        {
+          "id": "5115197",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "81339",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NLAJ",
+            "countryId": 122,
+            "clubId": "4694",
+            "coachId": "69447"
+          },
+          "details": {
+            "playerId": "1102071",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giordinelo-meulens/transfers/spieler/1102071/transfer_id/5115197"
+        },
+        {
+          "id": "4519830",
+          "transferSource": {
+            "competitionId": "NLVB",
+            "countryId": 122,
+            "clubId": "51705",
+            "coachId": "69447"
+          },
+          "transferDestination": {
+            "competitionId": "181F",
+            "countryId": 122,
+            "clubId": "81339",
+            "coachId": "53948"
+          },
+          "details": {
+            "playerId": "1102071",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giordinelo-meulens/transfers/spieler/1102071/transfer_id/4519830"
+        },
+        {
+          "id": "4248805",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 260,
+            "clubId": "54412",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NLVB",
+            "countryId": 122,
+            "clubId": "51705",
+            "coachId": "53948"
+          },
+          "details": {
+            "playerId": "1102071",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/giordinelo-meulens/transfers/spieler/1102071/transfer_id/4248805"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "4694",
+      "1065",
+      "81339",
+      "51705",
+      "54412"
+    ],
+    "coachIds": [
+      "130292",
+      "8501",
+      "69447",
+      "53948"
+    ],
+    "competitionIds": [
+      "NLAE",
+      "RLN3",
+      "NLAJ",
+      "NLVB",
+      "181F"
+    ],
+    "mostRecentTransfer": {
+      "id": "5717461",
+      "transferSource": {
+        "competitionId": "NLAE",
+        "countryId": 122,
+        "clubId": "4694",
+        "coachId": "130292"
+      },
+      "transferDestination": {
+        "competitionId": "RLN3",
+        "countryId": 40,
+        "clubId": "1065",
+        "coachId": "8501"
+      },
+      "details": {
+        "playerId": "1102071",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/giordinelo-meulens/transfers/spieler/1102071/transfer_id/5717461"
+    }
+  }
+}

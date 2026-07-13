@@ -1,0 +1,267 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1211943",
+    "history": {
+      "terminated": [
+        {
+          "id": "6116337",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "50061",
+            "coachId": "138353"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "6251",
+            "coachId": "98838"
+          },
+          "details": {
+            "playerId": "1211943",
+            "date": "2026-01-13T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 352,
+              "daysDisplay": "11 Months, 18 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karl-ward/transfers/spieler/1211943/transfer_id/6116337"
+        },
+        {
+          "id": "4835387",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "111014",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "50061",
+            "coachId": "123555"
+          },
+          "details": {
+            "playerId": "1211943",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karl-ward/transfers/spieler/1211943/transfer_id/4835387"
+        },
+        {
+          "id": "4763806",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "114955",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "111014",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1211943",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karl-ward/transfers/spieler/1211943/transfer_id/4763806"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "50061",
+      "6251",
+      "111014",
+      "114955"
+    ],
+    "coachIds": [
+      "138353",
+      "98838",
+      "123555"
+    ],
+    "competitionIds": [
+      "SE3N",
+      "FI1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6116337",
+      "transferSource": {
+        "competitionId": "SE3N",
+        "countryId": 147,
+        "clubId": "50061",
+        "coachId": "138353"
+      },
+      "transferDestination": {
+        "competitionId": "FI1",
+        "countryId": 49,
+        "clubId": "6251",
+        "coachId": "98838"
+      },
+      "details": {
+        "playerId": "1211943",
+        "date": "2026-01-13T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 352,
+          "daysDisplay": "11 Months, 18 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/karl-ward/transfers/spieler/1211943/transfer_id/6116337"
+    }
+  }
+}

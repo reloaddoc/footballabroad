@@ -1,0 +1,261 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1140566",
+    "history": {
+      "terminated": [
+        {
+          "id": "6319104",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "15644",
+            "coachId": "129985"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "10284",
+            "coachId": "78982"
+          },
+          "details": {
+            "playerId": "1140566",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/samuel-hust/transfers/spieler/1140566/transfer_id/6319104"
+        },
+        {
+          "id": "5205549",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "10967",
+            "coachId": "129985"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "15644",
+            "coachId": "93660"
+          },
+          "details": {
+            "playerId": "1140566",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/samuel-hust/transfers/spieler/1140566/transfer_id/5205549"
+        },
+        {
+          "id": "5206796",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "52879",
+            "coachId": "99684"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "10967",
+            "coachId": "53148"
+          },
+          "details": {
+            "playerId": "1140566",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/samuel-hust/transfers/spieler/1140566/transfer_id/5206796"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 18,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "15644",
+      "10284",
+      "10967",
+      "52879"
+    ],
+    "coachIds": [
+      "129985",
+      "78982",
+      "93660",
+      "99684",
+      "53148"
+    ],
+    "competitionIds": [
+      "DKDL",
+      "RLN3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6319104",
+      "transferSource": {
+        "competitionId": "DKDL",
+        "countryId": 39,
+        "clubId": "15644",
+        "coachId": "129985"
+      },
+      "transferDestination": {
+        "competitionId": "RLN3",
+        "countryId": 40,
+        "clubId": "10284",
+        "coachId": "78982"
+      },
+      "details": {
+        "playerId": "1140566",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/samuel-hust/transfers/spieler/1140566/transfer_id/6319104"
+    }
+  }
+}

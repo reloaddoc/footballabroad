@@ -1,0 +1,583 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "326500",
+    "history": {
+      "terminated": [
+        {
+          "id": "6291510",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3489",
+            "coachId": "20495"
+          },
+          "transferDestination": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "9026",
+            "coachId": "22595"
+          },
+          "details": {
+            "playerId": "326500",
+            "date": "2026-07-02T00:00:00+02:00",
+            "contractUntilDate": "2029-05-31T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/greg-sloggett/transfers/spieler/326500/transfer_id/6291510"
+        },
+        {
+          "id": "5670832",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2577",
+            "coachId": "4140"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3489",
+            "coachId": "15213"
+          },
+          "details": {
+            "playerId": "326500",
+            "date": "2025-07-08T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/greg-sloggett/transfers/spieler/326500/transfer_id/5670832"
+        },
+        {
+          "id": "5585797",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3489",
+            "coachId": "15213"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2577",
+            "coachId": "45829"
+          },
+          "details": {
+            "playerId": "326500",
+            "date": "2025-05-08T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 28,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/greg-sloggett/transfers/spieler/326500/transfer_id/5585797"
+        },
+        {
+          "id": "5585796",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2577",
+            "coachId": "45829"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "3489",
+            "coachId": "15213"
+          },
+          "details": {
+            "playerId": "326500",
+            "date": "2025-03-25T00:00:00+01:00",
+            "contractUntilDate": "2025-05-08T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 28,
+            "remainingContractPeriod": {
+              "days": 97,
+              "daysDisplay": "3 Months, 5 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/greg-sloggett/transfers/spieler/326500/transfer_id/5585796"
+        },
+        {
+          "id": "4999029",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3371",
+            "coachId": "52276"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2577",
+            "coachId": "44988"
+          },
+          "details": {
+            "playerId": "326500",
+            "date": "2024-07-15T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/greg-sloggett/transfers/spieler/326500/transfer_id/4999029"
+        },
+        {
+          "id": "4867098",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "6066",
+            "coachId": "73981"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3371",
+            "coachId": "21829"
+          },
+          "details": {
+            "playerId": "326500",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/greg-sloggett/transfers/spieler/326500/transfer_id/4867098"
+        },
+        {
+          "id": "2792261",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "920",
+            "coachId": "22595"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "6066",
+            "coachId": "27451"
+          },
+          "details": {
+            "playerId": "326500",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": "2023-11-30T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/greg-sloggett/transfers/spieler/326500/transfer_id/2792261"
+        },
+        {
+          "id": "2341790",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "6069",
+            "coachId": "39156"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "920",
+            "coachId": "22595"
+          },
+          "details": {
+            "playerId": "326500",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": "2019-12-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/greg-sloggett/transfers/spieler/326500/transfer_id/2341790"
+        },
+        {
+          "id": "2439272",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 72,
+            "clubId": "32244",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "IR2",
+            "countryId": 72,
+            "clubId": "6069",
+            "coachId": "39156"
+          },
+          "details": {
+            "playerId": "326500",
+            "date": "2016-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/greg-sloggett/transfers/spieler/326500/transfer_id/2439272"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 30,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "3489",
+      "9026",
+      "2577",
+      "3371",
+      "6066",
+      "920",
+      "6069",
+      "32244"
+    ],
+    "coachIds": [
+      "20495",
+      "22595",
+      "4140",
+      "15213",
+      "45829",
+      "52276",
+      "44988",
+      "73981",
+      "21829",
+      "27451",
+      "39156"
+    ],
+    "competitionIds": [
+      "CNAT",
+      "NIR1",
+      "GB4",
+      "IR1",
+      "GB3",
+      "IR2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6291510",
+      "transferSource": {
+        "competitionId": "CNAT",
+        "countryId": 189,
+        "clubId": "3489",
+        "coachId": "20495"
+      },
+      "transferDestination": {
+        "competitionId": "NIR1",
+        "countryId": 192,
+        "clubId": "9026",
+        "coachId": "22595"
+      },
+      "details": {
+        "playerId": "326500",
+        "date": "2026-07-02T00:00:00+02:00",
+        "contractUntilDate": "2029-05-31T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/greg-sloggett/transfers/spieler/326500/transfer_id/6291510"
+    }
+  }
+}

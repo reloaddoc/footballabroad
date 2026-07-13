@@ -1,0 +1,322 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1044623",
+    "history": {
+      "terminated": [
+        {
+          "id": "6264436",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "94391"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1044623",
+            "date": "2026-04-07T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 633,
+              "daysDisplay": "1 Year, 8 Months, 24 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harol-romana/transfers/spieler/1044623/transfer_id/6264436"
+        },
+        {
+          "id": "6118976",
+          "transferSource": {
+            "competitionId": "CO2T",
+            "countryId": 83,
+            "clubId": "18265",
+            "coachId": "27212"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "94391"
+          },
+          "details": {
+            "playerId": "1044623",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harol-romana/transfers/spieler/1044623/transfer_id/6118976"
+        },
+        {
+          "id": "5808083",
+          "transferSource": {
+            "competitionId": "CO22",
+            "countryId": 83,
+            "clubId": "14583",
+            "coachId": "60179"
+          },
+          "transferDestination": {
+            "competitionId": "CO22",
+            "countryId": 83,
+            "clubId": "18265",
+            "coachId": "27212"
+          },
+          "details": {
+            "playerId": "1044623",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harol-romana/transfers/spieler/1044623/transfer_id/5808083"
+        },
+        {
+          "id": "5268589",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 83,
+            "clubId": "24470",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CO22",
+            "countryId": 83,
+            "clubId": "14583",
+            "coachId": "60179"
+          },
+          "details": {
+            "playerId": "1044623",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harol-romana/transfers/spieler/1044623/transfer_id/5268589"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "699",
+      "515",
+      "18265",
+      "14583",
+      "24470"
+    ],
+    "coachIds": [
+      "94391",
+      "27212",
+      "60179"
+    ],
+    "competitionIds": [
+      "SE2",
+      "CO2T",
+      "CO22"
+    ],
+    "mostRecentTransfer": {
+      "id": "6264436",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "699",
+        "coachId": "94391"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1044623",
+        "date": "2026-04-07T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 633,
+          "daysDisplay": "1 Year, 8 Months, 24 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/harol-romana/transfers/spieler/1044623/transfer_id/6264436"
+    }
+  }
+}

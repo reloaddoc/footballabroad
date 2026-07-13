@@ -1,0 +1,729 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "620041",
+    "history": {
+      "terminated": [
+        {
+          "id": "6140907",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SC4",
+            "countryId": 190,
+            "clubId": "3023",
+            "coachId": "71081"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2026-01-24T00:00:00+01:00",
+            "contractUntilDate": "2027-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/6140907"
+        },
+        {
+          "id": "6043917",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "4279",
+            "coachId": "23461"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2025-11-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 241,
+              "daysDisplay": "7 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/6043917"
+        },
+        {
+          "id": "5816828",
+          "transferSource": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "3461",
+            "coachId": "99953"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "4279",
+            "coachId": "23461"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2025-07-25T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/5816828"
+        },
+        {
+          "id": "4622773",
+          "transferSource": {
+            "competitionId": "NIR2",
+            "countryId": 192,
+            "clubId": "21531",
+            "coachId": "67728"
+          },
+          "transferDestination": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "3461",
+            "coachId": "57288"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/4622773"
+        },
+        {
+          "id": "4622772",
+          "transferSource": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "3461",
+            "coachId": "57288"
+          },
+          "transferDestination": {
+            "competitionId": "NIR2",
+            "countryId": 192,
+            "clubId": "21531",
+            "coachId": "67728"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2023-09-01T00:00:00+02:00",
+            "contractUntilDate": "2024-01-01T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 638,
+              "daysDisplay": "1 Year, 8 Months, 30 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/4622772"
+        },
+        {
+          "id": "4387197",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "1218",
+            "coachId": "4144"
+          },
+          "transferDestination": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "3461",
+            "coachId": "57288"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/4387197"
+        },
+        {
+          "id": "3424388",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "39338",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1218",
+            "coachId": "4144"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/3424388"
+        },
+        {
+          "id": "2781716",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "52148",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "39338",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2020-01-31T00:00:00+01:00",
+            "contractUntilDate": "2020-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/2781716"
+        },
+        {
+          "id": "2477074",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "33727",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "52148",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/2477074"
+        },
+        {
+          "id": "2406500",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3540",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "33727",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2019-05-31T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/2406500"
+        },
+        {
+          "id": "2406499",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "33727",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3540",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2019-02-12T00:00:00+01:00",
+            "contractUntilDate": "2019-05-31T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/2406499"
+        },
+        {
+          "id": "2275040",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "22629",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "33727",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "620041",
+            "date": "2018-08-06T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/2275040"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "515",
+      "3023",
+      "4279",
+      "3461",
+      "21531",
+      "1218",
+      "39338",
+      "52148",
+      "33727",
+      "3540",
+      "22629"
+    ],
+    "coachIds": [
+      "71081",
+      "23461",
+      "99953",
+      "67728",
+      "57288",
+      "4144"
+    ],
+    "competitionIds": [
+      "SC4",
+      "NLS6",
+      "NIR1",
+      "NIR2",
+      "CNAT"
+    ],
+    "mostRecentTransfer": {
+      "id": "6140907",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "SC4",
+        "countryId": 190,
+        "clubId": "3023",
+        "coachId": "71081"
+      },
+      "details": {
+        "playerId": "620041",
+        "date": "2026-01-24T00:00:00+01:00",
+        "contractUntilDate": "2027-05-31T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 10000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "10.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ali-omar/transfers/spieler/620041/transfer_id/6140907"
+    }
+  }
+}

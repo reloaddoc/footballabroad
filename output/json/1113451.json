@@ -1,0 +1,410 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1113451",
+    "history": {
+      "terminated": [
+        {
+          "id": "5810873",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "125934"
+          },
+          "transferDestination": {
+            "competitionId": "FR1",
+            "countryId": 50,
+            "clubId": "417",
+            "coachId": "27176"
+          },
+          "details": {
+            "playerId": "1113451",
+            "date": "2025-07-25T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 2683988,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "2.68",
+                "suffix": "M"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 524,
+              "daysDisplay": "1 Year, 5 Months, 6 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kojo-peprah-oppong/transfers/spieler/1113451/transfer_id/5810873"
+        },
+        {
+          "id": "4809629",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2843",
+            "coachId": "66568"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "13708"
+          },
+          "details": {
+            "playerId": "1113451",
+            "date": "2024-11-30T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kojo-peprah-oppong/transfers/spieler/1113451/transfer_id/4809629"
+        },
+        {
+          "id": "4809628",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "13708"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2843",
+            "coachId": "74857"
+          },
+          "details": {
+            "playerId": "1113451",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-11-30T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1064,
+              "daysDisplay": "2 Years, 10 Months, 30 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kojo-peprah-oppong/transfers/spieler/1113451/transfer_id/4809628"
+        },
+        {
+          "id": "4587879",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2843",
+            "coachId": "74857"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "8237"
+          },
+          "details": {
+            "playerId": "1113451",
+            "date": "2023-11-30T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kojo-peprah-oppong/transfers/spieler/1113451/transfer_id/4587879"
+        },
+        {
+          "id": "4587878",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "8237"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2843",
+            "coachId": "74857"
+          },
+          "details": {
+            "playerId": "1113451",
+            "date": "2023-08-15T00:00:00+02:00",
+            "contractUntilDate": "2023-11-30T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1234,
+              "daysDisplay": "3 Years, 4 Months, 16 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kojo-peprah-oppong/transfers/spieler/1113451/transfer_id/4587878"
+        },
+        {
+          "id": "4299140",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 54,
+            "clubId": "61842",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "8237"
+          },
+          "details": {
+            "playerId": "1113451",
+            "date": "2023-02-01T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kojo-peprah-oppong/transfers/spieler/1113451/transfer_id/4299140"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 2683988,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "2.68",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 10000000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "10.00",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "2844",
+      "417",
+      "2843",
+      "61842"
+    ],
+    "coachIds": [
+      "125934",
+      "27176",
+      "66568",
+      "13708",
+      "74857",
+      "8237"
+    ],
+    "competitionIds": [
+      "SE1",
+      "FR1",
+      "SE2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5810873",
+      "transferSource": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "2844",
+        "coachId": "125934"
+      },
+      "transferDestination": {
+        "competitionId": "FR1",
+        "countryId": 50,
+        "clubId": "417",
+        "coachId": "27176"
+      },
+      "details": {
+        "playerId": "1113451",
+        "date": "2025-07-25T00:00:00+02:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 1000000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "1.00",
+            "suffix": "M"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": 2683988,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "2.68",
+            "suffix": "M"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 524,
+          "daysDisplay": "1 Year, 5 Months, 6 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kojo-peprah-oppong/transfers/spieler/1113451/transfer_id/5810873"
+    }
+  }
+}

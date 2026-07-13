@@ -1,0 +1,372 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1276855",
+    "history": {
+      "terminated": [
+        {
+          "id": "6357128",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "107269",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "OLB2",
+            "countryId": 40,
+            "clubId": "18636",
+            "coachId": "47337"
+          },
+          "details": {
+            "playerId": "1276855",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-adamhuber/transfers/spieler/1276855/transfer_id/6357128"
+        },
+        {
+          "id": "6357127",
+          "transferSource": {
+            "competitionId": "OLB2",
+            "countryId": 40,
+            "clubId": "18636",
+            "coachId": "47337"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "107269",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1276855",
+            "date": "2025-08-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 322,
+              "daysDisplay": "10 Months, 18 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-adamhuber/transfers/spieler/1276855/transfer_id/6357127"
+        },
+        {
+          "id": "5657480",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "110",
+            "coachId": "104859"
+          },
+          "transferDestination": {
+            "competitionId": "OLB2",
+            "countryId": 40,
+            "clubId": "18636",
+            "coachId": "47337"
+          },
+          "details": {
+            "playerId": "1276855",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-adamhuber/transfers/spieler/1276855/transfer_id/5657480"
+        },
+        {
+          "id": "5076572",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "8228",
+            "coachId": "117256"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "110",
+            "coachId": "40989"
+          },
+          "details": {
+            "playerId": "1276855",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-adamhuber/transfers/spieler/1276855/transfer_id/5076572"
+        },
+        {
+          "id": "5076573",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "21128",
+            "coachId": "117256"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "8228",
+            "coachId": "36302"
+          },
+          "details": {
+            "playerId": "1276855",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lukas-adamhuber/transfers/spieler/1276855/transfer_id/5076573"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "107269",
+      "18636",
+      "110",
+      "8228",
+      "21128"
+    ],
+    "coachIds": [
+      "47337",
+      "104859",
+      "117256",
+      "40989",
+      "36302"
+    ],
+    "competitionIds": [
+      "OLB2",
+      "RLB3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6357128",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 184,
+        "clubId": "107269",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "OLB2",
+        "countryId": 40,
+        "clubId": "18636",
+        "coachId": "47337"
+      },
+      "details": {
+        "playerId": "1276855",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/lukas-adamhuber/transfers/spieler/1276855/transfer_id/6357128"
+    }
+  }
+}

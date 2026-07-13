@@ -1,0 +1,316 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "816573",
+    "history": {
+      "terminated": [
+        {
+          "id": "5028531",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "473",
+            "coachId": "35815"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "9780",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "816573",
+            "date": "2024-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tim-huhnholz/transfers/spieler/816573/transfer_id/5028531"
+        },
+        {
+          "id": "4452113",
+          "transferSource": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "2613",
+            "coachId": "61647"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "473",
+            "coachId": "35815"
+          },
+          "details": {
+            "playerId": "816573",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tim-huhnholz/transfers/spieler/816573/transfer_id/4452113"
+        },
+        {
+          "id": "3418164",
+          "transferSource": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21049",
+            "coachId": "22833"
+          },
+          "transferDestination": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "2613",
+            "coachId": "35815"
+          },
+          "details": {
+            "playerId": "816573",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tim-huhnholz/transfers/spieler/816573/transfer_id/3418164"
+        },
+        {
+          "id": "3073640",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "20462",
+            "coachId": "36256"
+          },
+          "transferDestination": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21049",
+            "coachId": "54519"
+          },
+          "details": {
+            "playerId": "816573",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tim-huhnholz/transfers/spieler/816573/transfer_id/3073640"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "473",
+      "9780",
+      "2613",
+      "21049",
+      "20462"
+    ],
+    "coachIds": [
+      "35815",
+      "61647",
+      "22833",
+      "36256",
+      "54519"
+    ],
+    "competitionIds": [
+      "RLB3",
+      "AJ3",
+      "BJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5028531",
+      "transferSource": {
+        "competitionId": "RLB3",
+        "countryId": 40,
+        "clubId": "473",
+        "coachId": "35815"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 184,
+        "clubId": "9780",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "816573",
+        "date": "2024-08-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/tim-huhnholz/transfers/spieler/816573/transfer_id/5028531"
+    }
+  }
+}

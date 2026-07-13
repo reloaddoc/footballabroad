@@ -1,0 +1,266 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "801961",
+    "history": {
+      "terminated": [
+        {
+          "id": "5083917",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "23297",
+            "coachId": "76042"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "5619",
+            "coachId": "2100"
+          },
+          "details": {
+            "playerId": "801961",
+            "date": "2024-08-01T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/janus-seehusen/transfers/spieler/801961/transfer_id/5083917"
+        },
+        {
+          "id": "3409488",
+          "transferSource": {
+            "competitionId": "DKDD",
+            "countryId": 39,
+            "clubId": "25016",
+            "coachId": "72342"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "23297",
+            "coachId": "91161"
+          },
+          "details": {
+            "playerId": "801961",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/janus-seehusen/transfers/spieler/801961/transfer_id/3409488"
+        },
+        {
+          "id": "3033093",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "46025",
+            "coachId": "76042"
+          },
+          "transferDestination": {
+            "competitionId": "DKDD",
+            "countryId": 39,
+            "clubId": "25016",
+            "coachId": "31187"
+          },
+          "details": {
+            "playerId": "801961",
+            "date": "2020-08-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/janus-seehusen/transfers/spieler/801961/transfer_id/3033093"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "23297",
+      "5619",
+      "25016",
+      "46025"
+    ],
+    "coachIds": [
+      "76042",
+      "2100",
+      "72342",
+      "91161",
+      "31187"
+    ],
+    "competitionIds": [
+      "DK2",
+      "NO2",
+      "DKDD"
+    ],
+    "mostRecentTransfer": {
+      "id": "5083917",
+      "transferSource": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "23297",
+        "coachId": "76042"
+      },
+      "transferDestination": {
+        "competitionId": "NO2",
+        "countryId": 125,
+        "clubId": "5619",
+        "coachId": "2100"
+      },
+      "details": {
+        "playerId": "801961",
+        "date": "2024-08-01T00:00:00+02:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/janus-seehusen/transfers/spieler/801961/transfer_id/5083917"
+    }
+  }
+}

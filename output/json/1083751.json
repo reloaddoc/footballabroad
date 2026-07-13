@@ -1,0 +1,302 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1083751",
+    "history": {
+      "terminated": [
+        {
+          "id": "5663709",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6949",
+            "coachId": "146805"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "64623",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1083751",
+            "date": "2025-08-29T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/teddy-ramwell/transfers/spieler/1083751/transfer_id/5663709"
+        },
+        {
+          "id": "5382253",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "62678",
+            "coachId": "86383"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6949",
+            "coachId": "125917"
+          },
+          "details": {
+            "playerId": "1083751",
+            "date": "2025-01-04T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/teddy-ramwell/transfers/spieler/1083751/transfer_id/5382253"
+        },
+        {
+          "id": "5382252",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6949",
+            "coachId": "125917"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "62678",
+            "coachId": "86383"
+          },
+          "details": {
+            "playerId": "1083751",
+            "date": "2024-12-05T00:00:00+01:00",
+            "contractUntilDate": "2025-01-04T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 207,
+              "daysDisplay": "6 Months, 25 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/teddy-ramwell/transfers/spieler/1083751/transfer_id/5382252"
+        },
+        {
+          "id": "4400463",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "53243",
+            "coachId": "83515"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6949",
+            "coachId": "125917"
+          },
+          "details": {
+            "playerId": "1083751",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/teddy-ramwell/transfers/spieler/1083751/transfer_id/4400463"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "6949",
+      "64623",
+      "62678",
+      "53243"
+    ],
+    "coachIds": [
+      "146805",
+      "86383",
+      "125917",
+      "83515"
+    ],
+    "competitionIds": [
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "5663709",
+      "transferSource": {
+        "competitionId": "GB18",
+        "countryId": 189,
+        "clubId": "6949",
+        "coachId": "146805"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 157,
+        "clubId": "64623",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1083751",
+        "date": "2025-08-29T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/teddy-ramwell/transfers/spieler/1083751/transfer_id/5663709"
+    }
+  }
+}

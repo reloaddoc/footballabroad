@@ -1,0 +1,628 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "692022",
+    "history": {
+      "terminated": [
+        {
+          "id": "6345943",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "55227",
+            "coachId": "50516"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "55265",
+            "coachId": "37277"
+          },
+          "details": {
+            "playerId": "692022",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jonas-schwabe/transfers/spieler/692022/transfer_id/6345943"
+        },
+        {
+          "id": "6100292",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "55265",
+            "coachId": "5724"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "55227",
+            "coachId": "50516"
+          },
+          "details": {
+            "playerId": "692022",
+            "date": "2026-01-06T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 175,
+              "daysDisplay": "5 Months, 24 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jonas-schwabe/transfers/spieler/692022/transfer_id/6100292"
+        },
+        {
+          "id": "5956264",
+          "transferSource": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "35380",
+            "coachId": "101098"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "55265",
+            "coachId": "5724"
+          },
+          "details": {
+            "playerId": "692022",
+            "date": "2026-01-05T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 176,
+              "daysDisplay": "5 Months, 25 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jonas-schwabe/transfers/spieler/692022/transfer_id/5956264"
+        },
+        {
+          "id": "5956263",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "55265",
+            "coachId": "1013"
+          },
+          "transferDestination": {
+            "competitionId": "THA2",
+            "countryId": 167,
+            "clubId": "35380",
+            "coachId": "88840"
+          },
+          "details": {
+            "playerId": "692022",
+            "date": "2025-08-23T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 311,
+              "daysDisplay": "10 Months, 7 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jonas-schwabe/transfers/spieler/692022/transfer_id/5956263"
+        },
+        {
+          "id": "5070234",
+          "transferSource": {
+            "competitionId": "OBLC",
+            "countryId": 40,
+            "clubId": "2266",
+            "coachId": "41414"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "55265",
+            "coachId": "59916"
+          },
+          "details": {
+            "playerId": "692022",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonas-schwabe/transfers/spieler/692022/transfer_id/5070234"
+        },
+        {
+          "id": "3923730",
+          "transferSource": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "5369",
+            "coachId": "4048"
+          },
+          "transferDestination": {
+            "competitionId": "OBLC",
+            "countryId": 40,
+            "clubId": "2266",
+            "coachId": "14207"
+          },
+          "details": {
+            "playerId": "692022",
+            "date": "2022-10-07T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonas-schwabe/transfers/spieler/692022/transfer_id/3923730"
+        },
+        {
+          "id": "2984248",
+          "transferSource": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21051",
+            "coachId": "9891"
+          },
+          "transferDestination": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "5369",
+            "coachId": "4048"
+          },
+          "details": {
+            "playerId": "692022",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonas-schwabe/transfers/spieler/692022/transfer_id/2984248"
+        },
+        {
+          "id": "2606402",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "17588",
+            "coachId": "43188"
+          },
+          "transferDestination": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21051",
+            "coachId": "9891"
+          },
+          "details": {
+            "playerId": "692022",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonas-schwabe/transfers/spieler/692022/transfer_id/2606402"
+        },
+        {
+          "id": "2725863",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "30791",
+            "coachId": "124995"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "17588",
+            "coachId": "14429"
+          },
+          "details": {
+            "playerId": "692022",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonas-schwabe/transfers/spieler/692022/transfer_id/2725863"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6345944",
+          "transferSource": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "55265",
+            "coachId": "37277"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "55227",
+            "coachId": "50516"
+          },
+          "details": {
+            "playerId": "692022",
+            "date": "2026-07-22T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonas-schwabe/transfers/spieler/692022/transfer_id/6345944"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "55265",
+      "55227",
+      "35380",
+      "2266",
+      "5369",
+      "21051",
+      "17588",
+      "30791"
+    ],
+    "coachIds": [
+      "37277",
+      "50516",
+      "5724",
+      "101098",
+      "1013",
+      "88840",
+      "41414",
+      "59916",
+      "4048",
+      "14207",
+      "9891",
+      "43188",
+      "124995",
+      "14429"
+    ],
+    "competitionIds": [
+      "THA1",
+      "THA2",
+      "OBLC",
+      "AJ3",
+      "BJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6345943",
+      "transferSource": {
+        "competitionId": "THA1",
+        "countryId": 167,
+        "clubId": "55227",
+        "coachId": "50516"
+      },
+      "transferDestination": {
+        "competitionId": "THA1",
+        "countryId": 167,
+        "clubId": "55265",
+        "coachId": "37277"
+      },
+      "details": {
+        "playerId": "692022",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/jonas-schwabe/transfers/spieler/692022/transfer_id/6345943"
+    }
+  }
+}

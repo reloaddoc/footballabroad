@@ -1,0 +1,840 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "675238",
+    "history": {
+      "terminated": [
+        {
+          "id": "5961538",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RO1",
+            "countryId": 140,
+            "clubId": "952",
+            "coachId": "29982"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2025-11-26T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/5961538"
+        },
+        {
+          "id": "5931924",
+          "transferSource": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "1519",
+            "coachId": "35077"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2025-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 272,
+              "daysDisplay": "8 Months, 30 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/5931924"
+        },
+        {
+          "id": "5545597",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "53",
+            "coachId": "2741"
+          },
+          "transferDestination": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "1519",
+            "coachId": "35077"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/5545597"
+        },
+        {
+          "id": "5545596",
+          "transferSource": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "1519",
+            "coachId": "35077"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "53",
+            "coachId": "2741"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2025-02-14T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 471,
+              "daysDisplay": "1 Year, 3 Months, 17 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/5545596"
+        },
+        {
+          "id": "5151210",
+          "transferSource": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "25467",
+            "coachId": "26925"
+          },
+          "transferDestination": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "1519",
+            "coachId": "35077"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2024-07-26T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 158,
+              "daysDisplay": "5 Months, 5 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/5151210"
+        },
+        {
+          "id": "4587005",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "69478"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "25467",
+            "coachId": "26925"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/4587005"
+        },
+        {
+          "id": "4587004",
+          "transferSource": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "25467",
+            "coachId": "26925"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "93316"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2023-08-15T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 504,
+              "daysDisplay": "1 Year, 4 Months, 16 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/4587004"
+        },
+        {
+          "id": "3987605",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "159",
+            "coachId": "35560"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "25467",
+            "coachId": "26925"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2022-08-02T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 165,
+              "daysDisplay": "5 Months, 12 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/3987605"
+        },
+        {
+          "id": "3410020",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "12135",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "159",
+            "coachId": "35560"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2022-06-30T00:00:00+02:00",
+            "contractUntilDate": "2023-01-14T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/3410020"
+        },
+        {
+          "id": "3404728",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "159",
+            "coachId": "35560"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "12135",
+            "coachId": "44186"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 562,
+              "daysDisplay": "1 Year, 6 Months, 13 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/3404728"
+        },
+        {
+          "id": "3181779",
+          "transferSource": {
+            "competitionId": "SB19",
+            "countryId": 215,
+            "clubId": "11137",
+            "coachId": "80593"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "159",
+            "coachId": "35560"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": "2023-01-14T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 743,
+              "daysDisplay": "2 Years, 13 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/3181779"
+        },
+        {
+          "id": "2765234",
+          "transferSource": {
+            "competitionId": "SER2",
+            "countryId": 215,
+            "clubId": "4655",
+            "coachId": "46000"
+          },
+          "transferDestination": {
+            "competitionId": "SB19",
+            "countryId": 215,
+            "clubId": "11137",
+            "coachId": "80593"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2020-12-31T00:00:00+01:00",
+            "contractUntilDate": "2023-01-14T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/2765234"
+        },
+        {
+          "id": "2765233",
+          "transferSource": {
+            "competitionId": "SB19",
+            "countryId": 215,
+            "clubId": "11137",
+            "coachId": "73054"
+          },
+          "transferDestination": {
+            "competitionId": "SER2",
+            "countryId": 215,
+            "clubId": "4655",
+            "coachId": "42711"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2020-01-14T00:00:00+01:00",
+            "contractUntilDate": "2020-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1096,
+              "daysDisplay": "3 Years"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/2765233"
+        },
+        {
+          "id": "2500754",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 82,
+            "clubId": "31145",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SB19",
+            "countryId": 215,
+            "clubId": "11137",
+            "coachId": "69723"
+          },
+          "details": {
+            "playerId": "675238",
+            "date": "2019-01-30T00:00:00+01:00",
+            "contractUntilDate": "2023-01-14T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/2500754"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "515",
+      "952",
+      "1519",
+      "53",
+      "25467",
+      "1053",
+      "159",
+      "12135",
+      "11137",
+      "4655",
+      "31145"
+    ],
+    "coachIds": [
+      "29982",
+      "35077",
+      "2741",
+      "26925",
+      "69478",
+      "93316",
+      "35560",
+      "44186",
+      "80593",
+      "46000",
+      "73054",
+      "42711",
+      "69723"
+    ],
+    "competitionIds": [
+      "RO1",
+      "SC1",
+      "SER1",
+      "MLS1",
+      "DK2",
+      "SB19",
+      "SER2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5961538",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "RO1",
+        "countryId": 140,
+        "clubId": "952",
+        "coachId": "29982"
+      },
+      "details": {
+        "playerId": "675238",
+        "date": "2025-11-26T00:00:00+01:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/richard-odada/transfers/spieler/675238/transfer_id/5961538"
+    }
+  }
+}

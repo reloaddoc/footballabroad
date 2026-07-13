@@ -1,0 +1,214 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1300950",
+    "history": {
+      "terminated": [
+        {
+          "id": "6164914",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14347",
+            "coachId": "142675"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2294",
+            "coachId": "79043"
+          },
+          "details": {
+            "playerId": "1300950",
+            "date": "2026-02-03T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 147,
+              "daysDisplay": "4 Months, 27 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emmanuel-moungam/transfers/spieler/1300950/transfer_id/6164914"
+        },
+        {
+          "id": "5206819",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 31,
+            "clubId": "101456",
+            "coachId": "127760"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14347",
+            "coachId": "56644"
+          },
+          "details": {
+            "playerId": "1300950",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emmanuel-moungam/transfers/spieler/1300950/transfer_id/5206819"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "14347",
+      "2294",
+      "101456"
+    ],
+    "coachIds": [
+      "142675",
+      "79043",
+      "127760",
+      "56644"
+    ],
+    "competitionIds": [
+      "DKDL",
+      "SE2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6164914",
+      "transferSource": {
+        "competitionId": "DKDL",
+        "countryId": 39,
+        "clubId": "14347",
+        "coachId": "142675"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "2294",
+        "coachId": "79043"
+      },
+      "details": {
+        "playerId": "1300950",
+        "date": "2026-02-03T00:00:00+01:00",
+        "contractUntilDate": "2028-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 147,
+          "daysDisplay": "4 Months, 27 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/emmanuel-moungam/transfers/spieler/1300950/transfer_id/6164914"
+    }
+  }
+}

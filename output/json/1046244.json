@@ -1,0 +1,668 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1046244",
+    "history": {
+      "terminated": [
+        {
+          "id": "6014945",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "66",
+            "coachId": "104860"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "details": {
+            "playerId": "1046244",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/6014945"
+        },
+        {
+          "id": "6014944",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "66",
+            "coachId": "104860"
+          },
+          "details": {
+            "playerId": "1046244",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 545,
+              "daysDisplay": "1 Year, 5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/6014944"
+        },
+        {
+          "id": "5969862",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "3551",
+            "coachId": "54687"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "details": {
+            "playerId": "1046244",
+            "date": "2025-09-19T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 284,
+              "daysDisplay": "9 Months, 11 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/5969862"
+        },
+        {
+          "id": "5921523",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "3551",
+            "coachId": "54687"
+          },
+          "details": {
+            "playerId": "1046244",
+            "date": "2025-09-05T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 663,
+              "daysDisplay": "1 Year, 9 Months, 25 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/5921523"
+        },
+        {
+          "id": "5044043",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "66",
+            "coachId": "109450"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "details": {
+            "playerId": "1046244",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/5044043"
+        },
+        {
+          "id": "5044042",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "66",
+            "coachId": "62513"
+          },
+          "details": {
+            "playerId": "1046244",
+            "date": "2024-07-02T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 16,
+            "remainingContractPeriod": {
+              "days": 1093,
+              "daysDisplay": "2 Years, 11 Months, 28 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/5044042"
+        },
+        {
+          "id": "5044041",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "66",
+            "coachId": "62513"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "details": {
+            "playerId": "1046244",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/5044041"
+        },
+        {
+          "id": "5044040",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "8207",
+            "coachId": "50886"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "66",
+            "coachId": "62513"
+          },
+          "details": {
+            "playerId": "1046244",
+            "date": "2024-02-14T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 867,
+              "daysDisplay": "2 Years, 4 Months, 16 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/5044040"
+        },
+        {
+          "id": "4979745",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "33034",
+            "coachId": "109450"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "8207",
+            "coachId": "50886"
+          },
+          "details": {
+            "playerId": "1046244",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/4979745"
+        },
+        {
+          "id": "4979744",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "17588",
+            "coachId": "65187"
+          },
+          "transferDestination": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "33034",
+            "coachId": "38870"
+          },
+          "details": {
+            "playerId": "1046244",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/4979744"
+        },
+        {
+          "id": "5050378",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "109904",
+            "coachId": "65140"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "17588",
+            "coachId": "56906"
+          },
+          "details": {
+            "playerId": "1046244",
+            "date": "2017-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 8,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/5050378"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 18,
+      "totalMarketValue": {
+        "value": 250000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "250.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "66",
+      "28",
+      "3551",
+      "8207",
+      "33034",
+      "17588",
+      "109904"
+    ],
+    "coachIds": [
+      "104860",
+      "5716",
+      "54687",
+      "109450",
+      "62513",
+      "50886",
+      "65187",
+      "38870",
+      "65140",
+      "56906"
+    ],
+    "competitionIds": [
+      "RLB3",
+      "A1",
+      "L3",
+      "BJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6014945",
+      "transferSource": {
+        "competitionId": "RLB3",
+        "countryId": 40,
+        "clubId": "66",
+        "coachId": "104860"
+      },
+      "transferDestination": {
+        "competitionId": "RLB3",
+        "countryId": 40,
+        "clubId": "28",
+        "coachId": "5716"
+      },
+      "details": {
+        "playerId": "1046244",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 18,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/gibson-adu/transfers/spieler/1046244/transfer_id/6014945"
+    }
+  }
+}

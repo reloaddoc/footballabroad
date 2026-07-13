@@ -1,0 +1,387 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "738473",
+    "history": {
+      "terminated": [
+        {
+          "id": "5733443",
+          "transferSource": {
+            "competitionId": "ATRM",
+            "countryId": 127,
+            "clubId": "19536",
+            "coachId": "94851"
+          },
+          "transferDestination": {
+            "competitionId": "NTD",
+            "countryId": 122,
+            "clubId": "8621",
+            "coachId": "107839"
+          },
+          "details": {
+            "playerId": "738473",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alvaro-henry/transfers/spieler/738473/transfer_id/5733443"
+        },
+        {
+          "id": "5015614",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "52068",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "19536",
+            "coachId": "129422"
+          },
+          "details": {
+            "playerId": "738473",
+            "date": "2024-07-23T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alvaro-henry/transfers/spieler/738473/transfer_id/5015614"
+        },
+        {
+          "id": "3783842",
+          "transferSource": {
+            "competitionId": "NLVB",
+            "countryId": 122,
+            "clubId": "51645",
+            "coachId": "52087"
+          },
+          "transferDestination": {
+            "competitionId": "181F",
+            "countryId": 122,
+            "clubId": "52068",
+            "coachId": "36726"
+          },
+          "details": {
+            "playerId": "738473",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alvaro-henry/transfers/spieler/738473/transfer_id/3783842"
+        },
+        {
+          "id": "2891789",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "32791",
+            "coachId": "79805"
+          },
+          "transferDestination": {
+            "competitionId": "NLVB",
+            "countryId": 122,
+            "clubId": "51645",
+            "coachId": "52087"
+          },
+          "details": {
+            "playerId": "738473",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alvaro-henry/transfers/spieler/738473/transfer_id/2891789"
+        },
+        {
+          "id": "2767069",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "32797",
+            "coachId": "23319"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "32791",
+            "coachId": "54183"
+          },
+          "details": {
+            "playerId": "738473",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": 42000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "42.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alvaro-henry/transfers/spieler/738473/transfer_id/2767069"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 42000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "42.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "19536",
+      "8621",
+      "52068",
+      "51645",
+      "32791",
+      "32797"
+    ],
+    "coachIds": [
+      "94851",
+      "107839",
+      "129422",
+      "52087",
+      "36726",
+      "79805",
+      "23319",
+      "54183"
+    ],
+    "competitionIds": [
+      "ATRM",
+      "NTD",
+      "A2",
+      "NLVB",
+      "181F"
+    ],
+    "mostRecentTransfer": {
+      "id": "5733443",
+      "transferSource": {
+        "competitionId": "ATRM",
+        "countryId": 127,
+        "clubId": "19536",
+        "coachId": "94851"
+      },
+      "transferDestination": {
+        "competitionId": "NTD",
+        "countryId": 122,
+        "clubId": "8621",
+        "coachId": "107839"
+      },
+      "details": {
+        "playerId": "738473",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 364,
+          "daysDisplay": "11 Months, 29 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/alvaro-henry/transfers/spieler/738473/transfer_id/5733443"
+    }
+  }
+}

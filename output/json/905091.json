@@ -1,0 +1,538 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "905091",
+    "history": {
+      "terminated": [
+        {
+          "id": "6167254",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "3641",
+            "coachId": "107482"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "50885",
+            "coachId": "44076"
+          },
+          "details": {
+            "playerId": "905091",
+            "date": "2026-02-04T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 330,
+              "daysDisplay": "10 Months, 27 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adi-fisic/transfers/spieler/905091/transfer_id/6167254"
+        },
+        {
+          "id": "4762694",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "34560",
+            "coachId": "81133"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "3641",
+            "coachId": "68596"
+          },
+          "details": {
+            "playerId": "905091",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adi-fisic/transfers/spieler/905091/transfer_id/4762694"
+        },
+        {
+          "id": "4608695",
+          "transferSource": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "11998",
+            "coachId": "29394"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "34560",
+            "coachId": "81133"
+          },
+          "details": {
+            "playerId": "905091",
+            "date": "2023-08-25T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 310,
+              "daysDisplay": "10 Months, 5 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adi-fisic/transfers/spieler/905091/transfer_id/4608695"
+        },
+        {
+          "id": "4263683",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "41232"
+          },
+          "transferDestination": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "11998",
+            "coachId": "29394"
+          },
+          "details": {
+            "playerId": "905091",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/adi-fisic/transfers/spieler/905091/transfer_id/4263683"
+        },
+        {
+          "id": "4263682",
+          "transferSource": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "11998",
+            "coachId": "42196"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "41232"
+          },
+          "details": {
+            "playerId": "905091",
+            "date": "2023-02-06T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 510,
+              "daysDisplay": "1 Year, 4 Months, 24 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/adi-fisic/transfers/spieler/905091/transfer_id/4263682"
+        },
+        {
+          "id": "3419328",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "20047",
+            "coachId": "81886"
+          },
+          "transferDestination": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "11998",
+            "coachId": "42109"
+          },
+          "details": {
+            "playerId": "905091",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": 230000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "230.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adi-fisic/transfers/spieler/905091/transfer_id/3419328"
+        },
+        {
+          "id": "3419331",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "45784",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "20047",
+            "coachId": "81886"
+          },
+          "details": {
+            "playerId": "905091",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adi-fisic/transfers/spieler/905091/transfer_id/3419331"
+        },
+        {
+          "id": "4745815",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "102799",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "45784",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "905091",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adi-fisic/transfers/spieler/905091/transfer_id/4745815"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 230000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "230.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3641",
+      "50885",
+      "34560",
+      "11998",
+      "1056",
+      "20047",
+      "45784",
+      "102799"
+    ],
+    "coachIds": [
+      "107482",
+      "44076",
+      "81133",
+      "68596",
+      "29394",
+      "41232",
+      "42196",
+      "81886",
+      "42109"
+    ],
+    "competitionIds": [
+      "SE1",
+      "SE2",
+      "SE3N",
+      "IJ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6167254",
+      "transferSource": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "3641",
+        "coachId": "107482"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "50885",
+        "coachId": "44076"
+      },
+      "details": {
+        "playerId": "905091",
+        "date": "2026-02-04T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 330,
+          "daysDisplay": "10 Months, 27 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/adi-fisic/transfers/spieler/905091/transfer_id/6167254"
+    }
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "406923",
+    "history": {
+      "terminated": [
+        {
+          "id": "6343288",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "9829",
+            "coachId": "116938"
+          },
+          "transferDestination": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "22499",
+            "coachId": "120404"
+          },
+          "details": {
+            "playerId": "406923",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/chris-renshaw/transfers/spieler/406923/transfer_id/6343288"
+        },
+        {
+          "id": "4430492",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "13556",
+            "coachId": "95159"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "9829",
+            "coachId": "17510"
+          },
+          "details": {
+            "playerId": "406923",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/chris-renshaw/transfers/spieler/406923/transfer_id/4430492"
+        },
+        {
+          "id": "3413267",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3257",
+            "coachId": "99733"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "13556",
+            "coachId": "95234"
+          },
+          "details": {
+            "playerId": "406923",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/chris-renshaw/transfers/spieler/406923/transfer_id/3413267"
+        },
+        {
+          "id": "3413268",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1127",
+            "coachId": "66031"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3257",
+            "coachId": "99733"
+          },
+          "details": {
+            "playerId": "406923",
+            "date": "2021-04-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 79,
+              "daysDisplay": "2 Months, 18 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/chris-renshaw/transfers/spieler/406923/transfer_id/3413268"
+        },
+        {
+          "id": "3257798",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3257",
+            "coachId": "99733"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1127",
+            "coachId": "66031"
+          },
+          "details": {
+            "playerId": "406923",
+            "date": "2021-02-15T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/chris-renshaw/transfers/spieler/406923/transfer_id/3257798"
+        },
+        {
+          "id": "2501864",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9261",
+            "coachId": "15772"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3257",
+            "coachId": "17027"
+          },
+          "details": {
+            "playerId": "406923",
+            "date": "2019-08-03T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/chris-renshaw/transfers/spieler/406923/transfer_id/2501864"
+        },
+        {
+          "id": "1509564",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "14623",
+            "coachId": "15615"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9261",
+            "coachId": "15772"
+          },
+          "details": {
+            "playerId": "406923",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/chris-renshaw/transfers/spieler/406923/transfer_id/1509564"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 28,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "9829",
+      "22499",
+      "13556",
+      "3257",
+      "1127",
+      "9261",
+      "14623"
+    ],
+    "coachIds": [
+      "116938",
+      "120404",
+      "95159",
+      "17510",
+      "99733",
+      "95234",
+      "66031",
+      "15772",
+      "17027",
+      "15615"
+    ],
+    "competitionIds": [
+      "NLN6",
+      "WAL1",
+      "CNAT",
+      "GB21"
+    ],
+    "mostRecentTransfer": {
+      "id": "6343288",
+      "transferSource": {
+        "competitionId": "NLN6",
+        "countryId": 189,
+        "clubId": "9829",
+        "coachId": "116938"
+      },
+      "transferDestination": {
+        "competitionId": "WAL1",
+        "countryId": 191,
+        "clubId": "22499",
+        "coachId": "120404"
+      },
+      "details": {
+        "playerId": "406923",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 28,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/chris-renshaw/transfers/spieler/406923/transfer_id/6343288"
+    }
+  }
+}

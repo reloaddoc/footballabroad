@@ -1,0 +1,370 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "574587",
+    "history": {
+      "terminated": [
+        {
+          "id": "6412980",
+          "transferSource": {
+            "competitionId": "SC3",
+            "countryId": 190,
+            "clubId": "2759",
+            "coachId": "36838"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1078",
+            "coachId": "17028"
+          },
+          "details": {
+            "playerId": "574587",
+            "date": "2026-07-08T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 327,
+              "daysDisplay": "10 Months, 23 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noah-chilvers/transfers/spieler/574587/transfer_id/6412980"
+        },
+        {
+          "id": "5163798",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1060",
+            "coachId": "37278"
+          },
+          "transferDestination": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2759",
+            "coachId": "80882"
+          },
+          "details": {
+            "playerId": "574587",
+            "date": "2024-07-31T00:00:00+02:00",
+            "contractUntilDate": "2027-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 375000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "375.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noah-chilvers/transfers/spieler/574587/transfer_id/5163798"
+        },
+        {
+          "id": "2685858",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "1099",
+            "coachId": "34710"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1060",
+            "coachId": "43969"
+          },
+          "details": {
+            "playerId": "574587",
+            "date": "2020-04-30T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/noah-chilvers/transfers/spieler/574587/transfer_id/2685858"
+        },
+        {
+          "id": "2685857",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1060",
+            "coachId": "43969"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "1099",
+            "coachId": "34710"
+          },
+          "details": {
+            "playerId": "574587",
+            "date": "2019-10-18T00:00:00+02:00",
+            "contractUntilDate": "2020-04-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 1717,
+              "daysDisplay": "4 Years, 8 Months, 12 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/noah-chilvers/transfers/spieler/574587/transfer_id/2685857"
+        },
+        {
+          "id": "2359111",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "14980",
+            "coachId": "99223"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1060",
+            "coachId": "43969"
+          },
+          "details": {
+            "playerId": "574587",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noah-chilvers/transfers/spieler/574587/transfer_id/2359111"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2759",
+      "1078",
+      "1060",
+      "1099",
+      "14980"
+    ],
+    "coachIds": [
+      "36838",
+      "17028",
+      "37278",
+      "80882",
+      "34710",
+      "43969",
+      "99223"
+    ],
+    "competitionIds": [
+      "SC3",
+      "GB4",
+      "SC1",
+      "NLS6"
+    ],
+    "mostRecentTransfer": {
+      "id": "6412980",
+      "transferSource": {
+        "competitionId": "SC3",
+        "countryId": 190,
+        "clubId": "2759",
+        "coachId": "36838"
+      },
+      "transferDestination": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "1078",
+        "coachId": "17028"
+      },
+      "details": {
+        "playerId": "574587",
+        "date": "2026-07-08T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 327,
+          "daysDisplay": "10 Months, 23 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/noah-chilvers/transfers/spieler/574587/transfer_id/6412980"
+    }
+  }
+}

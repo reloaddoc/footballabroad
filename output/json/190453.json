@@ -1,0 +1,547 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "190453",
+    "history": {
+      "terminated": [
+        {
+          "id": "5595493",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "701",
+            "coachId": "12117"
+          },
+          "transferDestination": {
+            "competitionId": "KOG3",
+            "countryId": 49,
+            "clubId": "107118",
+            "coachId": "141674"
+          },
+          "details": {
+            "playerId": "190453",
+            "date": "2025-03-25T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 281,
+              "daysDisplay": "9 Months, 6 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mikko-viitikko/transfers/spieler/190453/transfer_id/5595493"
+        },
+        {
+          "id": "4737223",
+          "transferSource": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "2925",
+            "coachId": "82412"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "701",
+            "coachId": "12117"
+          },
+          "details": {
+            "playerId": "190453",
+            "date": "2024-12-31T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mikko-viitikko/transfers/spieler/190453/transfer_id/4737223"
+        },
+        {
+          "id": "4737222",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "701",
+            "coachId": "12117"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "2925",
+            "coachId": "45904"
+          },
+          "details": {
+            "playerId": "190453",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mikko-viitikko/transfers/spieler/190453/transfer_id/4737222"
+        },
+        {
+          "id": "3729111",
+          "transferSource": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "2925",
+            "coachId": "27368"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "701",
+            "coachId": "39596"
+          },
+          "details": {
+            "playerId": "190453",
+            "date": "2022-02-04T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": 120000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "120.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 330,
+              "daysDisplay": "10 Months, 27 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mikko-viitikko/transfers/spieler/190453/transfer_id/3729111"
+        },
+        {
+          "id": "2326603",
+          "transferSource": {
+            "competitionId": "NO31",
+            "countryId": 125,
+            "clubId": "3837",
+            "coachId": "27781"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "2925",
+            "coachId": "11556"
+          },
+          "details": {
+            "playerId": "190453",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mikko-viitikko/transfers/spieler/190453/transfer_id/2326603"
+        },
+        {
+          "id": "2009630",
+          "transferSource": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "1102",
+            "coachId": "11324"
+          },
+          "transferDestination": {
+            "competitionId": "NO31",
+            "countryId": 125,
+            "clubId": "3837",
+            "coachId": "2643"
+          },
+          "details": {
+            "playerId": "190453",
+            "date": "2018-01-19T00:00:00+01:00",
+            "contractUntilDate": "2019-12-31T00:00:00+01:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mikko-viitikko/transfers/spieler/190453/transfer_id/2009630"
+        },
+        {
+          "id": "1153932",
+          "transferSource": {
+            "competitionId": "FI3",
+            "countryId": 49,
+            "clubId": "11131",
+            "coachId": "38112"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "1102",
+            "coachId": "9825"
+          },
+          "details": {
+            "playerId": "190453",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": "2017-12-31T00:00:00+01:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mikko-viitikko/transfers/spieler/190453/transfer_id/1153932"
+        },
+        {
+          "id": "712025",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 49,
+            "clubId": "15665",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "FI3S",
+            "countryId": 49,
+            "clubId": "11131",
+            "coachId": "8058"
+          },
+          "details": {
+            "playerId": "190453",
+            "date": "2012-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mikko-viitikko/transfers/spieler/190453/transfer_id/712025"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 120000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "120.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 31,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "701",
+      "107118",
+      "2925",
+      "3837",
+      "1102",
+      "11131",
+      "15665"
+    ],
+    "coachIds": [
+      "12117",
+      "141674",
+      "82412",
+      "45904",
+      "27368",
+      "39596",
+      "27781",
+      "11556",
+      "11324",
+      "2643",
+      "38112",
+      "9825",
+      "8058"
+    ],
+    "competitionIds": [
+      "SE2",
+      "KOG3",
+      "FI1",
+      "NO31",
+      "FI3",
+      "FI3S"
+    ],
+    "mostRecentTransfer": {
+      "id": "5595493",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "701",
+        "coachId": "12117"
+      },
+      "transferDestination": {
+        "competitionId": "KOG3",
+        "countryId": 49,
+        "clubId": "107118",
+        "coachId": "141674"
+      },
+      "details": {
+        "playerId": "190453",
+        "date": "2025-03-25T00:00:00+01:00",
+        "contractUntilDate": "2025-12-31T00:00:00+01:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 281,
+          "daysDisplay": "9 Months, 6 Days"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/mikko-viitikko/transfers/spieler/190453/transfer_id/5595493"
+    }
+  }
+}

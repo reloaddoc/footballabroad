@@ -1,0 +1,576 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "405831",
+    "history": {
+      "terminated": [
+        {
+          "id": "6312000",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "63",
+            "coachId": "8407"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "405831",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/justin-ospelt/transfers/spieler/405831/transfer_id/6312000"
+        },
+        {
+          "id": "5652834",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "293",
+            "coachId": "52336"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "63",
+            "coachId": "33780"
+          },
+          "details": {
+            "playerId": "405831",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/justin-ospelt/transfers/spieler/405831/transfer_id/5652834"
+        },
+        {
+          "id": "4439792",
+          "transferSource": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "163",
+            "coachId": "35319"
+          },
+          "transferDestination": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "293",
+            "coachId": "52336"
+          },
+          "details": {
+            "playerId": "405831",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 365,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/justin-ospelt/transfers/spieler/405831/transfer_id/4439792"
+        },
+        {
+          "id": "3884290",
+          "transferSource": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "7448",
+            "coachId": "2326"
+          },
+          "transferDestination": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "163",
+            "coachId": "35319"
+          },
+          "details": {
+            "playerId": "405831",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/justin-ospelt/transfers/spieler/405831/transfer_id/3884290"
+        },
+        {
+          "id": "3884289",
+          "transferSource": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "163",
+            "coachId": "56302"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "7448",
+            "coachId": "2326"
+          },
+          "details": {
+            "playerId": "405831",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/justin-ospelt/transfers/spieler/405831/transfer_id/3884289"
+        },
+        {
+          "id": "3481946",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "95",
+            "coachId": "35929"
+          },
+          "transferDestination": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "163",
+            "coachId": "56302"
+          },
+          "details": {
+            "playerId": "405831",
+            "date": "2022-06-30T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/justin-ospelt/transfers/spieler/405831/transfer_id/3481946"
+        },
+        {
+          "id": "3481945",
+          "transferSource": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "163",
+            "coachId": "26003"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "95",
+            "coachId": "61521"
+          },
+          "details": {
+            "playerId": "405831",
+            "date": "2021-08-06T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 1059,
+              "daysDisplay": "2 Years, 10 Months, 24 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/justin-ospelt/transfers/spieler/405831/transfer_id/3481945"
+        },
+        {
+          "id": "1799147",
+          "transferSource": {
+            "competitionId": "CH17",
+            "countryId": 148,
+            "clubId": "15603",
+            "coachId": "26003"
+          },
+          "transferDestination": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "163",
+            "coachId": "4484"
+          },
+          "details": {
+            "playerId": "405831",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/justin-ospelt/transfers/spieler/405831/transfer_id/1799147"
+        },
+        {
+          "id": "3184488",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 97,
+            "clubId": "62645",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CH17",
+            "countryId": 148,
+            "clubId": "15603",
+            "coachId": "1094"
+          },
+          "details": {
+            "playerId": "405831",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/justin-ospelt/transfers/spieler/405831/transfer_id/3184488"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "63",
+      "515",
+      "293",
+      "163",
+      "7448",
+      "95",
+      "15603",
+      "62645"
+    ],
+    "coachIds": [
+      "8407",
+      "52336",
+      "33780",
+      "35319",
+      "2326",
+      "56302",
+      "35929",
+      "26003",
+      "61521",
+      "4484",
+      "1094"
+    ],
+    "competitionIds": [
+      "RLW3",
+      "RLSW",
+      "C2",
+      "A2",
+      "CH17"
+    ],
+    "mostRecentTransfer": {
+      "id": "6312000",
+      "transferSource": {
+        "competitionId": "RLW3",
+        "countryId": 40,
+        "clubId": "63",
+        "coachId": "8407"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "405831",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/justin-ospelt/transfers/spieler/405831/transfer_id/6312000"
+    }
+  }
+}

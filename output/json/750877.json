@@ -1,0 +1,478 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "750877",
+    "history": {
+      "terminated": [
+        {
+          "id": "6037111",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "94391"
+          },
+          "transferDestination": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "362",
+            "coachId": "55913"
+          },
+          "details": {
+            "playerId": "750877",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/milan-silva-rasmussen/transfers/spieler/750877/transfer_id/6037111"
+        },
+        {
+          "id": "5825175",
+          "transferSource": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "3732",
+            "coachId": "96026"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "21702"
+          },
+          "details": {
+            "playerId": "750877",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/milan-silva-rasmussen/transfers/spieler/750877/transfer_id/5825175"
+        },
+        {
+          "id": "5825174",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "21702"
+          },
+          "transferDestination": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "3732",
+            "coachId": "96026"
+          },
+          "details": {
+            "playerId": "750877",
+            "date": "2025-07-31T00:00:00+02:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 883,
+              "daysDisplay": "2 Years, 5 Months"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/milan-silva-rasmussen/transfers/spieler/750877/transfer_id/5825174"
+        },
+        {
+          "id": "4859173",
+          "transferSource": {
+            "competitionId": "DKDA",
+            "countryId": 39,
+            "clubId": "3732",
+            "coachId": "96026"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "21702"
+          },
+          "details": {
+            "playerId": "750877",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/milan-silva-rasmussen/transfers/spieler/750877/transfer_id/4859173"
+        },
+        {
+          "id": "4461691",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "947",
+            "coachId": "56647"
+          },
+          "transferDestination": {
+            "competitionId": "DKDA",
+            "countryId": 39,
+            "clubId": "3732",
+            "coachId": "96026"
+          },
+          "details": {
+            "playerId": "750877",
+            "date": "2023-07-03T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/milan-silva-rasmussen/transfers/spieler/750877/transfer_id/4461691"
+        },
+        {
+          "id": "3038852",
+          "transferSource": {
+            "competitionId": "DKDD",
+            "countryId": 39,
+            "clubId": "15628",
+            "coachId": "82525"
+          },
+          "transferDestination": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "947",
+            "coachId": "24881"
+          },
+          "details": {
+            "playerId": "750877",
+            "date": "2020-08-28T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/milan-silva-rasmussen/transfers/spieler/750877/transfer_id/3038852"
+        },
+        {
+          "id": "3031620",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "68471",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "DKDD",
+            "countryId": 39,
+            "clubId": "15628",
+            "coachId": "82525"
+          },
+          "details": {
+            "playerId": "750877",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/milan-silva-rasmussen/transfers/spieler/750877/transfer_id/3031620"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "699",
+      "362",
+      "3732",
+      "947",
+      "15628",
+      "68471"
+    ],
+    "coachIds": [
+      "94391",
+      "55913",
+      "96026",
+      "21702",
+      "56647",
+      "82525",
+      "24881"
+    ],
+    "competitionIds": [
+      "SE2",
+      "DK3O",
+      "DKDA",
+      "DK2",
+      "DKDD"
+    ],
+    "mostRecentTransfer": {
+      "id": "6037111",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "699",
+        "coachId": "94391"
+      },
+      "transferDestination": {
+        "competitionId": "DK3O",
+        "countryId": 39,
+        "clubId": "362",
+        "coachId": "55913"
+      },
+      "details": {
+        "playerId": "750877",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 729,
+          "daysDisplay": "1 Year, 11 Months, 30 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/milan-silva-rasmussen/transfers/spieler/750877/transfer_id/6037111"
+    }
+  }
+}

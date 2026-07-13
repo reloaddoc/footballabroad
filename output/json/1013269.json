@@ -1,0 +1,354 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1013269",
+    "history": {
+      "terminated": [
+        {
+          "id": "6123445",
+          "transferSource": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "8442",
+            "coachId": "61214"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "80015"
+          },
+          "details": {
+            "playerId": "1013269",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": "2029-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 85000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "85.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonas-weber/transfers/spieler/1013269/transfer_id/6123445"
+        },
+        {
+          "id": "3966064",
+          "transferSource": {
+            "competitionId": "NO46",
+            "countryId": 125,
+            "clubId": "35537",
+            "coachId": "93560"
+          },
+          "transferDestination": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "8442",
+            "coachId": "61214"
+          },
+          "details": {
+            "playerId": "1013269",
+            "date": "2022-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jonas-weber/transfers/spieler/1013269/transfer_id/3966064"
+        },
+        {
+          "id": "3966061",
+          "transferSource": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "8442",
+            "coachId": "61214"
+          },
+          "transferDestination": {
+            "competitionId": "NO46",
+            "countryId": 125,
+            "clubId": "35537",
+            "coachId": "93560"
+          },
+          "details": {
+            "playerId": "1013269",
+            "date": "2022-07-21T00:00:00+02:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jonas-weber/transfers/spieler/1013269/transfer_id/3966061"
+        },
+        {
+          "id": "3966063",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "13267",
+            "coachId": "37688"
+          },
+          "transferDestination": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "8442",
+            "coachId": "61214"
+          },
+          "details": {
+            "playerId": "1013269",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonas-weber/transfers/spieler/1013269/transfer_id/3966063"
+        },
+        {
+          "id": "3966062",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "19359",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "13267",
+            "coachId": "37688"
+          },
+          "details": {
+            "playerId": "1013269",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonas-weber/transfers/spieler/1013269/transfer_id/3966062"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 85000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "85.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "8442",
+      "2844",
+      "35537",
+      "13267",
+      "19359"
+    ],
+    "coachIds": [
+      "61214",
+      "80015",
+      "93560",
+      "37688"
+    ],
+    "competitionIds": [
+      "NO32",
+      "SE2",
+      "NO46"
+    ],
+    "mostRecentTransfer": {
+      "id": "6123445",
+      "transferSource": {
+        "competitionId": "NO32",
+        "countryId": 125,
+        "clubId": "8442",
+        "coachId": "61214"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "2844",
+        "coachId": "80015"
+      },
+      "details": {
+        "playerId": "1013269",
+        "date": "2026-01-29T00:00:00+01:00",
+        "contractUntilDate": "2029-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": 85000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "85.00",
+            "suffix": "K"
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jonas-weber/transfers/spieler/1013269/transfer_id/6123445"
+    }
+  }
+}

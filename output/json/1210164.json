@@ -1,0 +1,538 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1210164",
+    "history": {
+      "terminated": [
+        {
+          "id": "6161881",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "11310",
+            "coachId": "111666"
+          },
+          "transferDestination": {
+            "competitionId": "MAL3",
+            "countryId": 106,
+            "clubId": "37362",
+            "coachId": "21600"
+          },
+          "details": {
+            "playerId": "1210164",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joshua-adepoju/transfers/spieler/1210164/transfer_id/6161881"
+        },
+        {
+          "id": "6161880",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "17986",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "11310",
+            "coachId": "111666"
+          },
+          "details": {
+            "playerId": "1210164",
+            "date": "2026-01-26T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/joshua-adepoju/transfers/spieler/1210164/transfer_id/6161880"
+        },
+        {
+          "id": "6161879",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "11310",
+            "coachId": "111666"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "17986",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1210164",
+            "date": "2026-01-12T00:00:00+01:00",
+            "contractUntilDate": "2026-01-26T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/joshua-adepoju/transfers/spieler/1210164/transfer_id/6161879"
+        },
+        {
+          "id": "6032687",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "91882",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "11310",
+            "coachId": "111666"
+          },
+          "details": {
+            "playerId": "1210164",
+            "date": "2026-01-02T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/joshua-adepoju/transfers/spieler/1210164/transfer_id/6032687"
+        },
+        {
+          "id": "6032686",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "11310",
+            "coachId": "111666"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "91882",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1210164",
+            "date": "2025-08-02T00:00:00+02:00",
+            "contractUntilDate": "2026-01-02T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/joshua-adepoju/transfers/spieler/1210164/transfer_id/6032686"
+        },
+        {
+          "id": "5761050",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "6169",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "11310",
+            "coachId": "111666"
+          },
+          "details": {
+            "playerId": "1210164",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joshua-adepoju/transfers/spieler/1210164/transfer_id/5761050"
+        },
+        {
+          "id": "5761049",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "14983",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "6169",
+            "coachId": "60650"
+          },
+          "details": {
+            "playerId": "1210164",
+            "date": "2025-03-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joshua-adepoju/transfers/spieler/1210164/transfer_id/5761049"
+        },
+        {
+          "id": "5761048",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "33702",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "14983",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1210164",
+            "date": "2024-05-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/joshua-adepoju/transfers/spieler/1210164/transfer_id/5761048"
+        },
+        {
+          "id": "5761047",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "14983",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "33702",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1210164",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2024-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/joshua-adepoju/transfers/spieler/1210164/transfer_id/5761047"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "11310",
+      "37362",
+      "17986",
+      "91882",
+      "6169",
+      "14983",
+      "33702"
+    ],
+    "coachIds": [
+      "111666",
+      "21600",
+      "60650"
+    ],
+    "competitionIds": [
+      "NLS6",
+      "MAL3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6161881",
+      "transferSource": {
+        "competitionId": "NLS6",
+        "countryId": 189,
+        "clubId": "11310",
+        "coachId": "111666"
+      },
+      "transferDestination": {
+        "competitionId": "MAL3",
+        "countryId": 106,
+        "clubId": "37362",
+        "coachId": "21600"
+      },
+      "details": {
+        "playerId": "1210164",
+        "date": "2026-01-29T00:00:00+01:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/joshua-adepoju/transfers/spieler/1210164/transfer_id/6161881"
+    }
+  }
+}

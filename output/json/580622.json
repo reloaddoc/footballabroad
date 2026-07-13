@@ -1,0 +1,601 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "580622",
+    "history": {
+      "terminated": [
+        {
+          "id": "5761835",
+          "transferSource": {
+            "competitionId": "ATRO",
+            "countryId": 127,
+            "clubId": "10044",
+            "coachId": "27739"
+          },
+          "transferDestination": {
+            "competitionId": "SLO1",
+            "countryId": 154,
+            "clubId": "51316",
+            "coachId": "28824"
+          },
+          "details": {
+            "playerId": "580622",
+            "date": "2025-07-16T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 349,
+              "daysDisplay": "11 Months, 14 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emilian-metu/transfers/spieler/580622/transfer_id/5761835"
+        },
+        {
+          "id": "4516402",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "10044",
+            "coachId": "72226"
+          },
+          "details": {
+            "playerId": "580622",
+            "date": "2023-07-19T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 712,
+              "daysDisplay": "1 Year, 11 Months, 11 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emilian-metu/transfers/spieler/580622/transfer_id/4516402"
+        },
+        {
+          "id": "4044622",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "28760",
+            "coachId": "183"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "details": {
+            "playerId": "580622",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/emilian-metu/transfers/spieler/580622/transfer_id/4044622"
+        },
+        {
+          "id": "4044621",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "70585"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "28760",
+            "coachId": "183"
+          },
+          "details": {
+            "playerId": "580622",
+            "date": "2022-08-30T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1035,
+              "daysDisplay": "2 Years, 10 Months"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/emilian-metu/transfers/spieler/580622/transfer_id/4044621"
+        },
+        {
+          "id": "3276026",
+          "transferSource": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "2662",
+            "coachId": "58069"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "70585"
+          },
+          "details": {
+            "playerId": "580622",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": 294000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "294.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emilian-metu/transfers/spieler/580622/transfer_id/3276026"
+        },
+        {
+          "id": "3067843",
+          "transferSource": {
+            "competitionId": "JGD2",
+            "countryId": 127,
+            "clubId": "7560",
+            "coachId": "12739"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "2662",
+            "coachId": "5798"
+          },
+          "details": {
+            "playerId": "580622",
+            "date": "2020-09-19T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": 232000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "232.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emilian-metu/transfers/spieler/580622/transfer_id/3067843"
+        },
+        {
+          "id": "2589876",
+          "transferSource": {
+            "competitionId": "JGD3",
+            "countryId": 127,
+            "clubId": "42828",
+            "coachId": "46841"
+          },
+          "transferDestination": {
+            "competitionId": "JGD2",
+            "countryId": 127,
+            "clubId": "7560",
+            "coachId": "12739"
+          },
+          "details": {
+            "playerId": "580622",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emilian-metu/transfers/spieler/580622/transfer_id/2589876"
+        },
+        {
+          "id": "2200496",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "42827",
+            "coachId": "47795"
+          },
+          "transferDestination": {
+            "competitionId": "JGD3",
+            "countryId": 127,
+            "clubId": "42828",
+            "coachId": "46841"
+          },
+          "details": {
+            "playerId": "580622",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emilian-metu/transfers/spieler/580622/transfer_id/2200496"
+        },
+        {
+          "id": "3067844",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "48162",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "42827",
+            "coachId": "47795"
+          },
+          "details": {
+            "playerId": "580622",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emilian-metu/transfers/spieler/580622/transfer_id/3067844"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 526000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "526.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "10044",
+      "51316",
+      "28",
+      "28760",
+      "2662",
+      "7560",
+      "42828",
+      "42827",
+      "48162"
+    ],
+    "coachIds": [
+      "27739",
+      "28824",
+      "5716",
+      "72226",
+      "183",
+      "70585",
+      "58069",
+      "12739",
+      "5798",
+      "46841",
+      "47795"
+    ],
+    "competitionIds": [
+      "ATRO",
+      "SLO1",
+      "RLB3",
+      "A2",
+      "A1",
+      "JGD2",
+      "JGD3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5761835",
+      "transferSource": {
+        "competitionId": "ATRO",
+        "countryId": 127,
+        "clubId": "10044",
+        "coachId": "27739"
+      },
+      "transferDestination": {
+        "competitionId": "SLO1",
+        "countryId": 154,
+        "clubId": "51316",
+        "coachId": "28824"
+      },
+      "details": {
+        "playerId": "580622",
+        "date": "2025-07-16T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 349,
+          "daysDisplay": "11 Months, 14 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/emilian-metu/transfers/spieler/580622/transfer_id/5761835"
+    }
+  }
+}

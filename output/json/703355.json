@@ -1,0 +1,513 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "703355",
+    "history": {
+      "terminated": [
+        {
+          "id": "5695019",
+          "transferSource": {
+            "competitionId": "E4G3",
+            "countryId": 157,
+            "clubId": "6182",
+            "coachId": "72839"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "142522"
+          },
+          "details": {
+            "playerId": "703355",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dino-salihovic/transfers/spieler/703355/transfer_id/5695019"
+        },
+        {
+          "id": "5521550",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "125934"
+          },
+          "transferDestination": {
+            "competitionId": "E4G3",
+            "countryId": 157,
+            "clubId": "6182",
+            "coachId": "72839"
+          },
+          "details": {
+            "playerId": "703355",
+            "date": "2025-02-14T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dino-salihovic/transfers/spieler/703355/transfer_id/5521550"
+        },
+        {
+          "id": "4314667",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "7009",
+            "coachId": "27485"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "8237"
+          },
+          "details": {
+            "playerId": "703355",
+            "date": "2023-11-30T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 397,
+              "daysDisplay": "1 Year, 1 Month, 1 Day"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/dino-salihovic/transfers/spieler/703355/transfer_id/4314667"
+        },
+        {
+          "id": "4314666",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "8237"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "7009",
+            "coachId": "27485"
+          },
+          "details": {
+            "playerId": "703355",
+            "date": "2023-03-09T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 663,
+              "daysDisplay": "1 Year, 9 Months, 22 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/dino-salihovic/transfers/spieler/703355/transfer_id/4314666"
+        },
+        {
+          "id": "3244313",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "15621",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "3418"
+          },
+          "details": {
+            "playerId": "703355",
+            "date": "2021-02-08T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dino-salihovic/transfers/spieler/703355/transfer_id/3244313"
+        },
+        {
+          "id": "2672508",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "8985",
+            "coachId": "62750"
+          },
+          "transferDestination": {
+            "competitionId": "JUNO",
+            "countryId": 147,
+            "clubId": "15621",
+            "coachId": "69215"
+          },
+          "details": {
+            "playerId": "703355",
+            "date": "2020-11-30T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "remainingContractPeriod": {
+              "days": 1126,
+              "daysDisplay": "3 Years, 1 Month, 1 Day"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/dino-salihovic/transfers/spieler/703355/transfer_id/2672508"
+        },
+        {
+          "id": "2672507",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "42544",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "8985",
+            "coachId": "68946"
+          },
+          "details": {
+            "playerId": "703355",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/dino-salihovic/transfers/spieler/703355/transfer_id/2672507"
+        },
+        {
+          "id": "4743723",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "102524",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "42544",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "703355",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dino-salihovic/transfers/spieler/703355/transfer_id/4743723"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 250000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "250.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "6182",
+      "1056",
+      "2844",
+      "7009",
+      "15621",
+      "8985",
+      "42544",
+      "102524"
+    ],
+    "coachIds": [
+      "72839",
+      "142522",
+      "125934",
+      "27485",
+      "8237",
+      "3418",
+      "62750",
+      "69215",
+      "68946"
+    ],
+    "competitionIds": [
+      "E4G3",
+      "SE2",
+      "SE1",
+      "SE3N",
+      "JUNO"
+    ],
+    "mostRecentTransfer": {
+      "id": "5695019",
+      "transferSource": {
+        "competitionId": "E4G3",
+        "countryId": 157,
+        "clubId": "6182",
+        "coachId": "72839"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "1056",
+        "coachId": "142522"
+      },
+      "details": {
+        "playerId": "703355",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/dino-salihovic/transfers/spieler/703355/transfer_id/5695019"
+    }
+  }
+}

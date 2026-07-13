@@ -1,0 +1,294 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1302410",
+    "history": {
+      "terminated": [
+        {
+          "id": "5353756",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "8665",
+            "coachId": "65215"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "4117",
+            "coachId": "36549"
+          },
+          "details": {
+            "playerId": "1302410",
+            "date": "2025-02-08T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/christian-scott/transfers/spieler/1302410/transfer_id/5353756"
+        },
+        {
+          "id": "5349074",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "4117",
+            "coachId": "59564"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "8665",
+            "coachId": "65215"
+          },
+          "details": {
+            "playerId": "1302410",
+            "date": "2024-11-08T00:00:00+01:00",
+            "contractUntilDate": "2025-02-08T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/christian-scott/transfers/spieler/1302410/transfer_id/5349074"
+        },
+        {
+          "id": "5210504",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "20121",
+            "coachId": "26878"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "4117",
+            "coachId": "59564"
+          },
+          "details": {
+            "playerId": "1302410",
+            "date": "2024-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/christian-scott/transfers/spieler/1302410/transfer_id/5210504"
+        },
+        {
+          "id": "5210505",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "15610",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "20121",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1302410",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/christian-scott/transfers/spieler/1302410/transfer_id/5210505"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "8665",
+      "4117",
+      "20121",
+      "15610"
+    ],
+    "coachIds": [
+      "65215",
+      "36549",
+      "59564",
+      "26878"
+    ],
+    "competitionIds": [
+      "NLS6",
+      "CNAT"
+    ],
+    "mostRecentTransfer": {
+      "id": "5353756",
+      "transferSource": {
+        "competitionId": "NLS6",
+        "countryId": 189,
+        "clubId": "8665",
+        "coachId": "65215"
+      },
+      "transferDestination": {
+        "competitionId": "CNAT",
+        "countryId": 189,
+        "clubId": "4117",
+        "coachId": "36549"
+      },
+      "details": {
+        "playerId": "1302410",
+        "date": "2025-02-08T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/christian-scott/transfers/spieler/1302410/transfer_id/5353756"
+    }
+  }
+}

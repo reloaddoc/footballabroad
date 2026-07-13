@@ -1,0 +1,673 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "501274",
+    "history": {
+      "terminated": [
+        {
+          "id": "6330784",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "13600",
+            "coachId": "27060"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "501274",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/6330784"
+        },
+        {
+          "id": "5710528",
+          "transferSource": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "362",
+            "coachId": "48279"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "13600",
+            "coachId": "27060"
+          },
+          "details": {
+            "playerId": "501274",
+            "date": "2025-08-07T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 327,
+              "daysDisplay": "10 Months, 23 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/5710528"
+        },
+        {
+          "id": "4806115",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 153,
+            "clubId": "1226",
+            "coachId": "26695"
+          },
+          "transferDestination": {
+            "competitionId": "DK3V",
+            "countryId": 39,
+            "clubId": "362",
+            "coachId": "37013"
+          },
+          "details": {
+            "playerId": "501274",
+            "date": "2024-01-13T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/4806115"
+        },
+        {
+          "id": "4154499",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "8154"
+          },
+          "transferDestination": {
+            "competitionId": "SIN1",
+            "countryId": 153,
+            "clubId": "1226",
+            "coachId": "26695"
+          },
+          "details": {
+            "playerId": "501274",
+            "date": "2023-02-01T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/4154499"
+        },
+        {
+          "id": "3683461",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "943",
+            "coachId": "41995"
+          },
+          "transferDestination": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "8154"
+          },
+          "details": {
+            "playerId": "501274",
+            "date": "2023-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-01-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/3683461"
+        },
+        {
+          "id": "3683460",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "8154"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "943",
+            "coachId": "41995"
+          },
+          "details": {
+            "playerId": "501274",
+            "date": "2022-02-01T00:00:00+01:00",
+            "contractUntilDate": "2023-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/3683460"
+        },
+        {
+          "id": "3195331",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "42629",
+            "coachId": "13970"
+          },
+          "transferDestination": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "8154"
+          },
+          "details": {
+            "playerId": "501274",
+            "date": "2022-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/3195331"
+        },
+        {
+          "id": "3195330",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "11929"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "42629",
+            "coachId": "63229"
+          },
+          "details": {
+            "playerId": "501274",
+            "date": "2021-02-01T00:00:00+01:00",
+            "contractUntilDate": "2022-01-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/3195330"
+        },
+        {
+          "id": "2734461",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "21975",
+            "coachId": "22051"
+          },
+          "transferDestination": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "11929"
+          },
+          "details": {
+            "playerId": "501274",
+            "date": "2021-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-01-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/2734461"
+        },
+        {
+          "id": "2734460",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "11929"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "21975",
+            "coachId": "22051"
+          },
+          "details": {
+            "playerId": "501274",
+            "date": "2020-02-01T00:00:00+01:00",
+            "contractUntilDate": "2021-01-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/2734460"
+        },
+        {
+          "id": "2366538",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "24137",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "3828",
+            "coachId": "11929"
+          },
+          "details": {
+            "playerId": "501274",
+            "date": "2019-02-01T00:00:00+01:00",
+            "contractUntilDate": "2022-01-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/2366538"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "13600",
+      "515",
+      "362",
+      "1226",
+      "3828",
+      "943",
+      "42629",
+      "21975",
+      "24137"
+    ],
+    "coachIds": [
+      "27060",
+      "48279",
+      "26695",
+      "37013",
+      "8154",
+      "41995",
+      "13970",
+      "11929",
+      "63229",
+      "22051"
+    ],
+    "competitionIds": [
+      "JAP3",
+      "DK3O",
+      "DK3V",
+      "JAP1",
+      "SIN1",
+      "JAP2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6330784",
+      "transferSource": {
+        "competitionId": "JAP3",
+        "countryId": 77,
+        "clubId": "13600",
+        "coachId": "27060"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "501274",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/yushi-yamaya/transfers/spieler/501274/transfer_id/6330784"
+    }
+  }
+}

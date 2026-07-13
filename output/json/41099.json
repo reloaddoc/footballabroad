@@ -1,0 +1,932 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "41099",
+    "history": {
+      "terminated": [
+        {
+          "id": "6177410",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "62026",
+            "coachId": "37665"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "123",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2026-02-26T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 37,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 94,
+              "daysDisplay": "3 Months, 5 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/6177410"
+        },
+        {
+          "id": "5426873",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "2113",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "62026",
+            "coachId": "37665"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2025-01-04T00:00:00+01:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 36,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/5426873"
+        },
+        {
+          "id": "5201675",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "62026",
+            "coachId": "37665"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "2113",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 35,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/5201675"
+        },
+        {
+          "id": "3874484",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "972",
+            "coachId": "32820"
+          },
+          "transferDestination": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "62026",
+            "coachId": "37665"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-05-31T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 33,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/3874484"
+        },
+        {
+          "id": "3365939",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2455",
+            "coachId": "60103"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "972",
+            "coachId": "44988"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/3365939"
+        },
+        {
+          "id": "2494522",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "3540"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "2455",
+            "coachId": "15213"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/2494522"
+        },
+        {
+          "id": "1768214",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "698",
+            "coachId": "28097"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "355",
+            "coachId": "3540"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/1768214"
+        },
+        {
+          "id": "1084270",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1072",
+            "coachId": "4298"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "698",
+            "coachId": "2001"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/1084270"
+        },
+        {
+          "id": "397424",
+          "transferSource": {
+            "competitionId": "GB1",
+            "countryId": 189,
+            "clubId": "543",
+            "coachId": "599"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "1072",
+            "coachId": "4128"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2010-03-02T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/397424"
+        },
+        {
+          "id": "380520",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1219",
+            "coachId": "4158"
+          },
+          "transferDestination": {
+            "competitionId": "GB1",
+            "countryId": 189,
+            "clubId": "543",
+            "coachId": "599"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2010-03-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/380520"
+        },
+        {
+          "id": "350538",
+          "transferSource": {
+            "competitionId": "GB1",
+            "countryId": 189,
+            "clubId": "543",
+            "coachId": "599"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1219",
+            "coachId": "4158"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2009-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 122,
+              "daysDisplay": "3 Months, 30 Days"
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/350538"
+        },
+        {
+          "id": "247737",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1302",
+            "coachId": "5414"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "543",
+            "coachId": "599"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2008-10-21T00:00:00+02:00",
+            "contractUntilDate": "2009-10-31T00:00:00+01:00",
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/247737"
+        },
+        {
+          "id": "222911",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "543",
+            "coachId": "599"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1302",
+            "coachId": "5414"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2008-08-21T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/222911"
+        },
+        {
+          "id": "167978",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1302",
+            "coachId": "5414"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "543",
+            "coachId": "599"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2008-04-10T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2007,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2007,
+              "display": "07/08",
+              "cyclicalName": "2008",
+              "nonCyclicalName": "07/08"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/167978"
+        },
+        {
+          "id": "167979",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "543",
+            "coachId": "599"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1302",
+            "coachId": "5414"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2008-01-10T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2007,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2007,
+              "display": "07/08",
+              "cyclicalName": "2008",
+              "nonCyclicalName": "07/08"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/167979"
+        },
+        {
+          "id": "99296",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "12801",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "543",
+            "coachId": "599"
+          },
+          "details": {
+            "playerId": "41099",
+            "date": "2006-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2006,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2006,
+              "display": "06/07",
+              "cyclicalName": "2007",
+              "nonCyclicalName": "06/07"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/99296"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 37,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "62026",
+      "123",
+      "2113",
+      "972",
+      "2455",
+      "355",
+      "698",
+      "1072",
+      "543",
+      "1219",
+      "1302",
+      "12801"
+    ],
+    "coachIds": [
+      "37665",
+      "32820",
+      "60103",
+      "44988",
+      "3540",
+      "15213",
+      "28097",
+      "4298",
+      "2001",
+      "599",
+      "4128",
+      "4158",
+      "5414"
+    ],
+    "competitionIds": [
+      "WAL1",
+      "CNAT",
+      "GB4",
+      "GB3",
+      "GB2",
+      "GB1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6177410",
+      "transferSource": {
+        "competitionId": "WAL1",
+        "countryId": 191,
+        "clubId": "62026",
+        "coachId": "37665"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "123",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "41099",
+        "date": "2026-02-26T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 37,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 94,
+          "daysDisplay": "3 Months, 5 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/mark-little/transfers/spieler/41099/transfer_id/6177410"
+    }
+  }
+}

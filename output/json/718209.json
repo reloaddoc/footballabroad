@@ -1,0 +1,602 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "718209",
+    "history": {
+      "terminated": [
+        {
+          "id": "6395419",
+          "transferSource": {
+            "competitionId": "OFPL",
+            "countryId": 181,
+            "clubId": "136274",
+            "coachId": "23335"
+          },
+          "transferDestination": {
+            "competitionId": "NNL1",
+            "countryId": 120,
+            "clubId": "85805",
+            "coachId": "49225"
+          },
+          "details": {
+            "playerId": "718209",
+            "date": "2026-06-22T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/otto-ingham/transfers/spieler/718209/transfer_id/6395419"
+        },
+        {
+          "id": "6019351",
+          "transferSource": {
+            "competitionId": "NNL1",
+            "countryId": 120,
+            "clubId": "85805",
+            "coachId": "49225"
+          },
+          "transferDestination": {
+            "competitionId": "OFPL",
+            "countryId": 181,
+            "clubId": "136274",
+            "coachId": "23335"
+          },
+          "details": {
+            "playerId": "718209",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/otto-ingham/transfers/spieler/718209/transfer_id/6019351"
+        },
+        {
+          "id": "5661847",
+          "transferSource": {
+            "competitionId": "NNL1",
+            "countryId": 120,
+            "clubId": "11391",
+            "coachId": "12246"
+          },
+          "transferDestination": {
+            "competitionId": "NNL1",
+            "countryId": 120,
+            "clubId": "85805",
+            "coachId": "38043"
+          },
+          "details": {
+            "playerId": "718209",
+            "date": "2025-05-01T00:00:00+02:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 244,
+              "daysDisplay": "7 Months, 30 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/otto-ingham/transfers/spieler/718209/transfer_id/5661847"
+        },
+        {
+          "id": "5558808",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "8877",
+            "coachId": "36594"
+          },
+          "transferDestination": {
+            "competitionId": "NNL1",
+            "countryId": 120,
+            "clubId": "11391",
+            "coachId": "12246"
+          },
+          "details": {
+            "playerId": "718209",
+            "date": "2025-03-05T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/otto-ingham/transfers/spieler/718209/transfer_id/5558808"
+        },
+        {
+          "id": "4901406",
+          "transferSource": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "8882",
+            "coachId": "61747"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "8877",
+            "coachId": "36594"
+          },
+          "details": {
+            "playerId": "718209",
+            "date": "2024-02-21T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 314,
+              "daysDisplay": "10 Months, 10 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/otto-ingham/transfers/spieler/718209/transfer_id/4901406"
+        },
+        {
+          "id": "3713877",
+          "transferSource": {
+            "competitionId": "NCL1",
+            "countryId": 120,
+            "clubId": "3474",
+            "coachId": "102673"
+          },
+          "transferDestination": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "8882",
+            "coachId": "61747"
+          },
+          "details": {
+            "playerId": "718209",
+            "date": "2022-01-31T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/otto-ingham/transfers/spieler/718209/transfer_id/3713877"
+        },
+        {
+          "id": "3315677",
+          "transferSource": {
+            "competitionId": "NNL1",
+            "countryId": 120,
+            "clubId": "31306",
+            "coachId": "47762"
+          },
+          "transferDestination": {
+            "competitionId": "NCL1",
+            "countryId": 120,
+            "clubId": "3474",
+            "coachId": "49225"
+          },
+          "details": {
+            "playerId": "718209",
+            "date": "2021-03-22T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 100,
+              "daysDisplay": "3 Months, 8 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/otto-ingham/transfers/spieler/718209/transfer_id/3315677"
+        },
+        {
+          "id": "3135865",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 120,
+            "clubId": "28992",
+            "coachId": "49225"
+          },
+          "transferDestination": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "31306",
+            "coachId": "47762"
+          },
+          "details": {
+            "playerId": "718209",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/otto-ingham/transfers/spieler/718209/transfer_id/3135865"
+        },
+        {
+          "id": "2701937",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 120,
+            "clubId": "3474",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 120,
+            "clubId": "28992",
+            "coachId": "49225"
+          },
+          "details": {
+            "playerId": "718209",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/otto-ingham/transfers/spieler/718209/transfer_id/2701937"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "136274",
+      "85805",
+      "11391",
+      "8877",
+      "8882",
+      "3474",
+      "31306",
+      "28992"
+    ],
+    "coachIds": [
+      "23335",
+      "49225",
+      "12246",
+      "38043",
+      "36594",
+      "61747",
+      "102673",
+      "47762"
+    ],
+    "competitionIds": [
+      "OFPL",
+      "NNL1",
+      "SE3N",
+      "SE3S",
+      "NCL1",
+      "NZL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6395419",
+      "transferSource": {
+        "competitionId": "OFPL",
+        "countryId": 181,
+        "clubId": "136274",
+        "coachId": "23335"
+      },
+      "transferDestination": {
+        "competitionId": "NNL1",
+        "countryId": 120,
+        "clubId": "85805",
+        "coachId": "49225"
+      },
+      "details": {
+        "playerId": "718209",
+        "date": "2026-06-22T00:00:00+02:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/otto-ingham/transfers/spieler/718209/transfer_id/6395419"
+    }
+  }
+}

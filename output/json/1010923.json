@@ -1,0 +1,391 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1010923",
+    "history": {
+      "terminated": [
+        {
+          "id": "5673355",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "1088",
+            "coachId": "107788"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "21545",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1010923",
+            "date": "2025-07-11T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bradley-kelly/transfers/spieler/1010923/transfer_id/5673355"
+        },
+        {
+          "id": "4235290",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "23088",
+            "coachId": "100396"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1088",
+            "coachId": "107788"
+          },
+          "details": {
+            "playerId": "1010923",
+            "date": "2023-05-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/bradley-kelly/transfers/spieler/1010923/transfer_id/4235290"
+        },
+        {
+          "id": "4235289",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1088",
+            "coachId": "15236"
+          },
+          "transferDestination": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "23088",
+            "coachId": "109330"
+          },
+          "details": {
+            "playerId": "1010923",
+            "date": "2023-01-21T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 891,
+              "daysDisplay": "2 Years, 5 Months, 9 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/bradley-kelly/transfers/spieler/1010923/transfer_id/4235289"
+        },
+        {
+          "id": "4236970",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "15009",
+            "coachId": "70831"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1088",
+            "coachId": "16150"
+          },
+          "details": {
+            "playerId": "1010923",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/bradley-kelly/transfers/spieler/1010923/transfer_id/4236970"
+        },
+        {
+          "id": "4236972",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9626",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "15009",
+            "coachId": "70831"
+          },
+          "details": {
+            "playerId": "1010923",
+            "date": "2022-05-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/bradley-kelly/transfers/spieler/1010923/transfer_id/4236972"
+        },
+        {
+          "id": "4236971",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "15009",
+            "coachId": "70831"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9626",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1010923",
+            "date": "2022-02-08T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/bradley-kelly/transfers/spieler/1010923/transfer_id/4236971"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "1088",
+      "21545",
+      "23088",
+      "15009",
+      "9626"
+    ],
+    "coachIds": [
+      "107788",
+      "100396",
+      "15236",
+      "109330",
+      "70831",
+      "16150"
+    ],
+    "competitionIds": [
+      "CNAT",
+      "WAL1",
+      "GB4"
+    ],
+    "mostRecentTransfer": {
+      "id": "5673355",
+      "transferSource": {
+        "competitionId": "CNAT",
+        "countryId": 189,
+        "clubId": "1088",
+        "coachId": "107788"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 189,
+        "clubId": "21545",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1010923",
+        "date": "2025-07-11T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/bradley-kelly/transfers/spieler/1010923/transfer_id/5673355"
+    }
+  }
+}

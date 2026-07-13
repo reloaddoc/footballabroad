@@ -1,0 +1,357 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "914855",
+    "history": {
+      "terminated": [
+        {
+          "id": "5723569",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "473",
+            "coachId": "35815"
+          },
+          "transferDestination": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "3385",
+            "coachId": "38744"
+          },
+          "details": {
+            "playerId": "914855",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/charalampos-georgiadis/transfers/spieler/914855/transfer_id/5723569"
+        },
+        {
+          "id": "5239673",
+          "transferSource": {
+            "competitionId": "GR20",
+            "countryId": 56,
+            "clubId": "8511",
+            "coachId": "120262"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "473",
+            "coachId": "35815"
+          },
+          "details": {
+            "playerId": "914855",
+            "date": "2024-08-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/charalampos-georgiadis/transfers/spieler/914855/transfer_id/5239673"
+        },
+        {
+          "id": "4614380",
+          "transferSource": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "12001",
+            "coachId": "72089"
+          },
+          "transferDestination": {
+            "competitionId": "GR20",
+            "countryId": 56,
+            "clubId": "8511",
+            "coachId": "120262"
+          },
+          "details": {
+            "playerId": "914855",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/charalampos-georgiadis/transfers/spieler/914855/transfer_id/4614380"
+        },
+        {
+          "id": "4614379",
+          "transferSource": {
+            "competitionId": "GR20",
+            "countryId": 56,
+            "clubId": "8511",
+            "coachId": "120262"
+          },
+          "transferDestination": {
+            "competitionId": "IJ1",
+            "countryId": 75,
+            "clubId": "12001",
+            "coachId": "41611"
+          },
+          "details": {
+            "playerId": "914855",
+            "date": "2023-08-29T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/charalampos-georgiadis/transfers/spieler/914855/transfer_id/4614379"
+        },
+        {
+          "id": "4015312",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 56,
+            "clubId": "65272",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GR20",
+            "countryId": 56,
+            "clubId": "8511",
+            "coachId": "85590"
+          },
+          "details": {
+            "playerId": "914855",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/charalampos-georgiadis/transfers/spieler/914855/transfer_id/4015312"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "473",
+      "3385",
+      "8511",
+      "12001",
+      "65272"
+    ],
+    "coachIds": [
+      "35815",
+      "38744",
+      "120262",
+      "72089",
+      "41611",
+      "85590"
+    ],
+    "competitionIds": [
+      "RLB3",
+      "GR1",
+      "GR20",
+      "IJ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5723569",
+      "transferSource": {
+        "competitionId": "RLB3",
+        "countryId": 40,
+        "clubId": "473",
+        "coachId": "35815"
+      },
+      "transferDestination": {
+        "competitionId": "GR1",
+        "countryId": 56,
+        "clubId": "3385",
+        "coachId": "38744"
+      },
+      "details": {
+        "playerId": "914855",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/charalampos-georgiadis/transfers/spieler/914855/transfer_id/5723569"
+    }
+  }
+}

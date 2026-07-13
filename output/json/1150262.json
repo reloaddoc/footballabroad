@@ -1,0 +1,261 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1150262",
+    "history": {
+      "terminated": [
+        {
+          "id": "6369534",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "44822",
+            "coachId": "59081"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "1",
+            "coachId": "11287"
+          },
+          "details": {
+            "playerId": "1150262",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zac-shuaib/transfers/spieler/1150262/transfer_id/6369534"
+        },
+        {
+          "id": "5688672",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "5679",
+            "coachId": "116869"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "44822",
+            "coachId": "59081"
+          },
+          "details": {
+            "playerId": "1150262",
+            "date": "2025-07-11T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zac-shuaib/transfers/spieler/1150262/transfer_id/5688672"
+        },
+        {
+          "id": "4470257",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "50683",
+            "coachId": "117410"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "5679",
+            "coachId": "105721"
+          },
+          "details": {
+            "playerId": "1150262",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zac-shuaib/transfers/spieler/1150262/transfer_id/4470257"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "44822",
+      "1",
+      "5679",
+      "50683"
+    ],
+    "coachIds": [
+      "59081",
+      "11287",
+      "116869",
+      "117410",
+      "105721"
+    ],
+    "competitionIds": [
+      "L3",
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "6369534",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 157,
+        "clubId": "44822",
+        "coachId": "59081"
+      },
+      "transferDestination": {
+        "competitionId": "L3",
+        "countryId": 40,
+        "clubId": "1",
+        "coachId": "11287"
+      },
+      "details": {
+        "playerId": "1150262",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/zac-shuaib/transfers/spieler/1150262/transfer_id/6369534"
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1485583",
+    "history": {
+      "terminated": [
+        {
+          "id": "6268819",
+          "transferSource": {
+            "competitionId": "CZ3C",
+            "countryId": 172,
+            "clubId": "14816",
+            "coachId": "130133"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "80015"
+          },
+          "details": {
+            "playerId": "1485583",
+            "date": "2026-03-25T00:00:00+01:00",
+            "contractUntilDate": "2026-07-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/victor-nzubechi-romanus/transfers/spieler/1485583/transfer_id/6268819"
+        },
+        {
+          "id": "6040048",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 124,
+            "clubId": "127720",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CZ3C",
+            "countryId": 172,
+            "clubId": "14816",
+            "coachId": "130133"
+          },
+          "details": {
+            "playerId": "1485583",
+            "date": "2025-09-08T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/victor-nzubechi-romanus/transfers/spieler/1485583/transfer_id/6040048"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "14816",
+      "2844",
+      "127720"
+    ],
+    "coachIds": [
+      "130133",
+      "80015"
+    ],
+    "competitionIds": [
+      "CZ3C",
+      "SE2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6268819",
+      "transferSource": {
+        "competitionId": "CZ3C",
+        "countryId": 172,
+        "clubId": "14816",
+        "coachId": "130133"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "2844",
+        "coachId": "80015"
+      },
+      "details": {
+        "playerId": "1485583",
+        "date": "2026-03-25T00:00:00+01:00",
+        "contractUntilDate": "2026-07-31T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/victor-nzubechi-romanus/transfers/spieler/1485583/transfer_id/6268819"
+    }
+  }
+}

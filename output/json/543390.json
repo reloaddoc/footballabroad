@@ -1,0 +1,637 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "543390",
+    "history": {
+      "terminated": [
+        {
+          "id": "6399086",
+          "transferSource": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "2502",
+            "coachId": "115605"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "543390",
+            "date": "2026-07-03T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 728,
+              "daysDisplay": "1 Year, 11 Months, 27 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mamadou-traore/transfers/spieler/543390/transfer_id/6399086"
+        },
+        {
+          "id": "5906000",
+          "transferSource": {
+            "competitionId": "E3G2",
+            "countryId": 157,
+            "clubId": "19301",
+            "coachId": "31991"
+          },
+          "transferDestination": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "2502",
+            "coachId": "115605"
+          },
+          "details": {
+            "playerId": "543390",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mamadou-traore/transfers/spieler/543390/transfer_id/5906000"
+        },
+        {
+          "id": "5905999",
+          "transferSource": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "2502",
+            "coachId": "50839"
+          },
+          "transferDestination": {
+            "competitionId": "E3G2",
+            "countryId": 157,
+            "clubId": "19301",
+            "coachId": "31991"
+          },
+          "details": {
+            "playerId": "543390",
+            "date": "2025-08-31T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 1034,
+              "daysDisplay": "2 Years, 9 Months, 30 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mamadou-traore/transfers/spieler/543390/transfer_id/5905999"
+        },
+        {
+          "id": "5434207",
+          "transferSource": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "3948",
+            "coachId": "94759"
+          },
+          "transferDestination": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "2502",
+            "coachId": "33196"
+          },
+          "details": {
+            "playerId": "543390",
+            "date": "2025-01-07T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 174,
+              "daysDisplay": "5 Months, 23 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mamadou-traore/transfers/spieler/543390/transfer_id/5434207"
+        },
+        {
+          "id": "5244831",
+          "transferSource": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "10666",
+            "coachId": "120232"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "3948",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "543390",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mamadou-traore/transfers/spieler/543390/transfer_id/5244831"
+        },
+        {
+          "id": "4618560",
+          "transferSource": {
+            "competitionId": "E3G2",
+            "countryId": 157,
+            "clubId": "2502",
+            "coachId": "33196"
+          },
+          "transferDestination": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "10666",
+            "coachId": "120232"
+          },
+          "details": {
+            "playerId": "543390",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mamadou-traore/transfers/spieler/543390/transfer_id/4618560"
+        },
+        {
+          "id": "4618559",
+          "transferSource": {
+            "competitionId": "ACFF",
+            "countryId": 19,
+            "clubId": "10666",
+            "coachId": "120232"
+          },
+          "transferDestination": {
+            "competitionId": "E3G2",
+            "countryId": 157,
+            "clubId": "2502",
+            "coachId": "33196"
+          },
+          "details": {
+            "playerId": "543390",
+            "date": "2023-08-31T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 669,
+              "daysDisplay": "1 Year, 9 Months, 30 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mamadou-traore/transfers/spieler/543390/transfer_id/4618559"
+        },
+        {
+          "id": "4466437",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "ACFF",
+            "countryId": 19,
+            "clubId": "10666",
+            "coachId": "120232"
+          },
+          "details": {
+            "playerId": "543390",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mamadou-traore/transfers/spieler/543390/transfer_id/4466437"
+        },
+        {
+          "id": "4419352",
+          "transferSource": {
+            "competitionId": "LTU2",
+            "countryId": 98,
+            "clubId": "30742",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "543390",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mamadou-traore/transfers/spieler/543390/transfer_id/4419352"
+        },
+        {
+          "id": "4041542",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 105,
+            "clubId": "101702",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "LTU2",
+            "countryId": 98,
+            "clubId": "30742",
+            "coachId": "69612"
+          },
+          "details": {
+            "playerId": "543390",
+            "date": "2022-08-03T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mamadou-traore/transfers/spieler/543390/transfer_id/4041542"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2502",
+      "515",
+      "19301",
+      "3948",
+      "10666",
+      "30742",
+      "101702"
+    ],
+    "coachIds": [
+      "115605",
+      "31991",
+      "50839",
+      "94759",
+      "33196",
+      "120232",
+      "69612"
+    ],
+    "competitionIds": [
+      "ES2",
+      "E3G2",
+      "BE1",
+      "BE3A",
+      "ACFF",
+      "LTU2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6399086",
+      "transferSource": {
+        "competitionId": "ES2",
+        "countryId": 157,
+        "clubId": "2502",
+        "coachId": "115605"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "543390",
+        "date": "2026-07-03T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 728,
+          "daysDisplay": "1 Year, 11 Months, 27 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/mamadou-traore/transfers/spieler/543390/transfer_id/6399086"
+    }
+  }
+}

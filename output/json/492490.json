@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "492490",
+    "history": {
+      "terminated": [
+        {
+          "id": "6253946",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "120616"
+          },
+          "transferDestination": {
+            "competitionId": "NO31",
+            "countryId": 125,
+            "clubId": "36224",
+            "coachId": "4436"
+          },
+          "details": {
+            "playerId": "492490",
+            "date": "2026-03-31T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 822,
+              "daysDisplay": "2 Years, 2 Months, 30 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/daniel-gadegaard/transfers/spieler/492490/transfer_id/6253946"
+        },
+        {
+          "id": "4044282",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "678",
+            "coachId": "1766"
+          },
+          "transferDestination": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "53896"
+          },
+          "details": {
+            "playerId": "492490",
+            "date": "2022-08-29T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 305,
+              "daysDisplay": "10 Months, 1 Day"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/daniel-gadegaard/transfers/spieler/492490/transfer_id/4044282"
+        },
+        {
+          "id": "2485120",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "9066",
+            "coachId": "61176"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "678",
+            "coachId": "24490"
+          },
+          "details": {
+            "playerId": "492490",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1460,
+              "daysDisplay": "3 Years, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/daniel-gadegaard/transfers/spieler/492490/transfer_id/2485120"
+        },
+        {
+          "id": "1890069",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "19406",
+            "coachId": "61176"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "9066",
+            "coachId": "34190"
+          },
+          "details": {
+            "playerId": "492490",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/daniel-gadegaard/transfers/spieler/492490/transfer_id/1890069"
+        },
+        {
+          "id": "5541854",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "92175",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "19406",
+            "coachId": "125925"
+          },
+          "details": {
+            "playerId": "492490",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/daniel-gadegaard/transfers/spieler/492490/transfer_id/5541854"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6253947",
+          "transferSource": {
+            "competitionId": "NO31",
+            "countryId": 125,
+            "clubId": "36224",
+            "coachId": "4436"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "120616"
+          },
+          "details": {
+            "playerId": "492490",
+            "date": "2026-12-31T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/daniel-gadegaard/transfers/spieler/492490/transfer_id/6253947"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 250000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "250.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "36224",
+      "3426",
+      "678",
+      "9066",
+      "19406",
+      "92175"
+    ],
+    "coachIds": [
+      "4436",
+      "120616",
+      "1766",
+      "53896",
+      "61176",
+      "24490",
+      "34190",
+      "125925"
+    ],
+    "competitionIds": [
+      "NO31",
+      "DK2",
+      "DK1",
+      "DK3O",
+      "DKDL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6253946",
+      "transferSource": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "3426",
+        "coachId": "120616"
+      },
+      "transferDestination": {
+        "competitionId": "NO31",
+        "countryId": 125,
+        "clubId": "36224",
+        "coachId": "4436"
+      },
+      "details": {
+        "playerId": "492490",
+        "date": "2026-03-31T00:00:00+02:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "remainingContractPeriod": {
+          "days": 822,
+          "daysDisplay": "2 Years, 2 Months, 30 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/daniel-gadegaard/transfers/spieler/492490/transfer_id/6253946"
+    }
+  }
+}

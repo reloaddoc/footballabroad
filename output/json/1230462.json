@@ -1,0 +1,274 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1230462",
+    "history": {
+      "terminated": [
+        {
+          "id": "6114738",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "369",
+            "coachId": "70710"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "267",
+            "coachId": "109242"
+          },
+          "details": {
+            "playerId": "1230462",
+            "date": "2026-01-30T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": 170000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "170.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 882,
+              "daysDisplay": "2 Years, 5 Months"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesper-cornelius/transfers/spieler/1230462/transfer_id/6114738"
+        },
+        {
+          "id": "5501693",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5818",
+            "coachId": "54438"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "369",
+            "coachId": "35316"
+          },
+          "details": {
+            "playerId": "1230462",
+            "date": "2025-02-03T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": 335000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "335.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 696,
+              "daysDisplay": "1 Year, 10 Months, 28 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesper-cornelius/transfers/spieler/1230462/transfer_id/5501693"
+        },
+        {
+          "id": "4867695",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "5852",
+            "coachId": "99989"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5818",
+            "coachId": "54438"
+          },
+          "details": {
+            "playerId": "1230462",
+            "date": "2024-02-02T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesper-cornelius/transfers/spieler/1230462/transfer_id/4867695"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 505000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "505.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 1200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.20",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "369",
+      "267",
+      "5818",
+      "5852"
+    ],
+    "coachIds": [
+      "70710",
+      "109242",
+      "54438",
+      "35316",
+      "99989"
+    ],
+    "competitionIds": [
+      "DK2",
+      "NO1",
+      "DK1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6114738",
+      "transferSource": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "369",
+        "coachId": "70710"
+      },
+      "transferDestination": {
+        "competitionId": "NO1",
+        "countryId": 125,
+        "clubId": "267",
+        "coachId": "109242"
+      },
+      "details": {
+        "playerId": "1230462",
+        "date": "2026-01-30T00:00:00+01:00",
+        "contractUntilDate": "2028-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 350000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "350.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": 170000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "170.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 882,
+          "daysDisplay": "2 Years, 5 Months"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jesper-cornelius/transfers/spieler/1230462/transfer_id/6114738"
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1213078",
+    "history": {
+      "terminated": [
+        {
+          "id": "6128437",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 72,
+            "clubId": "32923",
+            "coachId": "95260"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 72,
+            "clubId": "28979",
+            "coachId": "133916"
+          },
+          "details": {
+            "playerId": "1213078",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cian-carty/transfers/spieler/1213078/transfer_id/6128437"
+        },
+        {
+          "id": "4767832",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "21652",
+            "coachId": "103482"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 72,
+            "clubId": "32923",
+            "coachId": "133882"
+          },
+          "details": {
+            "playerId": "1213078",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cian-carty/transfers/spieler/1213078/transfer_id/4767832"
+        },
+        {
+          "id": "4767831",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 72,
+            "clubId": "28979",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "21652",
+            "coachId": "103482"
+          },
+          "details": {
+            "playerId": "1213078",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cian-carty/transfers/spieler/1213078/transfer_id/4767831"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "32923",
+      "28979",
+      "21652"
+    ],
+    "coachIds": [
+      "95260",
+      "133916",
+      "103482",
+      "133882"
+    ],
+    "competitionIds": [
+      "NLS6"
+    ],
+    "mostRecentTransfer": {
+      "id": "6128437",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 72,
+        "clubId": "32923",
+        "coachId": "95260"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 72,
+        "clubId": "28979",
+        "coachId": "133916"
+      },
+      "details": {
+        "playerId": "1213078",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/cian-carty/transfers/spieler/1213078/transfer_id/6128437"
+    }
+  }
+}

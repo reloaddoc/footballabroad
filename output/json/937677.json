@@ -1,0 +1,206 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "937677",
+    "history": {
+      "terminated": [
+        {
+          "id": "5707662",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "9054",
+            "coachId": "93660"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "389",
+            "coachId": "80647"
+          },
+          "details": {
+            "playerId": "937677",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/simon-kristiansen/transfers/spieler/937677/transfer_id/5707662"
+        },
+        {
+          "id": "3969247",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "52879",
+            "coachId": "46856"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "9054",
+            "coachId": "8238"
+          },
+          "details": {
+            "playerId": "937677",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/simon-kristiansen/transfers/spieler/937677/transfer_id/3969247"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "9054",
+      "389",
+      "52879"
+    ],
+    "coachIds": [
+      "93660",
+      "80647",
+      "46856",
+      "8238"
+    ],
+    "competitionIds": [
+      "DKDL",
+      "RLN3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5707662",
+      "transferSource": {
+        "competitionId": "DKDL",
+        "countryId": 39,
+        "clubId": "9054",
+        "coachId": "93660"
+      },
+      "transferDestination": {
+        "competitionId": "RLN3",
+        "countryId": 40,
+        "clubId": "389",
+        "coachId": "80647"
+      },
+      "details": {
+        "playerId": "937677",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/simon-kristiansen/transfers/spieler/937677/transfer_id/5707662"
+    }
+  }
+}

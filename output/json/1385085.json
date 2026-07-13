@@ -1,0 +1,292 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1385085",
+    "history": {
+      "terminated": [
+        {
+          "id": "6408245",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "596",
+            "coachId": "34760"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "17",
+            "coachId": "22648"
+          },
+          "details": {
+            "playerId": "1385085",
+            "date": "2026-07-07T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/takato-yamamoto/transfers/spieler/1385085/transfer_id/6408245"
+        },
+        {
+          "id": "5972641",
+          "transferSource": {
+            "competitionId": "J18W",
+            "countryId": 77,
+            "clubId": "24111",
+            "coachId": "141700"
+          },
+          "transferDestination": {
+            "competitionId": "J1YV",
+            "countryId": 77,
+            "clubId": "596",
+            "coachId": "34760"
+          },
+          "details": {
+            "playerId": "1385085",
+            "date": "2026-02-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/takato-yamamoto/transfers/spieler/1385085/transfer_id/5972641"
+        },
+        {
+          "id": "5811311",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "92108",
+            "coachId": "141700"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "24111",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1385085",
+            "date": "2023-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/takato-yamamoto/transfers/spieler/1385085/transfer_id/5811311"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6408246",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "17",
+            "coachId": "22648"
+          },
+          "transferDestination": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "596",
+            "coachId": "34760"
+          },
+          "details": {
+            "playerId": "1385085",
+            "date": "2027-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/takato-yamamoto/transfers/spieler/1385085/transfer_id/6408246"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 18,
+      "totalMarketValue": {
+        "value": 175000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "175.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "17",
+      "596",
+      "24111",
+      "92108"
+    ],
+    "coachIds": [
+      "22648",
+      "34760",
+      "141700"
+    ],
+    "competitionIds": [
+      "RLW3",
+      "JAP1",
+      "J18W",
+      "J1YV"
+    ],
+    "mostRecentTransfer": {
+      "id": "6408245",
+      "transferSource": {
+        "competitionId": "JAP1",
+        "countryId": 77,
+        "clubId": "596",
+        "coachId": "34760"
+      },
+      "transferDestination": {
+        "competitionId": "RLW3",
+        "countryId": 40,
+        "clubId": "17",
+        "coachId": "22648"
+      },
+      "details": {
+        "playerId": "1385085",
+        "date": "2026-07-07T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 175000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "175.00",
+            "suffix": "K"
+          }
+        },
+        "age": 18,
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/takato-yamamoto/transfers/spieler/1385085/transfer_id/6408245"
+    }
+  }
+}

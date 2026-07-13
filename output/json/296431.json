@@ -1,0 +1,677 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "296431",
+    "history": {
+      "terminated": [
+        {
+          "id": "6097647",
+          "transferSource": {
+            "competitionId": "GRS2",
+            "countryId": 56,
+            "clubId": "3062",
+            "coachId": "36823"
+          },
+          "transferDestination": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "17847",
+            "coachId": "7115"
+          },
+          "details": {
+            "playerId": "296431",
+            "date": "2026-01-05T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 176,
+              "daysDisplay": "5 Months, 25 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikos-zografakis/transfers/spieler/296431/transfer_id/6097647"
+        },
+        {
+          "id": "5743929",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "373",
+            "coachId": "53957"
+          },
+          "transferDestination": {
+            "competitionId": "GRS2",
+            "countryId": 56,
+            "clubId": "3062",
+            "coachId": "57453"
+          },
+          "details": {
+            "playerId": "296431",
+            "date": "2025-07-23T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikos-zografakis/transfers/spieler/296431/transfer_id/5743929"
+        },
+        {
+          "id": "4483584",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "30051"
+          },
+          "transferDestination": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "373",
+            "coachId": "56128"
+          },
+          "details": {
+            "playerId": "296431",
+            "date": "2023-07-06T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikos-zografakis/transfers/spieler/296431/transfer_id/4483584"
+        },
+        {
+          "id": "3994453",
+          "transferSource": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "25",
+            "coachId": "286"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "35168"
+          },
+          "details": {
+            "playerId": "296431",
+            "date": "2022-08-02T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikos-zografakis/transfers/spieler/296431/transfer_id/3994453"
+        },
+        {
+          "id": "3376228",
+          "transferSource": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "254",
+            "coachId": "69955"
+          },
+          "transferDestination": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "25",
+            "coachId": "286"
+          },
+          "details": {
+            "playerId": "296431",
+            "date": "2021-08-11T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikos-zografakis/transfers/spieler/296431/transfer_id/3376228"
+        },
+        {
+          "id": "3232729",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "102",
+            "coachId": "27544"
+          },
+          "transferDestination": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "254",
+            "coachId": "15390"
+          },
+          "details": {
+            "playerId": "296431",
+            "date": "2021-02-01T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 149,
+              "daysDisplay": "4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikos-zografakis/transfers/spieler/296431/transfer_id/3232729"
+        },
+        {
+          "id": "2506146",
+          "transferSource": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "45",
+            "coachId": "35707"
+          },
+          "transferDestination": {
+            "competitionId": "OBLB",
+            "countryId": 40,
+            "clubId": "102",
+            "coachId": "41695"
+          },
+          "details": {
+            "playerId": "296431",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikos-zografakis/transfers/spieler/296431/transfer_id/2506146"
+        },
+        {
+          "id": "1870597",
+          "transferSource": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "2827",
+            "coachId": "7400"
+          },
+          "transferDestination": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "45",
+            "coachId": "14175"
+          },
+          "details": {
+            "playerId": "296431",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikos-zografakis/transfers/spieler/296431/transfer_id/1870597"
+        },
+        {
+          "id": "1543797",
+          "transferSource": {
+            "competitionId": "BJ1",
+            "countryId": 40,
+            "clubId": "21066",
+            "coachId": "692"
+          },
+          "transferDestination": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "2827",
+            "coachId": "7400"
+          },
+          "details": {
+            "playerId": "296431",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikos-zografakis/transfers/spieler/296431/transfer_id/1543797"
+        },
+        {
+          "id": "1124283",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11844",
+            "coachId": "19491"
+          },
+          "transferDestination": {
+            "competitionId": "BJ1",
+            "countryId": 40,
+            "clubId": "21066",
+            "coachId": "692"
+          },
+          "details": {
+            "playerId": "296431",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikos-zografakis/transfers/spieler/296431/transfer_id/1124283"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3062",
+      "17847",
+      "373",
+      "93",
+      "25",
+      "254",
+      "102",
+      "45",
+      "2827",
+      "21066",
+      "11844"
+    ],
+    "coachIds": [
+      "36823",
+      "7115",
+      "53957",
+      "57453",
+      "30051",
+      "56128",
+      "286",
+      "35168",
+      "69955",
+      "27544",
+      "15390",
+      "35707",
+      "41695",
+      "7400",
+      "14175",
+      "692",
+      "19491"
+    ],
+    "competitionIds": [
+      "GRS2",
+      "RLN4",
+      "RLSW",
+      "L3",
+      "L2",
+      "OBLB",
+      "AJ1",
+      "BJ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6097647",
+      "transferSource": {
+        "competitionId": "GRS2",
+        "countryId": 56,
+        "clubId": "3062",
+        "coachId": "36823"
+      },
+      "transferDestination": {
+        "competitionId": "RLN4",
+        "countryId": 40,
+        "clubId": "17847",
+        "coachId": "7115"
+      },
+      "details": {
+        "playerId": "296431",
+        "date": "2026-01-05T00:00:00+01:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 176,
+          "daysDisplay": "5 Months, 25 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/nikos-zografakis/transfers/spieler/296431/transfer_id/6097647"
+    }
+  }
+}

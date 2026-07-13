@@ -1,0 +1,686 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "799900",
+    "history": {
+      "terminated": [
+        {
+          "id": "6066045",
+          "transferSource": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "9023",
+            "coachId": "111219"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "8843",
+            "coachId": "123555"
+          },
+          "details": {
+            "playerId": "799900",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/6066045"
+        },
+        {
+          "id": "5822801",
+          "transferSource": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "362",
+            "coachId": "48279"
+          },
+          "transferDestination": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "9023",
+            "coachId": "111219"
+          },
+          "details": {
+            "playerId": "799900",
+            "date": "2025-07-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 335,
+              "daysDisplay": "11 Months"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/5822801"
+        },
+        {
+          "id": "5476887",
+          "transferSource": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "9023",
+            "coachId": "111219"
+          },
+          "transferDestination": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "362",
+            "coachId": "48279"
+          },
+          "details": {
+            "playerId": "799900",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/5476887"
+        },
+        {
+          "id": "5476886",
+          "transferSource": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "362",
+            "coachId": "48279"
+          },
+          "transferDestination": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "9023",
+            "coachId": "111219"
+          },
+          "details": {
+            "playerId": "799900",
+            "date": "2025-01-23T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 523,
+              "daysDisplay": "1 Year, 5 Months, 7 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/5476886"
+        },
+        {
+          "id": "4408954",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "61121",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "DK3V",
+            "countryId": 39,
+            "clubId": "362",
+            "coachId": "37013"
+          },
+          "details": {
+            "playerId": "799900",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/4408954"
+        },
+        {
+          "id": "4411202",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "61121",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "799900",
+            "date": "2023-04-15T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/4411202"
+        },
+        {
+          "id": "4327252",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1063",
+            "coachId": "44514"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "799900",
+            "date": "2022-11-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 241,
+              "daysDisplay": "7 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/4327252"
+        },
+        {
+          "id": "4025733",
+          "transferSource": {
+            "competitionId": "NO31",
+            "countryId": 125,
+            "clubId": "2961",
+            "coachId": "87264"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1063",
+            "coachId": "44514"
+          },
+          "details": {
+            "playerId": "799900",
+            "date": "2022-10-31T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 61,
+              "daysDisplay": "2 Months"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/4025733"
+        },
+        {
+          "id": "4025732",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1063",
+            "coachId": "44514"
+          },
+          "transferDestination": {
+            "competitionId": "NO31",
+            "countryId": 125,
+            "clubId": "2961",
+            "coachId": "87264"
+          },
+          "details": {
+            "playerId": "799900",
+            "date": "2022-08-19T00:00:00+02:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 315,
+              "daysDisplay": "10 Months, 11 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/4025732"
+        },
+        {
+          "id": "3099109",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "9113",
+            "coachId": "82620"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1063",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "799900",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/3099109"
+        },
+        {
+          "id": "3008336",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "19115",
+            "coachId": "94154"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "9113",
+            "coachId": "82620"
+          },
+          "details": {
+            "playerId": "799900",
+            "date": "2020-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/3008336"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "9023",
+      "8843",
+      "362",
+      "61121",
+      "515",
+      "1063",
+      "2961",
+      "9113",
+      "19115"
+    ],
+    "coachIds": [
+      "111219",
+      "123555",
+      "48279",
+      "37013",
+      "44514",
+      "87264",
+      "82620",
+      "94154"
+    ],
+    "competitionIds": [
+      "DK3O",
+      "SE2",
+      "DK3V",
+      "DK1",
+      "NO31",
+      "DKDL",
+      "DK2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6066045",
+      "transferSource": {
+        "competitionId": "DK3O",
+        "countryId": 39,
+        "clubId": "9023",
+        "coachId": "111219"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "8843",
+        "coachId": "123555"
+      },
+      "details": {
+        "playerId": "799900",
+        "date": "2026-01-29T00:00:00+01:00",
+        "contractUntilDate": "2028-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/christian-wagner/transfers/spieler/799900/transfer_id/6066045"
+    }
+  }
+}

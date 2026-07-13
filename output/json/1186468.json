@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1186468",
+    "history": {
+      "terminated": [
+        {
+          "id": "5522008",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "44586",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "12799",
+            "coachId": "111411"
+          },
+          "details": {
+            "playerId": "1186468",
+            "date": "2025-02-14T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ally-graham/transfers/spieler/1186468/transfer_id/5522008"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 17,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "44586",
+      "12799"
+    ],
+    "coachIds": [
+      "111411"
+    ],
+    "competitionIds": [
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "5522008",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 190,
+        "clubId": "44586",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "GB18",
+        "countryId": 189,
+        "clubId": "12799",
+        "coachId": "111411"
+      },
+      "details": {
+        "playerId": "1186468",
+        "date": "2025-02-14T00:00:00+01:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 16,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ally-graham/transfers/spieler/1186468/transfer_id/5522008"
+    }
+  }
+}

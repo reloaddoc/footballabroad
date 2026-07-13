@@ -1,0 +1,231 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1412009",
+    "history": {
+      "terminated": [
+        {
+          "id": "6348311",
+          "transferSource": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "2385",
+            "coachId": "49981"
+          },
+          "transferDestination": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "11939",
+            "coachId": "90681"
+          },
+          "details": {
+            "playerId": "1412009",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/victor-letecheur/transfers/spieler/1412009/transfer_id/6348311"
+        },
+        {
+          "id": "5675253",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "18285",
+            "coachId": "5396"
+          },
+          "transferDestination": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "2385",
+            "coachId": "49981"
+          },
+          "details": {
+            "playerId": "1412009",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/victor-letecheur/transfers/spieler/1412009/transfer_id/5675253"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6348312",
+          "transferSource": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "11939",
+            "coachId": "90681"
+          },
+          "transferDestination": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "2385",
+            "coachId": "49981"
+          },
+          "details": {
+            "playerId": "1412009",
+            "date": "2027-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/victor-letecheur/transfers/spieler/1412009/transfer_id/6348312"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "11939",
+      "2385",
+      "18285"
+    ],
+    "coachIds": [
+      "90681",
+      "49981",
+      "5396"
+    ],
+    "competitionIds": [
+      "BE3A"
+    ],
+    "mostRecentTransfer": {
+      "id": "6348311",
+      "transferSource": {
+        "competitionId": "BE3A",
+        "countryId": 19,
+        "clubId": "2385",
+        "coachId": "49981"
+      },
+      "transferDestination": {
+        "competitionId": "BE3A",
+        "countryId": 19,
+        "clubId": "11939",
+        "coachId": "90681"
+      },
+      "details": {
+        "playerId": "1412009",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 20,
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/victor-letecheur/transfers/spieler/1412009/transfer_id/6348311"
+    }
+  }
+}

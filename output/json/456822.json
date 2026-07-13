@@ -1,0 +1,205 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "456822",
+    "history": {
+      "terminated": [
+        {
+          "id": "5034007",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "53152",
+            "coachId": "105280"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "3712",
+            "coachId": "31886"
+          },
+          "details": {
+            "playerId": "456822",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emlyn-lewis/transfers/spieler/456822/transfer_id/5034007"
+        },
+        {
+          "id": "1582307",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "27023",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "53152",
+            "coachId": "48814"
+          },
+          "details": {
+            "playerId": "456822",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emlyn-lewis/transfers/spieler/456822/transfer_id/1582307"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 30,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "53152",
+      "3712",
+      "27023"
+    ],
+    "coachIds": [
+      "105280",
+      "31886",
+      "48814"
+    ],
+    "competitionIds": [
+      "WAL1",
+      "NLS6"
+    ],
+    "mostRecentTransfer": {
+      "id": "5034007",
+      "transferSource": {
+        "competitionId": "WAL1",
+        "countryId": 191,
+        "clubId": "53152",
+        "coachId": "105280"
+      },
+      "transferDestination": {
+        "competitionId": "NLS6",
+        "countryId": 189,
+        "clubId": "3712",
+        "coachId": "31886"
+      },
+      "details": {
+        "playerId": "456822",
+        "date": "2024-07-01T00:00:00+02:00",
+        "contractUntilDate": "2025-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 28,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/emlyn-lewis/transfers/spieler/456822/transfer_id/5034007"
+    }
+  }
+}

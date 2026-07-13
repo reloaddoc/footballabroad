@@ -1,0 +1,436 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1126111",
+    "history": {
+      "terminated": [
+        {
+          "id": "6244854",
+          "transferSource": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "133",
+            "coachId": "3797"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "496",
+            "coachId": "69675"
+          },
+          "details": {
+            "playerId": "1126111",
+            "date": "2026-03-25T00:00:00+01:00",
+            "contractUntilDate": "2030-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 2000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "2.00",
+                "suffix": "M"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 828,
+              "daysDisplay": "2 Years, 3 Months, 5 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oscar-sjoestrand/transfers/spieler/1126111/transfer_id/6244854"
+        },
+        {
+          "id": "5768467",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "8843",
+            "coachId": "80015"
+          },
+          "transferDestination": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "133",
+            "coachId": "3797"
+          },
+          "details": {
+            "playerId": "1126111",
+            "date": "2025-07-11T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 903,
+              "daysDisplay": "2 Years, 5 Months, 20 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oscar-sjoestrand/transfers/spieler/1126111/transfer_id/5768467"
+        },
+        {
+          "id": "5146192",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "23224",
+            "coachId": "55489"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "8843",
+            "coachId": "80015"
+          },
+          "details": {
+            "playerId": "1126111",
+            "date": "2024-07-24T00:00:00+02:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oscar-sjoestrand/transfers/spieler/1126111/transfer_id/5146192"
+        },
+        {
+          "id": "4903903",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "8858",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "23224",
+            "coachId": "55489"
+          },
+          "details": {
+            "playerId": "1126111",
+            "date": "2024-02-22T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oscar-sjoestrand/transfers/spieler/1126111/transfer_id/4903903"
+        },
+        {
+          "id": "4903905",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "87276",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "8858",
+            "coachId": "55489"
+          },
+          "details": {
+            "playerId": "1126111",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oscar-sjoestrand/transfers/spieler/1126111/transfer_id/4903905"
+        },
+        {
+          "id": "4903904",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "86071",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "87276",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1126111",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oscar-sjoestrand/transfers/spieler/1126111/transfer_id/4903904"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 2450000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "2.45",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 1000000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.00",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "133",
+      "496",
+      "8843",
+      "23224",
+      "8858",
+      "87276",
+      "86071"
+    ],
+    "coachIds": [
+      "3797",
+      "69675",
+      "80015",
+      "55489"
+    ],
+    "competitionIds": [
+      "NL2",
+      "SE1",
+      "SE2",
+      "SE3N"
+    ],
+    "mostRecentTransfer": {
+      "id": "6244854",
+      "transferSource": {
+        "competitionId": "NL2",
+        "countryId": 122,
+        "clubId": "133",
+        "coachId": "3797"
+      },
+      "transferDestination": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "496",
+        "coachId": "69675"
+      },
+      "details": {
+        "playerId": "1126111",
+        "date": "2026-03-25T00:00:00+01:00",
+        "contractUntilDate": "2030-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 1000000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "1.00",
+            "suffix": "M"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": 2000000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "2.00",
+            "suffix": "M"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 828,
+          "daysDisplay": "2 Years, 3 Months, 5 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/oscar-sjoestrand/transfers/spieler/1126111/transfer_id/6244854"
+    }
+  }
+}

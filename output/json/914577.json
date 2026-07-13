@@ -1,0 +1,486 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "914577",
+    "history": {
+      "terminated": [
+        {
+          "id": "6339758",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "31188",
+            "coachId": "94140"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "9829",
+            "coachId": "116938"
+          },
+          "details": {
+            "playerId": "914577",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ben-wynne/transfers/spieler/914577/transfer_id/6339758"
+        },
+        {
+          "id": "4861065",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "22461",
+            "coachId": "114125"
+          },
+          "transferDestination": {
+            "competitionId": "WAL2",
+            "countryId": 191,
+            "clubId": "31188",
+            "coachId": "104874"
+          },
+          "details": {
+            "playerId": "914577",
+            "date": "2024-01-31T00:00:00+01:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ben-wynne/transfers/spieler/914577/transfer_id/4861065"
+        },
+        {
+          "id": "3884766",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "21541",
+            "coachId": "19712"
+          },
+          "transferDestination": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "22461",
+            "coachId": "24788"
+          },
+          "details": {
+            "playerId": "914577",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ben-wynne/transfers/spieler/914577/transfer_id/3884766"
+        },
+        {
+          "id": "3723263",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "22502",
+            "coachId": "96413"
+          },
+          "transferDestination": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "21541",
+            "coachId": "89496"
+          },
+          "details": {
+            "playerId": "914577",
+            "date": "2022-01-31T00:00:00+01:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ben-wynne/transfers/spieler/914577/transfer_id/3723263"
+        },
+        {
+          "id": "3474106",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "92117",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "22502",
+            "coachId": "48774"
+          },
+          "details": {
+            "playerId": "914577",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ben-wynne/transfers/spieler/914577/transfer_id/3474106"
+        },
+        {
+          "id": "4860651",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "62678",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "92117",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "914577",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ben-wynne/transfers/spieler/914577/transfer_id/4860651"
+        },
+        {
+          "id": "4860650",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "86880",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "62678",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "914577",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ben-wynne/transfers/spieler/914577/transfer_id/4860650"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "31188",
+      "9829",
+      "22461",
+      "21541",
+      "22502",
+      "92117",
+      "62678",
+      "86880"
+    ],
+    "coachIds": [
+      "94140",
+      "116938",
+      "114125",
+      "104874",
+      "19712",
+      "24788",
+      "96413",
+      "89496",
+      "48774"
+    ],
+    "competitionIds": [
+      "WAL1",
+      "NLN6",
+      "WAL2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6339758",
+      "transferSource": {
+        "competitionId": "WAL1",
+        "countryId": 191,
+        "clubId": "31188",
+        "coachId": "94140"
+      },
+      "transferDestination": {
+        "competitionId": "NLN6",
+        "countryId": 189,
+        "clubId": "9829",
+        "coachId": "116938"
+      },
+      "details": {
+        "playerId": "914577",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ben-wynne/transfers/spieler/914577/transfer_id/6339758"
+    }
+  }
+}

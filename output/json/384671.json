@@ -1,0 +1,583 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "384671",
+    "history": {
+      "terminated": [
+        {
+          "id": "5702992",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "142522"
+          },
+          "details": {
+            "playerId": "384671",
+            "date": "2025-06-10T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/john-stenberg/transfers/spieler/384671/transfer_id/5702992"
+        },
+        {
+          "id": "5558602",
+          "transferSource": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "33414",
+            "coachId": "48800"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "384671",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/john-stenberg/transfers/spieler/384671/transfer_id/5558602"
+        },
+        {
+          "id": "4317892",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1236",
+            "coachId": "41877"
+          },
+          "transferDestination": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "33414",
+            "coachId": "90373"
+          },
+          "details": {
+            "playerId": "384671",
+            "date": "2023-08-02T00:00:00+02:00",
+            "contractUntilDate": "2024-11-30T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "remainingContractPeriod": {
+              "days": 120,
+              "daysDisplay": "3 Months, 28 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/john-stenberg/transfers/spieler/384671/transfer_id/4317892"
+        },
+        {
+          "id": "4317891",
+          "transferSource": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "33414",
+            "coachId": "90373"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1236",
+            "coachId": "41877"
+          },
+          "details": {
+            "playerId": "384671",
+            "date": "2023-03-04T00:00:00+01:00",
+            "contractUntilDate": "2023-11-30T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "remainingContractPeriod": {
+              "days": 637,
+              "daysDisplay": "1 Year, 8 Months, 26 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/john-stenberg/transfers/spieler/384671/transfer_id/4317891"
+        },
+        {
+          "id": "4178542",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1236",
+            "coachId": "41877"
+          },
+          "transferDestination": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "33414",
+            "coachId": "90373"
+          },
+          "details": {
+            "playerId": "384671",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": "2024-11-30T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/john-stenberg/transfers/spieler/384671/transfer_id/4178542"
+        },
+        {
+          "id": "3206239",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "23302",
+            "coachId": "85669"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1236",
+            "coachId": "50867"
+          },
+          "details": {
+            "playerId": "384671",
+            "date": "2021-01-08T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 326,
+              "daysDisplay": "10 Months, 22 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/john-stenberg/transfers/spieler/384671/transfer_id/3206239"
+        },
+        {
+          "id": "2838819",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "23738",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "23302",
+            "coachId": "32789"
+          },
+          "details": {
+            "playerId": "384671",
+            "date": "2020-03-20T00:00:00+01:00",
+            "contractUntilDate": "2021-11-30T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/john-stenberg/transfers/spieler/384671/transfer_id/2838819"
+        },
+        {
+          "id": "2010659",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "7395",
+            "coachId": "45868"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "23738",
+            "coachId": "5600"
+          },
+          "details": {
+            "playerId": "384671",
+            "date": "2018-01-25T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/john-stenberg/transfers/spieler/384671/transfer_id/2010659"
+        },
+        {
+          "id": "1309371",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "46944",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "7395",
+            "coachId": "34317"
+          },
+          "details": {
+            "playerId": "384671",
+            "date": "2015-03-31T00:00:00+02:00",
+            "contractUntilDate": "2017-12-31T00:00:00+01:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/john-stenberg/transfers/spieler/384671/transfer_id/1309371"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 33,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "515",
+      "1056",
+      "33414",
+      "1236",
+      "23302",
+      "23738",
+      "7395",
+      "46944"
+    ],
+    "coachIds": [
+      "142522",
+      "48800",
+      "41877",
+      "90373",
+      "85669",
+      "50867",
+      "32789",
+      "45868",
+      "5600",
+      "34317"
+    ],
+    "competitionIds": [
+      "SE2",
+      "USL",
+      "SE3N"
+    ],
+    "mostRecentTransfer": {
+      "id": "5702992",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "1056",
+        "coachId": "142522"
+      },
+      "details": {
+        "playerId": "384671",
+        "date": "2025-06-10T00:00:00+02:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 32,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/john-stenberg/transfers/spieler/384671/transfer_id/5702992"
+    }
+  }
+}

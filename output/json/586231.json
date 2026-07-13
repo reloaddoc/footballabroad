@@ -1,0 +1,775 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "586231",
+    "history": {
+      "terminated": [
+        {
+          "id": "6369656",
+          "transferSource": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "2364",
+            "coachId": "66997"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "4795",
+            "coachId": "68951"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/6369656"
+        },
+        {
+          "id": "5816522",
+          "transferSource": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "21",
+            "coachId": "22092"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "2364",
+            "coachId": "112325"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2025-07-28T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/5816522"
+        },
+        {
+          "id": "5292347",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "21",
+            "coachId": "22092"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2024-09-26T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/5292347"
+        },
+        {
+          "id": "5160789",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "2761",
+            "coachId": "120616"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2024-07-27T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 887,
+              "daysDisplay": "2 Years, 5 Months, 4 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/5160789"
+        },
+        {
+          "id": "4828073",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "129",
+            "coachId": "20170"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "2761",
+            "coachId": "56621"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2024-02-09T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 142,
+              "daysDisplay": "4 Months, 21 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/4828073"
+        },
+        {
+          "id": "3733034",
+          "transferSource": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "2444",
+            "coachId": "941"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "129",
+            "coachId": "39045"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2022-06-30T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/3733034"
+        },
+        {
+          "id": "3733033",
+          "transferSource": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "129",
+            "coachId": "8403"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "2444",
+            "coachId": "941"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2022-02-07T00:00:00+01:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 874,
+              "daysDisplay": "2 Years, 4 Months, 23 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/3733033"
+        },
+        {
+          "id": "3398956",
+          "transferSource": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "5372",
+            "coachId": "6089"
+          },
+          "transferDestination": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "129",
+            "coachId": "8403"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/3398956"
+        },
+        {
+          "id": "2506752",
+          "transferSource": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21057",
+            "coachId": "59126"
+          },
+          "transferDestination": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "5372",
+            "coachId": "35459"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 365,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/2506752"
+        },
+        {
+          "id": "2216560",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "33469",
+            "coachId": "12715"
+          },
+          "transferDestination": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21057",
+            "coachId": "2343"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/2216560"
+        },
+        {
+          "id": "2440959",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "24067",
+            "coachId": "65600"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "33469",
+            "coachId": "52681"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2017-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/2440959"
+        },
+        {
+          "id": "2440960",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "12016",
+            "coachId": "27821"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "24067",
+            "coachId": "69098"
+          },
+          "details": {
+            "playerId": "586231",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 12,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/2440960"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 175000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "175.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2364",
+      "4795",
+      "21",
+      "515",
+      "2761",
+      "129",
+      "2444",
+      "5372",
+      "21057",
+      "33469",
+      "24067",
+      "12016"
+    ],
+    "coachIds": [
+      "66997",
+      "68951",
+      "22092",
+      "112325",
+      "120616",
+      "20170",
+      "56621",
+      "941",
+      "39045",
+      "8403",
+      "6089",
+      "59126",
+      "35459",
+      "12715",
+      "2343",
+      "65600",
+      "52681",
+      "27821",
+      "69098"
+    ],
+    "competitionIds": [
+      "A2",
+      "L3",
+      "RLN4",
+      "NO1",
+      "L2",
+      "AJ3",
+      "BJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6369656",
+      "transferSource": {
+        "competitionId": "A2",
+        "countryId": 127,
+        "clubId": "2364",
+        "coachId": "66997"
+      },
+      "transferDestination": {
+        "competitionId": "L3",
+        "countryId": 40,
+        "clubId": "4795",
+        "coachId": "68951"
+      },
+      "details": {
+        "playerId": "586231",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 175000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "175.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 364,
+          "daysDisplay": "11 Months, 29 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jong-min-seo/transfers/spieler/586231/transfer_id/6369656"
+    }
+  }
+}

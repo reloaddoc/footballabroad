@@ -1,0 +1,875 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "271584",
+    "history": {
+      "terminated": [
+        {
+          "id": "5517656",
+          "transferSource": {
+            "competitionId": "NTD",
+            "countryId": 122,
+            "clubId": "6160",
+            "coachId": "40266"
+          },
+          "transferDestination": {
+            "competitionId": "LNR1",
+            "countryId": 40,
+            "clubId": "24377",
+            "coachId": "39071"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 180,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/5517656"
+        },
+        {
+          "id": "5086594",
+          "transferSource": {
+            "competitionId": "LNR1",
+            "countryId": 40,
+            "clubId": "24377",
+            "coachId": "39071"
+          },
+          "transferDestination": {
+            "competitionId": "NTD",
+            "countryId": 122,
+            "clubId": "6160",
+            "coachId": "40266"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/5086594"
+        },
+        {
+          "id": "3983945",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "LNR2",
+            "countryId": 40,
+            "clubId": "24377",
+            "coachId": "39071"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2022-06-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/3983945"
+        },
+        {
+          "id": "3698085",
+          "transferSource": {
+            "competitionId": "TR4B",
+            "countryId": 174,
+            "clubId": "25230",
+            "coachId": "52554"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2021-12-30T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 182,
+              "daysDisplay": "6 Months"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/3698085"
+        },
+        {
+          "id": "3483857",
+          "transferSource": {
+            "competitionId": "TR4B",
+            "countryId": 174,
+            "clubId": "12380",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "TR4B",
+            "countryId": 174,
+            "clubId": "25230",
+            "coachId": "37859"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2021-08-14T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/3483857"
+        },
+        {
+          "id": "2538007",
+          "transferSource": {
+            "competitionId": "OLNI",
+            "countryId": 40,
+            "clubId": "1068",
+            "coachId": "53850"
+          },
+          "transferDestination": {
+            "competitionId": "TR4C",
+            "countryId": 174,
+            "clubId": "12380",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2019-08-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/2538007"
+        },
+        {
+          "id": "2388898",
+          "transferSource": {
+            "competitionId": "TR4C",
+            "countryId": 174,
+            "clubId": "39807",
+            "coachId": "36678"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "1068",
+            "coachId": "2826"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2019-01-30T00:00:00+01:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 517,
+              "daysDisplay": "1 Year, 5 Months"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/2388898"
+        },
+        {
+          "id": "2247313",
+          "transferSource": {
+            "competitionId": "TR2",
+            "countryId": 174,
+            "clubId": "2944",
+            "coachId": "15266"
+          },
+          "transferDestination": {
+            "competitionId": "TR4C",
+            "countryId": 174,
+            "clubId": "39807",
+            "coachId": "22453"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2018-08-31T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 303,
+              "daysDisplay": "9 Months, 30 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/2247313"
+        },
+        {
+          "id": "1909297",
+          "transferSource": {
+            "competitionId": "TR3A",
+            "countryId": 174,
+            "clubId": "12378",
+            "coachId": "52554"
+          },
+          "transferDestination": {
+            "competitionId": "TR2",
+            "countryId": 174,
+            "clubId": "2944",
+            "coachId": "24256"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2018-06-30T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/1909297"
+        },
+        {
+          "id": "1909296",
+          "transferSource": {
+            "competitionId": "TR1",
+            "countryId": 174,
+            "clubId": "2944",
+            "coachId": "5014"
+          },
+          "transferDestination": {
+            "competitionId": "TR3A",
+            "countryId": 174,
+            "clubId": "12378",
+            "coachId": "56137"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2017-09-08T00:00:00+02:00",
+            "contractUntilDate": "2018-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 660,
+              "daysDisplay": "1 Year, 9 Months, 22 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/1909296"
+        },
+        {
+          "id": "1588380",
+          "transferSource": {
+            "competitionId": "TR3B",
+            "countryId": 174,
+            "clubId": "12378",
+            "coachId": "36682"
+          },
+          "transferDestination": {
+            "competitionId": "TR1",
+            "countryId": 174,
+            "clubId": "2944",
+            "coachId": "8536"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2017-06-30T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/1588380"
+        },
+        {
+          "id": "1588379",
+          "transferSource": {
+            "competitionId": "TR1",
+            "countryId": 174,
+            "clubId": "2944",
+            "coachId": "15266"
+          },
+          "transferDestination": {
+            "competitionId": "TR3B",
+            "countryId": 174,
+            "clubId": "12378",
+            "coachId": "17964"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2016-08-25T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 1039,
+              "daysDisplay": "2 Years, 10 Months, 5 Days"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/1588379"
+        },
+        {
+          "id": "1512185",
+          "transferSource": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "1426",
+            "coachId": "13405"
+          },
+          "transferDestination": {
+            "competitionId": "TR1",
+            "countryId": 174,
+            "clubId": "2944",
+            "coachId": "15266"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2016-08-23T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/1512185"
+        },
+        {
+          "id": "912946",
+          "transferSource": {
+            "competitionId": "NLAE",
+            "countryId": 122,
+            "clubId": "14366",
+            "coachId": "31276"
+          },
+          "transferDestination": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "1426",
+            "coachId": "2045"
+          },
+          "details": {
+            "playerId": "271584",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": "2016-06-30T00:00:00+02:00",
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/912946"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 31,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "6160",
+      "24377",
+      "515",
+      "25230",
+      "12380",
+      "1068",
+      "39807",
+      "2944",
+      "12378",
+      "1426",
+      "14366"
+    ],
+    "coachIds": [
+      "40266",
+      "39071",
+      "52554",
+      "37859",
+      "53850",
+      "36678",
+      "2826",
+      "15266",
+      "22453",
+      "24256",
+      "5014",
+      "56137",
+      "36682",
+      "8536",
+      "17964",
+      "13405",
+      "31276",
+      "2045"
+    ],
+    "competitionIds": [
+      "NTD",
+      "LNR1",
+      "LNR2",
+      "TR4B",
+      "OLNI",
+      "TR4C",
+      "RLW3",
+      "TR2",
+      "TR3A",
+      "TR1",
+      "TR3B",
+      "NL2",
+      "NLAE"
+    ],
+    "mostRecentTransfer": {
+      "id": "5517656",
+      "transferSource": {
+        "competitionId": "NTD",
+        "countryId": 122,
+        "clubId": "6160",
+        "coachId": "40266"
+      },
+      "transferDestination": {
+        "competitionId": "LNR1",
+        "countryId": 40,
+        "clubId": "24377",
+        "coachId": "39071"
+      },
+      "details": {
+        "playerId": "271584",
+        "date": "2025-01-01T00:00:00+01:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 29,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 180,
+          "daysDisplay": "5 Months, 29 Days"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/selman-sevinc/transfers/spieler/271584/transfer_id/5517656"
+    }
+  }
+}

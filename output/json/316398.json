@@ -1,0 +1,591 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "316398",
+    "history": {
+      "terminated": [
+        {
+          "id": "6288262",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "7773",
+            "coachId": "24705"
+          },
+          "transferDestination": {
+            "competitionId": "NTD",
+            "countryId": 122,
+            "clubId": "3943",
+            "coachId": "28536"
+          },
+          "details": {
+            "playerId": "316398",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastiaan-brebels/transfers/spieler/316398/transfer_id/6288262"
+        },
+        {
+          "id": "4998582",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "28107",
+            "coachId": "47678"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "7773",
+            "coachId": "80701"
+          },
+          "details": {
+            "playerId": "316398",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastiaan-brebels/transfers/spieler/316398/transfer_id/4998582"
+        },
+        {
+          "id": "3908600",
+          "transferSource": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "1839",
+            "coachId": "38926"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "28107",
+            "coachId": "50282"
+          },
+          "details": {
+            "playerId": "316398",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": 14250,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "14.25",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 183,
+              "daysDisplay": "5 Months, 30 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastiaan-brebels/transfers/spieler/316398/transfer_id/3908600"
+        },
+        {
+          "id": "3214286",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "5026",
+            "coachId": "76341"
+          },
+          "transferDestination": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "1839",
+            "coachId": "38926"
+          },
+          "details": {
+            "playerId": "316398",
+            "date": "2021-02-18T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 132,
+              "daysDisplay": "4 Months, 12 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastiaan-brebels/transfers/spieler/316398/transfer_id/3214286"
+        },
+        {
+          "id": "1813596",
+          "transferSource": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "3508",
+            "coachId": "1848"
+          },
+          "transferDestination": {
+            "competitionId": "BEL3",
+            "countryId": 19,
+            "clubId": "5026",
+            "coachId": "49546"
+          },
+          "details": {
+            "playerId": "316398",
+            "date": "2017-07-27T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastiaan-brebels/transfers/spieler/316398/transfer_id/1813596"
+        },
+        {
+          "id": "1657467",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "520",
+            "coachId": "1866"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "3508",
+            "coachId": "1848"
+          },
+          "details": {
+            "playerId": "316398",
+            "date": "2017-06-30T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/sebastiaan-brebels/transfers/spieler/316398/transfer_id/1657467"
+        },
+        {
+          "id": "1657466",
+          "transferSource": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "3508",
+            "coachId": "1848"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "520",
+            "coachId": "1866"
+          },
+          "details": {
+            "playerId": "316398",
+            "date": "2017-01-01T00:00:00+01:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 180,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/sebastiaan-brebels/transfers/spieler/316398/transfer_id/1657466"
+        },
+        {
+          "id": "1186829",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "43293",
+            "coachId": "34312"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "3508",
+            "coachId": "1848"
+          },
+          "details": {
+            "playerId": "316398",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastiaan-brebels/transfers/spieler/316398/transfer_id/1186829"
+        },
+        {
+          "id": "1034234",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "3038",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "43293",
+            "coachId": "34312"
+          },
+          "details": {
+            "playerId": "316398",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sebastiaan-brebels/transfers/spieler/316398/transfer_id/1034234"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 14250,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "14.25",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 31,
+      "totalMarketValue": {
+        "value": 250000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "250.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "7773",
+      "3943",
+      "28107",
+      "1839",
+      "5026",
+      "3508",
+      "520",
+      "43293",
+      "3038"
+    ],
+    "coachIds": [
+      "24705",
+      "28536",
+      "47678",
+      "80701",
+      "38926",
+      "50282",
+      "76341",
+      "1848",
+      "49546",
+      "1866",
+      "34312"
+    ],
+    "competitionIds": [
+      "BE2",
+      "NTD",
+      "IS1",
+      "BE1",
+      "BEL3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6288262",
+      "transferSource": {
+        "competitionId": "BE2",
+        "countryId": 19,
+        "clubId": "7773",
+        "coachId": "24705"
+      },
+      "transferDestination": {
+        "competitionId": "NTD",
+        "countryId": 122,
+        "clubId": "3943",
+        "coachId": "28536"
+      },
+      "details": {
+        "playerId": "316398",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 31,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/sebastiaan-brebels/transfers/spieler/316398/transfer_id/6288262"
+    }
+  }
+}

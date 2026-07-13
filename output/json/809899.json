@@ -1,0 +1,654 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "809899",
+    "history": {
+      "terminated": [
+        {
+          "id": "6387548",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "115059"
+          },
+          "transferDestination": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "253",
+            "coachId": "10278"
+          },
+          "details": {
+            "playerId": "809899",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 1095,
+              "daysDisplay": "2 Years, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/6387548"
+        },
+        {
+          "id": "6163065",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "443",
+            "coachId": "32525"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "115059"
+          },
+          "details": {
+            "playerId": "809899",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/6163065"
+        },
+        {
+          "id": "6163064",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "115059"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "443",
+            "coachId": "32525"
+          },
+          "details": {
+            "playerId": "809899",
+            "date": "2026-02-02T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 1244,
+              "daysDisplay": "3 Years, 4 Months, 28 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/6163064"
+        },
+        {
+          "id": "5815283",
+          "transferSource": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "72242"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "115059"
+          },
+          "details": {
+            "playerId": "809899",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 181,
+              "daysDisplay": "5 Months, 30 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/5815283"
+        },
+        {
+          "id": "5815282",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "115059"
+          },
+          "transferDestination": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "72242"
+          },
+          "details": {
+            "playerId": "809899",
+            "date": "2025-07-27T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 1253,
+              "daysDisplay": "3 Years, 5 Months, 4 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/5815282"
+        },
+        {
+          "id": "5246562",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "6992",
+            "coachId": "82304"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "28942"
+          },
+          "details": {
+            "playerId": "809899",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/5246562"
+        },
+        {
+          "id": "5246561",
+          "transferSource": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "28942"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "6992",
+            "coachId": "24716"
+          },
+          "details": {
+            "playerId": "809899",
+            "date": "2024-09-03T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1580,
+              "daysDisplay": "4 Years, 3 Months, 28 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/5246561"
+        },
+        {
+          "id": "4868015",
+          "transferSource": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "63904"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "28942"
+          },
+          "details": {
+            "playerId": "809899",
+            "date": "2024-02-04T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 512,
+              "daysDisplay": "1 Year, 4 Months, 26 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/4868015"
+        },
+        {
+          "id": "4645665",
+          "transferSource": {
+            "competitionId": "GEO2",
+            "countryId": 53,
+            "clubId": "31555",
+            "coachId": "72242"
+          },
+          "transferDestination": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "63904"
+          },
+          "details": {
+            "playerId": "809899",
+            "date": "2023-08-25T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/4645665"
+        },
+        {
+          "id": "4573379",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 53,
+            "clubId": "19692",
+            "coachId": "72005"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 53,
+            "clubId": "31555",
+            "coachId": "72242"
+          },
+          "details": {
+            "playerId": "809899",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/4573379"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6387549",
+          "transferSource": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "253",
+            "coachId": "10278"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "660",
+            "coachId": "115059"
+          },
+          "details": {
+            "playerId": "809899",
+            "date": "2027-06-30T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/6387549"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 700000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "700.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "253",
+      "660",
+      "443",
+      "663",
+      "6992",
+      "31555",
+      "19692"
+    ],
+    "coachIds": [
+      "10278",
+      "115059",
+      "32525",
+      "72242",
+      "82304",
+      "28942",
+      "24716",
+      "63904",
+      "72005"
+    ],
+    "competitionIds": [
+      "GE1N",
+      "UKR1",
+      "DK1",
+      "GEO2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6387548",
+      "transferSource": {
+        "competitionId": "UKR1",
+        "countryId": 177,
+        "clubId": "660",
+        "coachId": "115059"
+      },
+      "transferDestination": {
+        "competitionId": "GE1N",
+        "countryId": 53,
+        "clubId": "253",
+        "coachId": "10278"
+      },
+      "details": {
+        "playerId": "809899",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "500.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "remainingContractPeriod": {
+          "days": 1095,
+          "daysDisplay": "2 Years, 11 Months, 29 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/luka-latsabidze/transfers/spieler/809899/transfer_id/6387548"
+    }
+  }
+}

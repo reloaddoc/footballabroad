@@ -1,0 +1,322 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1004501",
+    "history": {
+      "terminated": [
+        {
+          "id": "6117079",
+          "transferSource": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "1199",
+            "coachId": "29622"
+          },
+          "transferDestination": {
+            "competitionId": "C3CM",
+            "countryId": 50,
+            "clubId": "40391",
+            "coachId": "106896"
+          },
+          "details": {
+            "playerId": "1004501",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 180,
+              "daysDisplay": "5 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gabriel-lecaille/transfers/spieler/1004501/transfer_id/6117079"
+        },
+        {
+          "id": "5780974",
+          "transferSource": {
+            "competitionId": "C3CM",
+            "countryId": 50,
+            "clubId": "40391",
+            "coachId": "106896"
+          },
+          "transferDestination": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "1199",
+            "coachId": "29622"
+          },
+          "details": {
+            "playerId": "1004501",
+            "date": "2025-07-15T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gabriel-lecaille/transfers/spieler/1004501/transfer_id/5780974"
+        },
+        {
+          "id": "5068631",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "16674",
+            "coachId": "12686"
+          },
+          "transferDestination": {
+            "competitionId": "C3CM",
+            "countryId": 50,
+            "clubId": "40391",
+            "coachId": "106896"
+          },
+          "details": {
+            "playerId": "1004501",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gabriel-lecaille/transfers/spieler/1004501/transfer_id/5068631"
+        },
+        {
+          "id": "4574796",
+          "transferSource": {
+            "competitionId": "F19C",
+            "countryId": 50,
+            "clubId": "12773",
+            "coachId": "101370"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "16674",
+            "coachId": "12686"
+          },
+          "details": {
+            "playerId": "1004501",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gabriel-lecaille/transfers/spieler/1004501/transfer_id/4574796"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "1199",
+      "40391",
+      "16674",
+      "12773"
+    ],
+    "coachIds": [
+      "29622",
+      "106896",
+      "12686",
+      "101370"
+    ],
+    "competitionIds": [
+      "BE3A",
+      "C3CM",
+      "F19C"
+    ],
+    "mostRecentTransfer": {
+      "id": "6117079",
+      "transferSource": {
+        "competitionId": "BE3A",
+        "countryId": 19,
+        "clubId": "1199",
+        "coachId": "29622"
+      },
+      "transferDestination": {
+        "competitionId": "C3CM",
+        "countryId": 50,
+        "clubId": "40391",
+        "coachId": "106896"
+      },
+      "details": {
+        "playerId": "1004501",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 180,
+          "daysDisplay": "5 Months, 29 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/gabriel-lecaille/transfers/spieler/1004501/transfer_id/6117079"
+    }
+  }
+}

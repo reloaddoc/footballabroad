@@ -1,0 +1,426 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1028724",
+    "history": {
+      "terminated": [
+        {
+          "id": "5627349",
+          "transferSource": {
+            "competitionId": "510",
+            "countryId": 122,
+            "clubId": "9547",
+            "coachId": "147503"
+          },
+          "transferDestination": {
+            "competitionId": "511",
+            "countryId": 122,
+            "clubId": "7474",
+            "coachId": "36312"
+          },
+          "details": {
+            "playerId": "1028724",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stezo-knott/transfers/spieler/1028724/transfer_id/5627349"
+        },
+        {
+          "id": "5466614",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "98162",
+            "coachId": "95222"
+          },
+          "transferDestination": {
+            "competitionId": "NTD",
+            "countryId": 122,
+            "clubId": "9547",
+            "coachId": "36312"
+          },
+          "details": {
+            "playerId": "1028724",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stezo-knott/transfers/spieler/1028724/transfer_id/5466614"
+        },
+        {
+          "id": "4579378",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "18673",
+            "coachId": "147503"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "98162",
+            "coachId": "125987"
+          },
+          "details": {
+            "playerId": "1028724",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stezo-knott/transfers/spieler/1028724/transfer_id/4579378"
+        },
+        {
+          "id": "3914301",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "2711",
+            "coachId": "92511"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "18673",
+            "coachId": "70953"
+          },
+          "details": {
+            "playerId": "1028724",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stezo-knott/transfers/spieler/1028724/transfer_id/3914301"
+        },
+        {
+          "id": "3914303",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "81466",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "2711",
+            "coachId": "133320"
+          },
+          "details": {
+            "playerId": "1028724",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stezo-knott/transfers/spieler/1028724/transfer_id/3914303"
+        },
+        {
+          "id": "3914302",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "99788",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "81466",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1028724",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/stezo-knott/transfers/spieler/1028724/transfer_id/3914302"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "9547",
+      "7474",
+      "98162",
+      "18673",
+      "2711",
+      "81466",
+      "99788"
+    ],
+    "coachIds": [
+      "147503",
+      "36312",
+      "95222",
+      "125987",
+      "92511",
+      "70953",
+      "133320"
+    ],
+    "competitionIds": [
+      "510",
+      "511",
+      "NTD"
+    ],
+    "mostRecentTransfer": {
+      "id": "5627349",
+      "transferSource": {
+        "competitionId": "510",
+        "countryId": 122,
+        "clubId": "9547",
+        "coachId": "147503"
+      },
+      "transferDestination": {
+        "competitionId": "511",
+        "countryId": 122,
+        "clubId": "7474",
+        "coachId": "36312"
+      },
+      "details": {
+        "playerId": "1028724",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/stezo-knott/transfers/spieler/1028724/transfer_id/5627349"
+    }
+  }
+}

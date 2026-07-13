@@ -178,11 +178,27 @@ def prepare_dataset(df):
 # ==========================================================
 
 
-def get_league_options(df):
+def get_league_options(
+    df,
+    current_country="Any",
+):
+
+    leagues = df.copy()
+
+    if current_country != "Any":
+
+        leagues = leagues[
+            leagues["from_country_name"] == current_country
+        ]
+
     return sorted(
-        df["from_league_group"]
+
+        leagues["from_league_group"]
+
         .dropna()
+
         .unique()
+
     )
 
 # ==========================================================

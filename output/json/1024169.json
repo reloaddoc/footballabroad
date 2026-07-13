@@ -1,0 +1,215 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1024169",
+    "history": {
+      "terminated": [
+        {
+          "id": "5745228",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "102",
+            "coachId": "29144"
+          },
+          "transferDestination": {
+            "competitionId": "OBLC",
+            "countryId": 40,
+            "clubId": "177",
+            "coachId": "65982"
+          },
+          "details": {
+            "playerId": "1024169",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rinto-hanashiro/transfers/spieler/1024169/transfer_id/5745228"
+        },
+        {
+          "id": "4740303",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "100037",
+            "coachId": "27837"
+          },
+          "transferDestination": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "102",
+            "coachId": "20482"
+          },
+          "details": {
+            "playerId": "1024169",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rinto-hanashiro/transfers/spieler/1024169/transfer_id/4740303"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "102",
+      "177",
+      "100037"
+    ],
+    "coachIds": [
+      "29144",
+      "65982",
+      "27837",
+      "20482"
+    ],
+    "competitionIds": [
+      "L3",
+      "OBLC",
+      "RLSW"
+    ],
+    "mostRecentTransfer": {
+      "id": "5745228",
+      "transferSource": {
+        "competitionId": "L3",
+        "countryId": 40,
+        "clubId": "102",
+        "coachId": "29144"
+      },
+      "transferDestination": {
+        "competitionId": "OBLC",
+        "countryId": 40,
+        "clubId": "177",
+        "coachId": "65982"
+      },
+      "details": {
+        "playerId": "1024169",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 364,
+          "daysDisplay": "11 Months, 29 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/rinto-hanashiro/transfers/spieler/1024169/transfer_id/5745228"
+    }
+  }
+}

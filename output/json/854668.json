@@ -1,0 +1,680 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "854668",
+    "history": {
+      "terminated": [
+        {
+          "id": "6084781",
+          "transferSource": {
+            "competitionId": "J2J3",
+            "countryId": 77,
+            "clubId": "22177",
+            "coachId": "27300"
+          },
+          "transferDestination": {
+            "competitionId": "J1YV",
+            "countryId": 77,
+            "clubId": "593",
+            "coachId": "22608"
+          },
+          "details": {
+            "playerId": "854668",
+            "date": "2026-01-12T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 19,
+              "daysDisplay": "19 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/6084781"
+        },
+        {
+          "id": "5396526",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "21975",
+            "coachId": "27843"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22177",
+            "coachId": "38840"
+          },
+          "details": {
+            "playerId": "854668",
+            "date": "2025-01-20T00:00:00+01:00",
+            "contractUntilDate": "2026-01-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 11,
+              "daysDisplay": "11 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/5396526"
+        },
+        {
+          "id": "4785795",
+          "transferSource": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "110347"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "21975",
+            "coachId": "109546"
+          },
+          "details": {
+            "playerId": "854668",
+            "date": "2024-01-08T00:00:00+01:00",
+            "contractUntilDate": "2025-01-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 23,
+              "daysDisplay": "23 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/4785795"
+        },
+        {
+          "id": "4486205",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "1022",
+            "coachId": "27300"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "110347"
+          },
+          "details": {
+            "playerId": "854668",
+            "date": "2023-12-31T00:00:00+01:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 31,
+              "daysDisplay": "1 Month"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/4486205"
+        },
+        {
+          "id": "4486204",
+          "transferSource": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "110347"
+          },
+          "transferDestination": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "1022",
+            "coachId": "27300"
+          },
+          "details": {
+            "playerId": "854668",
+            "date": "2023-07-17T00:00:00+02:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 198,
+              "daysDisplay": "6 Months, 14 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/4486204"
+        },
+        {
+          "id": "3889219",
+          "transferSource": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "223",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "110347"
+          },
+          "details": {
+            "playerId": "854668",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/3889219"
+        },
+        {
+          "id": "3889218",
+          "transferSource": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "76335"
+          },
+          "transferDestination": {
+            "competitionId": "KR1",
+            "countryId": 37,
+            "clubId": "223",
+            "coachId": "4918"
+          },
+          "details": {
+            "playerId": "854668",
+            "date": "2022-07-08T00:00:00+02:00",
+            "contractUntilDate": "2023-06-15T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 572,
+              "daysDisplay": "1 Year, 6 Months, 23 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/3889218"
+        },
+        {
+          "id": "3419620",
+          "transferSource": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "1022",
+            "coachId": "27300"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "76335"
+          },
+          "details": {
+            "playerId": "854668",
+            "date": "2022-06-15T00:00:00+02:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 230,
+              "daysDisplay": "7 Months, 16 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/3419620"
+        },
+        {
+          "id": "3419619",
+          "transferSource": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "76335"
+          },
+          "transferDestination": {
+            "competitionId": "JAP1",
+            "countryId": 77,
+            "clubId": "1022",
+            "coachId": "7592"
+          },
+          "details": {
+            "playerId": "854668",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 944,
+              "daysDisplay": "2 Years, 6 Months, 30 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/3419619"
+        },
+        {
+          "id": "3201798",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "23985",
+            "coachId": "137176"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "76335"
+          },
+          "details": {
+            "playerId": "854668",
+            "date": "2021-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/3201798"
+        },
+        {
+          "id": "3421602",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "58631",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "23985",
+            "coachId": "137176"
+          },
+          "details": {
+            "playerId": "854668",
+            "date": "2017-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/3421602"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 28,
+      "totalMarketValue": {
+        "value": 600000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "600.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "22177",
+      "593",
+      "21975",
+      "38137",
+      "1022",
+      "223",
+      "23985",
+      "58631"
+    ],
+    "coachIds": [
+      "27300",
+      "22608",
+      "27843",
+      "38840",
+      "110347",
+      "109546",
+      "76335",
+      "4918",
+      "7592",
+      "137176"
+    ],
+    "competitionIds": [
+      "J2J3",
+      "J1YV",
+      "JAP2",
+      "JFL",
+      "JAP1",
+      "KR1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6084781",
+      "transferSource": {
+        "competitionId": "J2J3",
+        "countryId": 77,
+        "clubId": "22177",
+        "coachId": "27300"
+      },
+      "transferDestination": {
+        "competitionId": "J1YV",
+        "countryId": 77,
+        "clubId": "593",
+        "coachId": "22608"
+      },
+      "details": {
+        "playerId": "854668",
+        "date": "2026-01-12T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 700000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "700.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 19,
+          "daysDisplay": "19 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/haruki-arai/transfers/spieler/854668/transfer_id/6084781"
+    }
+  }
+}

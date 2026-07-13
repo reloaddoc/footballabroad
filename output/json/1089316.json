@@ -1,0 +1,441 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1089316",
+    "history": {
+      "terminated": [
+        {
+          "id": "4800851",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "44477"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2454",
+            "coachId": "39218"
+          },
+          "details": {
+            "playerId": "1089316",
+            "date": "2024-01-04T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jay-mcgrath/transfers/spieler/1089316/transfer_id/4800851"
+        },
+        {
+          "id": "4416824",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "32636",
+            "coachId": "69601"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "44477"
+          },
+          "details": {
+            "playerId": "1089316",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jay-mcgrath/transfers/spieler/1089316/transfer_id/4416824"
+        },
+        {
+          "id": "4275720",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "44477"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "32636",
+            "coachId": "69601"
+          },
+          "details": {
+            "playerId": "1089316",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jay-mcgrath/transfers/spieler/1089316/transfer_id/4275720"
+        },
+        {
+          "id": "4275776",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "32636",
+            "coachId": "69601"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "57789"
+          },
+          "details": {
+            "playerId": "1089316",
+            "date": "2023-02-14T00:00:00+01:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jay-mcgrath/transfers/spieler/1089316/transfer_id/4275776"
+        },
+        {
+          "id": "4275718",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "3721",
+            "coachId": "50146"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "32636",
+            "coachId": "69601"
+          },
+          "details": {
+            "playerId": "1089316",
+            "date": "2022-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jay-mcgrath/transfers/spieler/1089316/transfer_id/4275718"
+        },
+        {
+          "id": "4275774",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "32636",
+            "coachId": "69601"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "3721",
+            "coachId": "50146"
+          },
+          "details": {
+            "playerId": "1089316",
+            "date": "2022-11-18T00:00:00+01:00",
+            "contractUntilDate": "2022-12-16T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jay-mcgrath/transfers/spieler/1089316/transfer_id/4275774"
+        },
+        {
+          "id": "4275716",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "42216",
+            "coachId": "115246"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "32636",
+            "coachId": "45726"
+          },
+          "details": {
+            "playerId": "1089316",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jay-mcgrath/transfers/spieler/1089316/transfer_id/4275716"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1189",
+      "2454",
+      "32636",
+      "3721",
+      "42216"
+    ],
+    "coachIds": [
+      "44477",
+      "39218",
+      "69601",
+      "57789",
+      "50146",
+      "115246",
+      "45726"
+    ],
+    "competitionIds": [
+      "IR1",
+      "GB4",
+      "NLN6"
+    ],
+    "mostRecentTransfer": {
+      "id": "4800851",
+      "transferSource": {
+        "competitionId": "IR1",
+        "countryId": 72,
+        "clubId": "1189",
+        "coachId": "44477"
+      },
+      "transferDestination": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "2454",
+        "coachId": "39218"
+      },
+      "details": {
+        "playerId": "1089316",
+        "date": "2024-01-04T00:00:00+01:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jay-mcgrath/transfers/spieler/1089316/transfer_id/4800851"
+    }
+  }
+}

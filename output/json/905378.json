@@ -1,0 +1,592 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "905378",
+    "history": {
+      "terminated": [
+        {
+          "id": "5426657",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "13519",
+            "coachId": "122745"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "195",
+            "coachId": "79035"
+          },
+          "details": {
+            "playerId": "905378",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haakon-roesten/transfers/spieler/905378/transfer_id/5426657"
+        },
+        {
+          "id": "5426656",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "195",
+            "coachId": "79035"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "13519",
+            "coachId": "122745"
+          },
+          "details": {
+            "playerId": "905378",
+            "date": "2025-03-25T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1011,
+              "daysDisplay": "2 Years, 9 Months, 6 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haakon-roesten/transfers/spieler/905378/transfer_id/5426656"
+        },
+        {
+          "id": "5257058",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "13519",
+            "coachId": "5401"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "195",
+            "coachId": "79035"
+          },
+          "details": {
+            "playerId": "905378",
+            "date": "2024-12-31T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haakon-roesten/transfers/spieler/905378/transfer_id/5257058"
+        },
+        {
+          "id": "5257057",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "195",
+            "coachId": "79035"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "13519",
+            "coachId": "5401"
+          },
+          "details": {
+            "playerId": "905378",
+            "date": "2024-09-08T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1209,
+              "daysDisplay": "3 Years, 3 Months, 23 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haakon-roesten/transfers/spieler/905378/transfer_id/5257057"
+        },
+        {
+          "id": "5187097",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "6018",
+            "coachId": "74441"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "195",
+            "coachId": "79035"
+          },
+          "details": {
+            "playerId": "905378",
+            "date": "2024-08-19T00:00:00+02:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 134,
+              "daysDisplay": "4 Months, 12 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haakon-roesten/transfers/spieler/905378/transfer_id/5187097"
+        },
+        {
+          "id": "5187096",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "195",
+            "coachId": "79035"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "6018",
+            "coachId": "74441"
+          },
+          "details": {
+            "playerId": "905378",
+            "date": "2024-08-10T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1238,
+              "daysDisplay": "3 Years, 4 Months, 21 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haakon-roesten/transfers/spieler/905378/transfer_id/5187096"
+        },
+        {
+          "id": "4977415",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "13519",
+            "coachId": "5401"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "195",
+            "coachId": "79035"
+          },
+          "details": {
+            "playerId": "905378",
+            "date": "2024-06-03T00:00:00+02:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/haakon-roesten/transfers/spieler/905378/transfer_id/4977415"
+        },
+        {
+          "id": "4977414",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "195",
+            "coachId": "79035"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "13519",
+            "coachId": "5401"
+          },
+          "details": {
+            "playerId": "905378",
+            "date": "2024-04-11T00:00:00+02:00",
+            "contractUntilDate": "2024-06-03T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1359,
+              "daysDisplay": "3 Years, 8 Months, 20 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/haakon-roesten/transfers/spieler/905378/transfer_id/4977414"
+        },
+        {
+          "id": "3665473",
+          "transferSource": {
+            "competitionId": "NO45",
+            "countryId": 125,
+            "clubId": "35024",
+            "coachId": "53140"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "195",
+            "coachId": "2100"
+          },
+          "details": {
+            "playerId": "905378",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/haakon-roesten/transfers/spieler/905378/transfer_id/3665473"
+        },
+        {
+          "id": "3665472",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "113236",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "35024",
+            "coachId": "53140"
+          },
+          "details": {
+            "playerId": "905378",
+            "date": "2021-01-13T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/haakon-roesten/transfers/spieler/905378/transfer_id/3665472"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "13519",
+      "195",
+      "6018",
+      "35024",
+      "113236"
+    ],
+    "coachIds": [
+      "122745",
+      "79035",
+      "5401",
+      "74441",
+      "53140",
+      "2100"
+    ],
+    "competitionIds": [
+      "NO2",
+      "NO1",
+      "SE2",
+      "NO45",
+      "NO32"
+    ],
+    "mostRecentTransfer": {
+      "id": "5426657",
+      "transferSource": {
+        "competitionId": "NO2",
+        "countryId": 125,
+        "clubId": "13519",
+        "coachId": "122745"
+      },
+      "transferDestination": {
+        "competitionId": "NO1",
+        "countryId": 125,
+        "clubId": "195",
+        "coachId": "79035"
+      },
+      "details": {
+        "playerId": "905378",
+        "date": "2025-12-31T00:00:00+01:00",
+        "contractUntilDate": "2027-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 400000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "400.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/haakon-roesten/transfers/spieler/905378/transfer_id/5426657"
+    }
+  }
+}

@@ -1,0 +1,736 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "508153",
+    "history": {
+      "terminated": [
+        {
+          "id": "6064469",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "THA1",
+            "countryId": 167,
+            "clubId": "25449",
+            "coachId": "77117"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/6064469"
+        },
+        {
+          "id": "5764674",
+          "transferSource": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "2727",
+            "coachId": "134366"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2025-07-09T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 356,
+              "daysDisplay": "11 Months, 21 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/5764674"
+        },
+        {
+          "id": "5167233",
+          "transferSource": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "786",
+            "coachId": "139015"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "2727",
+            "coachId": "451"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/5167233"
+        },
+        {
+          "id": "5167232",
+          "transferSource": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "2727",
+            "coachId": "16362"
+          },
+          "transferDestination": {
+            "competitionId": "ZYP1",
+            "countryId": 188,
+            "clubId": "786",
+            "coachId": "451"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2024-08-02T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 697,
+              "daysDisplay": "1 Year, 10 Months, 28 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/5167232"
+        },
+        {
+          "id": "4622721",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "69478"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "2727",
+            "coachId": "16362"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/4622721"
+        },
+        {
+          "id": "4622720",
+          "transferSource": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "2727",
+            "coachId": "1010"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1053",
+            "coachId": "93316"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2023-09-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 1033,
+              "daysDisplay": "2 Years, 9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/4622720"
+        },
+        {
+          "id": "4250406",
+          "transferSource": {
+            "competitionId": "BU1",
+            "countryId": 28,
+            "clubId": "2531",
+            "coachId": "31342"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "2727",
+            "coachId": "1010"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2023-01-30T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 517,
+              "daysDisplay": "1 Year, 5 Months"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/4250406"
+        },
+        {
+          "id": "3533645",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5716",
+            "coachId": "54759"
+          },
+          "transferDestination": {
+            "competitionId": "BU1",
+            "countryId": 28,
+            "clubId": "2531",
+            "coachId": "21692"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2021-09-02T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 666,
+              "daysDisplay": "1 Year, 9 Months, 28 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/3533645"
+        },
+        {
+          "id": "3247459",
+          "transferSource": {
+            "competitionId": "BU1",
+            "countryId": 28,
+            "clubId": "2531",
+            "coachId": "21692"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5716",
+            "coachId": "54759"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2021-09-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 302,
+              "daysDisplay": "9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/3247459"
+        },
+        {
+          "id": "3247458",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5716",
+            "coachId": "10067"
+          },
+          "transferDestination": {
+            "competitionId": "BU1",
+            "countryId": 28,
+            "clubId": "2531",
+            "coachId": "21692"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2021-02-10T00:00:00+01:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 870,
+              "daysDisplay": "2 Years, 4 Months, 20 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/3247458"
+        },
+        {
+          "id": "2636476",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "61758",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5716",
+            "coachId": "43704"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2019-08-30T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 305,
+              "daysDisplay": "10 Months"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/2636476"
+        },
+        {
+          "id": "2421449",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 54,
+            "clubId": "45972",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "61758",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "508153",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/2421449"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 1000000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.00",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "515",
+      "25449",
+      "2727",
+      "786",
+      "1053",
+      "2531",
+      "5716",
+      "61758",
+      "45972"
+    ],
+    "coachIds": [
+      "77117",
+      "134366",
+      "139015",
+      "451",
+      "16362",
+      "69478",
+      "1010",
+      "93316",
+      "31342",
+      "54759",
+      "21692",
+      "10067",
+      "43704"
+    ],
+    "competitionIds": [
+      "THA1",
+      "BE1",
+      "ZYP1",
+      "DK2",
+      "BU1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6064469",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "THA1",
+        "countryId": 167,
+        "clubId": "25449",
+        "coachId": "77117"
+      },
+      "details": {
+        "playerId": "508153",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 400000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "400.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/emmanuel-toku/transfers/spieler/508153/transfer_id/6064469"
+    }
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1122797",
+    "history": {
+      "terminated": [
+        {
+          "id": "6100414",
+          "transferSource": {
+            "competitionId": "K3L",
+            "countryId": 87,
+            "clubId": "32051",
+            "coachId": "57622"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "11931",
+            "coachId": "62464"
+          },
+          "details": {
+            "playerId": "1122797",
+            "date": "2026-01-06T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/camilo/transfers/spieler/1122797/transfer_id/6100414"
+        },
+        {
+          "id": "5510720",
+          "transferSource": {
+            "competitionId": "K3L",
+            "countryId": 87,
+            "clubId": "62853",
+            "coachId": "97424"
+          },
+          "transferDestination": {
+            "competitionId": "K3L",
+            "countryId": 87,
+            "clubId": "32051",
+            "coachId": "57622"
+          },
+          "details": {
+            "playerId": "1122797",
+            "date": "2025-03-04T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/camilo/transfers/spieler/1122797/transfer_id/5510720"
+        },
+        {
+          "id": "4818540",
+          "transferSource": {
+            "competitionId": "BRCG",
+            "countryId": 26,
+            "clubId": "40120",
+            "coachId": "123737"
+          },
+          "transferDestination": {
+            "competitionId": "K3L",
+            "countryId": 87,
+            "clubId": "62853",
+            "coachId": "97424"
+          },
+          "details": {
+            "playerId": "1122797",
+            "date": "2024-01-12T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/camilo/transfers/spieler/1122797/transfer_id/4818540"
+        },
+        {
+          "id": "4644829",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "35946",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "BRCG",
+            "countryId": 26,
+            "clubId": "40120",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1122797",
+            "date": "2023-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/camilo/transfers/spieler/1122797/transfer_id/4644829"
+        },
+        {
+          "id": "4644828",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "40120",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "35946",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1122797",
+            "date": "2023-09-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/camilo/transfers/spieler/1122797/transfer_id/4644828"
+        },
+        {
+          "id": "4388847",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "29718",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "40120",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1122797",
+            "date": "2023-05-05T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/camilo/transfers/spieler/1122797/transfer_id/4388847"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 28,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "32051",
+      "11931",
+      "62853",
+      "40120",
+      "35946",
+      "29718"
+    ],
+    "coachIds": [
+      "57622",
+      "62464",
+      "97424",
+      "123737"
+    ],
+    "competitionIds": [
+      "K3L",
+      "BRCG"
+    ],
+    "mostRecentTransfer": {
+      "id": "6100414",
+      "transferSource": {
+        "competitionId": "K3L",
+        "countryId": 87,
+        "clubId": "32051",
+        "coachId": "57622"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 26,
+        "clubId": "11931",
+        "coachId": "62464"
+      },
+      "details": {
+        "playerId": "1122797",
+        "date": "2026-01-06T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/camilo/transfers/spieler/1122797/transfer_id/6100414"
+    }
+  }
+}

@@ -1,0 +1,847 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "433987",
+    "history": {
+      "terminated": [
+        {
+          "id": "6323053",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "46517",
+            "coachId": "1694"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/6323053"
+        },
+        {
+          "id": "6118337",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "46517",
+            "coachId": "1694"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2026-01-13T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/6118337"
+        },
+        {
+          "id": "6102342",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "12335",
+            "coachId": "106975"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2026-01-06T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/6102342"
+        },
+        {
+          "id": "6023697",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "46517",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "12335",
+            "coachId": "106975"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2025-12-06T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/6023697"
+        },
+        {
+          "id": "6023696",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "12335",
+            "coachId": "106975"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "46517",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2025-11-06T00:00:00+01:00",
+            "contractUntilDate": "2025-12-06T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/6023696"
+        },
+        {
+          "id": "5723424",
+          "transferSource": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "3831",
+            "coachId": "69106"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "12335",
+            "coachId": "59564"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2025-07-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 305,
+              "daysDisplay": "10 Months, 1 Day"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/5723424"
+        },
+        {
+          "id": "4802548",
+          "transferSource": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "3463",
+            "coachId": "59365"
+          },
+          "transferDestination": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "3831",
+            "coachId": "17943"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2024-01-04T00:00:00+01:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1273,
+              "daysDisplay": "3 Years, 5 Months, 26 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/4802548"
+        },
+        {
+          "id": "3855332",
+          "transferSource": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "9026",
+            "coachId": "24128"
+          },
+          "transferDestination": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "3463",
+            "coachId": "22350"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/3855332"
+        },
+        {
+          "id": "3521267",
+          "transferSource": {
+            "competitionId": "NIR2",
+            "countryId": 192,
+            "clubId": "21929",
+            "coachId": "59639"
+          },
+          "transferDestination": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "9026",
+            "coachId": "24128"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2022-05-31T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/3521267"
+        },
+        {
+          "id": "3521266",
+          "transferSource": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "9026",
+            "coachId": "24128"
+          },
+          "transferDestination": {
+            "competitionId": "NIR2",
+            "countryId": 192,
+            "clubId": "21929",
+            "coachId": "59639"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2021-08-27T00:00:00+02:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 307,
+              "daysDisplay": "10 Months, 3 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/3521266"
+        },
+        {
+          "id": "3023941",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 192,
+            "clubId": "12903",
+            "coachId": "9370"
+          },
+          "transferDestination": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "9026",
+            "coachId": "24128"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2020-08-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/3023941"
+        },
+        {
+          "id": "2653538",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "24226",
+            "coachId": "49800"
+          },
+          "transferDestination": {
+            "competitionId": "NIR1",
+            "countryId": 192,
+            "clubId": "12903",
+            "coachId": "72456"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2019-08-28T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/2653538"
+        },
+        {
+          "id": "2453517",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "12801",
+            "coachId": "25488"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "24226",
+            "coachId": "49800"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/2453517"
+        },
+        {
+          "id": "3023942",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 192,
+            "clubId": "41141",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "12801",
+            "coachId": "34710"
+          },
+          "details": {
+            "playerId": "433987",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/3023942"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "46517",
+      "515",
+      "12335",
+      "3831",
+      "3463",
+      "9026",
+      "21929",
+      "12903",
+      "24226",
+      "12801",
+      "41141"
+    ],
+    "coachIds": [
+      "1694",
+      "106975",
+      "69106",
+      "59564",
+      "59365",
+      "17943",
+      "24128",
+      "22350",
+      "59639",
+      "9370",
+      "49800",
+      "72456",
+      "25488",
+      "34710"
+    ],
+    "competitionIds": [
+      "CNAT",
+      "NIR1",
+      "NIR2",
+      "GB21",
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "6323053",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 189,
+        "clubId": "46517",
+        "coachId": "1694"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "433987",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/rory-brown/transfers/spieler/433987/transfer_id/6323053"
+    }
+  }
+}

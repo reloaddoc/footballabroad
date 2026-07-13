@@ -1,0 +1,274 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1130619",
+    "history": {
+      "terminated": [
+        {
+          "id": "6070052",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "80015"
+          },
+          "transferDestination": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "3737",
+            "coachId": "90850"
+          },
+          "details": {
+            "playerId": "1130619",
+            "date": "2026-02-05T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1060,
+              "daysDisplay": "2 Years, 10 Months, 26 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonatan-gudni-arnarsson/transfers/spieler/1130619/transfer_id/6070052"
+        },
+        {
+          "id": "5511843",
+          "transferSource": {
+            "competitionId": "IS2",
+            "countryId": 73,
+            "clubId": "21855",
+            "coachId": "101147"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2844",
+            "coachId": "125934"
+          },
+          "details": {
+            "playerId": "1130619",
+            "date": "2025-02-09T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 645,
+              "daysDisplay": "1 Year, 9 Months, 7 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonatan-gudni-arnarsson/transfers/spieler/1130619/transfer_id/5511843"
+        },
+        {
+          "id": "5010828",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 73,
+            "clubId": "21856",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "IS2",
+            "countryId": 73,
+            "clubId": "21855",
+            "coachId": "101147"
+          },
+          "details": {
+            "playerId": "1130619",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-11-16T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jonatan-gudni-arnarsson/transfers/spieler/1130619/transfer_id/5010828"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2844",
+      "3737",
+      "21855",
+      "21856"
+    ],
+    "coachIds": [
+      "80015",
+      "90850",
+      "101147",
+      "125934"
+    ],
+    "competitionIds": [
+      "SE2",
+      "IS1",
+      "IS2",
+      "SE1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6070052",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "2844",
+        "coachId": "80015"
+      },
+      "transferDestination": {
+        "competitionId": "IS1",
+        "countryId": 73,
+        "clubId": "3737",
+        "coachId": "90850"
+      },
+      "details": {
+        "playerId": "1130619",
+        "date": "2026-02-05T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 25000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "25.00",
+            "suffix": "K"
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 1060,
+          "daysDisplay": "2 Years, 10 Months, 26 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jonatan-gudni-arnarsson/transfers/spieler/1130619/transfer_id/6070052"
+    }
+  }
+}

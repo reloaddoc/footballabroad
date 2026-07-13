@@ -1,0 +1,609 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1058799",
+    "history": {
+      "terminated": [
+        {
+          "id": "6226552",
+          "transferSource": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "13653",
+            "coachId": "154220"
+          },
+          "transferDestination": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "9015",
+            "coachId": "140929"
+          },
+          "details": {
+            "playerId": "1058799",
+            "date": "2026-03-11T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amadou-david-sanyang/transfers/spieler/1058799/transfer_id/6226552"
+        },
+        {
+          "id": "5601384",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "8854",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "13653",
+            "coachId": "21426"
+          },
+          "details": {
+            "playerId": "1058799",
+            "date": "2025-11-30T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/amadou-david-sanyang/transfers/spieler/1058799/transfer_id/5601384"
+        },
+        {
+          "id": "5601383",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "13653",
+            "coachId": "21426"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "8854",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1058799",
+            "date": "2025-04-04T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/amadou-david-sanyang/transfers/spieler/1058799/transfer_id/5601383"
+        },
+        {
+          "id": "5601382",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "2283",
+            "coachId": "103889"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "13653",
+            "coachId": "21426"
+          },
+          "details": {
+            "playerId": "1058799",
+            "date": "2025-03-25T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amadou-david-sanyang/transfers/spieler/1058799/transfer_id/5601382"
+        },
+        {
+          "id": "5251341",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "50885",
+            "coachId": "77064"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "2283",
+            "coachId": "103889"
+          },
+          "details": {
+            "playerId": "1058799",
+            "date": "2024-08-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amadou-david-sanyang/transfers/spieler/1058799/transfer_id/5251341"
+        },
+        {
+          "id": "4574353",
+          "transferSource": {
+            "competitionId": "211F",
+            "countryId": 122,
+            "clubId": "24366",
+            "coachId": "55702"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "50885",
+            "coachId": "77064"
+          },
+          "details": {
+            "playerId": "1058799",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/amadou-david-sanyang/transfers/spieler/1058799/transfer_id/4574353"
+        },
+        {
+          "id": "4574352",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "50885",
+            "coachId": "77064"
+          },
+          "transferDestination": {
+            "competitionId": "211F",
+            "countryId": 122,
+            "clubId": "24366",
+            "coachId": "55702"
+          },
+          "details": {
+            "playerId": "1058799",
+            "date": "2023-08-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/amadou-david-sanyang/transfers/spieler/1058799/transfer_id/4574352"
+        },
+        {
+          "id": "4502570",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "16574",
+            "coachId": "108022"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "50885",
+            "coachId": "77064"
+          },
+          "details": {
+            "playerId": "1058799",
+            "date": "2023-07-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amadou-david-sanyang/transfers/spieler/1058799/transfer_id/4502570"
+        },
+        {
+          "id": "4067019",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "42331",
+            "coachId": "108022"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "16574",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1058799",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amadou-david-sanyang/transfers/spieler/1058799/transfer_id/4067019"
+        },
+        {
+          "id": "4082020",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "102514",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "42331",
+            "coachId": "108022"
+          },
+          "details": {
+            "playerId": "1058799",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amadou-david-sanyang/transfers/spieler/1058799/transfer_id/4082020"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "13653",
+      "9015",
+      "8854",
+      "2283",
+      "50885",
+      "24366",
+      "16574",
+      "42331",
+      "102514"
+    ],
+    "coachIds": [
+      "154220",
+      "140929",
+      "21426",
+      "103889",
+      "77064",
+      "55702",
+      "108022"
+    ],
+    "competitionIds": [
+      "SE3S",
+      "SE2",
+      "SE3N",
+      "211F"
+    ],
+    "mostRecentTransfer": {
+      "id": "6226552",
+      "transferSource": {
+        "competitionId": "SE3S",
+        "countryId": 147,
+        "clubId": "13653",
+        "coachId": "154220"
+      },
+      "transferDestination": {
+        "competitionId": "SE3S",
+        "countryId": 147,
+        "clubId": "9015",
+        "coachId": "140929"
+      },
+      "details": {
+        "playerId": "1058799",
+        "date": "2026-03-11T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 25000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "25.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/amadou-david-sanyang/transfers/spieler/1058799/transfer_id/6226552"
+    }
+  }
+}

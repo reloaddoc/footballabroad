@@ -1,0 +1,667 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "903451",
+    "history": {
+      "terminated": [
+        {
+          "id": "6410456",
+          "transferSource": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "11853",
+            "coachId": "29480"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "903451",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/6410456"
+        },
+        {
+          "id": "5901322",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "11853",
+            "coachId": "29480"
+          },
+          "details": {
+            "playerId": "903451",
+            "date": "2025-08-29T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 670,
+              "daysDisplay": "1 Year, 10 Months, 1 Day"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/5901322"
+        },
+        {
+          "id": "5195502",
+          "transferSource": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "17847",
+            "coachId": "102313"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "details": {
+            "playerId": "903451",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/5195502"
+        },
+        {
+          "id": "5195501",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "transferDestination": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "17847",
+            "coachId": "25302"
+          },
+          "details": {
+            "playerId": "903451",
+            "date": "2024-08-14T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1050,
+              "daysDisplay": "2 Years, 10 Months, 16 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/5195501"
+        },
+        {
+          "id": "4573875",
+          "transferSource": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "503",
+            "coachId": "37049"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "details": {
+            "playerId": "903451",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/4573875"
+        },
+        {
+          "id": "4573874",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "503",
+            "coachId": "37049"
+          },
+          "details": {
+            "playerId": "903451",
+            "date": "2023-08-10T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 1420,
+              "daysDisplay": "3 Years, 10 Months, 20 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/4573874"
+        },
+        {
+          "id": "4022821",
+          "transferSource": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "20607"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "details": {
+            "playerId": "903451",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": 240000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "240.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/4022821"
+        },
+        {
+          "id": "4327612",
+          "transferSource": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "22842",
+            "coachId": "68361"
+          },
+          "transferDestination": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "20607"
+          },
+          "details": {
+            "playerId": "903451",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/4327612"
+        },
+        {
+          "id": "4327611",
+          "transferSource": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "20607"
+          },
+          "transferDestination": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "22842",
+            "coachId": "68361"
+          },
+          "details": {
+            "playerId": "903451",
+            "date": "2023-03-17T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/4327611"
+        },
+        {
+          "id": "4295852",
+          "transferSource": {
+            "competitionId": "GEO2",
+            "countryId": 53,
+            "clubId": "31555",
+            "coachId": "72242"
+          },
+          "transferDestination": {
+            "competitionId": "GE1N",
+            "countryId": 53,
+            "clubId": "663",
+            "coachId": "20607"
+          },
+          "details": {
+            "playerId": "903451",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/4295852"
+        },
+        {
+          "id": "4027945",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 53,
+            "clubId": "19692",
+            "coachId": "72005"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 53,
+            "clubId": "31555",
+            "coachId": "72242"
+          },
+          "details": {
+            "playerId": "903451",
+            "date": "2022-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/4027945"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 240000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "240.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "11853",
+      "515",
+      "28",
+      "17847",
+      "503",
+      "663",
+      "22842",
+      "31555",
+      "19692"
+    ],
+    "coachIds": [
+      "29480",
+      "5716",
+      "102313",
+      "25302",
+      "37049",
+      "20607",
+      "68361",
+      "72242",
+      "72005"
+    ],
+    "competitionIds": [
+      "A2",
+      "RLB3",
+      "RLN4",
+      "GE1N",
+      "GEO2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6410456",
+      "transferSource": {
+        "competitionId": "A2",
+        "countryId": 127,
+        "clubId": "11853",
+        "coachId": "29480"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "903451",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/luka-parkadze/transfers/spieler/903451/transfer_id/6410456"
+    }
+  }
+}

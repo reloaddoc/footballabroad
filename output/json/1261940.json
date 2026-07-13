@@ -1,0 +1,516 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1261940",
+    "history": {
+      "terminated": [
+        {
+          "id": "6297959",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "46842",
+            "coachId": "108402"
+          },
+          "transferDestination": {
+            "competitionId": "SC3",
+            "countryId": 190,
+            "clubId": "8933",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1261940",
+            "date": "2026-07-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/edimond-oppong/transfers/spieler/1261940/transfer_id/6297959"
+        },
+        {
+          "id": "6246310",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "8908",
+            "coachId": "112140"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "46842",
+            "coachId": "108402"
+          },
+          "details": {
+            "playerId": "1261940",
+            "date": "2026-03-26T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/edimond-oppong/transfers/spieler/1261940/transfer_id/6246310"
+        },
+        {
+          "id": "6116765",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3825",
+            "coachId": "50733"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "8908",
+            "coachId": "74390"
+          },
+          "details": {
+            "playerId": "1261940",
+            "date": "2026-01-10T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/edimond-oppong/transfers/spieler/1261940/transfer_id/6116765"
+        },
+        {
+          "id": "5429302",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "124072",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3825",
+            "coachId": "19035"
+          },
+          "details": {
+            "playerId": "1261940",
+            "date": "2025-07-13T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/edimond-oppong/transfers/spieler/1261940/transfer_id/5429302"
+        },
+        {
+          "id": "5429303",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "42216",
+            "coachId": "129149"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "124072",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1261940",
+            "date": "2025-01-05T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/edimond-oppong/transfers/spieler/1261940/transfer_id/5429303"
+        },
+        {
+          "id": "5367628",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "22749",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "42216",
+            "coachId": "129149"
+          },
+          "details": {
+            "playerId": "1261940",
+            "date": "2024-11-15T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/edimond-oppong/transfers/spieler/1261940/transfer_id/5367628"
+        },
+        {
+          "id": "5887194",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9256",
+            "coachId": "51607"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "22749",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1261940",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/edimond-oppong/transfers/spieler/1261940/transfer_id/5887194"
+        },
+        {
+          "id": "5887193",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9256",
+            "coachId": "51607"
+          },
+          "details": {
+            "playerId": "1261940",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/edimond-oppong/transfers/spieler/1261940/transfer_id/5887193"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "46842",
+      "8933",
+      "8908",
+      "3825",
+      "124072",
+      "42216",
+      "22749",
+      "9256",
+      "75"
+    ],
+    "coachIds": [
+      "108402",
+      "112140",
+      "50733",
+      "74390",
+      "19035",
+      "129149",
+      "51607"
+    ],
+    "competitionIds": [
+      "NLN6",
+      "SC3",
+      "GB21"
+    ],
+    "mostRecentTransfer": {
+      "id": "6297959",
+      "transferSource": {
+        "competitionId": "NLN6",
+        "countryId": 189,
+        "clubId": "46842",
+        "coachId": "108402"
+      },
+      "transferDestination": {
+        "competitionId": "SC3",
+        "countryId": 190,
+        "clubId": "8933",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1261940",
+        "date": "2026-07-12T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/edimond-oppong/transfers/spieler/1261940/transfer_id/6297959"
+    }
+  }
+}

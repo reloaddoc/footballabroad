@@ -1,0 +1,325 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1001653",
+    "history": {
+      "terminated": [
+        {
+          "id": "5381560",
+          "transferSource": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "29180",
+            "coachId": "130761"
+          },
+          "transferDestination": {
+            "competitionId": "TOSL",
+            "countryId": 77,
+            "clubId": "23567",
+            "coachId": "63992"
+          },
+          "details": {
+            "playerId": "1001653",
+            "date": "2025-01-20T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 11,
+              "daysDisplay": "11 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kyosuke-fujiyama/transfers/spieler/1001653/transfer_id/5381560"
+        },
+        {
+          "id": "4272238",
+          "transferSource": {
+            "competitionId": "MNE2",
+            "countryId": 216,
+            "clubId": "101882",
+            "coachId": "110206"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "29180",
+            "coachId": "17111"
+          },
+          "details": {
+            "playerId": "1001653",
+            "date": "2023-02-12T00:00:00+01:00",
+            "contractUntilDate": "2025-01-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kyosuke-fujiyama/transfers/spieler/1001653/transfer_id/4272238"
+        },
+        {
+          "id": "3867776",
+          "transferSource": {
+            "competitionId": "MNE2",
+            "countryId": 216,
+            "clubId": "15551",
+            "coachId": "19847"
+          },
+          "transferDestination": {
+            "competitionId": "MNE2",
+            "countryId": 216,
+            "clubId": "101882",
+            "coachId": "109472"
+          },
+          "details": {
+            "playerId": "1001653",
+            "date": "2022-07-29T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kyosuke-fujiyama/transfers/spieler/1001653/transfer_id/3867776"
+        },
+        {
+          "id": "3867777",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "30238",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MNE2",
+            "countryId": 216,
+            "clubId": "15551",
+            "coachId": "19847"
+          },
+          "details": {
+            "playerId": "1001653",
+            "date": "2022-02-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kyosuke-fujiyama/transfers/spieler/1001653/transfer_id/3867777"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "29180",
+      "23567",
+      "101882",
+      "15551",
+      "30238"
+    ],
+    "coachIds": [
+      "130761",
+      "63992",
+      "110206",
+      "17111",
+      "19847",
+      "109472"
+    ],
+    "competitionIds": [
+      "JFL",
+      "TOSL",
+      "MNE2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5381560",
+      "transferSource": {
+        "competitionId": "JFL",
+        "countryId": 77,
+        "clubId": "29180",
+        "coachId": "130761"
+      },
+      "transferDestination": {
+        "competitionId": "TOSL",
+        "countryId": 77,
+        "clubId": "23567",
+        "coachId": "63992"
+      },
+      "details": {
+        "playerId": "1001653",
+        "date": "2025-01-20T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 11,
+          "daysDisplay": "11 Days"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kyosuke-fujiyama/transfers/spieler/1001653/transfer_id/5381560"
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "685697",
+    "history": {
+      "terminated": [
+        {
+          "id": "5387998",
+          "transferSource": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "3832",
+            "coachId": "9472"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "45057",
+            "coachId": "154434"
+          },
+          "details": {
+            "playerId": "685697",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 319,
+              "daysDisplay": "10 Months, 15 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gustav-dahl/transfers/spieler/685697/transfer_id/5387998"
+        },
+        {
+          "id": "5197364",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "19657",
+            "coachId": "24363"
+          },
+          "transferDestination": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "3832",
+            "coachId": "9472"
+          },
+          "details": {
+            "playerId": "685697",
+            "date": "2024-08-15T00:00:00+02:00",
+            "contractUntilDate": "2025-11-16T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gustav-dahl/transfers/spieler/685697/transfer_id/5197364"
+        },
+        {
+          "id": "4525503",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "9113",
+            "coachId": "113682"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "19657",
+            "coachId": "118622"
+          },
+          "details": {
+            "playerId": "685697",
+            "date": "2023-07-19T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 347,
+              "daysDisplay": "11 Months, 11 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gustav-dahl/transfers/spieler/685697/transfer_id/4525503"
+        },
+        {
+          "id": "3132134",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "19115",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "9113",
+            "coachId": "82620"
+          },
+          "details": {
+            "playerId": "685697",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gustav-dahl/transfers/spieler/685697/transfer_id/3132134"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "3832",
+      "45057",
+      "19657",
+      "9113",
+      "19115"
+    ],
+    "coachIds": [
+      "9472",
+      "154434",
+      "24363",
+      "113682",
+      "118622",
+      "82620"
+    ],
+    "competitionIds": [
+      "IS1",
+      "DK2",
+      "DKDL"
+    ],
+    "mostRecentTransfer": {
+      "id": "5387998",
+      "transferSource": {
+        "competitionId": "IS1",
+        "countryId": 73,
+        "clubId": "3832",
+        "coachId": "9472"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 39,
+        "clubId": "45057",
+        "coachId": "154434"
+      },
+      "details": {
+        "playerId": "685697",
+        "date": "2025-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 319,
+          "daysDisplay": "10 Months, 15 Days"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/gustav-dahl/transfers/spieler/685697/transfer_id/5387998"
+    }
+  }
+}

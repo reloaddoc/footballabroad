@@ -1,0 +1,355 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1223800",
+    "history": {
+      "terminated": [
+        {
+          "id": "5914232",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "3418"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "7009",
+            "coachId": "27485"
+          },
+          "details": {
+            "playerId": "1223800",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": "2030-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/blessing-asumang/transfers/spieler/1223800/transfer_id/5914232"
+        },
+        {
+          "id": "5914213",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 54,
+            "clubId": "63057",
+            "coachId": "94493"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "145281"
+          },
+          "details": {
+            "playerId": "1223800",
+            "date": "2025-08-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": 135000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "135.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/blessing-asumang/transfers/spieler/1223800/transfer_id/5914213"
+        },
+        {
+          "id": "5526426",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "145281"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 54,
+            "clubId": "63057",
+            "coachId": "94493"
+          },
+          "details": {
+            "playerId": "1223800",
+            "date": "2025-08-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 92,
+              "daysDisplay": "3 Months"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/blessing-asumang/transfers/spieler/1223800/transfer_id/5526426"
+        },
+        {
+          "id": "5526425",
+          "transferSource": {
+            "competitionId": "GHPL",
+            "countryId": 54,
+            "clubId": "63057",
+            "coachId": "2715"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1056",
+            "coachId": "99317"
+          },
+          "details": {
+            "playerId": "1223800",
+            "date": "2025-02-17T00:00:00+01:00",
+            "contractUntilDate": "2025-11-30T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/blessing-asumang/transfers/spieler/1223800/transfer_id/5526425"
+        },
+        {
+          "id": "4930783",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 54,
+            "clubId": "93544",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GHPL",
+            "countryId": 54,
+            "clubId": "63057",
+            "coachId": "94493"
+          },
+          "details": {
+            "playerId": "1223800",
+            "date": "2024-01-15T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/blessing-asumang/transfers/spieler/1223800/transfer_id/4930783"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 360000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "360.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 350000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "350.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1056",
+      "7009",
+      "63057",
+      "93544"
+    ],
+    "coachIds": [
+      "3418",
+      "27485",
+      "94493",
+      "145281",
+      "2715",
+      "99317"
+    ],
+    "competitionIds": [
+      "SE2",
+      "SE1",
+      "GHPL"
+    ],
+    "mostRecentTransfer": {
+      "id": "5914232",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "1056",
+        "coachId": "3418"
+      },
+      "transferDestination": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "7009",
+        "coachId": "27485"
+      },
+      "details": {
+        "playerId": "1223800",
+        "date": "2026-01-29T00:00:00+01:00",
+        "contractUntilDate": "2030-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 350000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "350.00",
+            "suffix": "K"
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": 225000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "225.00",
+            "suffix": "K"
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/blessing-asumang/transfers/spieler/1223800/transfer_id/5914232"
+    }
+  }
+}

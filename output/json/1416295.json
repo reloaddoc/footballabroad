@@ -1,0 +1,149 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1416295",
+    "history": {
+      "terminated": [
+        {
+          "id": "6165257",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "25658",
+            "coachId": "77491"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "5379",
+            "coachId": "75273"
+          },
+          "details": {
+            "playerId": "1416295",
+            "date": "2026-02-02T00:00:00+01:00",
+            "contractUntilDate": "2030-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ryota-onoda/transfers/spieler/1416295/transfer_id/6165257"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "25658",
+      "5379"
+    ],
+    "coachIds": [
+      "77491",
+      "75273"
+    ],
+    "competitionIds": [
+      "RLB3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6165257",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 77,
+        "clubId": "25658",
+        "coachId": "77491"
+      },
+      "transferDestination": {
+        "competitionId": "RLB3",
+        "countryId": 40,
+        "clubId": "5379",
+        "coachId": "75273"
+      },
+      "details": {
+        "playerId": "1416295",
+        "date": "2026-02-02T00:00:00+01:00",
+        "contractUntilDate": "2030-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ryota-onoda/transfers/spieler/1416295/transfer_id/6165257"
+    }
+  }
+}

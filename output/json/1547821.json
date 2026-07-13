@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1547821",
+    "history": {
+      "terminated": [
+        {
+          "id": "6312400",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 54,
+            "clubId": "120759",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "75341",
+            "coachId": "110971"
+          },
+          "details": {
+            "playerId": "1547821",
+            "date": "2026-03-25T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/abdul-latif-mumuni/transfers/spieler/1547821/transfer_id/6312400"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 18,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "120759",
+      "75341"
+    ],
+    "coachIds": [
+      "110971"
+    ],
+    "competitionIds": [
+      "SE3N"
+    ],
+    "mostRecentTransfer": {
+      "id": "6312400",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 54,
+        "clubId": "120759",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "SE3N",
+        "countryId": 147,
+        "clubId": "75341",
+        "coachId": "110971"
+      },
+      "details": {
+        "playerId": "1547821",
+        "date": "2026-03-25T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/abdul-latif-mumuni/transfers/spieler/1547821/transfer_id/6312400"
+    }
+  }
+}

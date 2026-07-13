@@ -1,0 +1,721 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "867678",
+    "history": {
+      "terminated": [
+        {
+          "id": "6174688",
+          "transferSource": {
+            "competitionId": "UAE1",
+            "countryId": 183,
+            "clubId": "78312",
+            "coachId": "34654"
+          },
+          "transferDestination": {
+            "competitionId": "UAE1",
+            "countryId": 183,
+            "clubId": "13613",
+            "coachId": "434"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/6174688"
+        },
+        {
+          "id": "6174689",
+          "transferSource": {
+            "competitionId": "UAE1",
+            "countryId": 183,
+            "clubId": "13613",
+            "coachId": "434"
+          },
+          "transferDestination": {
+            "competitionId": "UAE1",
+            "countryId": 183,
+            "clubId": "78312",
+            "coachId": "34654"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2026-02-08T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/6174689"
+        },
+        {
+          "id": "5931812",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "7009",
+            "coachId": "27485"
+          },
+          "transferDestination": {
+            "competitionId": "UAE1",
+            "countryId": 183,
+            "clubId": "13613",
+            "coachId": "41893"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2025-09-09T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": 650000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "650.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1574,
+              "daysDisplay": "4 Years, 3 Months, 22 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/5931812"
+        },
+        {
+          "id": "5492829",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "687",
+            "coachId": "2643"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "7009",
+            "coachId": "27485"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2025-01-31T00:00:00+01:00",
+            "contractUntilDate": "2029-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 699,
+              "daysDisplay": "1 Year, 11 Months"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/5492829"
+        },
+        {
+          "id": "4794070",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "7009",
+            "coachId": "27485"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "687",
+            "coachId": "76444"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2024-12-31T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/4794070"
+        },
+        {
+          "id": "4794069",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "687",
+            "coachId": "41529"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "7009",
+            "coachId": "27485"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2024-01-08T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1088,
+              "daysDisplay": "2 Years, 11 Months, 23 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/4794069"
+        },
+        {
+          "id": "4618581",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "7945",
+            "coachId": "29045"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "687",
+            "coachId": "41529"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2023-11-30T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 31,
+              "daysDisplay": "1 Month, 1 Day"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/4618581"
+        },
+        {
+          "id": "4618580",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "687",
+            "coachId": "41529"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "7945",
+            "coachId": "29045"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2023-08-31T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1218,
+              "daysDisplay": "3 Years, 4 Months"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/4618580"
+        },
+        {
+          "id": "4290770",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "7009",
+            "coachId": "27485"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "687",
+            "coachId": "41529"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2023-02-23T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 311,
+              "daysDisplay": "10 Months, 8 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/4290770"
+        },
+        {
+          "id": "3286046",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "85897",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "7009",
+            "coachId": "12117"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2021-01-08T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/3286046"
+        },
+        {
+          "id": "4304003",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "91735",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "85897",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/4304003"
+        },
+        {
+          "id": "4304002",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "91735",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "867678",
+            "date": "2019-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/4304002"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 850000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "850.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "78312",
+      "13613",
+      "7009",
+      "687",
+      "7945",
+      "85897",
+      "91735",
+      "75"
+    ],
+    "coachIds": [
+      "34654",
+      "434",
+      "27485",
+      "41893",
+      "2643",
+      "76444",
+      "41529",
+      "29045",
+      "12117"
+    ],
+    "competitionIds": [
+      "UAE1",
+      "SE1",
+      "NO1",
+      "SE2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6174688",
+      "transferSource": {
+        "competitionId": "UAE1",
+        "countryId": 183,
+        "clubId": "78312",
+        "coachId": "34654"
+      },
+      "transferDestination": {
+        "competitionId": "UAE1",
+        "countryId": 183,
+        "clubId": "13613",
+        "coachId": "434"
+      },
+      "details": {
+        "playerId": "867678",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 400000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "400.00",
+            "suffix": "K"
+          }
+        },
+        "age": 23,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/harun-ibrahim/transfers/spieler/867678/transfer_id/6174688"
+    }
+  }
+}

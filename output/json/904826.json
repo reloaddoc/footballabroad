@@ -1,0 +1,266 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "904826",
+    "history": {
+      "terminated": [
+        {
+          "id": "5689916",
+          "transferSource": {
+            "competitionId": "A4S",
+            "countryId": 127,
+            "clubId": "10132",
+            "coachId": "2876"
+          },
+          "transferDestination": {
+            "competitionId": "LBSO",
+            "countryId": 40,
+            "clubId": "10333",
+            "coachId": "128684"
+          },
+          "details": {
+            "playerId": "904826",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/timo-portenkirchner/transfers/spieler/904826/transfer_id/5689916"
+        },
+        {
+          "id": "5034270",
+          "transferSource": {
+            "competitionId": "OLB2",
+            "countryId": 40,
+            "clubId": "24235",
+            "coachId": "11924"
+          },
+          "transferDestination": {
+            "competitionId": "A4S",
+            "countryId": 127,
+            "clubId": "10132",
+            "coachId": "39527"
+          },
+          "details": {
+            "playerId": "904826",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/timo-portenkirchner/transfers/spieler/904826/transfer_id/5034270"
+        },
+        {
+          "id": "3416447",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "7725",
+            "coachId": "40187"
+          },
+          "transferDestination": {
+            "competitionId": "OLB2",
+            "countryId": 40,
+            "clubId": "24235",
+            "coachId": "11924"
+          },
+          "details": {
+            "playerId": "904826",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/timo-portenkirchner/transfers/spieler/904826/transfer_id/3416447"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "10132",
+      "10333",
+      "24235",
+      "7725"
+    ],
+    "coachIds": [
+      "2876",
+      "128684",
+      "11924",
+      "39527",
+      "40187"
+    ],
+    "competitionIds": [
+      "A4S",
+      "LBSO",
+      "OLB2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5689916",
+      "transferSource": {
+        "competitionId": "A4S",
+        "countryId": 127,
+        "clubId": "10132",
+        "coachId": "2876"
+      },
+      "transferDestination": {
+        "competitionId": "LBSO",
+        "countryId": 40,
+        "clubId": "10333",
+        "coachId": "128684"
+      },
+      "details": {
+        "playerId": "904826",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/timo-portenkirchner/transfers/spieler/904826/transfer_id/5689916"
+    }
+  }
+}

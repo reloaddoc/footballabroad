@@ -1,0 +1,418 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "599499",
+    "history": {
+      "terminated": [
+        {
+          "id": "6099494",
+          "transferSource": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "9987",
+            "coachId": "155468"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "3362",
+            "coachId": "114703"
+          },
+          "details": {
+            "playerId": "599499",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jakob-roemo-skille/transfers/spieler/599499/transfer_id/6099494"
+        },
+        {
+          "id": "4957806",
+          "transferSource": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "17647",
+            "coachId": "49929"
+          },
+          "transferDestination": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "9987",
+            "coachId": "26773"
+          },
+          "details": {
+            "playerId": "599499",
+            "date": "2024-03-27T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jakob-roemo-skille/transfers/spieler/599499/transfer_id/4957806"
+        },
+        {
+          "id": "4334248",
+          "transferSource": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "36249",
+            "coachId": "28626"
+          },
+          "transferDestination": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "17647",
+            "coachId": "26773"
+          },
+          "details": {
+            "playerId": "599499",
+            "date": "2023-03-21T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jakob-roemo-skille/transfers/spieler/599499/transfer_id/4334248"
+        },
+        {
+          "id": "3465928",
+          "transferSource": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "35580",
+            "coachId": "24575"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "36249",
+            "coachId": "88492"
+          },
+          "details": {
+            "playerId": "599499",
+            "date": "2021-12-31T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/jakob-roemo-skille/transfers/spieler/599499/transfer_id/3465928"
+        },
+        {
+          "id": "3465927",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "36249",
+            "coachId": "88492"
+          },
+          "transferDestination": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "35580",
+            "coachId": "87257"
+          },
+          "details": {
+            "playerId": "599499",
+            "date": "2021-07-21T00:00:00+02:00",
+            "contractUntilDate": "2021-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 528,
+              "daysDisplay": "1 Year, 5 Months, 10 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/jakob-roemo-skille/transfers/spieler/599499/transfer_id/3465927"
+        },
+        {
+          "id": "2560307",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "64241",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NO31",
+            "countryId": 125,
+            "clubId": "36249",
+            "coachId": "24578"
+          },
+          "details": {
+            "playerId": "599499",
+            "date": "2019-08-01T00:00:00+02:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jakob-roemo-skille/transfers/spieler/599499/transfer_id/2560307"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "9987",
+      "3362",
+      "17647",
+      "36249",
+      "35580",
+      "64241"
+    ],
+    "coachIds": [
+      "155468",
+      "114703",
+      "49929",
+      "26773",
+      "28626",
+      "24575",
+      "88492",
+      "87257",
+      "24578"
+    ],
+    "competitionIds": [
+      "NO32",
+      "SE2",
+      "NO2",
+      "NO31"
+    ],
+    "mostRecentTransfer": {
+      "id": "6099494",
+      "transferSource": {
+        "competitionId": "NO32",
+        "countryId": 125,
+        "clubId": "9987",
+        "coachId": "155468"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "3362",
+        "coachId": "114703"
+      },
+      "details": {
+        "playerId": "599499",
+        "date": "2026-01-29T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jakob-roemo-skille/transfers/spieler/599499/transfer_id/6099494"
+    }
+  }
+}

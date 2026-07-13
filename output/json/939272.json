@@ -1,0 +1,670 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "939272",
+    "history": {
+      "terminated": [
+        {
+          "id": "6199072",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1071",
+            "coachId": "39743"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "3258",
+            "coachId": "47925"
+          },
+          "details": {
+            "playerId": "939272",
+            "date": "2026-02-23T00:00:00+01:00",
+            "contractUntilDate": "2026-11-30T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 492,
+              "daysDisplay": "1 Year, 4 Months, 7 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/6199072"
+        },
+        {
+          "id": "5238653",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "11177",
+            "coachId": "115551"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1071",
+            "coachId": "55482"
+          },
+          "details": {
+            "playerId": "939272",
+            "date": "2024-08-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 304,
+              "daysDisplay": "10 Months"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/5238653"
+        },
+        {
+          "id": "4881402",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "19906"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "11177",
+            "coachId": "115551"
+          },
+          "details": {
+            "playerId": "939272",
+            "date": "2024-08-29T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 93,
+              "daysDisplay": "3 Months, 1 Day"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/4881402"
+        },
+        {
+          "id": "4881401",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "11177",
+            "coachId": "115551"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "19906"
+          },
+          "details": {
+            "playerId": "939272",
+            "date": "2024-02-09T00:00:00+01:00",
+            "contractUntilDate": "2024-11-30T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 142,
+              "daysDisplay": "4 Months, 21 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/4881401"
+        },
+        {
+          "id": "4467945",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "91119",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "11177",
+            "coachId": "93228"
+          },
+          "details": {
+            "playerId": "939272",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/4467945"
+        },
+        {
+          "id": "4293892",
+          "transferSource": {
+            "competitionId": "GRS2",
+            "countryId": 56,
+            "clubId": "9",
+            "coachId": "81336"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "91119",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "939272",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/4293892"
+        },
+        {
+          "id": "3698361",
+          "transferSource": {
+            "competitionId": "GRS2",
+            "countryId": 56,
+            "clubId": "4602",
+            "coachId": "12841"
+          },
+          "transferDestination": {
+            "competitionId": "GRS2",
+            "countryId": 56,
+            "clubId": "9",
+            "coachId": "28341"
+          },
+          "details": {
+            "playerId": "939272",
+            "date": "2022-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/3698361"
+        },
+        {
+          "id": "3685512",
+          "transferSource": {
+            "competitionId": "GRS2",
+            "countryId": 56,
+            "clubId": "9",
+            "coachId": "81336"
+          },
+          "transferDestination": {
+            "competitionId": "GRS2",
+            "countryId": 56,
+            "clubId": "4602",
+            "coachId": "11771"
+          },
+          "details": {
+            "playerId": "939272",
+            "date": "2022-01-07T00:00:00+01:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 539,
+              "daysDisplay": "1 Year, 5 Months, 23 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/3685512"
+        },
+        {
+          "id": "3568336",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "23085",
+            "coachId": "26455"
+          },
+          "transferDestination": {
+            "competitionId": "GRS2",
+            "countryId": 56,
+            "clubId": "9",
+            "coachId": "81336"
+          },
+          "details": {
+            "playerId": "939272",
+            "date": "2021-08-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/3568336"
+        },
+        {
+          "id": "3675445",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9254",
+            "coachId": "33031"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "23085",
+            "coachId": "26455"
+          },
+          "details": {
+            "playerId": "939272",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/3675445"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6199073",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "3258",
+            "coachId": "47925"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1071",
+            "coachId": "39743"
+          },
+          "details": {
+            "playerId": "939272",
+            "date": "2026-11-30T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/6199073"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 225000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "225.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3258",
+      "1071",
+      "11177",
+      "7609",
+      "91119",
+      "9",
+      "4602",
+      "23085",
+      "9254"
+    ],
+    "coachIds": [
+      "47925",
+      "39743",
+      "115551",
+      "55482",
+      "19906",
+      "93228",
+      "81336",
+      "12841",
+      "28341",
+      "11771",
+      "26455",
+      "33031"
+    ],
+    "competitionIds": [
+      "IR1",
+      "GB3",
+      "GB4",
+      "GRS2",
+      "GB21"
+    ],
+    "mostRecentTransfer": {
+      "id": "6199072",
+      "transferSource": {
+        "competitionId": "GB3",
+        "countryId": 189,
+        "clubId": "1071",
+        "coachId": "39743"
+      },
+      "transferDestination": {
+        "competitionId": "IR1",
+        "countryId": 72,
+        "clubId": "3258",
+        "coachId": "47925"
+      },
+      "details": {
+        "playerId": "939272",
+        "date": "2026-02-23T00:00:00+01:00",
+        "contractUntilDate": "2026-11-30T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 23,
+        "remainingContractPeriod": {
+          "days": 492,
+          "daysDisplay": "1 Year, 4 Months, 7 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/maleace-asamoah/transfers/spieler/939272/transfer_id/6199072"
+    }
+  }
+}

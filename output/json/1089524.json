@@ -1,0 +1,271 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1089524",
+    "history": {
+      "terminated": [
+        {
+          "id": "5606433",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 167,
+            "clubId": "55203",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "JPKA",
+            "countryId": 77,
+            "clubId": "127644",
+            "coachId": "138949"
+          },
+          "details": {
+            "playerId": "1089524",
+            "date": "2025-02-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 149,
+              "daysDisplay": "4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rikiya-yamada/transfers/spieler/1089524/transfer_id/5606433"
+        },
+        {
+          "id": "5401526",
+          "transferSource": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "110347"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 167,
+            "clubId": "55203",
+            "coachId": "138949"
+          },
+          "details": {
+            "playerId": "1089524",
+            "date": "2024-12-19T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 43,
+              "daysDisplay": "1 Month, 12 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rikiya-yamada/transfers/spieler/1089524/transfer_id/5401526"
+        },
+        {
+          "id": "4185416",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "34168",
+            "coachId": "20382"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "110347"
+          },
+          "details": {
+            "playerId": "1089524",
+            "date": "2023-02-01T00:00:00+01:00",
+            "contractUntilDate": "2025-01-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rikiya-yamada/transfers/spieler/1089524/transfer_id/4185416"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "55203",
+      "127644",
+      "38137",
+      "34168"
+    ],
+    "coachIds": [
+      "138949",
+      "110347",
+      "20382"
+    ],
+    "competitionIds": [
+      "JPKA",
+      "JFL"
+    ],
+    "mostRecentTransfer": {
+      "id": "5606433",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 167,
+        "clubId": "55203",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "JPKA",
+        "countryId": 77,
+        "clubId": "127644",
+        "coachId": "138949"
+      },
+      "details": {
+        "playerId": "1089524",
+        "date": "2025-02-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 149,
+          "daysDisplay": "4 Months, 29 Days"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/rikiya-yamada/transfers/spieler/1089524/transfer_id/5606433"
+    }
+  }
+}

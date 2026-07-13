@@ -1,0 +1,360 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "909823",
+    "history": {
+      "terminated": [
+        {
+          "id": "6307937",
+          "transferSource": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "11853",
+            "coachId": "29480"
+          },
+          "transferDestination": {
+            "competitionId": "OLB2",
+            "countryId": 40,
+            "clubId": "24235",
+            "coachId": "132754"
+          },
+          "details": {
+            "playerId": "909823",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nico-schiedermeier/transfers/spieler/909823/transfer_id/6307937"
+        },
+        {
+          "id": "5770391",
+          "transferSource": {
+            "competitionId": "ATRW",
+            "countryId": 127,
+            "clubId": "18599",
+            "coachId": "4935"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "11853",
+            "coachId": "29480"
+          },
+          "details": {
+            "playerId": "909823",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/nico-schiedermeier/transfers/spieler/909823/transfer_id/5770391"
+        },
+        {
+          "id": "5770390",
+          "transferSource": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "11853",
+            "coachId": "29480"
+          },
+          "transferDestination": {
+            "competitionId": "ATRW",
+            "countryId": 127,
+            "clubId": "18599",
+            "coachId": "4935"
+          },
+          "details": {
+            "playerId": "909823",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/nico-schiedermeier/transfers/spieler/909823/transfer_id/5770390"
+        },
+        {
+          "id": "3887880",
+          "transferSource": {
+            "competitionId": "OLB2",
+            "countryId": 40,
+            "clubId": "1246",
+            "coachId": "36989"
+          },
+          "transferDestination": {
+            "competitionId": "RLSA",
+            "countryId": 127,
+            "clubId": "11853",
+            "coachId": "29480"
+          },
+          "details": {
+            "playerId": "909823",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nico-schiedermeier/transfers/spieler/909823/transfer_id/3887880"
+        },
+        {
+          "id": "3459109",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "20711",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "1246",
+            "coachId": "36989"
+          },
+          "details": {
+            "playerId": "909823",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nico-schiedermeier/transfers/spieler/909823/transfer_id/3459109"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "11853",
+      "24235",
+      "18599",
+      "1246",
+      "20711"
+    ],
+    "coachIds": [
+      "29480",
+      "132754",
+      "4935",
+      "36989"
+    ],
+    "competitionIds": [
+      "A2",
+      "OLB2",
+      "ATRW",
+      "RLSA",
+      "RLB3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6307937",
+      "transferSource": {
+        "competitionId": "A2",
+        "countryId": 127,
+        "clubId": "11853",
+        "coachId": "29480"
+      },
+      "transferDestination": {
+        "competitionId": "OLB2",
+        "countryId": 40,
+        "clubId": "24235",
+        "coachId": "132754"
+      },
+      "details": {
+        "playerId": "909823",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/nico-schiedermeier/transfers/spieler/909823/transfer_id/6307937"
+    }
+  }
+}

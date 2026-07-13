@@ -1,0 +1,838 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "155604",
+    "history": {
+      "terminated": [
+        {
+          "id": "5718072",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "788",
+            "coachId": "97881"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "4633",
+            "coachId": "24783"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 34,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/5718072"
+        },
+        {
+          "id": "5088344",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "78287",
+            "coachId": "2586"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "788",
+            "coachId": "3363"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2024-07-05T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 33,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/5088344"
+        },
+        {
+          "id": "4924340",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1236",
+            "coachId": "76509"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "78287",
+            "coachId": "2586"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2024-03-05T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 301,
+              "daysDisplay": "9 Months, 26 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/4924340"
+        },
+        {
+          "id": "4180454",
+          "transferSource": {
+            "competitionId": "UZ2L",
+            "countryId": 180,
+            "clubId": "15300",
+            "coachId": "17342"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1236",
+            "coachId": "41877"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2023-01-08T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/4180454"
+        },
+        {
+          "id": "3681830",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "4634",
+            "coachId": "50273"
+          },
+          "transferDestination": {
+            "competitionId": "UZ1",
+            "countryId": 180,
+            "clubId": "15300",
+            "coachId": "4568"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2022-01-05T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 176,
+              "daysDisplay": "5 Months, 25 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/3681830"
+        },
+        {
+          "id": "3052385",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "11044",
+            "coachId": "6789"
+          },
+          "transferDestination": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "4634",
+            "coachId": "63752"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2020-09-08T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 29,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 295,
+              "daysDisplay": "9 Months, 22 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/3052385"
+        },
+        {
+          "id": "2039297",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "53",
+            "coachId": "61344"
+          },
+          "transferDestination": {
+            "competitionId": "SER2",
+            "countryId": 215,
+            "clubId": "11044",
+            "coachId": "41750"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2018-01-31T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/2039297"
+        },
+        {
+          "id": "1779937",
+          "transferSource": {
+            "competitionId": "RU2",
+            "countryId": 141,
+            "clubId": "3714",
+            "coachId": "17427"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "53",
+            "coachId": "61344"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2017-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/1779937"
+        },
+        {
+          "id": "1521775",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 154,
+            "clubId": "46971",
+            "coachId": "59616"
+          },
+          "transferDestination": {
+            "competitionId": "RU2",
+            "countryId": 141,
+            "clubId": "3714",
+            "coachId": "17918"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/1521775"
+        },
+        {
+          "id": "1342181",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "18382",
+            "coachId": "30894"
+          },
+          "transferDestination": {
+            "competitionId": "SK2",
+            "countryId": 154,
+            "clubId": "46971",
+            "coachId": "8230"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": "2016-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/1342181"
+        },
+        {
+          "id": "1220472",
+          "transferSource": {
+            "competitionId": "SER1",
+            "countryId": 215,
+            "clubId": "6622",
+            "coachId": "4553"
+          },
+          "transferDestination": {
+            "competitionId": "SER2",
+            "countryId": 215,
+            "clubId": "18382",
+            "coachId": "30894"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/1220472"
+        },
+        {
+          "id": "849397",
+          "transferSource": {
+            "competitionId": "SLO1",
+            "countryId": 154,
+            "clubId": "779",
+            "coachId": "9865"
+          },
+          "transferDestination": {
+            "competitionId": "SER2",
+            "countryId": 215,
+            "clubId": "6622",
+            "coachId": "7713"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2013-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/849397"
+        },
+        {
+          "id": "450389",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 215,
+            "clubId": "3543",
+            "coachId": "22007"
+          },
+          "transferDestination": {
+            "competitionId": "SLO1",
+            "countryId": 154,
+            "clubId": "779",
+            "coachId": "11547"
+          },
+          "details": {
+            "playerId": "155604",
+            "date": "2010-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/450389"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 35,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "788",
+      "4633",
+      "78287",
+      "1236",
+      "15300",
+      "4634",
+      "11044",
+      "53",
+      "3714",
+      "46971",
+      "18382",
+      "6622",
+      "779",
+      "3543"
+    ],
+    "coachIds": [
+      "97881",
+      "24783",
+      "2586",
+      "3363",
+      "76509",
+      "17342",
+      "41877",
+      "50273",
+      "4568",
+      "6789",
+      "63752",
+      "61344",
+      "41750",
+      "17427",
+      "59616",
+      "17918",
+      "30894",
+      "8230",
+      "4553",
+      "9865",
+      "7713",
+      "22007",
+      "11547"
+    ],
+    "competitionIds": [
+      "SER1",
+      "SE3N",
+      "SE2",
+      "UZ2L",
+      "UZ1",
+      "SER2",
+      "RU2",
+      "SK2",
+      "SLO1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5718072",
+      "transferSource": {
+        "competitionId": "SER1",
+        "countryId": 215,
+        "clubId": "788",
+        "coachId": "97881"
+      },
+      "transferDestination": {
+        "competitionId": "SER1",
+        "countryId": 215,
+        "clubId": "4633",
+        "coachId": "24783"
+      },
+      "details": {
+        "playerId": "155604",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 34,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/miloje-prekovic/transfers/spieler/155604/transfer_id/5718072"
+    }
+  }
+}

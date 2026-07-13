@@ -1,0 +1,596 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "810285",
+    "history": {
+      "terminated": [
+        {
+          "id": "6092666",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "104",
+            "coachId": "51630"
+          },
+          "transferDestination": {
+            "competitionId": "BE1",
+            "countryId": 19,
+            "clubId": "3948",
+            "coachId": "134366"
+          },
+          "details": {
+            "playerId": "810285",
+            "date": "2026-01-03T00:00:00+01:00",
+            "contractUntilDate": "2030-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": 220000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "220.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 543,
+              "daysDisplay": "1 Year, 5 Months, 27 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateo-biondic/transfers/spieler/810285/transfer_id/6092666"
+        },
+        {
+          "id": "5697118",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "30133"
+          },
+          "transferDestination": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "104",
+            "coachId": "51630"
+          },
+          "details": {
+            "playerId": "810285",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateo-biondic/transfers/spieler/810285/transfer_id/5697118"
+        },
+        {
+          "id": "4473419",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "104",
+            "coachId": "51630"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "30051"
+          },
+          "details": {
+            "playerId": "810285",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mateo-biondic/transfers/spieler/810285/transfer_id/4473419"
+        },
+        {
+          "id": "4473418",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "30051"
+          },
+          "transferDestination": {
+            "competitionId": "OLRP",
+            "countryId": 40,
+            "clubId": "104",
+            "coachId": "51630"
+          },
+          "details": {
+            "playerId": "810285",
+            "date": "2023-07-03T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 363,
+              "daysDisplay": "11 Months, 27 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mateo-biondic/transfers/spieler/810285/transfer_id/4473418"
+        },
+        {
+          "id": "3843583",
+          "transferSource": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "8312",
+            "coachId": "65982"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "93",
+            "coachId": "35168"
+          },
+          "details": {
+            "playerId": "810285",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateo-biondic/transfers/spieler/810285/transfer_id/3843583"
+        },
+        {
+          "id": "3051747",
+          "transferSource": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "32312",
+            "coachId": "83629"
+          },
+          "transferDestination": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "8312",
+            "coachId": "84335"
+          },
+          "details": {
+            "playerId": "810285",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateo-biondic/transfers/spieler/810285/transfer_id/3051747"
+        },
+        {
+          "id": "3064042",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11884",
+            "coachId": "29675"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "32312",
+            "coachId": "83629"
+          },
+          "details": {
+            "playerId": "810285",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateo-biondic/transfers/spieler/810285/transfer_id/3064042"
+        },
+        {
+          "id": "3064044",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "17295",
+            "coachId": "34373"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11884",
+            "coachId": "46251"
+          },
+          "details": {
+            "playerId": "810285",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateo-biondic/transfers/spieler/810285/transfer_id/3064044"
+        },
+        {
+          "id": "5079680",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "90926",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "17295",
+            "coachId": "54810"
+          },
+          "details": {
+            "playerId": "810285",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 11,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateo-biondic/transfers/spieler/810285/transfer_id/5079680"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 220000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "220.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 2000000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "2.00",
+          "suffix": "M"
+        }
+      }
+    },
+    "clubIds": [
+      "104",
+      "3948",
+      "93",
+      "8312",
+      "32312",
+      "11884",
+      "17295",
+      "90926"
+    ],
+    "coachIds": [
+      "51630",
+      "134366",
+      "30133",
+      "30051",
+      "65982",
+      "35168",
+      "83629",
+      "84335",
+      "29675",
+      "34373",
+      "46251",
+      "54810"
+    ],
+    "competitionIds": [
+      "RLSW",
+      "BE1",
+      "L3",
+      "OLRP",
+      "AJ2",
+      "BJ2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6092666",
+      "transferSource": {
+        "competitionId": "RLSW",
+        "countryId": 40,
+        "clubId": "104",
+        "coachId": "51630"
+      },
+      "transferDestination": {
+        "competitionId": "BE1",
+        "countryId": 19,
+        "clubId": "3948",
+        "coachId": "134366"
+      },
+      "details": {
+        "playerId": "810285",
+        "date": "2026-01-03T00:00:00+01:00",
+        "contractUntilDate": "2030-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": 220000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "220.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 543,
+          "daysDisplay": "1 Year, 5 Months, 27 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/mateo-biondic/transfers/spieler/810285/transfer_id/6092666"
+    }
+  }
+}

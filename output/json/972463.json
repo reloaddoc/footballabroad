@@ -1,0 +1,689 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "972463",
+    "history": {
+      "terminated": [
+        {
+          "id": "5488223",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "3362",
+            "coachId": "13678"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "7009",
+            "coachId": "27485"
+          },
+          "details": {
+            "playerId": "972463",
+            "date": "2025-01-29T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": 60000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "60.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 336,
+              "daysDisplay": "11 Months, 2 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/5488223"
+        },
+        {
+          "id": "4877387",
+          "transferSource": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "218",
+            "coachId": "26244"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "3362",
+            "coachId": "13678"
+          },
+          "details": {
+            "playerId": "972463",
+            "date": "2024-02-07T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/4877387"
+        },
+        {
+          "id": "4363644",
+          "transferSource": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "45805",
+            "coachId": "44172"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "218",
+            "coachId": "26244"
+          },
+          "details": {
+            "playerId": "972463",
+            "date": "2023-09-16T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 75,
+              "daysDisplay": "2 Months, 14 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/4363644"
+        },
+        {
+          "id": "4363643",
+          "transferSource": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "218",
+            "coachId": "26244"
+          },
+          "transferDestination": {
+            "competitionId": "USL",
+            "countryId": 184,
+            "clubId": "45805",
+            "coachId": "44172"
+          },
+          "details": {
+            "playerId": "972463",
+            "date": "2023-04-13T00:00:00+02:00",
+            "contractUntilDate": "2023-11-30T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 262,
+              "daysDisplay": "8 Months, 18 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/4363643"
+        },
+        {
+          "id": "3691198",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "2934",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "MLS1",
+            "countryId": 184,
+            "clubId": "218",
+            "coachId": "19768"
+          },
+          "details": {
+            "playerId": "972463",
+            "date": "2022-01-11T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "draft",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/3691198"
+        },
+        {
+          "id": "3695522",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "3903",
+            "coachId": "36723"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "2934",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "972463",
+            "date": "2021-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/3695522"
+        },
+        {
+          "id": "3695521",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "2934",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "3903",
+            "coachId": "36723"
+          },
+          "details": {
+            "playerId": "972463",
+            "date": "2021-06-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/3695521"
+        },
+        {
+          "id": "3695520",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "3903",
+            "coachId": "36723"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "2934",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "972463",
+            "date": "2020-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/3695520"
+        },
+        {
+          "id": "3695519",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "2934",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "3903",
+            "coachId": "36723"
+          },
+          "details": {
+            "playerId": "972463",
+            "date": "2020-06-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/3695519"
+        },
+        {
+          "id": "3691199",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "3903",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "2934",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "972463",
+            "date": "2019-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/3691199"
+        },
+        {
+          "id": "3695518",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "105601",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "3903",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "972463",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/3695518"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 60000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "60.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 750000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "750.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3362",
+      "7009",
+      "218",
+      "45805",
+      "2934",
+      "3903",
+      "105601"
+    ],
+    "coachIds": [
+      "13678",
+      "27485",
+      "26244",
+      "44172",
+      "19768",
+      "36723"
+    ],
+    "competitionIds": [
+      "SE2",
+      "SE1",
+      "MLS1",
+      "USL"
+    ],
+    "mostRecentTransfer": {
+      "id": "5488223",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "3362",
+        "coachId": "13678"
+      },
+      "transferDestination": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "7009",
+        "coachId": "27485"
+      },
+      "details": {
+        "playerId": "972463",
+        "date": "2025-01-29T00:00:00+01:00",
+        "contractUntilDate": "2028-12-31T00:00:00+01:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": 60000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "60.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 336,
+          "daysDisplay": "11 Months, 2 Days"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/oskar-aagren/transfers/spieler/972463/transfer_id/5488223"
+    }
+  }
+}

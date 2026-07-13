@@ -1,0 +1,263 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "668712",
+    "history": {
+      "terminated": [
+        {
+          "id": "5768191",
+          "transferSource": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "24832",
+            "coachId": "81805"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "49675",
+            "coachId": "15396"
+          },
+          "details": {
+            "playerId": "668712",
+            "date": "2025-08-15T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": 70000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "70.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/poul-kallsberg/transfers/spieler/668712/transfer_id/5768191"
+        },
+        {
+          "id": "4139364",
+          "transferSource": {
+            "competitionId": "FAR2",
+            "countryId": 208,
+            "clubId": "10742",
+            "coachId": "19472"
+          },
+          "transferDestination": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "24832",
+            "coachId": "81805"
+          },
+          "details": {
+            "playerId": "668712",
+            "date": "2023-01-09T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/poul-kallsberg/transfers/spieler/668712/transfer_id/4139364"
+        },
+        {
+          "id": "2893907",
+          "transferSource": {
+            "competitionId": "FAR3",
+            "countryId": 208,
+            "clubId": "54506",
+            "coachId": "81970"
+          },
+          "transferDestination": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "10742",
+            "coachId": "12156"
+          },
+          "details": {
+            "playerId": "668712",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/poul-kallsberg/transfers/spieler/668712/transfer_id/2893907"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 70000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "70.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 250000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "250.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "24832",
+      "49675",
+      "10742",
+      "54506"
+    ],
+    "coachIds": [
+      "81805",
+      "15396",
+      "19472",
+      "81970",
+      "12156"
+    ],
+    "competitionIds": [
+      "FARO",
+      "DK2",
+      "FAR2",
+      "FAR3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5768191",
+      "transferSource": {
+        "competitionId": "FARO",
+        "countryId": 208,
+        "clubId": "24832",
+        "coachId": "81805"
+      },
+      "transferDestination": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "49675",
+        "coachId": "15396"
+      },
+      "details": {
+        "playerId": "668712",
+        "date": "2025-08-15T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": 70000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "70.00",
+            "suffix": "K"
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/poul-kallsberg/transfers/spieler/668712/transfer_id/5768191"
+    }
+  }
+}

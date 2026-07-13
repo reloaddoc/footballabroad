@@ -1,0 +1,262 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1137566",
+    "history": {
+      "terminated": [
+        {
+          "id": "6123582",
+          "transferSource": {
+            "competitionId": "OBLB",
+            "countryId": 40,
+            "clubId": "106",
+            "coachId": "110024"
+          },
+          "transferDestination": {
+            "competitionId": "CHC1",
+            "countryId": 148,
+            "clubId": "55623",
+            "coachId": "135233"
+          },
+          "details": {
+            "playerId": "1137566",
+            "date": "2026-01-08T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vincent-hofer/transfers/spieler/1137566/transfer_id/6123582"
+        },
+        {
+          "id": "5044578",
+          "transferSource": {
+            "competitionId": "19LB",
+            "countryId": 40,
+            "clubId": "8231",
+            "coachId": "8520"
+          },
+          "transferDestination": {
+            "competitionId": "OBLB",
+            "countryId": 40,
+            "clubId": "106",
+            "coachId": "110024"
+          },
+          "details": {
+            "playerId": "1137566",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vincent-hofer/transfers/spieler/1137566/transfer_id/5044578"
+        },
+        {
+          "id": "4458349",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "46105",
+            "coachId": "85532"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "8231",
+            "coachId": "99055"
+          },
+          "details": {
+            "playerId": "1137566",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vincent-hofer/transfers/spieler/1137566/transfer_id/4458349"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "106",
+      "55623",
+      "8231",
+      "46105"
+    ],
+    "coachIds": [
+      "110024",
+      "135233",
+      "8520",
+      "85532",
+      "99055"
+    ],
+    "competitionIds": [
+      "OBLB",
+      "CHC1",
+      "19LB"
+    ],
+    "mostRecentTransfer": {
+      "id": "6123582",
+      "transferSource": {
+        "competitionId": "OBLB",
+        "countryId": 40,
+        "clubId": "106",
+        "coachId": "110024"
+      },
+      "transferDestination": {
+        "competitionId": "CHC1",
+        "countryId": 148,
+        "clubId": "55623",
+        "coachId": "135233"
+      },
+      "details": {
+        "playerId": "1137566",
+        "date": "2026-01-08T00:00:00+01:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/vincent-hofer/transfers/spieler/1137566/transfer_id/6123582"
+    }
+  }
+}

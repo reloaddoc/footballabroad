@@ -1,0 +1,557 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "432692",
+    "history": {
+      "terminated": [
+        {
+          "id": "6145071",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1045",
+            "coachId": "75962"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "10217",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "432692",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/harald-tangen/transfers/spieler/432692/transfer_id/6145071"
+        },
+        {
+          "id": "6145072",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "10217",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1045",
+            "coachId": "75962"
+          },
+          "details": {
+            "playerId": "432692",
+            "date": "2026-01-26T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 650000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "650.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 704,
+              "daysDisplay": "1 Year, 11 Months, 5 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/harald-tangen/transfers/spieler/432692/transfer_id/6145072"
+        },
+        {
+          "id": "5200446",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "239",
+            "coachId": "50533"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "10217",
+            "coachId": "26906"
+          },
+          "details": {
+            "playerId": "432692",
+            "date": "2024-08-16T00:00:00+02:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 750000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "750.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 137,
+              "daysDisplay": "4 Months, 15 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harald-tangen/transfers/spieler/432692/transfer_id/5200446"
+        },
+        {
+          "id": "3031231",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "14761",
+            "coachId": "24347"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "239",
+            "coachId": "18946"
+          },
+          "details": {
+            "playerId": "432692",
+            "date": "2020-12-31T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/harald-tangen/transfers/spieler/432692/transfer_id/3031231"
+        },
+        {
+          "id": "3031230",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "239",
+            "coachId": "18946"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "14761",
+            "coachId": "24347"
+          },
+          "details": {
+            "playerId": "432692",
+            "date": "2020-08-26T00:00:00+02:00",
+            "contractUntilDate": "2020-12-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 857,
+              "daysDisplay": "2 Years, 4 Months, 5 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/harald-tangen/transfers/spieler/432692/transfer_id/3031230"
+        },
+        {
+          "id": "2493447",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "8442",
+            "coachId": "32357"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "239",
+            "coachId": "18946"
+          },
+          "details": {
+            "playerId": "432692",
+            "date": "2019-07-31T00:00:00+02:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/harald-tangen/transfers/spieler/432692/transfer_id/2493447"
+        },
+        {
+          "id": "2493446",
+          "transferSource": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "239",
+            "coachId": "18946"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "8442",
+            "coachId": "32357"
+          },
+          "details": {
+            "playerId": "432692",
+            "date": "2019-05-29T00:00:00+02:00",
+            "contractUntilDate": "2019-07-31T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 2043,
+              "daysDisplay": "5 Years, 7 Months, 2 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/harald-tangen/transfers/spieler/432692/transfer_id/2493446"
+        },
+        {
+          "id": "2420570",
+          "transferSource": {
+            "competitionId": "NO44",
+            "countryId": 125,
+            "clubId": "10913",
+            "coachId": "19522"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "239",
+            "coachId": "18946"
+          },
+          "details": {
+            "playerId": "432692",
+            "date": "2018-11-01T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harald-tangen/transfers/spieler/432692/transfer_id/2420570"
+        },
+        {
+          "id": "5200447",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "15701",
+            "coachId": "128238"
+          },
+          "transferDestination": {
+            "competitionId": "NO43",
+            "countryId": 125,
+            "clubId": "10913",
+            "coachId": "19522"
+          },
+          "details": {
+            "playerId": "432692",
+            "date": "2017-05-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/harald-tangen/transfers/spieler/432692/transfer_id/5200447"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1045",
+      "10217",
+      "239",
+      "14761",
+      "8442",
+      "10913",
+      "15701"
+    ],
+    "coachIds": [
+      "75962",
+      "50533",
+      "26906",
+      "24347",
+      "18946",
+      "32357",
+      "19522",
+      "128238"
+    ],
+    "competitionIds": [
+      "GB4",
+      "NO1",
+      "NO2",
+      "NO44",
+      "NO43"
+    ],
+    "mostRecentTransfer": {
+      "id": "6145071",
+      "transferSource": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "1045",
+        "coachId": "75962"
+      },
+      "transferDestination": {
+        "competitionId": "NO1",
+        "countryId": 125,
+        "clubId": "10217",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "432692",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2027-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "500.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/harald-tangen/transfers/spieler/432692/transfer_id/6145071"
+    }
+  }
+}

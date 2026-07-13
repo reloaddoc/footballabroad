@@ -1,0 +1,641 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "551007",
+    "history": {
+      "terminated": [
+        {
+          "id": "5216938",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3684",
+            "coachId": "77047"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "603",
+            "coachId": "141732"
+          },
+          "details": {
+            "playerId": "551007",
+            "date": "2025-05-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/5216938"
+        },
+        {
+          "id": "5216937",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "603",
+            "coachId": "40285"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3684",
+            "coachId": "77047"
+          },
+          "details": {
+            "playerId": "551007",
+            "date": "2024-08-22T00:00:00+02:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 677,
+              "daysDisplay": "1 Year, 10 Months, 8 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/5216937"
+        },
+        {
+          "id": "4824080",
+          "transferSource": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2759",
+            "coachId": "80882"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "603",
+            "coachId": "40285"
+          },
+          "details": {
+            "playerId": "551007",
+            "date": "2024-05-31T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/4824080"
+        },
+        {
+          "id": "4824079",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "603",
+            "coachId": "40285"
+          },
+          "transferDestination": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2759",
+            "coachId": "6650"
+          },
+          "details": {
+            "playerId": "551007",
+            "date": "2024-01-15T00:00:00+01:00",
+            "contractUntilDate": "2024-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 897,
+              "daysDisplay": "2 Years, 5 Months, 15 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/4824079"
+        },
+        {
+          "id": "4540541",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3697",
+            "coachId": "122974"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "603",
+            "coachId": "40285"
+          },
+          "details": {
+            "playerId": "551007",
+            "date": "2024-01-08T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 144,
+              "daysDisplay": "4 Months, 23 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/4540541"
+        },
+        {
+          "id": "4540540",
+          "transferSource": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "603",
+            "coachId": "40285"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3697",
+            "coachId": "6650"
+          },
+          "details": {
+            "playerId": "551007",
+            "date": "2023-07-28T00:00:00+02:00",
+            "contractUntilDate": "2024-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/4540540"
+        },
+        {
+          "id": "4459930",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "29793",
+            "coachId": "99333"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "603",
+            "coachId": "40285"
+          },
+          "details": {
+            "playerId": "551007",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/4459930"
+        },
+        {
+          "id": "4038239",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1042",
+            "coachId": "69615"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "29793",
+            "coachId": "99333"
+          },
+          "details": {
+            "playerId": "551007",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/4038239"
+        },
+        {
+          "id": "4038238",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "29793",
+            "coachId": "99333"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1042",
+            "coachId": "45745"
+          },
+          "details": {
+            "playerId": "551007",
+            "date": "2022-08-25T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/4038238"
+        },
+        {
+          "id": "3428246",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "14460",
+            "coachId": "77217"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "29793",
+            "coachId": "97512"
+          },
+          "details": {
+            "playerId": "551007",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/3428246"
+        },
+        {
+          "id": "2658566",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "55579",
+            "coachId": "114872"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "14460",
+            "coachId": "77217"
+          },
+          "details": {
+            "playerId": "551007",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/2658566"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3684",
+      "603",
+      "2759",
+      "3697",
+      "29793",
+      "1042",
+      "14460",
+      "55579"
+    ],
+    "coachIds": [
+      "77047",
+      "141732",
+      "40285",
+      "80882",
+      "6650",
+      "122974",
+      "99333",
+      "69615",
+      "45745",
+      "77217",
+      "97512",
+      "114872"
+    ],
+    "competitionIds": [
+      "GB3",
+      "GB2",
+      "SC1",
+      "GB4"
+    ],
+    "mostRecentTransfer": {
+      "id": "5216938",
+      "transferSource": {
+        "competitionId": "GB3",
+        "countryId": 189,
+        "clubId": "3684",
+        "coachId": "77047"
+      },
+      "transferDestination": {
+        "competitionId": "GB2",
+        "countryId": 189,
+        "clubId": "603",
+        "coachId": "141732"
+      },
+      "details": {
+        "playerId": "551007",
+        "date": "2025-05-31T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/eli-king/transfers/spieler/551007/transfer_id/5216938"
+    }
+  }
+}

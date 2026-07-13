@@ -1,0 +1,1146 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "371008",
+    "history": {
+      "terminated": [
+        {
+          "id": "6405916",
+          "transferSource": {
+            "competitionId": "PO1",
+            "countryId": 136,
+            "clubId": "2424",
+            "coachId": "51375"
+          },
+          "transferDestination": {
+            "competitionId": "C2",
+            "countryId": 148,
+            "clubId": "116",
+            "coachId": "54831"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2026-07-06T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 359,
+              "daysDisplay": "11 Months, 24 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/6405916"
+        },
+        {
+          "id": "5911624",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "70232"
+          },
+          "transferDestination": {
+            "competitionId": "PO1",
+            "countryId": 136,
+            "clubId": "2424",
+            "coachId": "63523"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/5911624"
+        },
+        {
+          "id": "5911623",
+          "transferSource": {
+            "competitionId": "PO1",
+            "countryId": 136,
+            "clubId": "2424",
+            "coachId": "63523"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "24490"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2025-09-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 667,
+              "daysDisplay": "1 Year, 9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/5911623"
+        },
+        {
+          "id": "5139436",
+          "transferSource": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "1084",
+            "coachId": "49316"
+          },
+          "transferDestination": {
+            "competitionId": "PO1",
+            "countryId": 136,
+            "clubId": "2424",
+            "coachId": "63523"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/5139436"
+        },
+        {
+          "id": "5139435",
+          "transferSource": {
+            "competitionId": "PO1",
+            "countryId": 136,
+            "clubId": "2424",
+            "coachId": "97163"
+          },
+          "transferDestination": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "1084",
+            "coachId": "49316"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2024-07-22T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 1073,
+              "daysDisplay": "2 Years, 11 Months, 8 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/5139435"
+        },
+        {
+          "id": "4824324",
+          "transferSource": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "630",
+            "coachId": "54421"
+          },
+          "transferDestination": {
+            "competitionId": "PO1",
+            "countryId": 136,
+            "clubId": "2424",
+            "coachId": "97163"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/4824324"
+        },
+        {
+          "id": "4824323",
+          "transferSource": {
+            "competitionId": "PO1",
+            "countryId": 136,
+            "clubId": "2424",
+            "coachId": "38447"
+          },
+          "transferDestination": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "630",
+            "coachId": "54421"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2024-01-15T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 1262,
+              "daysDisplay": "3 Years, 5 Months, 15 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/4824323"
+        },
+        {
+          "id": "4520940",
+          "transferSource": {
+            "competitionId": "UNG1",
+            "countryId": 178,
+            "clubId": "279",
+            "coachId": "16783"
+          },
+          "transferDestination": {
+            "competitionId": "PO1",
+            "countryId": 136,
+            "clubId": "2424",
+            "coachId": "38447"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2023-07-20T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 346,
+              "daysDisplay": "11 Months, 10 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/4520940"
+        },
+        {
+          "id": "4252347",
+          "transferSource": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "630",
+            "coachId": "54421"
+          },
+          "transferDestination": {
+            "competitionId": "UNG1",
+            "countryId": 178,
+            "clubId": "279",
+            "coachId": "2073"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/4252347"
+        },
+        {
+          "id": "4252346",
+          "transferSource": {
+            "competitionId": "UNG1",
+            "countryId": 178,
+            "clubId": "279",
+            "coachId": "2073"
+          },
+          "transferDestination": {
+            "competitionId": "ES2",
+            "countryId": 157,
+            "clubId": "630",
+            "coachId": "54421"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2023-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 516,
+              "daysDisplay": "1 Year, 4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/4252346"
+        },
+        {
+          "id": "3890371",
+          "transferSource": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "790",
+            "coachId": "30637"
+          },
+          "transferDestination": {
+            "competitionId": "UNG1",
+            "countryId": 178,
+            "clubId": "279",
+            "coachId": "2073"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2023-01-30T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 151,
+              "daysDisplay": "5 Months"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/3890371"
+        },
+        {
+          "id": "3890370",
+          "transferSource": {
+            "competitionId": "UNG1",
+            "countryId": 178,
+            "clubId": "279",
+            "coachId": "2073"
+          },
+          "transferDestination": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "790",
+            "coachId": "57660"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/3890370"
+        },
+        {
+          "id": "3522145",
+          "transferSource": {
+            "competitionId": "PL1",
+            "countryId": 135,
+            "clubId": "238",
+            "coachId": "2475"
+          },
+          "transferDestination": {
+            "competitionId": "UNG1",
+            "countryId": 178,
+            "clubId": "279",
+            "coachId": "2073"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2021-12-31T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 10,
+              "daysDisplay": "10 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/3522145"
+        },
+        {
+          "id": "3522144",
+          "transferSource": {
+            "competitionId": "UNG1",
+            "countryId": 178,
+            "clubId": "279",
+            "coachId": "1648"
+          },
+          "transferDestination": {
+            "competitionId": "PL1",
+            "countryId": 135,
+            "clubId": "238",
+            "coachId": "2475"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2021-08-27T00:00:00+02:00",
+            "contractUntilDate": "2022-01-10T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 1038,
+              "daysDisplay": "2 Years, 10 Months, 3 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/3522144"
+        },
+        {
+          "id": "2999082",
+          "transferSource": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "44796",
+            "coachId": "14602"
+          },
+          "transferDestination": {
+            "competitionId": "UNG1",
+            "countryId": 178,
+            "clubId": "279",
+            "coachId": "10892"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2020-08-07T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 677,
+              "daysDisplay": "1 Year, 10 Months, 8 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/2999082"
+        },
+        {
+          "id": "2803711",
+          "transferSource": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "26985",
+            "coachId": "54644"
+          },
+          "transferDestination": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "44796",
+            "coachId": "14602"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2020-07-31T00:00:00+02:00",
+            "contractUntilDate": "2022-06-15T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/2803711"
+        },
+        {
+          "id": "2803710",
+          "transferSource": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "44796",
+            "coachId": "35373"
+          },
+          "transferDestination": {
+            "competitionId": "SL1",
+            "countryId": 155,
+            "clubId": "26985",
+            "coachId": "54644"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2020-02-14T00:00:00+01:00",
+            "contractUntilDate": "2020-07-31T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 852,
+              "daysDisplay": "2 Years, 4 Months, 1 Day"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/2803710"
+        },
+        {
+          "id": "2547385",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "9641",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "44796",
+            "coachId": "35373"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-15T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 350,
+              "daysDisplay": "11 Months, 14 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/2547385"
+        },
+        {
+          "id": "1873974",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "36358",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "9641",
+            "coachId": "9476"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2017-08-04T00:00:00+02:00",
+            "contractUntilDate": "2020-06-15T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 330,
+              "daysDisplay": "10 Months, 26 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/1873974"
+        },
+        {
+          "id": "1295167",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "36360",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "36358",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "371008",
+            "date": "2015-07-10T00:00:00+02:00",
+            "contractUntilDate": "2018-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/1295167"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 1300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.30",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2424",
+      "116",
+      "2414",
+      "1084",
+      "630",
+      "279",
+      "790",
+      "238",
+      "44796",
+      "26985",
+      "9641",
+      "36358",
+      "36360"
+    ],
+    "coachIds": [
+      "51375",
+      "54831",
+      "70232",
+      "63523",
+      "24490",
+      "49316",
+      "97163",
+      "54421",
+      "38447",
+      "16783",
+      "2073",
+      "30637",
+      "57660",
+      "2475",
+      "1648",
+      "14602",
+      "10892",
+      "54644",
+      "35373",
+      "9476"
+    ],
+    "competitionIds": [
+      "PO1",
+      "C2",
+      "DK2",
+      "ES2",
+      "UNG1",
+      "SL1",
+      "PL1",
+      "KR2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6405916",
+      "transferSource": {
+        "competitionId": "PO1",
+        "countryId": 136,
+        "clubId": "2424",
+        "coachId": "51375"
+      },
+      "transferDestination": {
+        "competitionId": "C2",
+        "countryId": 148,
+        "clubId": "116",
+        "coachId": "54831"
+      },
+      "details": {
+        "playerId": "371008",
+        "date": "2026-07-06T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "500.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 359,
+          "daysDisplay": "11 Months, 24 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/roko-baturina/transfers/spieler/371008/transfer_id/6405916"
+    }
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "485667",
+    "history": {
+      "terminated": [
+        {
+          "id": "5691684",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "25232",
+            "coachId": "7891"
+          },
+          "transferDestination": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "22672",
+            "coachId": "121114"
+          },
+          "details": {
+            "playerId": "485667",
+            "date": "2025-07-04T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zac-jones/transfers/spieler/485667/transfer_id/5691684"
+        },
+        {
+          "id": "3719225",
+          "transferSource": {
+            "competitionId": "NCL1",
+            "countryId": 120,
+            "clubId": "26274",
+            "coachId": "71313"
+          },
+          "transferDestination": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "25232",
+            "coachId": "15866"
+          },
+          "details": {
+            "playerId": "485667",
+            "date": "2022-01-29T00:00:00+01:00",
+            "contractUntilDate": "2025-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zac-jones/transfers/spieler/485667/transfer_id/3719225"
+        },
+        {
+          "id": "3316749",
+          "transferSource": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "18385",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NCL1",
+            "countryId": 120,
+            "clubId": "26274",
+            "coachId": "71313"
+          },
+          "details": {
+            "playerId": "485667",
+            "date": "2021-03-22T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 100,
+              "daysDisplay": "3 Months, 8 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zac-jones/transfers/spieler/485667/transfer_id/3316749"
+        },
+        {
+          "id": "3242504",
+          "transferSource": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "8445",
+            "coachId": "32567"
+          },
+          "transferDestination": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "18385",
+            "coachId": "71313"
+          },
+          "details": {
+            "playerId": "485667",
+            "date": "2021-02-01T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 149,
+              "daysDisplay": "4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zac-jones/transfers/spieler/485667/transfer_id/3242504"
+        },
+        {
+          "id": "3135883",
+          "transferSource": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "30746",
+            "coachId": "30440"
+          },
+          "transferDestination": {
+            "competitionId": "AUS1",
+            "countryId": 12,
+            "clubId": "8445",
+            "coachId": "32567"
+          },
+          "details": {
+            "playerId": "485667",
+            "date": "2020-08-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zac-jones/transfers/spieler/485667/transfer_id/3135883"
+        },
+        {
+          "id": "1920413",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 120,
+            "clubId": "26275",
+            "coachId": "14047"
+          },
+          "transferDestination": {
+            "competitionId": "NZL1",
+            "countryId": 120,
+            "clubId": "30746",
+            "coachId": "20135"
+          },
+          "details": {
+            "playerId": "485667",
+            "date": "2017-09-20T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/zac-jones/transfers/spieler/485667/transfer_id/1920413"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "25232",
+      "22672",
+      "26274",
+      "18385",
+      "8445",
+      "30746",
+      "26275"
+    ],
+    "coachIds": [
+      "7891",
+      "121114",
+      "71313",
+      "15866",
+      "32567",
+      "30440",
+      "14047",
+      "20135"
+    ],
+    "competitionIds": [
+      "WAL1",
+      "NLN6",
+      "NCL1",
+      "NZL1",
+      "AUS1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5691684",
+      "transferSource": {
+        "competitionId": "WAL1",
+        "countryId": 191,
+        "clubId": "25232",
+        "coachId": "7891"
+      },
+      "transferDestination": {
+        "competitionId": "NLN6",
+        "countryId": 189,
+        "clubId": "22672",
+        "coachId": "121114"
+      },
+      "details": {
+        "playerId": "485667",
+        "date": "2025-07-04T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/zac-jones/transfers/spieler/485667/transfer_id/5691684"
+    }
+  }
+}

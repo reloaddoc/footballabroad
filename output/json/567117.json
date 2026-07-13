@@ -1,0 +1,578 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "567117",
+    "history": {
+      "terminated": [
+        {
+          "id": "5791090",
+          "transferSource": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "1241",
+            "coachId": "53068"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2578",
+            "coachId": "13171"
+          },
+          "details": {
+            "playerId": "567117",
+            "date": "2025-07-18T00:00:00+02:00",
+            "contractUntilDate": "2027-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 317,
+              "daysDisplay": "10 Months, 13 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/reece-mcalear/transfers/spieler/567117/transfer_id/5791090"
+        },
+        {
+          "id": "4998827",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1074",
+            "coachId": "4152"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "1241",
+            "coachId": "53068"
+          },
+          "details": {
+            "playerId": "567117",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/reece-mcalear/transfers/spieler/567117/transfer_id/4998827"
+        },
+        {
+          "id": "4252520",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "1192",
+            "coachId": "10734"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1074",
+            "coachId": "28931"
+          },
+          "details": {
+            "playerId": "567117",
+            "date": "2023-05-31T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/reece-mcalear/transfers/spieler/567117/transfer_id/4252520"
+        },
+        {
+          "id": "4252519",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1074",
+            "coachId": "17028"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "1192",
+            "coachId": "10734"
+          },
+          "details": {
+            "playerId": "567117",
+            "date": "2023-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 516,
+              "daysDisplay": "1 Year, 4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/reece-mcalear/transfers/spieler/567117/transfer_id/4252519"
+        },
+        {
+          "id": "3856471",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "33614",
+            "coachId": "23509"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1074",
+            "coachId": "17028"
+          },
+          "details": {
+            "playerId": "567117",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/reece-mcalear/transfers/spieler/567117/transfer_id/3856471"
+        },
+        {
+          "id": "3400078",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2451",
+            "coachId": "2487"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "33614",
+            "coachId": "23509"
+          },
+          "details": {
+            "playerId": "567117",
+            "date": "2022-05-31T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/reece-mcalear/transfers/spieler/567117/transfer_id/3400078"
+        },
+        {
+          "id": "3400077",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "33614",
+            "coachId": "44065"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2451",
+            "coachId": "2487"
+          },
+          "details": {
+            "playerId": "567117",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/reece-mcalear/transfers/spieler/567117/transfer_id/3400077"
+        },
+        {
+          "id": "2575591",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "67282",
+            "coachId": "69813"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "33614",
+            "coachId": "44065"
+          },
+          "details": {
+            "playerId": "567117",
+            "date": "2019-07-26T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 310,
+              "daysDisplay": "10 Months, 5 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/reece-mcalear/transfers/spieler/567117/transfer_id/2575591"
+        },
+        {
+          "id": "2144376",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "31035",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "67282",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "567117",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-05-31T00:00:00+02:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/reece-mcalear/transfers/spieler/567117/transfer_id/2144376"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1241",
+      "2578",
+      "1074",
+      "1192",
+      "33614",
+      "2451",
+      "67282",
+      "31035"
+    ],
+    "coachIds": [
+      "53068",
+      "13171",
+      "4152",
+      "10734",
+      "28931",
+      "17028",
+      "23509",
+      "2487",
+      "44065",
+      "69813"
+    ],
+    "competitionIds": [
+      "SC1",
+      "SC2",
+      "GB4",
+      "GB21"
+    ],
+    "mostRecentTransfer": {
+      "id": "5791090",
+      "transferSource": {
+        "competitionId": "SC1",
+        "countryId": 190,
+        "clubId": "1241",
+        "coachId": "53068"
+      },
+      "transferDestination": {
+        "competitionId": "SC2",
+        "countryId": 190,
+        "clubId": "2578",
+        "coachId": "13171"
+      },
+      "details": {
+        "playerId": "567117",
+        "date": "2025-07-18T00:00:00+02:00",
+        "contractUntilDate": "2027-05-31T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 175000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "175.00",
+            "suffix": "K"
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 317,
+          "daysDisplay": "10 Months, 13 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/reece-mcalear/transfers/spieler/567117/transfer_id/5791090"
+    }
+  }
+}

@@ -1,0 +1,613 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "854839",
+    "history": {
+      "terminated": [
+        {
+          "id": "5598885",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "7454",
+            "coachId": "141800"
+          },
+          "transferDestination": {
+            "competitionId": "MNP3",
+            "countryId": 184,
+            "clubId": "46719",
+            "coachId": "127225"
+          },
+          "details": {
+            "playerId": "854839",
+            "date": "2025-04-01T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/charles-ondo/transfers/spieler/854839/transfer_id/5598885"
+        },
+        {
+          "id": "5453270",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2797",
+            "coachId": "137370"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "7454",
+            "coachId": "23391"
+          },
+          "details": {
+            "playerId": "854839",
+            "date": "2025-01-14T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/charles-ondo/transfers/spieler/854839/transfer_id/5453270"
+        },
+        {
+          "id": "5327007",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "17980",
+            "coachId": "109489"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2797",
+            "coachId": "88269"
+          },
+          "details": {
+            "playerId": "854839",
+            "date": "2024-11-16T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/charles-ondo/transfers/spieler/854839/transfer_id/5327007"
+        },
+        {
+          "id": "5327006",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2797",
+            "coachId": "88269"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "17980",
+            "coachId": "109489"
+          },
+          "details": {
+            "playerId": "854839",
+            "date": "2024-10-19T00:00:00+02:00",
+            "contractUntilDate": "2024-11-16T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/charles-ondo/transfers/spieler/854839/transfer_id/5327006"
+        },
+        {
+          "id": "5244022",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "130650",
+            "coachId": "99645"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2797",
+            "coachId": "66977"
+          },
+          "details": {
+            "playerId": "854839",
+            "date": "2024-08-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/charles-ondo/transfers/spieler/854839/transfer_id/5244022"
+        },
+        {
+          "id": "4277968",
+          "transferSource": {
+            "competitionId": "IR2",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "19906"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "130650",
+            "coachId": "74347"
+          },
+          "details": {
+            "playerId": "854839",
+            "date": "2023-04-21T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/charles-ondo/transfers/spieler/854839/transfer_id/4277968"
+        },
+        {
+          "id": "4277967",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "130650",
+            "coachId": "74347"
+          },
+          "transferDestination": {
+            "competitionId": "IR2",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "66977"
+          },
+          "details": {
+            "playerId": "854839",
+            "date": "2023-02-15T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/charles-ondo/transfers/spieler/854839/transfer_id/4277967"
+        },
+        {
+          "id": "4112947",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "67774",
+            "coachId": "99645"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "130650",
+            "coachId": "74347"
+          },
+          "details": {
+            "playerId": "854839",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/charles-ondo/transfers/spieler/854839/transfer_id/4112947"
+        },
+        {
+          "id": "3545713",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "67773",
+            "coachId": "99645"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "67774",
+            "coachId": "74347"
+          },
+          "details": {
+            "playerId": "854839",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/charles-ondo/transfers/spieler/854839/transfer_id/3545713"
+        },
+        {
+          "id": "3545712",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "73627",
+            "coachId": "149837"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "67773",
+            "coachId": "74347"
+          },
+          "details": {
+            "playerId": "854839",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/charles-ondo/transfers/spieler/854839/transfer_id/3545712"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "7454",
+      "46719",
+      "2797",
+      "17980",
+      "130650",
+      "7609",
+      "67774",
+      "67773",
+      "73627"
+    ],
+    "coachIds": [
+      "141800",
+      "127225",
+      "137370",
+      "23391",
+      "109489",
+      "88269",
+      "99645",
+      "66977",
+      "19906",
+      "74347",
+      "149837"
+    ],
+    "competitionIds": [
+      "NLS6",
+      "MNP3",
+      "CNAT",
+      "IR2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5598885",
+      "transferSource": {
+        "competitionId": "NLS6",
+        "countryId": 189,
+        "clubId": "7454",
+        "coachId": "141800"
+      },
+      "transferDestination": {
+        "competitionId": "MNP3",
+        "countryId": 184,
+        "clubId": "46719",
+        "coachId": "127225"
+      },
+      "details": {
+        "playerId": "854839",
+        "date": "2025-04-01T00:00:00+02:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/charles-ondo/transfers/spieler/854839/transfer_id/5598885"
+    }
+  }
+}

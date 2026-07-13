@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "579298",
+    "history": {
+      "terminated": [
+        {
+          "id": "5781523",
+          "transferSource": {
+            "competitionId": "NL1",
+            "countryId": 122,
+            "clubId": "132",
+            "coachId": "58865"
+          },
+          "transferDestination": {
+            "competitionId": "EGY1",
+            "countryId": 2,
+            "clubId": "664",
+            "coachId": "24916"
+          },
+          "details": {
+            "playerId": "579298",
+            "date": "2025-07-15T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adam-kaied/transfers/spieler/579298/transfer_id/5781523"
+        },
+        {
+          "id": "4250583",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "57571"
+          },
+          "transferDestination": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "132",
+            "coachId": "4853"
+          },
+          "details": {
+            "playerId": "579298",
+            "date": "2023-01-30T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 335,
+              "daysDisplay": "11 Months, 1 Day"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adam-kaied/transfers/spieler/579298/transfer_id/4250583"
+        },
+        {
+          "id": "4045627",
+          "transferSource": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "1274",
+            "coachId": "28441"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "57571"
+          },
+          "details": {
+            "playerId": "579298",
+            "date": "2022-12-31T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/adam-kaied/transfers/spieler/579298/transfer_id/4045627"
+        },
+        {
+          "id": "4045626",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "57571"
+          },
+          "transferDestination": {
+            "competitionId": "NO2",
+            "countryId": 125,
+            "clubId": "1274",
+            "coachId": "28441"
+          },
+          "details": {
+            "playerId": "579298",
+            "date": "2022-08-30T00:00:00+02:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 488,
+              "daysDisplay": "1 Year, 4 Months, 1 Day"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/adam-kaied/transfers/spieler/579298/transfer_id/4045626"
+        },
+        {
+          "id": "3391434",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "8659",
+            "coachId": "57571"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "3113"
+          },
+          "details": {
+            "playerId": "579298",
+            "date": "2021-07-11T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adam-kaied/transfers/spieler/579298/transfer_id/3391434"
+        },
+        {
+          "id": "2843831",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "39188",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "JUSÖ",
+            "countryId": 147,
+            "clubId": "8659",
+            "coachId": "57571"
+          },
+          "details": {
+            "playerId": "579298",
+            "date": "2019-01-08T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/adam-kaied/transfers/spieler/579298/transfer_id/2843831"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "132",
+      "664",
+      "699",
+      "1274",
+      "8659",
+      "39188"
+    ],
+    "coachIds": [
+      "58865",
+      "24916",
+      "57571",
+      "4853",
+      "28441",
+      "3113"
+    ],
+    "competitionIds": [
+      "NL1",
+      "EGY1",
+      "SE2",
+      "NL2",
+      "NO2",
+      "SE1",
+      "JUSÖ"
+    ],
+    "mostRecentTransfer": {
+      "id": "5781523",
+      "transferSource": {
+        "competitionId": "NL1",
+        "countryId": 122,
+        "clubId": "132",
+        "coachId": "58865"
+      },
+      "transferDestination": {
+        "competitionId": "EGY1",
+        "countryId": 2,
+        "clubId": "664",
+        "coachId": "24916"
+      },
+      "details": {
+        "playerId": "579298",
+        "date": "2025-07-15T00:00:00+02:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/adam-kaied/transfers/spieler/579298/transfer_id/5781523"
+    }
+  }
+}

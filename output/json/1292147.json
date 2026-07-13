@@ -1,0 +1,273 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1292147",
+    "history": {
+      "terminated": [
+        {
+          "id": "6202186",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "3265",
+            "coachId": "35455"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "8885",
+            "coachId": "47675"
+          },
+          "details": {
+            "playerId": "1292147",
+            "date": "2026-02-24T00:00:00+01:00",
+            "contractUntilDate": "2028-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 126,
+              "daysDisplay": "4 Months, 6 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/phillip-appiah/transfers/spieler/1292147/transfer_id/6202186"
+        },
+        {
+          "id": "5800864",
+          "transferSource": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "75807",
+            "coachId": "28451"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 136,
+            "clubId": "3265",
+            "coachId": "87508"
+          },
+          "details": {
+            "playerId": "1292147",
+            "date": "2025-07-22T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 708,
+              "daysDisplay": "1 Year, 11 Months, 8 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/phillip-appiah/transfers/spieler/1292147/transfer_id/5800864"
+        },
+        {
+          "id": "5182796",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "75",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "75807",
+            "coachId": "22299"
+          },
+          "details": {
+            "playerId": "1292147",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/phillip-appiah/transfers/spieler/1292147/transfer_id/5182796"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "3265",
+      "8885",
+      "75807",
+      "75"
+    ],
+    "coachIds": [
+      "35455",
+      "47675",
+      "28451",
+      "87508",
+      "22299"
+    ],
+    "competitionIds": [
+      "SE3N",
+      "DK3O"
+    ],
+    "mostRecentTransfer": {
+      "id": "6202186",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 136,
+        "clubId": "3265",
+        "coachId": "35455"
+      },
+      "transferDestination": {
+        "competitionId": "SE3N",
+        "countryId": 147,
+        "clubId": "8885",
+        "coachId": "47675"
+      },
+      "details": {
+        "playerId": "1292147",
+        "date": "2026-02-24T00:00:00+01:00",
+        "contractUntilDate": "2028-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 126,
+          "daysDisplay": "4 Months, 6 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/phillip-appiah/transfers/spieler/1292147/transfer_id/6202186"
+    }
+  }
+}

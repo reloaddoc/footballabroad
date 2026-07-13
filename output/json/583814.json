@@ -1,0 +1,775 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "583814",
+    "history": {
+      "terminated": [
+        {
+          "id": "6127957",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "32650",
+            "coachId": "117951"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "26384",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2026-02-03T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/6127957"
+        },
+        {
+          "id": "6127956",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "26384",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "32650",
+            "coachId": "117951"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2026-01-16T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/6127956"
+        },
+        {
+          "id": "6127955",
+          "transferSource": {
+            "competitionId": "TOSL",
+            "countryId": 77,
+            "clubId": "29180",
+            "coachId": "94640"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "26384",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2026-01-15T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 16,
+              "daysDisplay": "16 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/6127955"
+        },
+        {
+          "id": "5220582",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "26384",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "29180",
+            "coachId": "130761"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2024-08-20T00:00:00+02:00",
+            "contractUntilDate": "2026-01-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/5220582"
+        },
+        {
+          "id": "5045110",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "94168",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "26384",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2024-06-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/5045110"
+        },
+        {
+          "id": "4847161",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "26384",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "94168",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2024-05-15T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/4847161"
+        },
+        {
+          "id": "4796377",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "94168",
+            "coachId": "89828"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "26384",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2024-01-25T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/4796377"
+        },
+        {
+          "id": "4573233",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "15656",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "94168",
+            "coachId": "89828"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2023-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/4573233"
+        },
+        {
+          "id": "4573232",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "94168",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "15656",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2023-08-09T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/4573232"
+        },
+        {
+          "id": "4160669",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "71204",
+            "coachId": "59844"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "94168",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2022-12-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/4160669"
+        },
+        {
+          "id": "3681185",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "40196",
+            "coachId": "37674"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "71204",
+            "coachId": "90588"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2022-01-20T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/3681185"
+        },
+        {
+          "id": "3419164",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "46403",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "40196",
+            "coachId": "37674"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2021-11-30T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/3419164"
+        },
+        {
+          "id": "3419163",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "40196",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "46403",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/3419163"
+        },
+        {
+          "id": "3106327",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "15131",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "40196",
+            "coachId": "129513"
+          },
+          "details": {
+            "playerId": "583814",
+            "date": "2020-10-16T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/3106327"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "32650",
+      "26384",
+      "29180",
+      "94168",
+      "15656",
+      "71204",
+      "40196",
+      "46403",
+      "15131"
+    ],
+    "coachIds": [
+      "117951",
+      "94640",
+      "130761",
+      "89828",
+      "59844",
+      "37674",
+      "90588",
+      "129513"
+    ],
+    "competitionIds": [
+      "TOSL",
+      "JFL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6127957",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 26,
+        "clubId": "32650",
+        "coachId": "117951"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 26,
+        "clubId": "26384",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "583814",
+        "date": "2026-02-03T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 26,
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/diego-washington/transfers/spieler/583814/transfer_id/6127957"
+    }
+  }
+}

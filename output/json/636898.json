@@ -1,0 +1,537 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "636898",
+    "history": {
+      "terminated": [
+        {
+          "id": "6397954",
+          "transferSource": {
+            "competitionId": "L1",
+            "countryId": 40,
+            "clubId": "127",
+            "coachId": "44169"
+          },
+          "transferDestination": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "25",
+            "coachId": "286"
+          },
+          "details": {
+            "playerId": "636898",
+            "date": "2026-07-02T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-copado/transfers/spieler/636898/transfer_id/6397954"
+        },
+        {
+          "id": "5732418",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "413",
+            "coachId": "58079"
+          },
+          "transferDestination": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "127",
+            "coachId": "44169"
+          },
+          "details": {
+            "playerId": "636898",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1095,
+              "daysDisplay": "2 Years, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-copado/transfers/spieler/636898/transfer_id/5732418"
+        },
+        {
+          "id": "5215567",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "25",
+            "coachId": "286"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "413",
+            "coachId": "65209"
+          },
+          "details": {
+            "playerId": "636898",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lucas-copado/transfers/spieler/636898/transfer_id/5215567"
+        },
+        {
+          "id": "5215566",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "413",
+            "coachId": "19851"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "25",
+            "coachId": "286"
+          },
+          "details": {
+            "playerId": "636898",
+            "date": "2024-08-22T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1408,
+              "daysDisplay": "3 Years, 10 Months, 8 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lucas-copado/transfers/spieler/636898/transfer_id/5215566"
+        },
+        {
+          "id": "4839395",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "5716"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "413",
+            "coachId": "19473"
+          },
+          "details": {
+            "playerId": "636898",
+            "date": "2024-01-22T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 160,
+              "daysDisplay": "5 Months, 8 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-copado/transfers/spieler/636898/transfer_id/4839395"
+        },
+        {
+          "id": "3419653",
+          "transferSource": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21058",
+            "coachId": "48142"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "28",
+            "coachId": "70585"
+          },
+          "details": {
+            "playerId": "636898",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-copado/transfers/spieler/636898/transfer_id/3419653"
+        },
+        {
+          "id": "2548854",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "18936",
+            "coachId": "48142"
+          },
+          "transferDestination": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21058",
+            "coachId": "49850"
+          },
+          "details": {
+            "playerId": "636898",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-copado/transfers/spieler/636898/transfer_id/2548854"
+        },
+        {
+          "id": "2597309",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "36747",
+            "coachId": "147416"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "18936",
+            "coachId": "48142"
+          },
+          "details": {
+            "playerId": "636898",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 12,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-copado/transfers/spieler/636898/transfer_id/2597309"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 550000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "550.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 600000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "600.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "127",
+      "25",
+      "413",
+      "28",
+      "21058",
+      "18936",
+      "36747"
+    ],
+    "coachIds": [
+      "44169",
+      "286",
+      "58079",
+      "65209",
+      "19851",
+      "5716",
+      "19473",
+      "48142",
+      "70585",
+      "49850",
+      "147416"
+    ],
+    "competitionIds": [
+      "L1",
+      "L2",
+      "A1",
+      "L3",
+      "RLB3",
+      "BJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6397954",
+      "transferSource": {
+        "competitionId": "L1",
+        "countryId": 40,
+        "clubId": "127",
+        "coachId": "44169"
+      },
+      "transferDestination": {
+        "competitionId": "L2",
+        "countryId": 40,
+        "clubId": "25",
+        "coachId": "286"
+      },
+      "details": {
+        "playerId": "636898",
+        "date": "2026-07-02T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 600000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "600.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/lucas-copado/transfers/spieler/636898/transfer_id/6397954"
+    }
+  }
+}

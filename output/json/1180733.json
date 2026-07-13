@@ -1,0 +1,149 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1180733",
+    "history": {
+      "terminated": [
+        {
+          "id": "5001879",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 192,
+            "clubId": "41080",
+            "coachId": "117946"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "5679",
+            "coachId": "105721"
+          },
+          "details": {
+            "playerId": "1180733",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ceadach-o-neill/transfers/spieler/1180733/transfer_id/5001879"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 18,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "41080",
+      "5679"
+    ],
+    "coachIds": [
+      "117946",
+      "105721"
+    ],
+    "competitionIds": [
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "5001879",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 192,
+        "clubId": "41080",
+        "coachId": "117946"
+      },
+      "transferDestination": {
+        "competitionId": "GB18",
+        "countryId": 189,
+        "clubId": "5679",
+        "coachId": "105721"
+      },
+      "details": {
+        "playerId": "1180733",
+        "date": "2024-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 16,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ceadach-o-neill/transfers/spieler/1180733/transfer_id/5001879"
+    }
+  }
+}

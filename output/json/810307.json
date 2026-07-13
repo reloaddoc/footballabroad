@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "810307",
+    "history": {
+      "terminated": [
+        {
+          "id": "6322505",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 56,
+            "clubId": "2984",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "810307",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrios-goumas/transfers/spieler/810307/transfer_id/6322505"
+        },
+        {
+          "id": "6137274",
+          "transferSource": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "2441",
+            "coachId": "8142"
+          },
+          "transferDestination": {
+            "competitionId": "GRS2",
+            "countryId": 56,
+            "clubId": "2984",
+            "coachId": "56513"
+          },
+          "details": {
+            "playerId": "810307",
+            "date": "2026-01-22T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 524,
+              "daysDisplay": "1 Year, 5 Months, 8 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrios-goumas/transfers/spieler/810307/transfer_id/6137274"
+        },
+        {
+          "id": "5580610",
+          "transferSource": {
+            "competitionId": "FI2",
+            "countryId": 49,
+            "clubId": "8807",
+            "coachId": "112182"
+          },
+          "transferDestination": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "2441",
+            "coachId": "8142"
+          },
+          "details": {
+            "playerId": "810307",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/dimitrios-goumas/transfers/spieler/810307/transfer_id/5580610"
+        },
+        {
+          "id": "5580609",
+          "transferSource": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "2441",
+            "coachId": "19768"
+          },
+          "transferDestination": {
+            "competitionId": "FI2",
+            "countryId": 49,
+            "clubId": "8807",
+            "coachId": "112182"
+          },
+          "details": {
+            "playerId": "810307",
+            "date": "2025-03-21T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 831,
+              "daysDisplay": "2 Years, 3 Months, 9 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/dimitrios-goumas/transfers/spieler/810307/transfer_id/5580609"
+        },
+        {
+          "id": "5062364",
+          "transferSource": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "393",
+            "coachId": "62118"
+          },
+          "transferDestination": {
+            "competitionId": "GR1",
+            "countryId": 56,
+            "clubId": "2441",
+            "coachId": "19768"
+          },
+          "details": {
+            "playerId": "810307",
+            "date": "2024-07-24T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrios-goumas/transfers/spieler/810307/transfer_id/5062364"
+        },
+        {
+          "id": "3876066",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "9343",
+            "coachId": "23497"
+          },
+          "transferDestination": {
+            "competitionId": "RLB3",
+            "countryId": 40,
+            "clubId": "393",
+            "coachId": "12766"
+          },
+          "details": {
+            "playerId": "810307",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrios-goumas/transfers/spieler/810307/transfer_id/3876066"
+        },
+        {
+          "id": "3420143",
+          "transferSource": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "2613",
+            "coachId": "35815"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "9343",
+            "coachId": "81650"
+          },
+          "details": {
+            "playerId": "810307",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrios-goumas/transfers/spieler/810307/transfer_id/3420143"
+        },
+        {
+          "id": "3051748",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "66933",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "2613",
+            "coachId": "46704"
+          },
+          "details": {
+            "playerId": "810307",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dimitrios-goumas/transfers/spieler/810307/transfer_id/3051748"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2984",
+      "515",
+      "2441",
+      "8807",
+      "393",
+      "9343",
+      "2613",
+      "66933"
+    ],
+    "coachIds": [
+      "8142",
+      "56513",
+      "112182",
+      "19768",
+      "62118",
+      "23497",
+      "12766",
+      "35815",
+      "81650",
+      "46704"
+    ],
+    "competitionIds": [
+      "GR1",
+      "GRS2",
+      "FI2",
+      "RLB3",
+      "AJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6322505",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 56,
+        "clubId": "2984",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "810307",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/dimitrios-goumas/transfers/spieler/810307/transfer_id/6322505"
+    }
+  }
+}

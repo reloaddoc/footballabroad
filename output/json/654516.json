@@ -1,0 +1,205 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "654516",
+    "history": {
+      "terminated": [
+        {
+          "id": "4778644",
+          "transferSource": {
+            "competitionId": "511",
+            "countryId": 122,
+            "clubId": "8449",
+            "coachId": "44030"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "12960",
+            "coachId": "91047"
+          },
+          "details": {
+            "playerId": "654516",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sten-senders/transfers/spieler/654516/transfer_id/4778644"
+        },
+        {
+          "id": "2415151",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "44922",
+            "coachId": "72539"
+          },
+          "transferDestination": {
+            "competitionId": "511",
+            "countryId": 122,
+            "clubId": "8449",
+            "coachId": "36533"
+          },
+          "details": {
+            "playerId": "654516",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sten-senders/transfers/spieler/654516/transfer_id/2415151"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "8449",
+      "12960",
+      "44922"
+    ],
+    "coachIds": [
+      "44030",
+      "91047",
+      "72539",
+      "36533"
+    ],
+    "competitionIds": [
+      "511"
+    ],
+    "mostRecentTransfer": {
+      "id": "4778644",
+      "transferSource": {
+        "competitionId": "511",
+        "countryId": 122,
+        "clubId": "8449",
+        "coachId": "44030"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 19,
+        "clubId": "12960",
+        "coachId": "91047"
+      },
+      "details": {
+        "playerId": "654516",
+        "date": "2024-07-01T00:00:00+02:00",
+        "contractUntilDate": "2025-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/sten-senders/transfers/spieler/654516/transfer_id/4778644"
+    }
+  }
+}

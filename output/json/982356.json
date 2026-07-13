@@ -1,0 +1,686 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "982356",
+    "history": {
+      "terminated": [
+        {
+          "id": "5721373",
+          "transferSource": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "28760",
+            "coachId": "26874"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "17671",
+            "coachId": "18018"
+          },
+          "details": {
+            "playerId": "982356",
+            "date": "2025-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/5721373"
+        },
+        {
+          "id": "5483914",
+          "transferSource": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "40373",
+            "coachId": "13343"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "28760",
+            "coachId": "13161"
+          },
+          "details": {
+            "playerId": "982356",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/5483914"
+        },
+        {
+          "id": "5483913",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "28760",
+            "coachId": "183"
+          },
+          "transferDestination": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "40373",
+            "coachId": "88838"
+          },
+          "details": {
+            "playerId": "982356",
+            "date": "2025-01-27T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/5483913"
+        },
+        {
+          "id": "5483912",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "28760",
+            "coachId": "183"
+          },
+          "details": {
+            "playerId": "982356",
+            "date": "2025-01-26T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/5483912"
+        },
+        {
+          "id": "5389362",
+          "transferSource": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "456",
+            "coachId": "2892"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "982356",
+            "date": "2024-07-27T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/5389362"
+        },
+        {
+          "id": "4893033",
+          "transferSource": {
+            "competitionId": "CR19",
+            "countryId": 37,
+            "clubId": "26029",
+            "coachId": "113747"
+          },
+          "transferDestination": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "456",
+            "coachId": "122831"
+          },
+          "details": {
+            "playerId": "982356",
+            "date": "2024-02-16T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 485,
+              "daysDisplay": "1 Year, 3 Months, 28 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/4893033"
+        },
+        {
+          "id": "4633841",
+          "transferSource": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "22559",
+            "coachId": "21572"
+          },
+          "transferDestination": {
+            "competitionId": "CR19",
+            "countryId": 37,
+            "clubId": "26029",
+            "coachId": "113747"
+          },
+          "details": {
+            "playerId": "982356",
+            "date": "2024-02-15T00:00:00+01:00",
+            "contractUntilDate": "2025-06-15T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 125,
+              "daysDisplay": "4 Months, 4 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/4633841"
+        },
+        {
+          "id": "4633840",
+          "transferSource": {
+            "competitionId": "CR19",
+            "countryId": 37,
+            "clubId": "26029",
+            "coachId": "113747"
+          },
+          "transferDestination": {
+            "competitionId": "KR2",
+            "countryId": 37,
+            "clubId": "22559",
+            "coachId": "109576"
+          },
+          "details": {
+            "playerId": "982356",
+            "date": "2023-09-06T00:00:00+02:00",
+            "contractUntilDate": "2024-06-19T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 648,
+              "daysDisplay": "1 Year, 9 Months, 9 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/4633840"
+        },
+        {
+          "id": "4054523",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "36350",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "CR19",
+            "countryId": 37,
+            "clubId": "26029",
+            "coachId": "97051"
+          },
+          "details": {
+            "playerId": "982356",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-15T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 349,
+              "daysDisplay": "11 Months, 14 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/4054523"
+        },
+        {
+          "id": "3839820",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "59983",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "36350",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "982356",
+            "date": "2020-09-16T00:00:00+02:00",
+            "contractUntilDate": "2023-06-15T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/3839820"
+        },
+        {
+          "id": "3839821",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "59995",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 37,
+            "clubId": "59983",
+            "coachId": "121339"
+          },
+          "details": {
+            "playerId": "982356",
+            "date": "2019-08-16T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/3839821"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "28760",
+      "17671",
+      "40373",
+      "515",
+      "456",
+      "26029",
+      "22559",
+      "36350",
+      "59983",
+      "59995"
+    ],
+    "coachIds": [
+      "26874",
+      "18018",
+      "13343",
+      "13161",
+      "183",
+      "88838",
+      "2892",
+      "113747",
+      "122831",
+      "21572",
+      "109576",
+      "97051",
+      "121339"
+    ],
+    "competitionIds": [
+      "A2",
+      "RLN4",
+      "A1",
+      "KR2",
+      "CR19"
+    ],
+    "mostRecentTransfer": {
+      "id": "5721373",
+      "transferSource": {
+        "competitionId": "A2",
+        "countryId": 127,
+        "clubId": "28760",
+        "coachId": "26874"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 37,
+        "clubId": "17671",
+        "coachId": "18018"
+      },
+      "details": {
+        "playerId": "982356",
+        "date": "2025-08-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 10000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "10.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ivan-kesina/transfers/spieler/982356/transfer_id/5721373"
+    }
+  }
+}

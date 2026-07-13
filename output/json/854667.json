@@ -1,0 +1,203 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "854667",
+    "history": {
+      "terminated": [
+        {
+          "id": "4161602",
+          "transferSource": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "37315",
+            "coachId": "27846"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 12,
+            "clubId": "57874",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "854667",
+            "date": "2023-02-04T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/atsushi-bando/transfers/spieler/854667/transfer_id/4161602"
+        },
+        {
+          "id": "3201993",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "24150",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "37315",
+            "coachId": "23863"
+          },
+          "details": {
+            "playerId": "854667",
+            "date": "2021-02-01T00:00:00+01:00",
+            "contractUntilDate": "2023-01-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/atsushi-bando/transfers/spieler/854667/transfer_id/3201993"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "37315",
+      "57874",
+      "24150"
+    ],
+    "coachIds": [
+      "27846",
+      "23863"
+    ],
+    "competitionIds": [
+      "JFL"
+    ],
+    "mostRecentTransfer": {
+      "id": "4161602",
+      "transferSource": {
+        "competitionId": "JFL",
+        "countryId": 77,
+        "clubId": "37315",
+        "coachId": "27846"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 12,
+        "clubId": "57874",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "854667",
+        "date": "2023-02-04T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2022,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2022,
+          "display": "22/23",
+          "cyclicalName": "2023",
+          "nonCyclicalName": "22/23"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/atsushi-bando/transfers/spieler/854667/transfer_id/4161602"
+    }
+  }
+}

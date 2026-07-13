@@ -1,0 +1,530 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "700155",
+    "history": {
+      "terminated": [
+        {
+          "id": "5790453",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "11177",
+            "coachId": "66031"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "3159"
+          },
+          "details": {
+            "playerId": "700155",
+            "date": "2025-07-18T00:00:00+02:00",
+            "contractUntilDate": "2027-11-30T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 347,
+              "daysDisplay": "11 Months, 12 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tommy-lonergan/transfers/spieler/700155/transfer_id/5790453"
+        },
+        {
+          "id": "5432599",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "3159"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "11177",
+            "coachId": "66031"
+          },
+          "details": {
+            "playerId": "700155",
+            "date": "2025-07-17T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/tommy-lonergan/transfers/spieler/700155/transfer_id/5432599"
+        },
+        {
+          "id": "5432598",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "11177",
+            "coachId": "66031"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "7609",
+            "coachId": "19906"
+          },
+          "details": {
+            "playerId": "700155",
+            "date": "2025-01-06T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 540,
+              "daysDisplay": "1 Year, 5 Months, 24 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/tommy-lonergan/transfers/spieler/700155/transfer_id/5432598"
+        },
+        {
+          "id": "4863959",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "44477"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "11177",
+            "coachId": "115551"
+          },
+          "details": {
+            "playerId": "700155",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 60000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "60.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 303,
+              "daysDisplay": "9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tommy-lonergan/transfers/spieler/700155/transfer_id/4863959"
+        },
+        {
+          "id": "4154985",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "6069",
+            "coachId": "19895"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "57789"
+          },
+          "details": {
+            "playerId": "700155",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": "2024-11-30T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tommy-lonergan/transfers/spieler/700155/transfer_id/4154985"
+        },
+        {
+          "id": "3707180",
+          "transferSource": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "57789"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "6069",
+            "coachId": "19895"
+          },
+          "details": {
+            "playerId": "700155",
+            "date": "2022-01-21T00:00:00+01:00",
+            "contractUntilDate": "2022-11-25T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tommy-lonergan/transfers/spieler/700155/transfer_id/3707180"
+        },
+        {
+          "id": "3600995",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 72,
+            "clubId": "15436",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "IR1",
+            "countryId": 72,
+            "clubId": "1189",
+            "coachId": "73981"
+          },
+          "details": {
+            "playerId": "700155",
+            "date": "2021-06-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tommy-lonergan/transfers/spieler/700155/transfer_id/3600995"
+        },
+        {
+          "id": "3600996",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 72,
+            "clubId": "6142",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 72,
+            "clubId": "15436",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "700155",
+            "date": "2019-03-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tommy-lonergan/transfers/spieler/700155/transfer_id/3600996"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 60000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "60.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 225000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "225.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "11177",
+      "7609",
+      "1189",
+      "6069",
+      "15436",
+      "6142"
+    ],
+    "coachIds": [
+      "66031",
+      "3159",
+      "19906",
+      "44477",
+      "115551",
+      "19895",
+      "57789",
+      "73981"
+    ],
+    "competitionIds": [
+      "GB4",
+      "IR1",
+      "GB3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5790453",
+      "transferSource": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "11177",
+        "coachId": "66031"
+      },
+      "transferDestination": {
+        "competitionId": "IR1",
+        "countryId": 72,
+        "clubId": "7609",
+        "coachId": "3159"
+      },
+      "details": {
+        "playerId": "700155",
+        "date": "2025-07-18T00:00:00+02:00",
+        "contractUntilDate": "2027-11-30T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 125000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "125.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 347,
+          "daysDisplay": "11 Months, 12 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/tommy-lonergan/transfers/spieler/700155/transfer_id/5790453"
+    }
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "668732",
+    "history": {
+      "terminated": [
+        {
+          "id": "5704389",
+          "transferSource": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "5091",
+            "coachId": "55518"
+          },
+          "transferDestination": {
+            "competitionId": "DK4L",
+            "countryId": 39,
+            "clubId": "21035",
+            "coachId": "73607"
+          },
+          "details": {
+            "playerId": "668732",
+            "date": "2025-07-16T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/elias-rusborg/transfers/spieler/668732/transfer_id/5704389"
+        },
+        {
+          "id": "5501047",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1894",
+            "coachId": "10619"
+          },
+          "transferDestination": {
+            "competitionId": "DK3O",
+            "countryId": 39,
+            "clubId": "5091",
+            "coachId": "6929"
+          },
+          "details": {
+            "playerId": "668732",
+            "date": "2025-02-03T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 147,
+              "daysDisplay": "4 Months, 27 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/elias-rusborg/transfers/spieler/668732/transfer_id/5501047"
+        },
+        {
+          "id": "4884229",
+          "transferSource": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "4313",
+            "coachId": "20947"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1894",
+            "coachId": "10619"
+          },
+          "details": {
+            "playerId": "668732",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 184,
+              "daysDisplay": "6 Months, 1 Day"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/elias-rusborg/transfers/spieler/668732/transfer_id/4884229"
+        },
+        {
+          "id": "4884228",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "1894",
+            "coachId": "10619"
+          },
+          "transferDestination": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "4313",
+            "coachId": "20947"
+          },
+          "details": {
+            "playerId": "668732",
+            "date": "2024-02-07T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 509,
+              "daysDisplay": "1 Year, 4 Months, 23 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/elias-rusborg/transfers/spieler/668732/transfer_id/4884228"
+        },
+        {
+          "id": "3957252",
+          "transferSource": {
+            "competitionId": "DKDD",
+            "countryId": 39,
+            "clubId": "15636",
+            "coachId": "96028"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "1894",
+            "coachId": "10619"
+          },
+          "details": {
+            "playerId": "668732",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/elias-rusborg/transfers/spieler/668732/transfer_id/3957252"
+        },
+        {
+          "id": "3017913",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "19095",
+            "coachId": "96028"
+          },
+          "transferDestination": {
+            "competitionId": "DKDD",
+            "countryId": 39,
+            "clubId": "15636",
+            "coachId": "63109"
+          },
+          "details": {
+            "playerId": "668732",
+            "date": "2020-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/elias-rusborg/transfers/spieler/668732/transfer_id/3017913"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "5091",
+      "21035",
+      "1894",
+      "4313",
+      "15636",
+      "19095"
+    ],
+    "coachIds": [
+      "55518",
+      "73607",
+      "10619",
+      "6929",
+      "20947",
+      "96028",
+      "63109"
+    ],
+    "competitionIds": [
+      "DK3O",
+      "DK4L",
+      "DK2",
+      "FARO",
+      "DK1",
+      "DKDD"
+    ],
+    "mostRecentTransfer": {
+      "id": "5704389",
+      "transferSource": {
+        "competitionId": "DK3O",
+        "countryId": 39,
+        "clubId": "5091",
+        "coachId": "55518"
+      },
+      "transferDestination": {
+        "competitionId": "DK4L",
+        "countryId": 39,
+        "clubId": "21035",
+        "coachId": "73607"
+      },
+      "details": {
+        "playerId": "668732",
+        "date": "2025-07-16T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/elias-rusborg/transfers/spieler/668732/transfer_id/5704389"
+    }
+  }
+}

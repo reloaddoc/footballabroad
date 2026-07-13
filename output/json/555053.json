@@ -1,0 +1,639 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "555053",
+    "history": {
+      "terminated": [
+        {
+          "id": "6411856",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 135,
+            "clubId": "716",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "PL33",
+            "countryId": 135,
+            "clubId": "61843",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "555053",
+            "date": "2026-07-09T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateusz-lipp/transfers/spieler/555053/transfer_id/6411856"
+        },
+        {
+          "id": "5770355",
+          "transferSource": {
+            "competitionId": "PL33",
+            "countryId": 135,
+            "clubId": "8372",
+            "coachId": "119600"
+          },
+          "transferDestination": {
+            "competitionId": "PL31",
+            "countryId": 135,
+            "clubId": "716",
+            "coachId": "121748"
+          },
+          "details": {
+            "playerId": "555053",
+            "date": "2025-07-09T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateusz-lipp/transfers/spieler/555053/transfer_id/5770355"
+        },
+        {
+          "id": "4471065",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "34",
+            "coachId": "53325"
+          },
+          "transferDestination": {
+            "competitionId": "PL2L",
+            "countryId": 135,
+            "clubId": "8372",
+            "coachId": "115374"
+          },
+          "details": {
+            "playerId": "555053",
+            "date": "2023-07-21T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 345,
+              "daysDisplay": "11 Months, 9 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateusz-lipp/transfers/spieler/555053/transfer_id/4471065"
+        },
+        {
+          "id": "4984723",
+          "transferSource": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "1463",
+            "coachId": "299"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "34",
+            "coachId": "53325"
+          },
+          "details": {
+            "playerId": "555053",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 365,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateusz-lipp/transfers/spieler/555053/transfer_id/4984723"
+        },
+        {
+          "id": "3971377",
+          "transferSource": {
+            "competitionId": "PL33",
+            "countryId": 135,
+            "clubId": "7976",
+            "coachId": "78228"
+          },
+          "transferDestination": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "1463",
+            "coachId": "299"
+          },
+          "details": {
+            "playerId": "555053",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mateusz-lipp/transfers/spieler/555053/transfer_id/3971377"
+        },
+        {
+          "id": "3971378",
+          "transferSource": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "1463",
+            "coachId": "299"
+          },
+          "transferDestination": {
+            "competitionId": "PL33",
+            "countryId": 135,
+            "clubId": "7976",
+            "coachId": "2479"
+          },
+          "details": {
+            "playerId": "555053",
+            "date": "2022-07-26T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 705,
+              "daysDisplay": "1 Year, 11 Months, 4 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mateusz-lipp/transfers/spieler/555053/transfer_id/3971378"
+        },
+        {
+          "id": "3688725",
+          "transferSource": {
+            "competitionId": "PL2",
+            "countryId": 135,
+            "clubId": "6361",
+            "coachId": "24891"
+          },
+          "transferDestination": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "1463",
+            "coachId": "299"
+          },
+          "details": {
+            "playerId": "555053",
+            "date": "2022-06-30T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 365,
+              "daysDisplay": "1 Year"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mateusz-lipp/transfers/spieler/555053/transfer_id/3688725"
+        },
+        {
+          "id": "3688724",
+          "transferSource": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "1463",
+            "coachId": "299"
+          },
+          "transferDestination": {
+            "competitionId": "PL2",
+            "countryId": 135,
+            "clubId": "6361",
+            "coachId": "41594"
+          },
+          "details": {
+            "playerId": "555053",
+            "date": "2022-01-10T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 536,
+              "daysDisplay": "1 Year, 5 Months, 20 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mateusz-lipp/transfers/spieler/555053/transfer_id/3688724"
+        },
+        {
+          "id": "3426088",
+          "transferSource": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21061",
+            "coachId": "33218"
+          },
+          "transferDestination": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "1463",
+            "coachId": "299"
+          },
+          "details": {
+            "playerId": "555053",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateusz-lipp/transfers/spieler/555053/transfer_id/3426088"
+        },
+        {
+          "id": "3019622",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 135,
+            "clubId": "51482",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21061",
+            "coachId": "33218"
+          },
+          "details": {
+            "playerId": "555053",
+            "date": "2020-08-17T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mateusz-lipp/transfers/spieler/555053/transfer_id/3019622"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "716",
+      "61843",
+      "8372",
+      "34",
+      "1463",
+      "7976",
+      "6361",
+      "21061",
+      "51482"
+    ],
+    "coachIds": [
+      "119600",
+      "121748",
+      "53325",
+      "115374",
+      "299",
+      "78228",
+      "2479",
+      "24891",
+      "41594",
+      "33218"
+    ],
+    "competitionIds": [
+      "PL33",
+      "PL31",
+      "RLW3",
+      "PL2L",
+      "AJ2",
+      "PL2",
+      "BJ2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6411856",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 135,
+        "clubId": "716",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "PL33",
+        "countryId": 135,
+        "clubId": "61843",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "555053",
+        "date": "2026-07-09T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/mateusz-lipp/transfers/spieler/555053/transfer_id/6411856"
+    }
+  }
+}

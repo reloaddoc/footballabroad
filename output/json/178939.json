@@ -1,0 +1,1076 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "178939",
+    "history": {
+      "terminated": [
+        {
+          "id": "6245007",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "23920",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 36,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/6245007"
+        },
+        {
+          "id": "5666846",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "73041",
+            "coachId": "152241"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "23920",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2025-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 35,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/5666846"
+        },
+        {
+          "id": "5666847",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "23920",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "73041",
+            "coachId": "100536"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2025-05-21T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 35,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/5666847"
+        },
+        {
+          "id": "5382345",
+          "transferSource": {
+            "competitionId": "BRSC",
+            "countryId": 26,
+            "clubId": "87001",
+            "coachId": "142394"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "23920",
+            "coachId": "100536"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2024-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 35,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/5382345"
+        },
+        {
+          "id": "5361797",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "23920",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "BRSC",
+            "countryId": 26,
+            "clubId": "87001",
+            "coachId": "100536"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2024-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 34,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/5361797"
+        },
+        {
+          "id": "4770265",
+          "transferSource": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "29307",
+            "coachId": "76606"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "23920",
+            "coachId": "100536"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2024-05-07T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 34,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/4770265"
+        },
+        {
+          "id": "4311479",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "13600",
+            "coachId": "73929"
+          },
+          "transferDestination": {
+            "competitionId": "KTOS",
+            "countryId": 77,
+            "clubId": "29307",
+            "coachId": "76606"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2023-03-07T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 33,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/4311479"
+        },
+        {
+          "id": "3645779",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "28730",
+            "coachId": "27584"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "13600",
+            "coachId": "7591"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2022-01-09T00:00:00+01:00",
+            "contractUntilDate": "2023-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 22,
+              "daysDisplay": "22 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/3645779"
+        },
+        {
+          "id": "2737910",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22179",
+            "coachId": "17273"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "28730",
+            "coachId": "4421"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2020-01-04T00:00:00+01:00",
+            "contractUntilDate": "2022-01-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 27,
+              "daysDisplay": "27 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/2737910"
+        },
+        {
+          "id": "1957464",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "13600",
+            "coachId": "7840"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22179",
+            "coachId": "23749"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2018-01-06T00:00:00+01:00",
+            "contractUntilDate": "2020-01-31T00:00:00+01:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/1957464"
+        },
+        {
+          "id": "1657579",
+          "transferSource": {
+            "competitionId": "BRNE",
+            "countryId": 26,
+            "clubId": "17964",
+            "coachId": "56068"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "13600",
+            "coachId": "25145"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2017-01-07T00:00:00+01:00",
+            "contractUntilDate": "2017-12-31T00:00:00+01:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/1657579"
+        },
+        {
+          "id": "1523931",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "BRNE",
+            "countryId": 26,
+            "clubId": "17964",
+            "coachId": "56068"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2016-07-04T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/1523931"
+        },
+        {
+          "id": "1432526",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "13600",
+            "coachId": "17034"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2016-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/1432526"
+        },
+        {
+          "id": "1050795",
+          "transferSource": {
+            "competitionId": "BRA1",
+            "countryId": 26,
+            "clubId": "7178",
+            "coachId": "4731"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "13600",
+            "coachId": "17034"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2014-03-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/1050795"
+        },
+        {
+          "id": "718010",
+          "transferSource": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "7209",
+            "coachId": "7214"
+          },
+          "transferDestination": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "7178",
+            "coachId": "9275"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2012-11-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/718010"
+        },
+        {
+          "id": "717849",
+          "transferSource": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "7178",
+            "coachId": "9275"
+          },
+          "transferDestination": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "7209",
+            "coachId": "17675"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2012-05-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/717849"
+        },
+        {
+          "id": "701110",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "5215",
+            "coachId": "9462"
+          },
+          "transferDestination": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "7178",
+            "coachId": "23297"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2012-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/701110"
+        },
+        {
+          "id": "701109",
+          "transferSource": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "7178",
+            "coachId": "23297"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "5215",
+            "coachId": "82628"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2012-03-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/701109"
+        },
+        {
+          "id": "576739",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "21827",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "7178",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "178939",
+            "date": "2010-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/576739"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 36,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "23920",
+      "515",
+      "73041",
+      "87001",
+      "29307",
+      "13600",
+      "28730",
+      "22179",
+      "17964",
+      "7178",
+      "7209",
+      "5215",
+      "21827"
+    ],
+    "coachIds": [
+      "152241",
+      "100536",
+      "142394",
+      "76606",
+      "73929",
+      "27584",
+      "7591",
+      "17273",
+      "4421",
+      "7840",
+      "23749",
+      "56068",
+      "25145",
+      "17034",
+      "4731",
+      "7214",
+      "9275",
+      "17675",
+      "9462",
+      "23297",
+      "82628"
+    ],
+    "competitionIds": [
+      "BRSC",
+      "JFL",
+      "JAP3",
+      "KTOS",
+      "JAP2",
+      "BRNE",
+      "BRA1",
+      "BRA2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6245007",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 26,
+        "clubId": "23920",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "178939",
+        "date": "2026-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 36,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/henik/transfers/spieler/178939/transfer_id/6245007"
+    }
+  }
+}

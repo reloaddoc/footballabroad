@@ -1,0 +1,276 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "925827",
+    "history": {
+      "terminated": [
+        {
+          "id": "6170155",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "369",
+            "coachId": "70710"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "1044",
+            "coachId": "19452"
+          },
+          "details": {
+            "playerId": "925827",
+            "date": "2026-02-05T00:00:00+01:00",
+            "contractUntilDate": "2029-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 850000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "850.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": 700000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "700.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 145,
+              "daysDisplay": "4 Months, 25 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/peter-langhoff/transfers/spieler/925827/transfer_id/6170155"
+        },
+        {
+          "id": "4790976",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14363",
+            "coachId": "64263"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "369",
+            "coachId": "35316"
+          },
+          "details": {
+            "playerId": "925827",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/peter-langhoff/transfers/spieler/925827/transfer_id/4790976"
+        },
+        {
+          "id": "3517936",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "9712",
+            "coachId": "55543"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14363",
+            "coachId": "88371"
+          },
+          "details": {
+            "playerId": "925827",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/peter-langhoff/transfers/spieler/925827/transfer_id/3517936"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 700000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "700.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 850000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "850.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "369",
+      "1044",
+      "14363",
+      "9712"
+    ],
+    "coachIds": [
+      "70710",
+      "19452",
+      "64263",
+      "35316",
+      "55543",
+      "88371"
+    ],
+    "competitionIds": [
+      "DK2",
+      "SE1",
+      "DKDL",
+      "DK1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6170155",
+      "transferSource": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "369",
+        "coachId": "70710"
+      },
+      "transferDestination": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "1044",
+        "coachId": "19452"
+      },
+      "details": {
+        "playerId": "925827",
+        "date": "2026-02-05T00:00:00+01:00",
+        "contractUntilDate": "2029-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 850000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "850.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": 700000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "700.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 145,
+          "daysDisplay": "4 Months, 25 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/peter-langhoff/transfers/spieler/925827/transfer_id/6170155"
+    }
+  }
+}

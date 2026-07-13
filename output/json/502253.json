@@ -1,0 +1,733 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "502253",
+    "history": {
+      "terminated": [
+        {
+          "id": "5699359",
+          "transferSource": {
+            "competitionId": "VFVA",
+            "countryId": 19,
+            "clubId": "10397",
+            "coachId": "34312"
+          },
+          "transferDestination": {
+            "competitionId": "NTD",
+            "countryId": 122,
+            "clubId": "3943",
+            "coachId": "28536"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/5699359"
+        },
+        {
+          "id": "5195624",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2321",
+            "coachId": "59692"
+          },
+          "transferDestination": {
+            "competitionId": "VFVA",
+            "countryId": 19,
+            "clubId": "10397",
+            "coachId": "34312"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2024-08-09T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/5195624"
+        },
+        {
+          "id": "4582655",
+          "transferSource": {
+            "competitionId": "BEL3",
+            "countryId": 19,
+            "clubId": "18940",
+            "coachId": "32141"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2321",
+            "coachId": "54040"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/4582655"
+        },
+        {
+          "id": "4582654",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2321",
+            "coachId": "1974"
+          },
+          "transferDestination": {
+            "competitionId": "BEL3",
+            "countryId": 19,
+            "clubId": "18940",
+            "coachId": "32141"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2023-08-14T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/4582654"
+        },
+        {
+          "id": "4254572",
+          "transferSource": {
+            "competitionId": "E4G4",
+            "countryId": 157,
+            "clubId": "43454",
+            "coachId": "5306"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2321",
+            "coachId": "1974"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/4254572"
+        },
+        {
+          "id": "4254571",
+          "transferSource": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2321",
+            "coachId": "1974"
+          },
+          "transferDestination": {
+            "competitionId": "E4G4",
+            "countryId": 157,
+            "clubId": "43454",
+            "coachId": "92250"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2023-01-31T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/4254571"
+        },
+        {
+          "id": "3863479",
+          "transferSource": {
+            "competitionId": "VFVA",
+            "countryId": 19,
+            "clubId": "43293",
+            "coachId": "104376"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2321",
+            "coachId": "67579"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/3863479"
+        },
+        {
+          "id": "2514631",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "66529",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "43293",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/2514631"
+        },
+        {
+          "id": "2111927",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "49395",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "66529",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/2111927"
+        },
+        {
+          "id": "1867956",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "34283",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "49395",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/1867956"
+        },
+        {
+          "id": "1867957",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "59593",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "34283",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/1867957"
+        },
+        {
+          "id": "3863480",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "66381",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "59593",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "502253",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/3863480"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "10397",
+      "3943",
+      "2321",
+      "18940",
+      "43454",
+      "43293",
+      "66529",
+      "49395",
+      "34283",
+      "59593",
+      "66381"
+    ],
+    "coachIds": [
+      "34312",
+      "28536",
+      "59692",
+      "32141",
+      "54040",
+      "1974",
+      "5306",
+      "92250",
+      "104376",
+      "67579"
+    ],
+    "competitionIds": [
+      "VFVA",
+      "NTD",
+      "BE2",
+      "BEL3",
+      "E4G4"
+    ],
+    "mostRecentTransfer": {
+      "id": "5699359",
+      "transferSource": {
+        "competitionId": "VFVA",
+        "countryId": 19,
+        "clubId": "10397",
+        "coachId": "34312"
+      },
+      "transferDestination": {
+        "competitionId": "NTD",
+        "countryId": 122,
+        "clubId": "3943",
+        "coachId": "28536"
+      },
+      "details": {
+        "playerId": "502253",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 364,
+          "daysDisplay": "11 Months, 29 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/rousseau-de-poorter/transfers/spieler/502253/transfer_id/5699359"
+    }
+  }
+}

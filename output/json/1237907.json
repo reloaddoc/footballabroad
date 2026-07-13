@@ -1,0 +1,321 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1237907",
+    "history": {
+      "terminated": [
+        {
+          "id": "6381877",
+          "transferSource": {
+            "competitionId": "FR1",
+            "countryId": 50,
+            "clubId": "3911",
+            "coachId": "18856"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "362",
+            "coachId": "55913"
+          },
+          "details": {
+            "playerId": "1237907",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/saliou-diop/transfers/spieler/1237907/transfer_id/6381877"
+        },
+        {
+          "id": "5853239",
+          "transferSource": {
+            "competitionId": "C3VL",
+            "countryId": 50,
+            "clubId": "16674",
+            "coachId": "101370"
+          },
+          "transferDestination": {
+            "competitionId": "FR1",
+            "countryId": 50,
+            "clubId": "3911",
+            "coachId": "11590"
+          },
+          "details": {
+            "playerId": "1237907",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/saliou-diop/transfers/spieler/1237907/transfer_id/5853239"
+        },
+        {
+          "id": "5227249",
+          "transferSource": {
+            "competitionId": "F19C",
+            "countryId": 50,
+            "clubId": "12773",
+            "coachId": "101370"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "16674",
+            "coachId": "12686"
+          },
+          "details": {
+            "playerId": "1237907",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/saliou-diop/transfers/spieler/1237907/transfer_id/5227249"
+        },
+        {
+          "id": "4907834",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 149,
+            "clubId": "117406",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "F19C",
+            "countryId": 50,
+            "clubId": "12773",
+            "coachId": "101370"
+          },
+          "details": {
+            "playerId": "1237907",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/saliou-diop/transfers/spieler/1237907/transfer_id/4907834"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3911",
+      "362",
+      "16674",
+      "12773",
+      "117406"
+    ],
+    "coachIds": [
+      "18856",
+      "55913",
+      "101370",
+      "11590",
+      "12686"
+    ],
+    "competitionIds": [
+      "FR1",
+      "DK2",
+      "C3VL",
+      "F19C"
+    ],
+    "mostRecentTransfer": {
+      "id": "6381877",
+      "transferSource": {
+        "competitionId": "FR1",
+        "countryId": 50,
+        "clubId": "3911",
+        "coachId": "18856"
+      },
+      "transferDestination": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "362",
+        "coachId": "55913"
+      },
+      "details": {
+        "playerId": "1237907",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/saliou-diop/transfers/spieler/1237907/transfer_id/6381877"
+    }
+  }
+}

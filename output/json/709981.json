@@ -1,0 +1,403 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "709981",
+    "history": {
+      "terminated": [
+        {
+          "id": "6167953",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "120616"
+          },
+          "transferDestination": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "6469",
+            "coachId": "123865"
+          },
+          "details": {
+            "playerId": "709981",
+            "date": "2026-02-04T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 511,
+              "daysDisplay": "1 Year, 4 Months, 26 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/emil-joergensen/transfers/spieler/709981/transfer_id/6167953"
+        },
+        {
+          "id": "5460322",
+          "transferSource": {
+            "competitionId": "DK4L",
+            "countryId": 39,
+            "clubId": "1909",
+            "coachId": "13060"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "28077"
+          },
+          "details": {
+            "playerId": "709981",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/emil-joergensen/transfers/spieler/709981/transfer_id/5460322"
+        },
+        {
+          "id": "5460321",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "28077"
+          },
+          "transferDestination": {
+            "competitionId": "DK4L",
+            "countryId": 39,
+            "clubId": "1909",
+            "coachId": "13060"
+          },
+          "details": {
+            "playerId": "709981",
+            "date": "2025-01-16T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 895,
+              "daysDisplay": "2 Years, 5 Months, 14 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/emil-joergensen/transfers/spieler/709981/transfer_id/5460321"
+        },
+        {
+          "id": "4446235",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14349",
+            "coachId": "89357"
+          },
+          "transferDestination": {
+            "competitionId": "DK3V",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "28077"
+          },
+          "details": {
+            "playerId": "709981",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emil-joergensen/transfers/spieler/709981/transfer_id/4446235"
+        },
+        {
+          "id": "3481693",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "11253",
+            "coachId": "46974"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14349",
+            "coachId": "85464"
+          },
+          "details": {
+            "playerId": "709981",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/emil-joergensen/transfers/spieler/709981/transfer_id/3481693"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6167954",
+          "transferSource": {
+            "competitionId": "NO32",
+            "countryId": 125,
+            "clubId": "6469",
+            "coachId": "99737"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "120616"
+          },
+          "details": {
+            "playerId": "709981",
+            "date": "2026-12-31T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/emil-joergensen/transfers/spieler/709981/transfer_id/6167954"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "6469",
+      "3426",
+      "1909",
+      "14349",
+      "11253"
+    ],
+    "coachIds": [
+      "99737",
+      "120616",
+      "123865",
+      "13060",
+      "28077",
+      "89357",
+      "46974",
+      "85464"
+    ],
+    "competitionIds": [
+      "NO32",
+      "DK2",
+      "DK4L",
+      "DKDL",
+      "DK3V"
+    ],
+    "mostRecentTransfer": {
+      "id": "6167953",
+      "transferSource": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "3426",
+        "coachId": "120616"
+      },
+      "transferDestination": {
+        "competitionId": "NO32",
+        "countryId": 125,
+        "clubId": "6469",
+        "coachId": "123865"
+      },
+      "details": {
+        "playerId": "709981",
+        "date": "2026-02-04T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 21,
+        "remainingContractPeriod": {
+          "days": 511,
+          "daysDisplay": "1 Year, 4 Months, 26 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/emil-joergensen/transfers/spieler/709981/transfer_id/6167953"
+    }
+  }
+}

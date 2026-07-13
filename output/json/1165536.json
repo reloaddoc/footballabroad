@@ -1,0 +1,205 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1165536",
+    "history": {
+      "terminated": [
+        {
+          "id": "4827089",
+          "transferSource": {
+            "competitionId": "WAL2",
+            "countryId": 191,
+            "clubId": "29160",
+            "coachId": "124745"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1165536",
+            "date": "2024-01-15T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dylan-dunne/transfers/spieler/1165536/transfer_id/4827089"
+        },
+        {
+          "id": "4583620",
+          "transferSource": {
+            "competitionId": "NLN6",
+            "countryId": 189,
+            "clubId": "13286",
+            "coachId": "22709"
+          },
+          "transferDestination": {
+            "competitionId": "WAL2",
+            "countryId": 191,
+            "clubId": "29160",
+            "coachId": "104232"
+          },
+          "details": {
+            "playerId": "1165536",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/dylan-dunne/transfers/spieler/1165536/transfer_id/4583620"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "29160",
+      "515",
+      "13286"
+    ],
+    "coachIds": [
+      "124745",
+      "22709",
+      "104232"
+    ],
+    "competitionIds": [
+      "WAL2",
+      "NLN6"
+    ],
+    "mostRecentTransfer": {
+      "id": "4827089",
+      "transferSource": {
+        "competitionId": "WAL2",
+        "countryId": 191,
+        "clubId": "29160",
+        "coachId": "124745"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "1165536",
+        "date": "2024-01-15T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/dylan-dunne/transfers/spieler/1165536/transfer_id/4827089"
+    }
+  }
+}

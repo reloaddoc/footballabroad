@@ -1,0 +1,587 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "937399",
+    "history": {
+      "terminated": [
+        {
+          "id": "5400846",
+          "transferSource": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "87",
+            "coachId": "4610"
+          },
+          "transferDestination": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "68221",
+            "coachId": "75931"
+          },
+          "details": {
+            "playerId": "937399",
+            "date": "2025-01-31T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ronan-kratt/transfers/spieler/937399/transfer_id/5400846"
+        },
+        {
+          "id": "4446467",
+          "transferSource": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "67002",
+            "coachId": "17254"
+          },
+          "transferDestination": {
+            "competitionId": "OBLK",
+            "countryId": 40,
+            "clubId": "87",
+            "coachId": "4610"
+          },
+          "details": {
+            "playerId": "937399",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 183,
+              "daysDisplay": "5 Months, 30 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ronan-kratt/transfers/spieler/937399/transfer_id/4446467"
+        },
+        {
+          "id": "4206230",
+          "transferSource": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "87",
+            "coachId": "4610"
+          },
+          "transferDestination": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "67002",
+            "coachId": "17254"
+          },
+          "details": {
+            "playerId": "937399",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ronan-kratt/transfers/spieler/937399/transfer_id/4206230"
+        },
+        {
+          "id": "4206229",
+          "transferSource": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "67002",
+            "coachId": "17254"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "87",
+            "coachId": "19933"
+          },
+          "details": {
+            "playerId": "937399",
+            "date": "2023-01-05T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 360,
+              "daysDisplay": "11 Months, 26 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ronan-kratt/transfers/spieler/937399/transfer_id/4206229"
+        },
+        {
+          "id": "3891138",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "7750",
+            "coachId": "17916"
+          },
+          "transferDestination": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "67002",
+            "coachId": "17254"
+          },
+          "details": {
+            "playerId": "937399",
+            "date": "2022-07-07T00:00:00+02:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ronan-kratt/transfers/spieler/937399/transfer_id/3891138"
+        },
+        {
+          "id": "3562122",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 80,
+            "clubId": "74167",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "7750",
+            "coachId": "31693"
+          },
+          "details": {
+            "playerId": "937399",
+            "date": "2021-09-06T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ronan-kratt/transfers/spieler/937399/transfer_id/3562122"
+        },
+        {
+          "id": "3562123",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 80,
+            "clubId": "83862",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 80,
+            "clubId": "74167",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "937399",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ronan-kratt/transfers/spieler/937399/transfer_id/3562123"
+        },
+        {
+          "id": "3562121",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "72792",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 80,
+            "clubId": "83862",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "937399",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ronan-kratt/transfers/spieler/937399/transfer_id/3562121"
+        },
+        {
+          "id": "3562120",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 80,
+            "clubId": "83862",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "72792",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "937399",
+            "date": "2018-08-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ronan-kratt/transfers/spieler/937399/transfer_id/3562120"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "87",
+      "68221",
+      "67002",
+      "7750",
+      "74167",
+      "83862",
+      "72792"
+    ],
+    "coachIds": [
+      "4610",
+      "75931",
+      "17254",
+      "19933",
+      "17916",
+      "31693"
+    ],
+    "competitionIds": [
+      "RLN3",
+      "CDN1",
+      "OBLK",
+      "AJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5400846",
+      "transferSource": {
+        "competitionId": "RLN3",
+        "countryId": 40,
+        "clubId": "87",
+        "coachId": "4610"
+      },
+      "transferDestination": {
+        "competitionId": "CDN1",
+        "countryId": 80,
+        "clubId": "68221",
+        "coachId": "75931"
+      },
+      "details": {
+        "playerId": "937399",
+        "date": "2025-01-31T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 150,
+          "daysDisplay": "4 Months, 30 Days"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/ronan-kratt/transfers/spieler/937399/transfer_id/5400846"
+    }
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "321050",
+    "history": {
+      "terminated": [
+        {
+          "id": "6172148",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "122",
+            "coachId": "54687"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "2662",
+            "coachId": "5299"
+          },
+          "details": {
+            "playerId": "321050",
+            "date": "2026-02-06T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 144,
+              "daysDisplay": "4 Months, 24 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/6172148"
+        },
+        {
+          "id": "4408012",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "983",
+            "coachId": "54392"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "122",
+            "coachId": "4855"
+          },
+          "details": {
+            "playerId": "321050",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": 550000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "550.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/4408012"
+        },
+        {
+          "id": "3526155",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "122",
+            "coachId": "4855"
+          },
+          "transferDestination": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "983",
+            "coachId": "54392"
+          },
+          "details": {
+            "playerId": "321050",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 1000000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.00",
+                "suffix": "M"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/3526155"
+        },
+        {
+          "id": "3526154",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "983",
+            "coachId": "50034"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "122",
+            "coachId": "4855"
+          },
+          "details": {
+            "playerId": "321050",
+            "date": "2021-08-30T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/3526154"
+        },
+        {
+          "id": "3030759",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "14",
+            "coachId": "1648"
+          },
+          "transferDestination": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "983",
+            "coachId": "15516"
+          },
+          "details": {
+            "playerId": "321050",
+            "date": "2020-08-26T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 673,
+              "daysDisplay": "1 Year, 10 Months, 4 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/3030759"
+        },
+        {
+          "id": "1507875",
+          "transferSource": {
+            "competitionId": "ATRO",
+            "countryId": 127,
+            "clubId": "4383",
+            "coachId": "3253"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "14",
+            "coachId": "3770"
+          },
+          "details": {
+            "playerId": "321050",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1094,
+              "daysDisplay": "2 Years, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/1507875"
+        },
+        {
+          "id": "1448176",
+          "transferSource": {
+            "competitionId": "JGD2",
+            "countryId": 127,
+            "clubId": "6611",
+            "coachId": "5299"
+          },
+          "transferDestination": {
+            "competitionId": "ATRO",
+            "countryId": 127,
+            "clubId": "4383",
+            "coachId": "3253"
+          },
+          "details": {
+            "playerId": "321050",
+            "date": "2016-01-01T00:00:00+01:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/1448176"
+        },
+        {
+          "id": "1308478",
+          "transferSource": {
+            "competitionId": "JGD3",
+            "countryId": 127,
+            "clubId": "42818",
+            "coachId": "5302"
+          },
+          "transferDestination": {
+            "competitionId": "JGD2",
+            "countryId": 127,
+            "clubId": "6611",
+            "coachId": "5299"
+          },
+          "details": {
+            "playerId": "321050",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/1308478"
+        },
+        {
+          "id": "1131040",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "42817",
+            "coachId": "14445"
+          },
+          "transferDestination": {
+            "competitionId": "JGD3",
+            "countryId": 127,
+            "clubId": "42818",
+            "coachId": "5302"
+          },
+          "details": {
+            "playerId": "321050",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/1131040"
+        },
+        {
+          "id": "2295113",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "10198",
+            "coachId": "77471"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "42817",
+            "coachId": "14445"
+          },
+          "details": {
+            "playerId": "321050",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/2295113"
+        },
+        {
+          "id": "2295112",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "31416",
+            "coachId": "95071"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "10198",
+            "coachId": "63974"
+          },
+          "details": {
+            "playerId": "321050",
+            "date": "2007-11-06T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2007,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 8,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2007,
+              "display": "07/08",
+              "cyclicalName": "2008",
+              "nonCyclicalName": "07/08"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/2295112"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 1150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.15",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "122",
+      "2662",
+      "983",
+      "14",
+      "4383",
+      "6611",
+      "42818",
+      "42817",
+      "10198",
+      "31416"
+    ],
+    "coachIds": [
+      "54687",
+      "5299",
+      "54392",
+      "4855",
+      "50034",
+      "1648",
+      "15516",
+      "3253",
+      "3770",
+      "5302",
+      "14445",
+      "77471",
+      "95071",
+      "63974"
+    ],
+    "competitionIds": [
+      "A1",
+      "A2",
+      "RLSW",
+      "ATRO",
+      "JGD2",
+      "JGD3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6172148",
+      "transferSource": {
+        "competitionId": "A1",
+        "countryId": 127,
+        "clubId": "122",
+        "coachId": "54687"
+      },
+      "transferDestination": {
+        "competitionId": "A2",
+        "countryId": 127,
+        "clubId": "2662",
+        "coachId": "5299"
+      },
+      "details": {
+        "playerId": "321050",
+        "date": "2026-02-06T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 144,
+          "daysDisplay": "4 Months, 24 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/alexandar-borkovic/transfers/spieler/321050/transfer_id/6172148"
+    }
+  }
+}

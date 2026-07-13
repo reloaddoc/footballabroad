@@ -1,0 +1,204 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1467786",
+    "history": {
+      "terminated": [
+        {
+          "id": "6258000",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "2283",
+            "coachId": "34781"
+          },
+          "transferDestination": {
+            "competitionId": "FI2",
+            "countryId": 49,
+            "clubId": "21520",
+            "coachId": "97423"
+          },
+          "details": {
+            "playerId": "1467786",
+            "date": "2026-03-31T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/saidy-saibo/transfers/spieler/1467786/transfer_id/6258000"
+        },
+        {
+          "id": "5969567",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 52,
+            "clubId": "117502",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "2283",
+            "coachId": "34781"
+          },
+          "details": {
+            "playerId": "1467786",
+            "date": "2025-10-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/saidy-saibo/transfers/spieler/1467786/transfer_id/5969567"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2283",
+      "21520",
+      "117502"
+    ],
+    "coachIds": [
+      "34781",
+      "97423"
+    ],
+    "competitionIds": [
+      "SE3N",
+      "FI2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6258000",
+      "transferSource": {
+        "competitionId": "SE3N",
+        "countryId": 147,
+        "clubId": "2283",
+        "coachId": "34781"
+      },
+      "transferDestination": {
+        "competitionId": "FI2",
+        "countryId": 49,
+        "clubId": "21520",
+        "coachId": "97423"
+      },
+      "details": {
+        "playerId": "1467786",
+        "date": "2026-03-31T00:00:00+02:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/saidy-saibo/transfers/spieler/1467786/transfer_id/6258000"
+    }
+  }
+}

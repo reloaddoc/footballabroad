@@ -1,0 +1,586 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "241395",
+    "history": {
+      "terminated": [
+        {
+          "id": "6332706",
+          "transferSource": {
+            "competitionId": "KHM1",
+            "countryId": 79,
+            "clubId": "25384",
+            "coachId": "98629"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "241395",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 34,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/so-kataoka/transfers/spieler/241395/transfer_id/6332706"
+        },
+        {
+          "id": "5490764",
+          "transferSource": {
+            "competitionId": "A2SW",
+            "countryId": 12,
+            "clubId": "3746",
+            "coachId": "88226"
+          },
+          "transferDestination": {
+            "competitionId": "KHM1",
+            "countryId": 79,
+            "clubId": "25384",
+            "coachId": "98629"
+          },
+          "details": {
+            "playerId": "241395",
+            "date": "2025-01-30T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 32,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/so-kataoka/transfers/spieler/241395/transfer_id/5490764"
+        },
+        {
+          "id": "4888132",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "34997",
+            "coachId": "52825"
+          },
+          "transferDestination": {
+            "competitionId": "A2SW",
+            "countryId": 12,
+            "clubId": "3746",
+            "coachId": "88226"
+          },
+          "details": {
+            "playerId": "241395",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/so-kataoka/transfers/spieler/241395/transfer_id/4888132"
+        },
+        {
+          "id": "3165414",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "25716",
+            "coachId": "7574"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "34997",
+            "coachId": "76333"
+          },
+          "details": {
+            "playerId": "241395",
+            "date": "2021-01-16T00:00:00+01:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 15,
+              "daysDisplay": "15 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/so-kataoka/transfers/spieler/241395/transfer_id/3165414"
+        },
+        {
+          "id": "2736547",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "37689",
+            "coachId": "28035"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "25716",
+            "coachId": "7574"
+          },
+          "details": {
+            "playerId": "241395",
+            "date": "2020-02-01T00:00:00+01:00",
+            "contractUntilDate": "2021-01-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/so-kataoka/transfers/spieler/241395/transfer_id/2736547"
+        },
+        {
+          "id": "2357063",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "25716",
+            "coachId": "7574"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "37689",
+            "coachId": "24282"
+          },
+          "details": {
+            "playerId": "241395",
+            "date": "2020-01-31T00:00:00+01:00",
+            "contractUntilDate": "2020-01-31T00:00:00+01:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 27,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/so-kataoka/transfers/spieler/241395/transfer_id/2357063"
+        },
+        {
+          "id": "2357062",
+          "transferSource": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "37689",
+            "coachId": "24282"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "25716",
+            "coachId": "7574"
+          },
+          "details": {
+            "playerId": "241395",
+            "date": "2019-02-01T00:00:00+01:00",
+            "contractUntilDate": "2020-01-31T00:00:00+01:00",
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/so-kataoka/transfers/spieler/241395/transfer_id/2357062"
+        },
+        {
+          "id": "1744276",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "10711",
+            "coachId": "49837"
+          },
+          "transferDestination": {
+            "competitionId": "SHSL",
+            "countryId": 77,
+            "clubId": "37689",
+            "coachId": "2264"
+          },
+          "details": {
+            "playerId": "241395",
+            "date": "2015-02-01T00:00:00+01:00",
+            "contractUntilDate": "2020-01-31T00:00:00+01:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/so-kataoka/transfers/spieler/241395/transfer_id/1744276"
+        },
+        {
+          "id": "2864021",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "24135",
+            "coachId": "94760"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "10711",
+            "coachId": "23750"
+          },
+          "details": {
+            "playerId": "241395",
+            "date": "2011-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/so-kataoka/transfers/spieler/241395/transfer_id/2864021"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 34,
+      "totalMarketValue": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "25384",
+      "515",
+      "3746",
+      "34997",
+      "25716",
+      "37689",
+      "10711",
+      "24135"
+    ],
+    "coachIds": [
+      "98629",
+      "88226",
+      "52825",
+      "7574",
+      "76333",
+      "28035",
+      "24282",
+      "49837",
+      "2264",
+      "94760",
+      "23750"
+    ],
+    "competitionIds": [
+      "KHM1",
+      "A2SW",
+      "JAP3",
+      "JFL",
+      "SHSL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6332706",
+      "transferSource": {
+        "competitionId": "KHM1",
+        "countryId": 79,
+        "clubId": "25384",
+        "coachId": "98629"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "241395",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 25000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "25.00",
+            "suffix": "K"
+          }
+        },
+        "age": 34,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/so-kataoka/transfers/spieler/241395/transfer_id/6332706"
+    }
+  }
+}

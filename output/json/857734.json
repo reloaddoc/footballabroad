@@ -1,0 +1,436 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "857734",
+    "history": {
+      "terminated": [
+        {
+          "id": "5346553",
+          "transferSource": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "10532",
+            "coachId": "68177"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "1102",
+            "coachId": "9417"
+          },
+          "details": {
+            "playerId": "857734",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vilmer-roennberg/transfers/spieler/857734/transfer_id/5346553"
+        },
+        {
+          "id": "4906240",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "10507",
+            "coachId": "57793"
+          },
+          "transferDestination": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "10532",
+            "coachId": "89336"
+          },
+          "details": {
+            "playerId": "857734",
+            "date": "2024-02-22T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1043,
+              "daysDisplay": "2 Years, 10 Months, 9 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vilmer-roennberg/transfers/spieler/857734/transfer_id/4906240"
+        },
+        {
+          "id": "4186805",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "17938",
+            "coachId": "102591"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "10507",
+            "coachId": "18765"
+          },
+          "details": {
+            "playerId": "857734",
+            "date": "2023-02-01T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vilmer-roennberg/transfers/spieler/857734/transfer_id/4186805"
+        },
+        {
+          "id": "3802491",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "8842",
+            "coachId": "32513"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "17938",
+            "coachId": "45083"
+          },
+          "details": {
+            "playerId": "857734",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vilmer-roennberg/transfers/spieler/857734/transfer_id/3802491"
+        },
+        {
+          "id": "3254646",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "42077",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "JUNO",
+            "countryId": 147,
+            "clubId": "8842",
+            "coachId": "76509"
+          },
+          "details": {
+            "playerId": "857734",
+            "date": "2020-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vilmer-roennberg/transfers/spieler/857734/transfer_id/3254646"
+        },
+        {
+          "id": "3254645",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "3645",
+            "coachId": "77064"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "42077",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "857734",
+            "date": "2019-07-15T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/vilmer-roennberg/transfers/spieler/857734/transfer_id/3254645"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 100000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "100.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "10532",
+      "1102",
+      "10507",
+      "17938",
+      "8842",
+      "42077",
+      "3645"
+    ],
+    "coachIds": [
+      "68177",
+      "9417",
+      "57793",
+      "89336",
+      "102591",
+      "18765",
+      "32513",
+      "45083",
+      "76509",
+      "77064"
+    ],
+    "competitionIds": [
+      "FARO",
+      "FI1",
+      "SE2",
+      "SE3N",
+      "SE1",
+      "JUNO"
+    ],
+    "mostRecentTransfer": {
+      "id": "5346553",
+      "transferSource": {
+        "competitionId": "FARO",
+        "countryId": 208,
+        "clubId": "10532",
+        "coachId": "68177"
+      },
+      "transferDestination": {
+        "competitionId": "FI1",
+        "countryId": 49,
+        "clubId": "1102",
+        "coachId": "9417"
+      },
+      "details": {
+        "playerId": "857734",
+        "date": "2025-01-01T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/vilmer-roennberg/transfers/spieler/857734/transfer_id/5346553"
+    }
+  }
+}

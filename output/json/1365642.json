@@ -1,0 +1,203 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1365642",
+    "history": {
+      "terminated": [
+        {
+          "id": "6400951",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "83477",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "OBLB",
+            "countryId": 40,
+            "clubId": "74880",
+            "coachId": "25115"
+          },
+          "details": {
+            "playerId": "1365642",
+            "date": "2026-07-03T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oktaj-amedov/transfers/spieler/1365642/transfer_id/6400951"
+        },
+        {
+          "id": "5472421",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "42807",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 100,
+            "clubId": "83477",
+            "coachId": "153952"
+          },
+          "details": {
+            "playerId": "1365642",
+            "date": "2024-02-07T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oktaj-amedov/transfers/spieler/1365642/transfer_id/5472421"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "83477",
+      "74880",
+      "42807"
+    ],
+    "coachIds": [
+      "25115",
+      "153952"
+    ],
+    "competitionIds": [
+      "OBLB"
+    ],
+    "mostRecentTransfer": {
+      "id": "6400951",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 100,
+        "clubId": "83477",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "OBLB",
+        "countryId": 40,
+        "clubId": "74880",
+        "coachId": "25115"
+      },
+      "details": {
+        "playerId": "1365642",
+        "date": "2026-07-03T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/oktaj-amedov/transfers/spieler/1365642/transfer_id/6400951"
+    }
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1184740",
+    "history": {
+      "terminated": [
+        {
+          "id": "6224005",
+          "transferSource": {
+            "competitionId": "PL1",
+            "countryId": 135,
+            "clubId": "4000",
+            "coachId": "3660"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1236",
+            "coachId": "43400"
+          },
+          "details": {
+            "playerId": "1184740",
+            "date": "2026-03-11T00:00:00+01:00",
+            "contractUntilDate": "2026-07-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 842,
+              "daysDisplay": "2 Years, 3 Months, 19 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/karl-wendt/transfers/spieler/1184740/transfer_id/6224005"
+        },
+        {
+          "id": "5903344",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "701",
+            "coachId": "39596"
+          },
+          "transferDestination": {
+            "competitionId": "PL1",
+            "countryId": 135,
+            "clubId": "4000",
+            "coachId": "3660"
+          },
+          "details": {
+            "playerId": "1184740",
+            "date": "2025-11-30T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/karl-wendt/transfers/spieler/1184740/transfer_id/5903344"
+        },
+        {
+          "id": "5903343",
+          "transferSource": {
+            "competitionId": "PL1",
+            "countryId": 135,
+            "clubId": "4000",
+            "coachId": "3660"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "701",
+            "coachId": "39596"
+          },
+          "details": {
+            "playerId": "1184740",
+            "date": "2025-08-29T00:00:00+02:00",
+            "contractUntilDate": "2025-11-30T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1036,
+              "daysDisplay": "2 Years, 10 Months, 1 Day"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/karl-wendt/transfers/spieler/1184740/transfer_id/5903343"
+        },
+        {
+          "id": "5128686",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "701",
+            "coachId": "12117"
+          },
+          "transferDestination": {
+            "competitionId": "PL1",
+            "countryId": 135,
+            "clubId": "4000",
+            "coachId": "54834"
+          },
+          "details": {
+            "playerId": "1184740",
+            "date": "2024-07-18T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": 130000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "130.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karl-wendt/transfers/spieler/1184740/transfer_id/5128686"
+        },
+        {
+          "id": "4669710",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "14304",
+            "coachId": "39596"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "701",
+            "coachId": "12117"
+          },
+          "details": {
+            "playerId": "1184740",
+            "date": "2023-09-15T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karl-wendt/transfers/spieler/1184740/transfer_id/4669710"
+        },
+        {
+          "id": "4654682",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "67664",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "14304",
+            "coachId": "35504"
+          },
+          "details": {
+            "playerId": "1184740",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karl-wendt/transfers/spieler/1184740/transfer_id/4654682"
+        },
+        {
+          "id": "4654681",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "106146",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "67664",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1184740",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/karl-wendt/transfers/spieler/1184740/transfer_id/4654681"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6224006",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "1236",
+            "coachId": "140996"
+          },
+          "transferDestination": {
+            "competitionId": "PL2",
+            "countryId": 135,
+            "clubId": "4000",
+            "coachId": "100266"
+          },
+          "details": {
+            "playerId": "1184740",
+            "date": "2026-07-31T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/karl-wendt/transfers/spieler/1184740/transfer_id/6224006"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 130000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "130.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1236",
+      "4000",
+      "701",
+      "14304",
+      "67664",
+      "106146"
+    ],
+    "coachIds": [
+      "140996",
+      "100266",
+      "3660",
+      "43400",
+      "39596",
+      "12117",
+      "54834",
+      "35504"
+    ],
+    "competitionIds": [
+      "SE2",
+      "PL2",
+      "PL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6224005",
+      "transferSource": {
+        "competitionId": "PL1",
+        "countryId": 135,
+        "clubId": "4000",
+        "coachId": "3660"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "1236",
+        "coachId": "43400"
+      },
+      "details": {
+        "playerId": "1184740",
+        "date": "2026-03-11T00:00:00+01:00",
+        "contractUntilDate": "2026-07-31T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "remainingContractPeriod": {
+          "days": 842,
+          "daysDisplay": "2 Years, 3 Months, 19 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/karl-wendt/transfers/spieler/1184740/transfer_id/6224005"
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1088772",
+    "history": {
+      "terminated": [
+        {
+          "id": "5767122",
+          "transferSource": {
+            "competitionId": "ACFF",
+            "countryId": 19,
+            "clubId": "3751",
+            "coachId": "145335"
+          },
+          "transferDestination": {
+            "competitionId": "C3BR",
+            "countryId": 50,
+            "clubId": "82755",
+            "coachId": "111246"
+          },
+          "details": {
+            "playerId": "1088772",
+            "date": "2025-07-10T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-bosquet/transfers/spieler/1088772/transfer_id/5767122"
+        },
+        {
+          "id": "5465438",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "103161",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "3751",
+            "coachId": "24886"
+          },
+          "details": {
+            "playerId": "1088772",
+            "date": "2025-01-18T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-bosquet/transfers/spieler/1088772/transfer_id/5465438"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "3751",
+      "82755",
+      "103161"
+    ],
+    "coachIds": [
+      "145335",
+      "111246",
+      "24886"
+    ],
+    "competitionIds": [
+      "ACFF",
+      "C3BR",
+      "BE3A"
+    ],
+    "mostRecentTransfer": {
+      "id": "5767122",
+      "transferSource": {
+        "competitionId": "ACFF",
+        "countryId": 19,
+        "clubId": "3751",
+        "coachId": "145335"
+      },
+      "transferDestination": {
+        "competitionId": "C3BR",
+        "countryId": 50,
+        "clubId": "82755",
+        "coachId": "111246"
+      },
+      "details": {
+        "playerId": "1088772",
+        "date": "2025-07-10T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/lucas-bosquet/transfers/spieler/1088772/transfer_id/5767122"
+    }
+  }
+}

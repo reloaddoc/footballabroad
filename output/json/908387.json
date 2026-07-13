@@ -1,0 +1,314 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "908387",
+    "history": {
+      "terminated": [
+        {
+          "id": "6184051",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "50393",
+            "coachId": "41998"
+          },
+          "transferDestination": {
+            "competitionId": "OBLC",
+            "countryId": 40,
+            "clubId": "7657",
+            "coachId": "116915"
+          },
+          "details": {
+            "playerId": "908387",
+            "date": "2026-02-02T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kento-mitsuhiro/transfers/spieler/908387/transfer_id/6184051"
+        },
+        {
+          "id": "5981565",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "64469",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "50393",
+            "coachId": "41998"
+          },
+          "details": {
+            "playerId": "908387",
+            "date": "2025-02-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kento-mitsuhiro/transfers/spieler/908387/transfer_id/5981565"
+        },
+        {
+          "id": "3789575",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "50393",
+            "coachId": "41998"
+          },
+          "transferDestination": {
+            "competitionId": "J6K2",
+            "countryId": 77,
+            "clubId": "64469",
+            "coachId": "80302"
+          },
+          "details": {
+            "playerId": "908387",
+            "date": "2022-04-02T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kento-mitsuhiro/transfers/spieler/908387/transfer_id/3789575"
+        },
+        {
+          "id": "3789574",
+          "transferSource": {
+            "competitionId": "J18W",
+            "countryId": 77,
+            "clubId": "24047",
+            "coachId": "60618"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "50393",
+            "coachId": "41998"
+          },
+          "details": {
+            "playerId": "908387",
+            "date": "2022-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kento-mitsuhiro/transfers/spieler/908387/transfer_id/3789574"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "50393",
+      "7657",
+      "64469",
+      "24047"
+    ],
+    "coachIds": [
+      "41998",
+      "116915",
+      "80302",
+      "60618"
+    ],
+    "competitionIds": [
+      "OBLC",
+      "J6K2",
+      "J18W"
+    ],
+    "mostRecentTransfer": {
+      "id": "6184051",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 77,
+        "clubId": "50393",
+        "coachId": "41998"
+      },
+      "transferDestination": {
+        "competitionId": "OBLC",
+        "countryId": 40,
+        "clubId": "7657",
+        "coachId": "116915"
+      },
+      "details": {
+        "playerId": "908387",
+        "date": "2026-02-02T00:00:00+01:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kento-mitsuhiro/transfers/spieler/908387/transfer_id/6184051"
+    }
+  }
+}

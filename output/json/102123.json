@@ -1,0 +1,762 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "102123",
+    "history": {
+      "terminated": [
+        {
+          "id": "6233059",
+          "transferSource": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "4313",
+            "coachId": "94716"
+          },
+          "transferDestination": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "11540",
+            "coachId": "32788"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2026-01-08T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 34,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/6233059"
+        },
+        {
+          "id": "4131039",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "57571"
+          },
+          "transferDestination": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "4313",
+            "coachId": "42032"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2023-01-09T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 31,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 356,
+              "daysDisplay": "11 Months, 22 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/4131039"
+        },
+        {
+          "id": "3700178",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "443",
+            "coachId": "8785"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "699",
+            "coachId": "3113"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2022-01-17T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 30,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 164,
+              "daysDisplay": "5 Months, 13 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/3700178"
+        },
+        {
+          "id": "908482",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5776",
+            "coachId": "6575"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "443",
+            "coachId": "28444"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2013-08-08T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/908482"
+        },
+        {
+          "id": "857486",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "36224",
+            "coachId": "24606"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "5776",
+            "coachId": "6611"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2013-04-05T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/857486"
+        },
+        {
+          "id": "778694",
+          "transferSource": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "11540",
+            "coachId": "21894"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 125,
+            "clubId": "36224",
+            "coachId": "24606"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2012-09-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/778694"
+        },
+        {
+          "id": "760455",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "173",
+            "coachId": "2895"
+          },
+          "transferDestination": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "11540",
+            "coachId": "21894"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2012-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/760455"
+        },
+        {
+          "id": "3273448",
+          "transferSource": {
+            "competitionId": "DK3V",
+            "countryId": 39,
+            "clubId": "10399",
+            "coachId": "8818"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "173",
+            "coachId": "14506"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2012-06-30T00:00:00+02:00",
+            "contractUntilDate": "2012-06-30T00:00:00+02:00",
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/3273448"
+        },
+        {
+          "id": "485236",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "173",
+            "coachId": "126347"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "10399",
+            "coachId": "8351"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2010-09-01T00:00:00+02:00",
+            "contractUntilDate": "2012-06-30T00:00:00+02:00",
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 668,
+              "daysDisplay": "1 Year, 9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/485236"
+        },
+        {
+          "id": "3273446",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14364",
+            "coachId": "29245"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "173",
+            "coachId": "126347"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2010-07-01T00:00:00+02:00",
+            "contractUntilDate": "2012-06-30T00:00:00+02:00",
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/3273446"
+        },
+        {
+          "id": "3273449",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "10598",
+            "coachId": "8559"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14364",
+            "coachId": "9241"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2008-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/3273449"
+        },
+        {
+          "id": "3273450",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 208,
+            "clubId": "37085",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "10598",
+            "coachId": "8559"
+          },
+          "details": {
+            "playerId": "102123",
+            "date": "2007-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2007,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2007,
+              "display": "07/08",
+              "cyclicalName": "2008",
+              "nonCyclicalName": "07/08"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/3273450"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 34,
+      "totalMarketValue": {
+        "value": 75000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "75.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "4313",
+      "11540",
+      "699",
+      "443",
+      "5776",
+      "36224",
+      "173",
+      "10399",
+      "14364",
+      "10598",
+      "37085"
+    ],
+    "coachIds": [
+      "94716",
+      "32788",
+      "57571",
+      "42032",
+      "8785",
+      "3113",
+      "6575",
+      "28444",
+      "24606",
+      "6611",
+      "21894",
+      "2895",
+      "8818",
+      "14506",
+      "126347",
+      "8351",
+      "29245",
+      "8559",
+      "9241"
+    ],
+    "competitionIds": [
+      "FARO",
+      "SE2",
+      "DK1",
+      "SE1",
+      "DK2",
+      "DK3V",
+      "DKDL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6233059",
+      "transferSource": {
+        "competitionId": "FARO",
+        "countryId": 208,
+        "clubId": "4313",
+        "coachId": "94716"
+      },
+      "transferDestination": {
+        "competitionId": "FARO",
+        "countryId": 208,
+        "clubId": "11540",
+        "coachId": "32788"
+      },
+      "details": {
+        "playerId": "102123",
+        "date": "2026-01-08T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 34,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/viljormur-davidsen/transfers/spieler/102123/transfer_id/6233059"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1556676",
+    "history": {
+      "terminated": [
+        {
+          "id": "6345913",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "102762",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "42636",
+            "coachId": "36768"
+          },
+          "details": {
+            "playerId": "1556676",
+            "date": "2026-04-29T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/seung-wan-yoo/transfers/spieler/1556676/transfer_id/6345913"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "102762",
+      "42636"
+    ],
+    "coachIds": [
+      "36768"
+    ],
+    "competitionIds": [],
+    "mostRecentTransfer": {
+      "id": "6345913",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 87,
+        "clubId": "102762",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 77,
+        "clubId": "42636",
+        "coachId": "36768"
+      },
+      "details": {
+        "playerId": "1556676",
+        "date": "2026-04-29T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/seung-wan-yoo/transfers/spieler/1556676/transfer_id/6345913"
+    }
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "620834",
+    "history": {
+      "terminated": [
+        {
+          "id": "6334897",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "1",
+            "coachId": "11287"
+          },
+          "transferDestination": {
+            "competitionId": "C1",
+            "countryId": 148,
+            "clubId": "2790",
+            "coachId": "59028"
+          },
+          "details": {
+            "playerId": "620834",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "350.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joel-bichsel/transfers/spieler/620834/transfer_id/6334897"
+        },
+        {
+          "id": "5228072",
+          "transferSource": {
+            "competitionId": "C1",
+            "countryId": 148,
+            "clubId": "452",
+            "coachId": "5857"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "1",
+            "coachId": "26513"
+          },
+          "details": {
+            "playerId": "620834",
+            "date": "2024-08-27T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 307,
+              "daysDisplay": "10 Months, 3 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joel-bichsel/transfers/spieler/620834/transfer_id/5228072"
+        },
+        {
+          "id": "4555556",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "245",
+            "coachId": "18550"
+          },
+          "transferDestination": {
+            "competitionId": "C1",
+            "countryId": 148,
+            "clubId": "452",
+            "coachId": "5847"
+          },
+          "details": {
+            "playerId": "620834",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/joel-bichsel/transfers/spieler/620834/transfer_id/4555556"
+        },
+        {
+          "id": "4555555",
+          "transferSource": {
+            "competitionId": "C1",
+            "countryId": 148,
+            "clubId": "452",
+            "coachId": "23140"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "245",
+            "coachId": "18550"
+          },
+          "details": {
+            "playerId": "620834",
+            "date": "2023-08-03T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 697,
+              "daysDisplay": "1 Year, 10 Months, 27 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/joel-bichsel/transfers/spieler/620834/transfer_id/4555555"
+        },
+        {
+          "id": "4333734",
+          "transferSource": {
+            "competitionId": "CHPR",
+            "countryId": 148,
+            "clubId": "5508",
+            "coachId": "5847"
+          },
+          "transferDestination": {
+            "competitionId": "C1",
+            "countryId": 148,
+            "clubId": "452",
+            "coachId": "23140"
+          },
+          "details": {
+            "playerId": "620834",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joel-bichsel/transfers/spieler/620834/transfer_id/4333734"
+        },
+        {
+          "id": "3014826",
+          "transferSource": {
+            "competitionId": "CH18",
+            "countryId": 148,
+            "clubId": "14438",
+            "coachId": "5853"
+          },
+          "transferDestination": {
+            "competitionId": "CHC1",
+            "countryId": 148,
+            "clubId": "5508",
+            "coachId": "56302"
+          },
+          "details": {
+            "playerId": "620834",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joel-bichsel/transfers/spieler/620834/transfer_id/3014826"
+        },
+        {
+          "id": "2594010",
+          "transferSource": {
+            "competitionId": "CH17",
+            "countryId": 148,
+            "clubId": "32283",
+            "coachId": "72919"
+          },
+          "transferDestination": {
+            "competitionId": "CH18",
+            "countryId": 148,
+            "clubId": "14438",
+            "coachId": "5853"
+          },
+          "details": {
+            "playerId": "620834",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joel-bichsel/transfers/spieler/620834/transfer_id/2594010"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 350000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "350.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1",
+      "2790",
+      "452",
+      "245",
+      "5508",
+      "14438",
+      "32283"
+    ],
+    "coachIds": [
+      "11287",
+      "59028",
+      "5857",
+      "26513",
+      "18550",
+      "5847",
+      "23140",
+      "5853",
+      "56302",
+      "72919"
+    ],
+    "competitionIds": [
+      "L3",
+      "C1",
+      "CHPR",
+      "CH18",
+      "CHC1",
+      "CH17"
+    ],
+    "mostRecentTransfer": {
+      "id": "6334897",
+      "transferSource": {
+        "competitionId": "L3",
+        "countryId": 40,
+        "clubId": "1",
+        "coachId": "11287"
+      },
+      "transferDestination": {
+        "competitionId": "C1",
+        "countryId": 148,
+        "clubId": "2790",
+        "coachId": "59028"
+      },
+      "details": {
+        "playerId": "620834",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 350000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "350.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/joel-bichsel/transfers/spieler/620834/transfer_id/6334897"
+    }
+  }
+}

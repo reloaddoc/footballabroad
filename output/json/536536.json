@@ -1,0 +1,832 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "536536",
+    "history": {
+      "terminated": [
+        {
+          "id": "6341443",
+          "transferSource": {
+            "competitionId": "SC4",
+            "countryId": 190,
+            "clubId": "3804",
+            "coachId": "83401"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "3021",
+            "coachId": "133529"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-05-31T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 334,
+              "daysDisplay": "10 Months, 30 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/6341443"
+        },
+        {
+          "id": "5100551",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2577",
+            "coachId": "44988"
+          },
+          "transferDestination": {
+            "competitionId": "SC3",
+            "countryId": 190,
+            "clubId": "3804",
+            "coachId": "115865"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-05-31T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/5100551"
+        },
+        {
+          "id": "4831731",
+          "transferSource": {
+            "competitionId": "SC3",
+            "countryId": 190,
+            "clubId": "3804",
+            "coachId": "115865"
+          },
+          "transferDestination": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2577",
+            "coachId": "44988"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2024-05-31T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/4831731"
+        },
+        {
+          "id": "4831730",
+          "transferSource": {
+            "competitionId": "CNAT",
+            "countryId": 189,
+            "clubId": "2577",
+            "coachId": "1525"
+          },
+          "transferDestination": {
+            "competitionId": "SC3",
+            "countryId": 190,
+            "clubId": "3804",
+            "coachId": "115865"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2024-01-18T00:00:00+01:00",
+            "contractUntilDate": "2024-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 164,
+              "daysDisplay": "5 Months, 12 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/4831730"
+        },
+        {
+          "id": "4212597",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "8933",
+            "coachId": "19343"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2577",
+            "coachId": "15299"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2023-05-31T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/4212597"
+        },
+        {
+          "id": "4212596",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2577",
+            "coachId": "4315"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "8933",
+            "coachId": "19343"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2023-01-09T00:00:00+01:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 538,
+              "daysDisplay": "1 Year, 5 Months, 21 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/4212596"
+        },
+        {
+          "id": "3883617",
+          "transferSource": {
+            "competitionId": "SC5L",
+            "countryId": 190,
+            "clubId": "9043",
+            "coachId": "42732"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "2577",
+            "coachId": "19343"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2022-07-04T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/3883617"
+        },
+        {
+          "id": "3712431",
+          "transferSource": {
+            "competitionId": "SC3",
+            "countryId": 190,
+            "clubId": "2802",
+            "coachId": "13471"
+          },
+          "transferDestination": {
+            "competitionId": "SC5L",
+            "countryId": 190,
+            "clubId": "9043",
+            "coachId": "42732"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2022-05-16T00:00:00+02:00",
+            "contractUntilDate": "2022-05-31T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/3712431"
+        },
+        {
+          "id": "3712430",
+          "transferSource": {
+            "competitionId": "SC5L",
+            "countryId": 190,
+            "clubId": "9043",
+            "coachId": "42732"
+          },
+          "transferDestination": {
+            "competitionId": "SC3",
+            "countryId": 190,
+            "clubId": "2802",
+            "coachId": "13471"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2022-01-25T00:00:00+01:00",
+            "contractUntilDate": "2022-05-16T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 491,
+              "daysDisplay": "1 Year, 4 Months, 6 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/3712430"
+        },
+        {
+          "id": "3086022",
+          "transferSource": {
+            "competitionId": "SC4M",
+            "countryId": 190,
+            "clubId": "3031",
+            "coachId": "26307"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "9043",
+            "coachId": "42732"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2021-05-05T00:00:00+02:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/3086022"
+        },
+        {
+          "id": "3086021",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "9043",
+            "coachId": "42732"
+          },
+          "transferDestination": {
+            "competitionId": "SC4M",
+            "countryId": 190,
+            "clubId": "3031",
+            "coachId": "26307"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2020-10-02T00:00:00+02:00",
+            "contractUntilDate": "2021-05-05T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 971,
+              "daysDisplay": "2 Years, 7 Months, 29 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/3086021"
+        },
+        {
+          "id": "2603493",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "67280",
+            "coachId": "55660"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "9043",
+            "coachId": "42732"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/2603493"
+        },
+        {
+          "id": "2603492",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "31025",
+            "coachId": "114923"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "67280",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/2603492"
+        },
+        {
+          "id": "3852078",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "87553",
+            "coachId": "18278"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 190,
+            "clubId": "31025",
+            "coachId": "114923"
+          },
+          "details": {
+            "playerId": "536536",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/3852078"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "3804",
+      "3021",
+      "2577",
+      "8933",
+      "9043",
+      "2802",
+      "3031",
+      "67280",
+      "31025",
+      "87553"
+    ],
+    "coachIds": [
+      "83401",
+      "133529",
+      "44988",
+      "115865",
+      "1525",
+      "19343",
+      "15299",
+      "4315",
+      "42732",
+      "13471",
+      "26307",
+      "55660",
+      "114923",
+      "18278"
+    ],
+    "competitionIds": [
+      "SC4",
+      "SC2",
+      "CNAT",
+      "SC3",
+      "GB4",
+      "SC5L",
+      "SC4M"
+    ],
+    "mostRecentTransfer": {
+      "id": "6341443",
+      "transferSource": {
+        "competitionId": "SC4",
+        "countryId": 190,
+        "clubId": "3804",
+        "coachId": "83401"
+      },
+      "transferDestination": {
+        "competitionId": "SC2",
+        "countryId": 190,
+        "clubId": "3021",
+        "coachId": "133529"
+      },
+      "details": {
+        "playerId": "536536",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2027-05-31T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 334,
+          "daysDisplay": "10 Months, 30 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/brody-paterson/transfers/spieler/536536/transfer_id/6341443"
+    }
+  }
+}

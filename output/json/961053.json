@@ -1,0 +1,538 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "961053",
+    "history": {
+      "terminated": [
+        {
+          "id": "6337210",
+          "transferSource": {
+            "competitionId": "SLO1",
+            "countryId": 154,
+            "clubId": "4529",
+            "coachId": "39194"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "2974",
+            "coachId": "6744"
+          },
+          "details": {
+            "playerId": "961053",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rabby-mateta-pepa/transfers/spieler/961053/transfer_id/6337210"
+        },
+        {
+          "id": "6124621",
+          "transferSource": {
+            "competitionId": "SK2",
+            "countryId": 154,
+            "clubId": "34775",
+            "coachId": "7993"
+          },
+          "transferDestination": {
+            "competitionId": "SLO1",
+            "countryId": 154,
+            "clubId": "4529",
+            "coachId": "52235"
+          },
+          "details": {
+            "playerId": "961053",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/rabby-mateta-pepa/transfers/spieler/961053/transfer_id/6124621"
+        },
+        {
+          "id": "6124620",
+          "transferSource": {
+            "competitionId": "SLO1",
+            "countryId": 154,
+            "clubId": "4529",
+            "coachId": "52235"
+          },
+          "transferDestination": {
+            "competitionId": "SK2",
+            "countryId": 154,
+            "clubId": "34775",
+            "coachId": "50799"
+          },
+          "details": {
+            "playerId": "961053",
+            "date": "2026-01-16T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 896,
+              "daysDisplay": "2 Years, 5 Months, 14 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/rabby-mateta-pepa/transfers/spieler/961053/transfer_id/6124620"
+        },
+        {
+          "id": "5872244",
+          "transferSource": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "24394",
+            "coachId": "40045"
+          },
+          "transferDestination": {
+            "competitionId": "SLO1",
+            "countryId": 154,
+            "clubId": "4529",
+            "coachId": "52235"
+          },
+          "details": {
+            "playerId": "961053",
+            "date": "2025-08-18T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 681,
+              "daysDisplay": "1 Year, 10 Months, 12 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rabby-mateta-pepa/transfers/spieler/961053/transfer_id/5872244"
+        },
+        {
+          "id": "4572390",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "66533",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "BE2",
+            "countryId": 19,
+            "clubId": "24394",
+            "coachId": "38220"
+          },
+          "details": {
+            "playerId": "961053",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rabby-mateta-pepa/transfers/spieler/961053/transfer_id/4572390"
+        },
+        {
+          "id": "3637988",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "25003",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "66533",
+            "coachId": "105722"
+          },
+          "details": {
+            "playerId": "961053",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rabby-mateta-pepa/transfers/spieler/961053/transfer_id/3637988"
+        },
+        {
+          "id": "3637989",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "34283",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "25003",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "961053",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 10,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rabby-mateta-pepa/transfers/spieler/961053/transfer_id/3637989"
+        },
+        {
+          "id": "3637990",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "25005",
+            "coachId": "136942"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 19,
+            "clubId": "34283",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "961053",
+            "date": "2016-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 9,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/rabby-mateta-pepa/transfers/spieler/961053/transfer_id/3637990"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "4529",
+      "2974",
+      "34775",
+      "24394",
+      "66533",
+      "25003",
+      "34283",
+      "25005"
+    ],
+    "coachIds": [
+      "39194",
+      "6744",
+      "7993",
+      "52235",
+      "50799",
+      "40045",
+      "38220",
+      "105722",
+      "136942"
+    ],
+    "competitionIds": [
+      "SLO1",
+      "BE2",
+      "SK2",
+      "BE3A"
+    ],
+    "mostRecentTransfer": {
+      "id": "6337210",
+      "transferSource": {
+        "competitionId": "SLO1",
+        "countryId": 154,
+        "clubId": "4529",
+        "coachId": "39194"
+      },
+      "transferDestination": {
+        "competitionId": "BE2",
+        "countryId": 19,
+        "clubId": "2974",
+        "coachId": "6744"
+      },
+      "details": {
+        "playerId": "961053",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 25000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "25.00",
+            "suffix": "K"
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 730,
+          "daysDisplay": "1 Year, 11 Months, 29 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/rabby-mateta-pepa/transfers/spieler/961053/transfer_id/6337210"
+    }
+  }
+}

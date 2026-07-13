@@ -1,0 +1,546 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "662940",
+    "history": {
+      "terminated": [
+        {
+          "id": "6138525",
+          "transferSource": {
+            "competitionId": "FI2",
+            "countryId": 49,
+            "clubId": "1225",
+            "coachId": "74132"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "2275",
+            "coachId": "81591"
+          },
+          "details": {
+            "playerId": "662940",
+            "date": "2026-01-22T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 343,
+              "daysDisplay": "11 Months, 9 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikolas-talo/transfers/spieler/662940/transfer_id/6138525"
+        },
+        {
+          "id": "5902074",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2843",
+            "coachId": "66568"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "1225",
+            "coachId": "12144"
+          },
+          "details": {
+            "playerId": "662940",
+            "date": "2025-11-30T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/nikolas-talo/transfers/spieler/662940/transfer_id/5902074"
+        },
+        {
+          "id": "5902073",
+          "transferSource": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "1225",
+            "coachId": "12144"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2843",
+            "coachId": "66568"
+          },
+          "details": {
+            "playerId": "662940",
+            "date": "2025-08-29T00:00:00+02:00",
+            "contractUntilDate": "2025-11-30T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 489,
+              "daysDisplay": "1 Year, 4 Months, 2 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/nikolas-talo/transfers/spieler/662940/transfer_id/5902073"
+        },
+        {
+          "id": "4772586",
+          "transferSource": {
+            "competitionId": "FI2",
+            "countryId": 49,
+            "clubId": "7315",
+            "coachId": "111561"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "1225",
+            "coachId": "40994"
+          },
+          "details": {
+            "playerId": "662940",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 365,
+              "daysDisplay": "11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikolas-talo/transfers/spieler/662940/transfer_id/4772586"
+        },
+        {
+          "id": "4516820",
+          "transferSource": {
+            "competitionId": "211F",
+            "countryId": 122,
+            "clubId": "14725",
+            "coachId": "37388"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "7315",
+            "coachId": "64224"
+          },
+          "details": {
+            "playerId": "662940",
+            "date": "2023-07-19T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikolas-talo/transfers/spieler/662940/transfer_id/4516820"
+        },
+        {
+          "id": "3380122",
+          "transferSource": {
+            "competitionId": "182F",
+            "countryId": 122,
+            "clubId": "81340",
+            "coachId": "37385"
+          },
+          "transferDestination": {
+            "competitionId": "211F",
+            "countryId": 122,
+            "clubId": "14725",
+            "coachId": "37388"
+          },
+          "details": {
+            "playerId": "662940",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikolas-talo/transfers/spieler/662940/transfer_id/3380122"
+        },
+        {
+          "id": "2933729",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "52451",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "182F",
+            "countryId": 122,
+            "clubId": "81340",
+            "coachId": "37385"
+          },
+          "details": {
+            "playerId": "662940",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikolas-talo/transfers/spieler/662940/transfer_id/2933729"
+        },
+        {
+          "id": "2439358",
+          "transferSource": {
+            "competitionId": "FJE",
+            "countryId": 49,
+            "clubId": "15697",
+            "coachId": "58814"
+          },
+          "transferDestination": {
+            "competitionId": "NLVB",
+            "countryId": 122,
+            "clubId": "52451",
+            "coachId": "37385"
+          },
+          "details": {
+            "playerId": "662940",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/nikolas-talo/transfers/spieler/662940/transfer_id/2439358"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "1225",
+      "2275",
+      "2843",
+      "7315",
+      "14725",
+      "81340",
+      "52451",
+      "15697"
+    ],
+    "coachIds": [
+      "74132",
+      "81591",
+      "66568",
+      "12144",
+      "111561",
+      "40994",
+      "37388",
+      "64224",
+      "37385",
+      "58814"
+    ],
+    "competitionIds": [
+      "FI2",
+      "FI1",
+      "SE2",
+      "211F",
+      "182F",
+      "FJE",
+      "NLVB"
+    ],
+    "mostRecentTransfer": {
+      "id": "6138525",
+      "transferSource": {
+        "competitionId": "FI2",
+        "countryId": 49,
+        "clubId": "1225",
+        "coachId": "74132"
+      },
+      "transferDestination": {
+        "competitionId": "FI1",
+        "countryId": 49,
+        "clubId": "2275",
+        "coachId": "81591"
+      },
+      "details": {
+        "playerId": "662940",
+        "date": "2026-01-22T00:00:00+01:00",
+        "contractUntilDate": "2027-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 343,
+          "daysDisplay": "11 Months, 9 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/nikolas-talo/transfers/spieler/662940/transfer_id/6138525"
+    }
+  }
+}

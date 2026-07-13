@@ -1,0 +1,336 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1077438",
+    "history": {
+      "terminated": [
+        {
+          "id": "5919763",
+          "transferSource": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "14707",
+            "coachId": "20675"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 53,
+            "clubId": "31555",
+            "coachId": "142986"
+          },
+          "details": {
+            "playerId": "1077438",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mate-sauri/transfers/spieler/1077438/transfer_id/5919763"
+        },
+        {
+          "id": "5919762",
+          "transferSource": {
+            "competitionId": "GEO2",
+            "countryId": 53,
+            "clubId": "31555",
+            "coachId": "142986"
+          },
+          "transferDestination": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "14707",
+            "coachId": "20675"
+          },
+          "details": {
+            "playerId": "1077438",
+            "date": "2025-09-02T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mate-sauri/transfers/spieler/1077438/transfer_id/5919762"
+        },
+        {
+          "id": "5216313",
+          "transferSource": {
+            "competitionId": "PT23",
+            "countryId": 136,
+            "clubId": "68110",
+            "coachId": "57719"
+          },
+          "transferDestination": {
+            "competitionId": "GEO2",
+            "countryId": 53,
+            "clubId": "31555",
+            "coachId": "142986"
+          },
+          "details": {
+            "playerId": "1077438",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/mate-sauri/transfers/spieler/1077438/transfer_id/5216313"
+        },
+        {
+          "id": "5216312",
+          "transferSource": {
+            "competitionId": "GEO2",
+            "countryId": 53,
+            "clubId": "31555",
+            "coachId": "71691"
+          },
+          "transferDestination": {
+            "competitionId": "PT23",
+            "countryId": 136,
+            "clubId": "68110",
+            "coachId": "57719"
+          },
+          "details": {
+            "playerId": "1077438",
+            "date": "2024-08-13T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/mate-sauri/transfers/spieler/1077438/transfer_id/5216312"
+        },
+        {
+          "id": "4301732",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 53,
+            "clubId": "19692",
+            "coachId": "72005"
+          },
+          "transferDestination": {
+            "competitionId": "GEO2",
+            "countryId": 53,
+            "clubId": "31555",
+            "coachId": "72242"
+          },
+          "details": {
+            "playerId": "1077438",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/mate-sauri/transfers/spieler/1077438/transfer_id/4301732"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "14707",
+      "31555",
+      "68110",
+      "19692"
+    ],
+    "coachIds": [
+      "20675",
+      "142986",
+      "57719",
+      "71691",
+      "72005",
+      "72242"
+    ],
+    "competitionIds": [
+      "E4G1",
+      "GEO2",
+      "PT23"
+    ],
+    "mostRecentTransfer": {
+      "id": "5919763",
+      "transferSource": {
+        "competitionId": "E4G1",
+        "countryId": 157,
+        "clubId": "14707",
+        "coachId": "20675"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 53,
+        "clubId": "31555",
+        "coachId": "142986"
+      },
+      "details": {
+        "playerId": "1077438",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/mate-sauri/transfers/spieler/1077438/transfer_id/5919763"
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1116634",
+    "history": {
+      "terminated": [
+        {
+          "id": "5544084",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "25765",
+            "coachId": "38722"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "52519",
+            "coachId": "73702"
+          },
+          "details": {
+            "playerId": "1116634",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lucas-vargas/transfers/spieler/1116634/transfer_id/5544084"
+        },
+        {
+          "id": "5544083",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "52519",
+            "coachId": "130356"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "25765",
+            "coachId": "38722"
+          },
+          "details": {
+            "playerId": "1116634",
+            "date": "2025-02-01T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lucas-vargas/transfers/spieler/1116634/transfer_id/5544083"
+        },
+        {
+          "id": "5441620",
+          "transferSource": {
+            "competitionId": "CB20",
+            "countryId": 26,
+            "clubId": "16653",
+            "coachId": "115096"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "52519",
+            "coachId": "130356"
+          },
+          "details": {
+            "playerId": "1116634",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-vargas/transfers/spieler/1116634/transfer_id/5441620"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "25765",
+      "52519",
+      "16653"
+    ],
+    "coachIds": [
+      "38722",
+      "73702",
+      "130356",
+      "115096"
+    ],
+    "competitionIds": [
+      "JAP3",
+      "CB20"
+    ],
+    "mostRecentTransfer": {
+      "id": "5544084",
+      "transferSource": {
+        "competitionId": "JAP3",
+        "countryId": 77,
+        "clubId": "25765",
+        "coachId": "38722"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 26,
+        "clubId": "52519",
+        "coachId": "73702"
+      },
+      "details": {
+        "playerId": "1116634",
+        "date": "2025-12-31T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 20,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/lucas-vargas/transfers/spieler/1116634/transfer_id/5544084"
+    }
+  }
+}

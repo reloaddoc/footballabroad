@@ -1,0 +1,554 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "629032",
+    "history": {
+      "terminated": [
+        {
+          "id": "6336184",
+          "transferSource": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "122",
+            "coachId": "54687"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "1",
+            "coachId": "11287"
+          },
+          "details": {
+            "playerId": "629032",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 600000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "600.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/matteo-bignetti/transfers/spieler/629032/transfer_id/6336184"
+        },
+        {
+          "id": "4413579",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "177",
+            "coachId": "29105"
+          },
+          "transferDestination": {
+            "competitionId": "A1",
+            "countryId": 127,
+            "clubId": "122",
+            "coachId": "4855"
+          },
+          "details": {
+            "playerId": "629032",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/matteo-bignetti/transfers/spieler/629032/transfer_id/4413579"
+        },
+        {
+          "id": "3876856",
+          "transferSource": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "5372",
+            "coachId": "24949"
+          },
+          "transferDestination": {
+            "competitionId": "OBLC",
+            "countryId": 40,
+            "clubId": "177",
+            "coachId": "29105"
+          },
+          "details": {
+            "playerId": "629032",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/matteo-bignetti/transfers/spieler/629032/transfer_id/3876856"
+        },
+        {
+          "id": "3268129",
+          "transferSource": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21057",
+            "coachId": "80042"
+          },
+          "transferDestination": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "5372",
+            "coachId": "6089"
+          },
+          "details": {
+            "playerId": "629032",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/matteo-bignetti/transfers/spieler/629032/transfer_id/3268129"
+        },
+        {
+          "id": "2890651",
+          "transferSource": {
+            "competitionId": "JGD3",
+            "countryId": 127,
+            "clubId": "42830",
+            "coachId": "75995"
+          },
+          "transferDestination": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21057",
+            "coachId": "62920"
+          },
+          "details": {
+            "playerId": "629032",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/matteo-bignetti/transfers/spieler/629032/transfer_id/2890651"
+        },
+        {
+          "id": "2573952",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "42829",
+            "coachId": "5709"
+          },
+          "transferDestination": {
+            "competitionId": "JGD3",
+            "countryId": 127,
+            "clubId": "42830",
+            "coachId": "5141"
+          },
+          "details": {
+            "playerId": "629032",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/matteo-bignetti/transfers/spieler/629032/transfer_id/2573952"
+        },
+        {
+          "id": "2573951",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "20153",
+            "coachId": "85447"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "42829",
+            "coachId": "33056"
+          },
+          "details": {
+            "playerId": "629032",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/matteo-bignetti/transfers/spieler/629032/transfer_id/2573951"
+        },
+        {
+          "id": "2573950",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "20451",
+            "coachId": "93884"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 127,
+            "clubId": "20153",
+            "coachId": "38510"
+          },
+          "details": {
+            "playerId": "629032",
+            "date": "2016-01-28T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 11,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/matteo-bignetti/transfers/spieler/629032/transfer_id/2573950"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 600000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "600.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "122",
+      "1",
+      "177",
+      "5372",
+      "21057",
+      "42830",
+      "42829",
+      "20153",
+      "20451"
+    ],
+    "coachIds": [
+      "54687",
+      "11287",
+      "29105",
+      "4855",
+      "24949",
+      "80042",
+      "6089",
+      "75995",
+      "62920",
+      "5709",
+      "5141",
+      "85447",
+      "33056",
+      "93884",
+      "38510"
+    ],
+    "competitionIds": [
+      "A1",
+      "L3",
+      "RLSW",
+      "AJ3",
+      "OBLC",
+      "BJ3",
+      "JGD3"
+    ],
+    "mostRecentTransfer": {
+      "id": "6336184",
+      "transferSource": {
+        "competitionId": "A1",
+        "countryId": 127,
+        "clubId": "122",
+        "coachId": "54687"
+      },
+      "transferDestination": {
+        "competitionId": "L3",
+        "countryId": 40,
+        "clubId": "1",
+        "coachId": "11287"
+      },
+      "details": {
+        "playerId": "629032",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 600000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "600.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/matteo-bignetti/transfers/spieler/629032/transfer_id/6336184"
+    }
+  }
+}

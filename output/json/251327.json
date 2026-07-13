@@ -1,0 +1,662 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "251327",
+    "history": {
+      "terminated": [
+        {
+          "id": "5095567",
+          "transferSource": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "48712",
+            "coachId": "118805"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "10284",
+            "coachId": "5027"
+          },
+          "details": {
+            "playerId": "251327",
+            "date": "2024-07-09T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexander-laukart/transfers/spieler/251327/transfer_id/5095567"
+        },
+        {
+          "id": "3396341",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "12456",
+            "coachId": "12766"
+          },
+          "transferDestination": {
+            "competitionId": "LUX1",
+            "countryId": 99,
+            "clubId": "48712",
+            "coachId": "21072"
+          },
+          "details": {
+            "playerId": "251327",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexander-laukart/transfers/spieler/251327/transfer_id/3396341"
+        },
+        {
+          "id": "2948206",
+          "transferSource": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "404",
+            "coachId": "38658"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "12456",
+            "coachId": "8403"
+          },
+          "details": {
+            "playerId": "251327",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexander-laukart/transfers/spieler/251327/transfer_id/2948206"
+        },
+        {
+          "id": "2632348",
+          "transferSource": {
+            "competitionId": "NL1",
+            "countryId": 122,
+            "clubId": "317",
+            "coachId": "54117"
+          },
+          "transferDestination": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "404",
+            "coachId": "38658"
+          },
+          "details": {
+            "playerId": "251327",
+            "date": "2019-09-02T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 302,
+              "daysDisplay": "9 Months, 28 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexander-laukart/transfers/spieler/251327/transfer_id/2632348"
+        },
+        {
+          "id": "1776590",
+          "transferSource": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "1464",
+            "coachId": "4048"
+          },
+          "transferDestination": {
+            "competitionId": "NL1",
+            "countryId": 122,
+            "clubId": "317",
+            "coachId": "16339"
+          },
+          "details": {
+            "playerId": "251327",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexander-laukart/transfers/spieler/251327/transfer_id/1776590"
+        },
+        {
+          "id": "1227044",
+          "transferSource": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21055",
+            "coachId": "4048"
+          },
+          "transferDestination": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "1464",
+            "coachId": "16320"
+          },
+          "details": {
+            "playerId": "251327",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 730,
+              "daysDisplay": "1 Year, 11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexander-laukart/transfers/spieler/251327/transfer_id/1227044"
+        },
+        {
+          "id": "1145492",
+          "transferSource": {
+            "competitionId": "BJ1",
+            "countryId": 40,
+            "clubId": "21062",
+            "coachId": "13413"
+          },
+          "transferDestination": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21055",
+            "coachId": "16320"
+          },
+          "details": {
+            "playerId": "251327",
+            "date": "2014-08-31T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexander-laukart/transfers/spieler/251327/transfer_id/1145492"
+        },
+        {
+          "id": "928861",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "29107",
+            "coachId": "24158"
+          },
+          "transferDestination": {
+            "competitionId": "BJ1",
+            "countryId": 40,
+            "clubId": "21062",
+            "coachId": "13413"
+          },
+          "details": {
+            "playerId": "251327",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexander-laukart/transfers/spieler/251327/transfer_id/928861"
+        },
+        {
+          "id": "1018369",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "12821",
+            "coachId": "78730"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "29107",
+            "coachId": "24158"
+          },
+          "details": {
+            "playerId": "251327",
+            "date": "2013-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexander-laukart/transfers/spieler/251327/transfer_id/1018369"
+        },
+        {
+          "id": "1018368",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "29107",
+            "coachId": "84075"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "12821",
+            "coachId": "15060"
+          },
+          "details": {
+            "playerId": "251327",
+            "date": "2012-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/alexander-laukart/transfers/spieler/251327/transfer_id/1018368"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "48712",
+      "10284",
+      "12456",
+      "404",
+      "317",
+      "1464",
+      "21055",
+      "21062",
+      "29107",
+      "12821"
+    ],
+    "coachIds": [
+      "118805",
+      "5027",
+      "12766",
+      "21072",
+      "38658",
+      "8403",
+      "54117",
+      "4048",
+      "16339",
+      "16320",
+      "13413",
+      "24158",
+      "78730",
+      "84075",
+      "15060"
+    ],
+    "competitionIds": [
+      "LUX1",
+      "RLN3",
+      "L3",
+      "NL2",
+      "NL1",
+      "AJ2",
+      "BJ2",
+      "BJ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5095567",
+      "transferSource": {
+        "competitionId": "LUX1",
+        "countryId": 99,
+        "clubId": "48712",
+        "coachId": "118805"
+      },
+      "transferDestination": {
+        "competitionId": "RLN3",
+        "countryId": 40,
+        "clubId": "10284",
+        "coachId": "5027"
+      },
+      "details": {
+        "playerId": "251327",
+        "date": "2024-07-09T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/alexander-laukart/transfers/spieler/251327/transfer_id/5095567"
+    }
+  }
+}

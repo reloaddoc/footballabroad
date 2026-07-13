@@ -1,0 +1,423 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1067492",
+    "history": {
+      "terminated": [
+        {
+          "id": "6320449",
+          "transferSource": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "38381",
+            "coachId": "114100"
+          },
+          "transferDestination": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "30749",
+            "coachId": "102602"
+          },
+          "details": {
+            "playerId": "1067492",
+            "date": "2026-05-21T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 224,
+              "daysDisplay": "7 Months, 10 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noa-prestel/transfers/spieler/1067492/transfer_id/6320449"
+        },
+        {
+          "id": "5584637",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3931",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "38381",
+            "coachId": "114100"
+          },
+          "details": {
+            "playerId": "1067492",
+            "date": "2025-03-25T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noa-prestel/transfers/spieler/1067492/transfer_id/5584637"
+        },
+        {
+          "id": "5295027",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "3822",
+            "coachId": "59154"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "3931",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1067492",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noa-prestel/transfers/spieler/1067492/transfer_id/5295027"
+        },
+        {
+          "id": "4782343",
+          "transferSource": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "28545",
+            "coachId": "102357"
+          },
+          "transferDestination": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "3822",
+            "coachId": "109489"
+          },
+          "details": {
+            "playerId": "1067492",
+            "date": "2023-12-02T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 29,
+              "daysDisplay": "29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/noa-prestel/transfers/spieler/1067492/transfer_id/4782343"
+        },
+        {
+          "id": "4424220",
+          "transferSource": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "43613",
+            "coachId": "121671"
+          },
+          "transferDestination": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "28545",
+            "coachId": "102357"
+          },
+          "details": {
+            "playerId": "1067492",
+            "date": "2023-12-01T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 30,
+              "daysDisplay": "30 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/noa-prestel/transfers/spieler/1067492/transfer_id/4424220"
+        },
+        {
+          "id": "4374593",
+          "transferSource": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "28545",
+            "coachId": "42296"
+          },
+          "transferDestination": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "43613",
+            "coachId": "112513"
+          },
+          "details": {
+            "playerId": "1067492",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": "2023-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/noa-prestel/transfers/spieler/1067492/transfer_id/4374593"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 25000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "25.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "38381",
+      "30749",
+      "3931",
+      "3822",
+      "28545",
+      "43613"
+    ],
+    "coachIds": [
+      "114100",
+      "102602",
+      "59154",
+      "102357",
+      "109489",
+      "121671",
+      "42296",
+      "112513"
+    ],
+    "competitionIds": [
+      "NSL1",
+      "NLS6"
+    ],
+    "mostRecentTransfer": {
+      "id": "6320449",
+      "transferSource": {
+        "competitionId": "NSL1",
+        "countryId": 120,
+        "clubId": "38381",
+        "coachId": "114100"
+      },
+      "transferDestination": {
+        "competitionId": "NSL1",
+        "countryId": 120,
+        "clubId": "30749",
+        "coachId": "102602"
+      },
+      "details": {
+        "playerId": "1067492",
+        "date": "2026-05-21T00:00:00+02:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 75000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "75.00",
+            "suffix": "K"
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 224,
+          "daysDisplay": "7 Months, 10 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/noa-prestel/transfers/spieler/1067492/transfer_id/6320449"
+    }
+  }
+}

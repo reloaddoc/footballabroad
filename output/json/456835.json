@@ -1,0 +1,541 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "456835",
+    "history": {
+      "terminated": [
+        {
+          "id": "5175859",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3716",
+            "coachId": "19937"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3820",
+            "coachId": "4374"
+          },
+          "details": {
+            "playerId": "456835",
+            "date": "2024-08-06T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 300000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "300.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": 230000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "230.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 328,
+              "daysDisplay": "10 Months, 24 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/will-evans/transfers/spieler/456835/transfer_id/5175859"
+        },
+        {
+          "id": "3863788",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "27843",
+            "coachId": "17301"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3716",
+            "coachId": "59436"
+          },
+          "details": {
+            "playerId": "456835",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/will-evans/transfers/spieler/456835/transfer_id/3863788"
+        },
+        {
+          "id": "2923900",
+          "transferSource": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "53152",
+            "coachId": "48814"
+          },
+          "transferDestination": {
+            "competitionId": "WAL1",
+            "countryId": 191,
+            "clubId": "27843",
+            "coachId": "17301"
+          },
+          "details": {
+            "playerId": "456835",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/will-evans/transfers/spieler/456835/transfer_id/2923900"
+        },
+        {
+          "id": "1582301",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "111054",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "53152",
+            "coachId": "48814"
+          },
+          "details": {
+            "playerId": "456835",
+            "date": "2015-09-20T00:00:00+02:00",
+            "contractUntilDate": "2019-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/will-evans/transfers/spieler/456835/transfer_id/1582301"
+        },
+        {
+          "id": "4855268",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "92769",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "111054",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "456835",
+            "date": "2015-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/will-evans/transfers/spieler/456835/transfer_id/4855268"
+        },
+        {
+          "id": "4855270",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "91998",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "92769",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "456835",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/will-evans/transfers/spieler/456835/transfer_id/4855270"
+        },
+        {
+          "id": "4855269",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "116782",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "91998",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "456835",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/will-evans/transfers/spieler/456835/transfer_id/4855269"
+        },
+        {
+          "id": "4855267",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "54096",
+            "coachId": "127206"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 191,
+            "clubId": "116782",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "456835",
+            "date": "2012-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/will-evans/transfers/spieler/456835/transfer_id/4855267"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 230000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "230.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 29,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3716",
+      "3820",
+      "27843",
+      "53152",
+      "111054",
+      "92769",
+      "91998",
+      "116782",
+      "54096"
+    ],
+    "coachIds": [
+      "19937",
+      "4374",
+      "17301",
+      "59436",
+      "48814",
+      "127206"
+    ],
+    "competitionIds": [
+      "GB4",
+      "GB3",
+      "WAL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "5175859",
+      "transferSource": {
+        "competitionId": "GB4",
+        "countryId": 189,
+        "clubId": "3716",
+        "coachId": "19937"
+      },
+      "transferDestination": {
+        "competitionId": "GB3",
+        "countryId": 189,
+        "clubId": "3820",
+        "coachId": "4374"
+      },
+      "details": {
+        "playerId": "456835",
+        "date": "2024-08-06T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 300000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "300.00",
+            "suffix": "K"
+          }
+        },
+        "age": 27,
+        "fee": {
+          "value": 230000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "230.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 328,
+          "daysDisplay": "10 Months, 24 Days"
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/will-evans/transfers/spieler/456835/transfer_id/5175859"
+    }
+  }
+}

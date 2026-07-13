@@ -1,0 +1,541 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "969478",
+    "history": {
+      "terminated": [
+        {
+          "id": "6384773",
+          "transferSource": {
+            "competitionId": "A2SW",
+            "countryId": 12,
+            "clubId": "3747",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "A2SW",
+            "countryId": 12,
+            "clubId": "2931",
+            "coachId": "88229"
+          },
+          "details": {
+            "playerId": "969478",
+            "date": "2026-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuto-fujita/transfers/spieler/969478/transfer_id/6384773"
+        },
+        {
+          "id": "6121724",
+          "transferSource": {
+            "competitionId": "TOSL",
+            "countryId": 77,
+            "clubId": "29180",
+            "coachId": "94640"
+          },
+          "transferDestination": {
+            "competitionId": "A2SW",
+            "countryId": 12,
+            "clubId": "3747",
+            "coachId": "88219"
+          },
+          "details": {
+            "playerId": "969478",
+            "date": "2026-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 30,
+              "daysDisplay": "30 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuto-fujita/transfers/spieler/969478/transfer_id/6121724"
+        },
+        {
+          "id": "5393487",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "29172",
+            "coachId": "27845"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "29180",
+            "coachId": "130761"
+          },
+          "details": {
+            "playerId": "969478",
+            "date": "2025-01-20T00:00:00+01:00",
+            "contractUntilDate": "2026-01-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 11,
+              "daysDisplay": "11 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuto-fujita/transfers/spieler/969478/transfer_id/5393487"
+        },
+        {
+          "id": "5091358",
+          "transferSource": {
+            "competitionId": "K3L",
+            "countryId": 87,
+            "clubId": "39251",
+            "coachId": "126682"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "29172",
+            "coachId": "27845"
+          },
+          "details": {
+            "playerId": "969478",
+            "date": "2024-12-31T00:00:00+01:00",
+            "contractUntilDate": "2025-01-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/yuto-fujita/transfers/spieler/969478/transfer_id/5091358"
+        },
+        {
+          "id": "5091357",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "29172",
+            "coachId": "27845"
+          },
+          "transferDestination": {
+            "competitionId": "K3L",
+            "countryId": 87,
+            "clubId": "39251",
+            "coachId": "126682"
+          },
+          "details": {
+            "playerId": "969478",
+            "date": "2024-07-03T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 212,
+              "daysDisplay": "6 Months, 28 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/yuto-fujita/transfers/spieler/969478/transfer_id/5091357"
+        },
+        {
+          "id": "4732577",
+          "transferSource": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "23580",
+            "coachId": "52256"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "29172",
+            "coachId": "27847"
+          },
+          "details": {
+            "playerId": "969478",
+            "date": "2024-01-08T00:00:00+01:00",
+            "contractUntilDate": "2025-01-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 23,
+              "daysDisplay": "23 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuto-fujita/transfers/spieler/969478/transfer_id/4732577"
+        },
+        {
+          "id": "3670202",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "27042",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "23580",
+            "coachId": "52256"
+          },
+          "details": {
+            "playerId": "969478",
+            "date": "2022-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuto-fujita/transfers/spieler/969478/transfer_id/3670202"
+        },
+        {
+          "id": "3670203",
+          "transferSource": {
+            "competitionId": "J18E",
+            "countryId": 77,
+            "clubId": "24092",
+            "coachId": "94324"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "27042",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "969478",
+            "date": "2018-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/yuto-fujita/transfers/spieler/969478/transfer_id/3670203"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 26,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "3747",
+      "2931",
+      "29180",
+      "29172",
+      "39251",
+      "23580",
+      "27042",
+      "24092"
+    ],
+    "coachIds": [
+      "88229",
+      "94640",
+      "88219",
+      "27845",
+      "130761",
+      "126682",
+      "52256",
+      "27847",
+      "94324"
+    ],
+    "competitionIds": [
+      "A2SW",
+      "TOSL",
+      "JAP3",
+      "JFL",
+      "K3L",
+      "JAP2",
+      "J18E"
+    ],
+    "mostRecentTransfer": {
+      "id": "6384773",
+      "transferSource": {
+        "competitionId": "A2SW",
+        "countryId": 12,
+        "clubId": "3747",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "A2SW",
+        "countryId": 12,
+        "clubId": "2931",
+        "coachId": "88229"
+      },
+      "details": {
+        "playerId": "969478",
+        "date": "2026-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/yuto-fujita/transfers/spieler/969478/transfer_id/6384773"
+    }
+  }
+}

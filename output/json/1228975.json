@@ -1,0 +1,245 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1228975",
+    "history": {
+      "terminated": [
+        {
+          "id": "5776500",
+          "transferSource": {
+            "competitionId": "FR3",
+            "countryId": 50,
+            "clubId": "13466",
+            "coachId": "88258"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "70232"
+          },
+          "details": {
+            "playerId": "1228975",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/odilon-kouassi/transfers/spieler/1228975/transfer_id/5776500"
+        },
+        {
+          "id": "5776499",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "24490"
+          },
+          "transferDestination": {
+            "competitionId": "FR3",
+            "countryId": 50,
+            "clubId": "13466",
+            "coachId": "88258"
+          },
+          "details": {
+            "playerId": "1228975",
+            "date": "2025-07-14T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1082,
+              "daysDisplay": "2 Years, 11 Months, 16 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/odilon-kouassi/transfers/spieler/1228975/transfer_id/5776499"
+        },
+        {
+          "id": "4856270",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 38,
+            "clubId": "116789",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "18765"
+          },
+          "details": {
+            "playerId": "1228975",
+            "date": "2024-01-29T00:00:00+01:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/odilon-kouassi/transfers/spieler/1228975/transfer_id/4856270"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 50000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "50.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "13466",
+      "2414",
+      "116789"
+    ],
+    "coachIds": [
+      "88258",
+      "70232",
+      "24490",
+      "18765"
+    ],
+    "competitionIds": [
+      "FR3",
+      "DK1",
+      "DK2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5776500",
+      "transferSource": {
+        "competitionId": "FR3",
+        "countryId": 50,
+        "clubId": "13466",
+        "coachId": "88258"
+      },
+      "transferDestination": {
+        "competitionId": "DK1",
+        "countryId": 39,
+        "clubId": "2414",
+        "coachId": "70232"
+      },
+      "details": {
+        "playerId": "1228975",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2028-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/odilon-kouassi/transfers/spieler/1228975/transfer_id/5776500"
+    }
+  }
+}

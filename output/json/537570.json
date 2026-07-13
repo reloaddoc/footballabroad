@@ -1,0 +1,428 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "537570",
+    "history": {
+      "terminated": [
+        {
+          "id": "6160701",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "120616"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "3362",
+            "coachId": "114703"
+          },
+          "details": {
+            "playerId": "537570",
+            "date": "2026-02-02T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 450000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "450.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 148,
+              "daysDisplay": "4 Months, 28 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tobias-stagaard/transfers/spieler/537570/transfer_id/6160701"
+        },
+        {
+          "id": "4423926",
+          "transferSource": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "18765"
+          },
+          "transferDestination": {
+            "competitionId": "DK3V",
+            "countryId": 39,
+            "clubId": "3426",
+            "coachId": "28077"
+          },
+          "details": {
+            "playerId": "537570",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tobias-stagaard/transfers/spieler/537570/transfer_id/4423926"
+        },
+        {
+          "id": "4207917",
+          "transferSource": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "1231",
+            "coachId": "56374"
+          },
+          "transferDestination": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "38063"
+          },
+          "details": {
+            "playerId": "537570",
+            "date": "2022-12-31T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/tobias-stagaard/transfers/spieler/537570/transfer_id/4207917"
+        },
+        {
+          "id": "3930747",
+          "transferSource": {
+            "competitionId": "DK1",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "38063"
+          },
+          "transferDestination": {
+            "competitionId": "IS1",
+            "countryId": 73,
+            "clubId": "1231",
+            "coachId": "56374"
+          },
+          "details": {
+            "playerId": "537570",
+            "date": "2022-07-09T00:00:00+02:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 356,
+              "daysDisplay": "11 Months, 21 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/tobias-stagaard/transfers/spieler/537570/transfer_id/3930747"
+        },
+        {
+          "id": "3383935",
+          "transferSource": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14349",
+            "coachId": "85464"
+          },
+          "transferDestination": {
+            "competitionId": "DK2",
+            "countryId": 39,
+            "clubId": "2414",
+            "coachId": "38063"
+          },
+          "details": {
+            "playerId": "537570",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tobias-stagaard/transfers/spieler/537570/transfer_id/3383935"
+        },
+        {
+          "id": "2602441",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 39,
+            "clubId": "11253",
+            "coachId": "46974"
+          },
+          "transferDestination": {
+            "competitionId": "DKDL",
+            "countryId": 39,
+            "clubId": "14349",
+            "coachId": "56731"
+          },
+          "details": {
+            "playerId": "537570",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tobias-stagaard/transfers/spieler/537570/transfer_id/2602441"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 450000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "450.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3426",
+      "3362",
+      "2414",
+      "1231",
+      "14349",
+      "11253"
+    ],
+    "coachIds": [
+      "120616",
+      "114703",
+      "18765",
+      "28077",
+      "56374",
+      "38063",
+      "85464",
+      "46974",
+      "56731"
+    ],
+    "competitionIds": [
+      "DK2",
+      "SE2",
+      "DK3V",
+      "IS1",
+      "DK1",
+      "DKDL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6160701",
+      "transferSource": {
+        "competitionId": "DK2",
+        "countryId": 39,
+        "clubId": "3426",
+        "coachId": "120616"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "3362",
+        "coachId": "114703"
+      },
+      "details": {
+        "playerId": "537570",
+        "date": "2026-02-02T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 450000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "450.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 148,
+          "daysDisplay": "4 Months, 28 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/tobias-stagaard/transfers/spieler/537570/transfer_id/6160701"
+    }
+  }
+}

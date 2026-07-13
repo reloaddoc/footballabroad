@@ -1,0 +1,688 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "752561",
+    "history": {
+      "terminated": [
+        {
+          "id": "6195169",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "BRPB",
+            "countryId": 26,
+            "clubId": "17964",
+            "coachId": "37824"
+          },
+          "details": {
+            "playerId": "752561",
+            "date": "2026-02-10T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/6195169"
+        },
+        {
+          "id": "6151907",
+          "transferSource": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "5677",
+            "coachId": "57012"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "752561",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 336,
+              "daysDisplay": "11 Months, 2 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/6151907"
+        },
+        {
+          "id": "5676466",
+          "transferSource": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "42628",
+            "coachId": "33100"
+          },
+          "transferDestination": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "5677",
+            "coachId": "57012"
+          },
+          "details": {
+            "playerId": "752561",
+            "date": "2025-12-31T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/5676466"
+        },
+        {
+          "id": "5676467",
+          "transferSource": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "5677",
+            "coachId": "83174"
+          },
+          "transferDestination": {
+            "competitionId": "JAP3",
+            "countryId": 77,
+            "clubId": "42628",
+            "coachId": "88264"
+          },
+          "details": {
+            "playerId": "752561",
+            "date": "2025-06-01T00:00:00+02:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/5676467"
+        },
+        {
+          "id": "5377306",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "3330",
+            "coachId": "24036"
+          },
+          "transferDestination": {
+            "competitionId": "BRA2",
+            "countryId": 26,
+            "clubId": "5677",
+            "coachId": "83174"
+          },
+          "details": {
+            "playerId": "752561",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 729,
+              "daysDisplay": "1 Year, 11 Months, 30 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/5377306"
+        },
+        {
+          "id": "5158992",
+          "transferSource": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "7078",
+            "coachId": "62317"
+          },
+          "transferDestination": {
+            "competitionId": "BRSC",
+            "countryId": 26,
+            "clubId": "3330",
+            "coachId": "4474"
+          },
+          "details": {
+            "playerId": "752561",
+            "date": "2024-07-29T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 336,
+              "daysDisplay": "11 Months, 1 Day"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/5158992"
+        },
+        {
+          "id": "4624762",
+          "transferSource": {
+            "competitionId": "E3G1",
+            "countryId": 157,
+            "clubId": "58946",
+            "coachId": "103352"
+          },
+          "transferDestination": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "7078",
+            "coachId": "62317"
+          },
+          "details": {
+            "playerId": "752561",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/4624762"
+        },
+        {
+          "id": "4624761",
+          "transferSource": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "7078",
+            "coachId": "93950"
+          },
+          "transferDestination": {
+            "competitionId": "E3G1",
+            "countryId": 157,
+            "clubId": "58946",
+            "coachId": "103352"
+          },
+          "details": {
+            "playerId": "752561",
+            "date": "2023-09-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/4624761"
+        },
+        {
+          "id": "4613412",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "17954",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "7078",
+            "coachId": "93950"
+          },
+          "details": {
+            "playerId": "752561",
+            "date": "2023-08-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/4613412"
+        },
+        {
+          "id": "3821337",
+          "transferSource": {
+            "competitionId": "CB20",
+            "countryId": 26,
+            "clubId": "14807",
+            "coachId": "87784"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 26,
+            "clubId": "17954",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "752561",
+            "date": "2022-04-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/3821337"
+        },
+        {
+          "id": "3423805",
+          "transferSource": {
+            "competitionId": "CB20",
+            "countryId": 26,
+            "clubId": "14708",
+            "coachId": "91297"
+          },
+          "transferDestination": {
+            "competitionId": "CB20",
+            "countryId": 26,
+            "clubId": "14807",
+            "coachId": "103757"
+          },
+          "details": {
+            "playerId": "752561",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2022-01-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/3423805"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "515",
+      "17964",
+      "5677",
+      "42628",
+      "3330",
+      "7078",
+      "58946",
+      "17954",
+      "14807",
+      "14708"
+    ],
+    "coachIds": [
+      "37824",
+      "57012",
+      "33100",
+      "83174",
+      "88264",
+      "24036",
+      "62317",
+      "4474",
+      "103352",
+      "93950",
+      "87784",
+      "91297",
+      "103757"
+    ],
+    "competitionIds": [
+      "BRPB",
+      "BRA2",
+      "JAP3",
+      "E4G1",
+      "BRSC",
+      "E3G1",
+      "CB20"
+    ],
+    "mostRecentTransfer": {
+      "id": "6195169",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 0,
+        "clubId": "515",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "BRPB",
+        "countryId": 26,
+        "clubId": "17964",
+        "coachId": "37824"
+      },
+      "details": {
+        "playerId": "752561",
+        "date": "2026-02-10T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 24,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "-",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/lucas-sena/transfers/spieler/752561/transfer_id/6195169"
+    }
+  }
+}

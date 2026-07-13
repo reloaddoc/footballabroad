@@ -1,0 +1,150 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1095970",
+    "history": {
+      "terminated": [
+        {
+          "id": "5187605",
+          "transferSource": {
+            "competitionId": "NPFL",
+            "countryId": 124,
+            "clubId": "2979",
+            "coachId": "109228"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "9614",
+            "coachId": "9057"
+          },
+          "details": {
+            "playerId": "1095970",
+            "date": "2024-08-10T00:00:00+02:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sunday-anyanwu/transfers/spieler/1095970/transfer_id/5187605"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 300000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "300.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2979",
+      "9614"
+    ],
+    "coachIds": [
+      "109228",
+      "9057"
+    ],
+    "competitionIds": [
+      "NPFL",
+      "SE2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5187605",
+      "transferSource": {
+        "competitionId": "NPFL",
+        "countryId": 124,
+        "clubId": "2979",
+        "coachId": "109228"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "9614",
+        "coachId": "9057"
+      },
+      "details": {
+        "playerId": "1095970",
+        "date": "2024-08-10T00:00:00+02:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/sunday-anyanwu/transfers/spieler/1095970/transfer_id/5187605"
+    }
+  }
+}

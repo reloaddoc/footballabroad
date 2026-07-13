@@ -1,0 +1,270 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "876309",
+    "history": {
+      "terminated": [
+        {
+          "id": "6089877",
+          "transferSource": {
+            "competitionId": "J2J3",
+            "countryId": 77,
+            "clubId": "22179",
+            "coachId": "8854"
+          },
+          "transferDestination": {
+            "competitionId": "RSK2",
+            "countryId": 87,
+            "clubId": "135830",
+            "coachId": "53514"
+          },
+          "details": {
+            "playerId": "876309",
+            "date": "2026-01-16T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 380,
+              "daysDisplay": "1 Year, 15 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/min-jun-kim/transfers/spieler/876309/transfer_id/6089877"
+        },
+        {
+          "id": "4960263",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "88001",
+            "coachId": "81520"
+          },
+          "transferDestination": {
+            "competitionId": "JAP2",
+            "countryId": 77,
+            "clubId": "22179",
+            "coachId": "25714"
+          },
+          "details": {
+            "playerId": "876309",
+            "date": "2024-01-08T00:00:00+01:00",
+            "contractUntilDate": "2027-01-31T00:00:00+01:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/min-jun-kim/transfers/spieler/876309/transfer_id/4960263"
+        },
+        {
+          "id": "3306145",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "115862",
+            "coachId": "95894"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 87,
+            "clubId": "88001",
+            "coachId": "81520"
+          },
+          "details": {
+            "playerId": "876309",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/min-jun-kim/transfers/spieler/876309/transfer_id/3306145"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "22179",
+      "135830",
+      "88001",
+      "115862"
+    ],
+    "coachIds": [
+      "8854",
+      "53514",
+      "81520",
+      "25714",
+      "95894"
+    ],
+    "competitionIds": [
+      "J2J3",
+      "RSK2",
+      "JAP2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6089877",
+      "transferSource": {
+        "competitionId": "J2J3",
+        "countryId": 77,
+        "clubId": "22179",
+        "coachId": "8854"
+      },
+      "transferDestination": {
+        "competitionId": "RSK2",
+        "countryId": 87,
+        "clubId": "135830",
+        "coachId": "53514"
+      },
+      "details": {
+        "playerId": "876309",
+        "date": "2026-01-16T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 380,
+          "daysDisplay": "1 Year, 15 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/min-jun-kim/transfers/spieler/876309/transfer_id/6089877"
+    }
+  }
+}

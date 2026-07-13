@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1383698",
+    "history": {
+      "terminated": [
+        {
+          "id": "6185462",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 82,
+            "clubId": "61619",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "1055",
+            "coachId": "103839"
+          },
+          "details": {
+            "playerId": "1383698",
+            "date": "2026-02-14T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andres-odhiambo-omondi/transfers/spieler/1383698/transfer_id/6185462"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 18,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "61619",
+      "1055"
+    ],
+    "coachIds": [
+      "103839"
+    ],
+    "competitionIds": [
+      "SE3N"
+    ],
+    "mostRecentTransfer": {
+      "id": "6185462",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 82,
+        "clubId": "61619",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "SE3N",
+        "countryId": 147,
+        "clubId": "1055",
+        "coachId": "103839"
+      },
+      "details": {
+        "playerId": "1383698",
+        "date": "2026-02-14T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 18,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "?",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/andres-odhiambo-omondi/transfers/spieler/1383698/transfer_id/6185462"
+    }
+  }
+}

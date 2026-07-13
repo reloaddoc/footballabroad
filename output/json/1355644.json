@@ -1,0 +1,267 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1355644",
+    "history": {
+      "terminated": [
+        {
+          "id": "6079046",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "110347"
+          },
+          "transferDestination": {
+            "competitionId": "MNE2",
+            "countryId": 216,
+            "clubId": "50983",
+            "coachId": "19949"
+          },
+          "details": {
+            "playerId": "1355644",
+            "date": "2026-01-26T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 5,
+              "daysDisplay": "5 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amir-terajima/transfers/spieler/1355644/transfer_id/6079046"
+        },
+        {
+          "id": "5408741",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "27968",
+            "coachId": "86049"
+          },
+          "transferDestination": {
+            "competitionId": "JFL",
+            "countryId": 77,
+            "clubId": "38137",
+            "coachId": "110347"
+          },
+          "details": {
+            "playerId": "1355644",
+            "date": "2025-02-01T00:00:00+01:00",
+            "contractUntilDate": "2026-01-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amir-terajima/transfers/spieler/1355644/transfer_id/5408741"
+        },
+        {
+          "id": "5408742",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "35733",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "27968",
+            "coachId": "86049"
+          },
+          "details": {
+            "playerId": "1355644",
+            "date": "2021-04-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/amir-terajima/transfers/spieler/1355644/transfer_id/5408742"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 24,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "38137",
+      "50983",
+      "27968",
+      "35733"
+    ],
+    "coachIds": [
+      "110347",
+      "19949",
+      "86049"
+    ],
+    "competitionIds": [
+      "MNE2",
+      "JFL"
+    ],
+    "mostRecentTransfer": {
+      "id": "6079046",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 77,
+        "clubId": "38137",
+        "coachId": "110347"
+      },
+      "transferDestination": {
+        "competitionId": "MNE2",
+        "countryId": 216,
+        "clubId": "50983",
+        "coachId": "19949"
+      },
+      "details": {
+        "playerId": "1355644",
+        "date": "2026-01-26T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 23,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 5,
+          "daysDisplay": "5 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/amir-terajima/transfers/spieler/1355644/transfer_id/6079046"
+    }
+  }
+}

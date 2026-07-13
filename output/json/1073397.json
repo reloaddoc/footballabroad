@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1073397",
+    "history": {
+      "terminated": [
+        {
+          "id": "5866998",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "3622",
+            "coachId": "4436"
+          },
+          "transferDestination": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "370",
+            "coachId": "28565"
+          },
+          "details": {
+            "playerId": "1073397",
+            "date": "2025-08-14T00:00:00+02:00",
+            "contractUntilDate": "2030-05-31T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 650000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "650.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 869,
+              "daysDisplay": "2 Years, 4 Months, 17 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kenan-bilalovic/transfers/spieler/1073397/transfer_id/5866998"
+        },
+        {
+          "id": "5144317",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "5965",
+            "coachId": "32053"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "3622",
+            "coachId": "79043"
+          },
+          "details": {
+            "playerId": "1073397",
+            "date": "2024-11-30T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/kenan-bilalovic/transfers/spieler/1073397/transfer_id/5144317"
+        },
+        {
+          "id": "5144316",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "3622",
+            "coachId": "69215"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "5965",
+            "coachId": "32053"
+          },
+          "details": {
+            "playerId": "1073397",
+            "date": "2024-07-18T00:00:00+02:00",
+            "contractUntilDate": "2024-11-30T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1261,
+              "daysDisplay": "3 Years, 5 Months, 13 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/kenan-bilalovic/transfers/spieler/1073397/transfer_id/5144316"
+        },
+        {
+          "id": "4449770",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "23995",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "3622",
+            "coachId": "68946"
+          },
+          "details": {
+            "playerId": "1073397",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kenan-bilalovic/transfers/spieler/1073397/transfer_id/4449770"
+        },
+        {
+          "id": "4449771",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "80780",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "23995",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1073397",
+            "date": "2022-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kenan-bilalovic/transfers/spieler/1073397/transfer_id/4449771"
+        },
+        {
+          "id": "5892593",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "133042",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "80780",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1073397",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/kenan-bilalovic/transfers/spieler/1073397/transfer_id/5892593"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 650000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "650.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "3622",
+      "370",
+      "5965",
+      "23995",
+      "80780",
+      "133042"
+    ],
+    "coachIds": [
+      "4436",
+      "28565",
+      "32053",
+      "79043",
+      "69215",
+      "68946"
+    ],
+    "competitionIds": [
+      "SE1",
+      "SC1",
+      "SE2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5866998",
+      "transferSource": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "3622",
+        "coachId": "4436"
+      },
+      "transferDestination": {
+        "competitionId": "SC1",
+        "countryId": 190,
+        "clubId": "370",
+        "coachId": "28565"
+      },
+      "details": {
+        "playerId": "1073397",
+        "date": "2025-08-14T00:00:00+02:00",
+        "contractUntilDate": "2030-05-31T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 250000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "250.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": 650000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "650.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 869,
+          "daysDisplay": "2 Years, 4 Months, 17 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/kenan-bilalovic/transfers/spieler/1073397/transfer_id/5866998"
+    }
+  }
+}

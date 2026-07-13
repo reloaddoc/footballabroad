@@ -1,0 +1,470 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1096365",
+    "history": {
+      "terminated": [
+        {
+          "id": "6167038",
+          "transferSource": {
+            "competitionId": "NTD",
+            "countryId": 122,
+            "clubId": "8621",
+            "coachId": "107839"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "52",
+            "coachId": "6223"
+          },
+          "details": {
+            "playerId": "1096365",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/andy-visser/transfers/spieler/1096365/transfer_id/6167038"
+        },
+        {
+          "id": "6167037",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "52",
+            "coachId": "6223"
+          },
+          "transferDestination": {
+            "competitionId": "NTD",
+            "countryId": 122,
+            "clubId": "8621",
+            "coachId": "107839"
+          },
+          "details": {
+            "playerId": "1096365",
+            "date": "2026-02-03T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "remainingContractPeriod": {
+              "days": 512,
+              "daysDisplay": "1 Year, 4 Months, 27 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/andy-visser/transfers/spieler/1096365/transfer_id/6167037"
+        },
+        {
+          "id": "5911011",
+          "transferSource": {
+            "competitionId": "NL2",
+            "countryId": 122,
+            "clubId": "499",
+            "coachId": "11289"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "52",
+            "coachId": "6223"
+          },
+          "details": {
+            "playerId": "1096365",
+            "date": "2025-09-01T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 302,
+              "daysDisplay": "9 Months, 29 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andy-visser/transfers/spieler/1096365/transfer_id/5911011"
+        },
+        {
+          "id": "4839392",
+          "transferSource": {
+            "competitionId": "212F",
+            "countryId": 122,
+            "clubId": "36892",
+            "coachId": "35578"
+          },
+          "transferDestination": {
+            "competitionId": "NL1",
+            "countryId": 122,
+            "clubId": "499",
+            "coachId": "597"
+          },
+          "details": {
+            "playerId": "1096365",
+            "date": "2024-01-01T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andy-visser/transfers/spieler/1096365/transfer_id/4839392"
+        },
+        {
+          "id": "4213392",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "40253",
+            "coachId": "61046"
+          },
+          "transferDestination": {
+            "competitionId": "212F",
+            "countryId": 122,
+            "clubId": "36892",
+            "coachId": "43419"
+          },
+          "details": {
+            "playerId": "1096365",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andy-visser/transfers/spieler/1096365/transfer_id/4213392"
+        },
+        {
+          "id": "4213393",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "82600",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "40253",
+            "coachId": "61046"
+          },
+          "details": {
+            "playerId": "1096365",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andy-visser/transfers/spieler/1096365/transfer_id/4213393"
+        },
+        {
+          "id": "4213394",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "12604",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 122,
+            "clubId": "82600",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1096365",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/andy-visser/transfers/spieler/1096365/transfer_id/4213394"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 175000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "175.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "8621",
+      "52",
+      "499",
+      "36892",
+      "40253",
+      "82600",
+      "12604"
+    ],
+    "coachIds": [
+      "107839",
+      "6223",
+      "11289",
+      "35578",
+      "597",
+      "61046",
+      "43419"
+    ],
+    "competitionIds": [
+      "NTD",
+      "L3",
+      "NL2",
+      "212F",
+      "NL1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6167038",
+      "transferSource": {
+        "competitionId": "NTD",
+        "countryId": 122,
+        "clubId": "8621",
+        "coachId": "107839"
+      },
+      "transferDestination": {
+        "competitionId": "L3",
+        "countryId": 40,
+        "clubId": "52",
+        "coachId": "6223"
+      },
+      "details": {
+        "playerId": "1096365",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 175000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "175.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "remainingContractPeriod": {
+          "days": 0,
+          "daysDisplay": "Unknown"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/andy-visser/transfers/spieler/1096365/transfer_id/6167038"
+    }
+  }
+}

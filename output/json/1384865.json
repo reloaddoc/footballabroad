@@ -1,0 +1,338 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1384865",
+    "history": {
+      "terminated": [
+        {
+          "id": "6418543",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2719",
+            "coachId": "147025"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "9611",
+            "coachId": "57793"
+          },
+          "details": {
+            "playerId": "1384865",
+            "date": "2026-07-10T00:00:00+02:00",
+            "contractUntilDate": "2026-11-30T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1635,
+              "daysDisplay": "4 Years, 5 Months, 21 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ibrahim-adewale/transfers/spieler/1384865/transfer_id/6418543"
+        },
+        {
+          "id": "6007113",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 124,
+            "clubId": "77461",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2719",
+            "coachId": "147025"
+          },
+          "details": {
+            "playerId": "1384865",
+            "date": "2026-01-29T00:00:00+01:00",
+            "contractUntilDate": "2030-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/ibrahim-adewale/transfers/spieler/1384865/transfer_id/6007113"
+        },
+        {
+          "id": "5570508",
+          "transferSource": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "78287",
+            "coachId": "32789"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 124,
+            "clubId": "77461",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1384865",
+            "date": "2025-11-30T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ibrahim-adewale/transfers/spieler/1384865/transfer_id/5570508"
+        },
+        {
+          "id": "5570507",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 124,
+            "clubId": "77461",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "SE3N",
+            "countryId": 147,
+            "clubId": "78287",
+            "coachId": "32789"
+          },
+          "details": {
+            "playerId": "1384865",
+            "date": "2025-03-14T00:00:00+01:00",
+            "contractUntilDate": "2025-11-30T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/ibrahim-adewale/transfers/spieler/1384865/transfer_id/5570507"
+        }
+      ],
+      "pending": [
+        {
+          "id": "6418544",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "9611",
+            "coachId": "57793"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "2719",
+            "coachId": "147025"
+          },
+          "details": {
+            "playerId": "1384865",
+            "date": "2026-11-30T00:00:00+01:00",
+            "contractUntilDate": "2030-12-31T00:00:00+01:00",
+            "seasonId": 2026,
+            "isPending": true,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/ibrahim-adewale/transfers/spieler/1384865/transfer_id/6418544"
+        }
+      ],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 19,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "9611",
+      "2719",
+      "77461",
+      "78287"
+    ],
+    "coachIds": [
+      "57793",
+      "147025",
+      "32789"
+    ],
+    "competitionIds": [
+      "SE2",
+      "SE1",
+      "SE3N"
+    ],
+    "mostRecentTransfer": {
+      "id": "6418543",
+      "transferSource": {
+        "competitionId": "SE1",
+        "countryId": 147,
+        "clubId": "2719",
+        "coachId": "147025"
+      },
+      "transferDestination": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "9611",
+        "coachId": "57793"
+      },
+      "details": {
+        "playerId": "1384865",
+        "date": "2026-07-10T00:00:00+02:00",
+        "contractUntilDate": "2026-11-30T00:00:00+01:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 19,
+        "remainingContractPeriod": {
+          "days": 1635,
+          "daysDisplay": "4 Years, 5 Months, 21 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "ACTIVE_LOAN_TRANSFER",
+        "name": "loan transfer",
+        "feeDescription": "loan transfer"
+      },
+      "relativeUrl": "/ibrahim-adewale/transfers/spieler/1384865/transfer_id/6418543"
+    }
+  }
+}

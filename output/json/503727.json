@@ -1,0 +1,710 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "503727",
+    "history": {
+      "terminated": [
+        {
+          "id": "6416442",
+          "transferSource": {
+            "competitionId": "SLO1",
+            "countryId": 154,
+            "clubId": "7918",
+            "coachId": "5041"
+          },
+          "transferDestination": {
+            "competitionId": "UKR1",
+            "countryId": 177,
+            "clubId": "63007",
+            "coachId": "108283"
+          },
+          "details": {
+            "playerId": "503727",
+            "date": "2026-07-10T00:00:00+02:00",
+            "contractUntilDate": "2029-06-30T00:00:00+02:00",
+            "seasonId": 2026,
+            "isPending": false,
+            "marketValue": {
+              "value": 400000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "400.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": 1350000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "1.35",
+                "suffix": "M"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 355,
+              "daysDisplay": "11 Months, 20 Days"
+            },
+            "season": {
+              "id": 2026,
+              "display": "26/27",
+              "cyclicalName": "2027",
+              "nonCyclicalName": "26/27"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/6416442"
+        },
+        {
+          "id": "6097477",
+          "transferSource": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "6017",
+            "coachId": "133030"
+          },
+          "transferDestination": {
+            "competitionId": "SLO1",
+            "countryId": 154,
+            "clubId": "7918",
+            "coachId": "5041"
+          },
+          "details": {
+            "playerId": "503727",
+            "date": "2026-01-05T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/6097477"
+        },
+        {
+          "id": "5456216",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "51585"
+          },
+          "transferDestination": {
+            "competitionId": "FI1",
+            "countryId": 49,
+            "clubId": "6017",
+            "coachId": "133030"
+          },
+          "details": {
+            "playerId": "503727",
+            "date": "2025-03-10T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/5456216"
+        },
+        {
+          "id": "6113097",
+          "transferSource": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2795",
+            "coachId": "51585"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "503727",
+            "date": "2025-01-13T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/6113097"
+        },
+        {
+          "id": "4998837",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "3688",
+            "coachId": "36047"
+          },
+          "transferDestination": {
+            "competitionId": "SC2",
+            "countryId": 190,
+            "clubId": "2795",
+            "coachId": "60545"
+          },
+          "details": {
+            "playerId": "503727",
+            "date": "2024-10-17T00:00:00+02:00",
+            "contractUntilDate": "2025-01-12T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 75000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "75.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/4998837"
+        },
+        {
+          "id": "3726195",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1035",
+            "coachId": "59847"
+          },
+          "transferDestination": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "3688",
+            "coachId": "3159"
+          },
+          "details": {
+            "playerId": "503727",
+            "date": "2022-01-31T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/3726195"
+        },
+        {
+          "id": "3058510",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9261",
+            "coachId": "15772"
+          },
+          "transferDestination": {
+            "competitionId": "GB2",
+            "countryId": 189,
+            "clubId": "1035",
+            "coachId": "33665"
+          },
+          "details": {
+            "playerId": "503727",
+            "date": "2020-09-12T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/3058510"
+        },
+        {
+          "id": "2551362",
+          "transferSource": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2999",
+            "coachId": "10655"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9261",
+            "coachId": "15772"
+          },
+          "details": {
+            "playerId": "503727",
+            "date": "2020-01-02T00:00:00+01:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/2551362"
+        },
+        {
+          "id": "2551361",
+          "transferSource": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9261",
+            "coachId": "15772"
+          },
+          "transferDestination": {
+            "competitionId": "SC1",
+            "countryId": 190,
+            "clubId": "2999",
+            "coachId": "10655"
+          },
+          "details": {
+            "playerId": "503727",
+            "date": "2019-07-11T00:00:00+02:00",
+            "contractUntilDate": "2020-05-31T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "remainingContractPeriod": {
+              "days": 355,
+              "daysDisplay": "11 Months, 19 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/2551361"
+        },
+        {
+          "id": "2551363",
+          "transferSource": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6920",
+            "coachId": "55740"
+          },
+          "transferDestination": {
+            "competitionId": "GB21",
+            "countryId": 189,
+            "clubId": "9261",
+            "coachId": "15772"
+          },
+          "details": {
+            "playerId": "503727",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/2551363"
+        },
+        {
+          "id": "1853531",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "50769",
+            "coachId": "70039"
+          },
+          "transferDestination": {
+            "competitionId": "GB18",
+            "countryId": 189,
+            "clubId": "6920",
+            "coachId": "55740"
+          },
+          "details": {
+            "playerId": "503727",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/1853531"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 1350000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "1.35",
+          "suffix": "M"
+        }
+      },
+      "averageAge": 25,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "7918",
+      "63007",
+      "6017",
+      "515",
+      "2795",
+      "3688",
+      "1035",
+      "9261",
+      "2999",
+      "6920",
+      "50769"
+    ],
+    "coachIds": [
+      "5041",
+      "108283",
+      "133030",
+      "51585",
+      "36047",
+      "60545",
+      "59847",
+      "3159",
+      "15772",
+      "33665",
+      "10655",
+      "55740",
+      "70039"
+    ],
+    "competitionIds": [
+      "SLO1",
+      "UKR1",
+      "FI1",
+      "SC2",
+      "GB4",
+      "GB3",
+      "GB21",
+      "GB2",
+      "SC1",
+      "GB18"
+    ],
+    "mostRecentTransfer": {
+      "id": "6416442",
+      "transferSource": {
+        "competitionId": "SLO1",
+        "countryId": 154,
+        "clubId": "7918",
+        "coachId": "5041"
+      },
+      "transferDestination": {
+        "competitionId": "UKR1",
+        "countryId": 177,
+        "clubId": "63007",
+        "coachId": "108283"
+      },
+      "details": {
+        "playerId": "503727",
+        "date": "2026-07-10T00:00:00+02:00",
+        "contractUntilDate": "2029-06-30T00:00:00+02:00",
+        "seasonId": 2026,
+        "isPending": false,
+        "marketValue": {
+          "value": 400000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "400.00",
+            "suffix": "K"
+          }
+        },
+        "age": 25,
+        "fee": {
+          "value": 1350000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "1.35",
+            "suffix": "M"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 355,
+          "daysDisplay": "11 Months, 20 Days"
+        },
+        "season": {
+          "id": 2026,
+          "display": "26/27",
+          "cyclicalName": "2027",
+          "nonCyclicalName": "26/27"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/cody-david/transfers/spieler/503727/transfer_id/6416442"
+    }
+  }
+}

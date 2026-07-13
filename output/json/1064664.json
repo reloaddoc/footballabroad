@@ -1,0 +1,517 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1064664",
+    "history": {
+      "terminated": [
+        {
+          "id": "5805659",
+          "transferSource": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "42039",
+            "coachId": "141386"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "41604",
+            "coachId": "80832"
+          },
+          "details": {
+            "playerId": "1064664",
+            "date": "2025-07-25T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joan-castano/transfers/spieler/1064664/transfer_id/5805659"
+        },
+        {
+          "id": "5439721",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "41604",
+            "coachId": "128337"
+          },
+          "transferDestination": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "42039",
+            "coachId": "141386"
+          },
+          "details": {
+            "playerId": "1064664",
+            "date": "2025-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/joan-castano/transfers/spieler/1064664/transfer_id/5439721"
+        },
+        {
+          "id": "5439720",
+          "transferSource": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "42039",
+            "coachId": "111352"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "41604",
+            "coachId": "128337"
+          },
+          "details": {
+            "playerId": "1064664",
+            "date": "2025-01-09T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 172,
+              "daysDisplay": "5 Months, 21 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/joan-castano/transfers/spieler/1064664/transfer_id/5439720"
+        },
+        {
+          "id": "5239547",
+          "transferSource": {
+            "competitionId": "EL1A",
+            "countryId": 44,
+            "clubId": "3523",
+            "coachId": "41113"
+          },
+          "transferDestination": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "42039",
+            "coachId": "111352"
+          },
+          "details": {
+            "playerId": "1064664",
+            "date": "2024-08-31T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 1399,
+              "daysDisplay": "3 Years, 9 Months, 30 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joan-castano/transfers/spieler/1064664/transfer_id/5239547"
+        },
+        {
+          "id": "4816046",
+          "transferSource": {
+            "competitionId": "E4G2",
+            "countryId": 157,
+            "clubId": "29271",
+            "coachId": "69890"
+          },
+          "transferDestination": {
+            "competitionId": "EL1A",
+            "countryId": 44,
+            "clubId": "3523",
+            "coachId": "41113"
+          },
+          "details": {
+            "playerId": "1064664",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/joan-castano/transfers/spieler/1064664/transfer_id/4816046"
+        },
+        {
+          "id": "4816045",
+          "transferSource": {
+            "competitionId": "EL1A",
+            "countryId": 44,
+            "clubId": "3523",
+            "coachId": "24863"
+          },
+          "transferDestination": {
+            "competitionId": "E4G2",
+            "countryId": 157,
+            "clubId": "29271",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1064664",
+            "date": "2024-01-11T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 1632,
+              "daysDisplay": "4 Years, 5 Months, 19 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/joan-castano/transfers/spieler/1064664/transfer_id/4816045"
+        },
+        {
+          "id": "4499528",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "20201",
+            "coachId": "155944"
+          },
+          "transferDestination": {
+            "competitionId": "EL1A",
+            "countryId": 44,
+            "clubId": "3523",
+            "coachId": "24863"
+          },
+          "details": {
+            "playerId": "1064664",
+            "date": "2023-07-12T00:00:00+02:00",
+            "contractUntilDate": "2028-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joan-castano/transfers/spieler/1064664/transfer_id/4499528"
+        },
+        {
+          "id": "4085003",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "14746",
+            "coachId": "114676"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "20201",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1064664",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/joan-castano/transfers/spieler/1064664/transfer_id/4085003"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "42039",
+      "41604",
+      "3523",
+      "29271",
+      "20201",
+      "14746"
+    ],
+    "coachIds": [
+      "141386",
+      "80832",
+      "128337",
+      "111352",
+      "41113",
+      "69890",
+      "24863",
+      "155944",
+      "114676"
+    ],
+    "competitionIds": [
+      "E4G1",
+      "EL1A",
+      "E4G2"
+    ],
+    "mostRecentTransfer": {
+      "id": "5805659",
+      "transferSource": {
+        "competitionId": "E4G1",
+        "countryId": 157,
+        "clubId": "42039",
+        "coachId": "141386"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 157,
+        "clubId": "41604",
+        "coachId": "80832"
+      },
+      "details": {
+        "playerId": "1064664",
+        "date": "2025-07-25T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/joan-castano/transfers/spieler/1064664/transfer_id/5805659"
+    }
+  }
+}

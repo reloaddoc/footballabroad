@@ -1,0 +1,416 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "801357",
+    "history": {
+      "terminated": [
+        {
+          "id": "5768319",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "245",
+            "coachId": "8306"
+          },
+          "transferDestination": {
+            "competitionId": "IT3A",
+            "countryId": 75,
+            "clubId": "5514",
+            "coachId": "45501"
+          },
+          "details": {
+            "playerId": "801357",
+            "date": "2025-07-10T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gabriel-pellegrino/transfers/spieler/801357/transfer_id/5768319"
+        },
+        {
+          "id": "4862522",
+          "transferSource": {
+            "competitionId": "IJ2A",
+            "countryId": 75,
+            "clubId": "19334",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "245",
+            "coachId": "18550"
+          },
+          "details": {
+            "playerId": "801357",
+            "date": "2024-06-30T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/gabriel-pellegrino/transfers/spieler/801357/transfer_id/4862522"
+        },
+        {
+          "id": "4862521",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "245",
+            "coachId": "18550"
+          },
+          "transferDestination": {
+            "competitionId": "IJ2A",
+            "countryId": 75,
+            "clubId": "19334",
+            "coachId": "94308"
+          },
+          "details": {
+            "playerId": "801357",
+            "date": "2024-02-01T00:00:00+01:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 515,
+              "daysDisplay": "1 Year, 4 Months, 29 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/gabriel-pellegrino/transfers/spieler/801357/transfer_id/4862521"
+        },
+        {
+          "id": "4409516",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "4042",
+            "coachId": "8306"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "245",
+            "coachId": "18550"
+          },
+          "details": {
+            "playerId": "801357",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gabriel-pellegrino/transfers/spieler/801357/transfer_id/4409516"
+        },
+        {
+          "id": "3421824",
+          "transferSource": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21075",
+            "coachId": "8306"
+          },
+          "transferDestination": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "4042",
+            "coachId": "45501"
+          },
+          "details": {
+            "playerId": "801357",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gabriel-pellegrino/transfers/spieler/801357/transfer_id/3421824"
+        },
+        {
+          "id": "3015517",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 80,
+            "clubId": "29487",
+            "coachId": "117422"
+          },
+          "transferDestination": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21075",
+            "coachId": "45501"
+          },
+          "details": {
+            "playerId": "801357",
+            "date": "2020-08-14T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/gabriel-pellegrino/transfers/spieler/801357/transfer_id/3015517"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 22,
+      "totalMarketValue": {
+        "value": 200000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "200.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "245",
+      "5514",
+      "19334",
+      "4042",
+      "21075",
+      "29487"
+    ],
+    "coachIds": [
+      "8306",
+      "45501",
+      "18550",
+      "94308",
+      "117422"
+    ],
+    "competitionIds": [
+      "RLSW",
+      "IT3A",
+      "IJ2A",
+      "L3",
+      "BJ3",
+      "AJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5768319",
+      "transferSource": {
+        "competitionId": "RLSW",
+        "countryId": 40,
+        "clubId": "245",
+        "coachId": "8306"
+      },
+      "transferDestination": {
+        "competitionId": "IT3A",
+        "countryId": 75,
+        "clubId": "5514",
+        "coachId": "45501"
+      },
+      "details": {
+        "playerId": "801357",
+        "date": "2025-07-10T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 21,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/gabriel-pellegrino/transfers/spieler/801357/transfer_id/5768319"
+    }
+  }
+}

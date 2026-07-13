@@ -1,0 +1,977 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "156710",
+    "history": {
+      "terminated": [
+        {
+          "id": "4584263",
+          "transferSource": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "166",
+            "coachId": "22092"
+          },
+          "transferDestination": {
+            "competitionId": "A2",
+            "countryId": 127,
+            "clubId": "266",
+            "coachId": "53318"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2023-08-15T00:00:00+02:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 320,
+              "daysDisplay": "10 Months, 15 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/4584263"
+        },
+        {
+          "id": "3854839",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "52",
+            "coachId": "24497"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "166",
+            "coachId": "25257"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/3854839"
+        },
+        {
+          "id": "3371180",
+          "transferSource": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "2036",
+            "coachId": "6416"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "52",
+            "coachId": "419"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2021-07-15T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 250000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "250.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/3371180"
+        },
+        {
+          "id": "2764446",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "91",
+            "coachId": "19543"
+          },
+          "transferDestination": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "2036",
+            "coachId": "6416"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2020-07-05T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 225000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "225.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/2764446"
+        },
+        {
+          "id": "2764445",
+          "transferSource": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "2036",
+            "coachId": "6416"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "91",
+            "coachId": "19543"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2020-01-19T00:00:00+01:00",
+            "contractUntilDate": "2020-07-05T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 528,
+              "daysDisplay": "1 Year, 5 Months, 11 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/2764445"
+        },
+        {
+          "id": "2603257",
+          "transferSource": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "95",
+            "coachId": "41414"
+          },
+          "transferDestination": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "2036",
+            "coachId": "6416"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2020-01-18T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 175000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "175.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "remainingContractPeriod": {
+              "days": 164,
+              "daysDisplay": "5 Months, 12 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/2603257"
+        },
+        {
+          "id": "2603256",
+          "transferSource": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "2036",
+            "coachId": "6416"
+          },
+          "transferDestination": {
+            "competitionId": "L3",
+            "countryId": 40,
+            "clubId": "95",
+            "coachId": "5973"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2019-08-12T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": 200000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "200.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "remainingContractPeriod": {
+              "days": 688,
+              "daysDisplay": "1 Year, 10 Months, 18 Days"
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/2603256"
+        },
+        {
+          "id": "1991404",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "17",
+            "coachId": "40349"
+          },
+          "transferDestination": {
+            "competitionId": "L2",
+            "countryId": 40,
+            "clubId": "2036",
+            "coachId": "6416"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2018-01-04T00:00:00+01:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 177,
+              "daysDisplay": "5 Months, 26 Days"
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/1991404"
+        },
+        {
+          "id": "1762435",
+          "transferSource": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "57",
+            "coachId": "30805"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "17",
+            "coachId": "40349"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2017-07-01T00:00:00+02:00",
+            "contractUntilDate": "2018-06-30T00:00:00+02:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/1762435"
+        },
+        {
+          "id": "1240867",
+          "transferSource": {
+            "competitionId": "OLNI",
+            "countryId": 40,
+            "clubId": "463",
+            "coachId": "20541"
+          },
+          "transferDestination": {
+            "competitionId": "RLW3",
+            "countryId": 40,
+            "clubId": "57",
+            "coachId": "7483"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": "2017-06-30T00:00:00+02:00",
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/1240867"
+        },
+        {
+          "id": "1065560",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "4269",
+            "coachId": "35343"
+          },
+          "transferDestination": {
+            "competitionId": "OLNI",
+            "countryId": 40,
+            "clubId": "463",
+            "coachId": "4904"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2014-07-01T00:00:00+02:00",
+            "contractUntilDate": "2015-06-30T00:00:00+02:00",
+            "seasonId": 2014,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2014,
+              "display": "14/15",
+              "cyclicalName": "2015",
+              "nonCyclicalName": "14/15"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/1065560"
+        },
+        {
+          "id": "766342",
+          "transferSource": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21073",
+            "coachId": "22206"
+          },
+          "transferDestination": {
+            "competitionId": "AJ2",
+            "countryId": 40,
+            "clubId": "4269",
+            "coachId": "7340"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2012-07-01T00:00:00+02:00",
+            "contractUntilDate": "2013-06-30T00:00:00+02:00",
+            "seasonId": 2012,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2012,
+              "display": "12/13",
+              "cyclicalName": "2013",
+              "nonCyclicalName": "12/13"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/766342"
+        },
+        {
+          "id": "625159",
+          "transferSource": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21061",
+            "coachId": "4089"
+          },
+          "transferDestination": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21073",
+            "coachId": "7340"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2011-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2011,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2011,
+              "display": "11/12",
+              "cyclicalName": "2012",
+              "nonCyclicalName": "11/12"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/625159"
+        },
+        {
+          "id": "515532",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11884",
+            "coachId": "40770"
+          },
+          "transferDestination": {
+            "competitionId": "BJ2",
+            "countryId": 40,
+            "clubId": "21061",
+            "coachId": "2092"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2010-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2010,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2010,
+              "display": "10/11",
+              "cyclicalName": "2011",
+              "nonCyclicalName": "10/11"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/515532"
+        },
+        {
+          "id": "515533",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11896",
+            "coachId": "55453"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11884",
+            "coachId": "12446"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2009-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2009,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2009,
+              "display": "09/10",
+              "cyclicalName": "2010",
+              "nonCyclicalName": "09/10"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/515533"
+        },
+        {
+          "id": "1240868",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "39640",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "11896",
+            "coachId": "19853"
+          },
+          "details": {
+            "playerId": "156710",
+            "date": "2008-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2008,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 13,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2008,
+              "display": "08/09",
+              "cyclicalName": "2009",
+              "nonCyclicalName": "08/09"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/1240868"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 31,
+      "totalMarketValue": {
+        "value": 400000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "400.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "166",
+      "266",
+      "52",
+      "2036",
+      "91",
+      "95",
+      "17",
+      "57",
+      "463",
+      "4269",
+      "21073",
+      "21061",
+      "11884",
+      "11896",
+      "39640"
+    ],
+    "coachIds": [
+      "22092",
+      "53318",
+      "24497",
+      "25257",
+      "6416",
+      "419",
+      "19543",
+      "41414",
+      "5973",
+      "40349",
+      "30805",
+      "20541",
+      "7483",
+      "35343",
+      "4904",
+      "22206",
+      "7340",
+      "4089",
+      "40770",
+      "2092",
+      "55453",
+      "12446",
+      "19853"
+    ],
+    "competitionIds": [
+      "RLN3",
+      "A2",
+      "L3",
+      "L2",
+      "RLW3",
+      "OLNI",
+      "BJ2",
+      "AJ2"
+    ],
+    "mostRecentTransfer": {
+      "id": "4584263",
+      "transferSource": {
+        "competitionId": "RLN3",
+        "countryId": 40,
+        "clubId": "166",
+        "coachId": "22092"
+      },
+      "transferDestination": {
+        "competitionId": "A2",
+        "countryId": 127,
+        "clubId": "266",
+        "coachId": "53318"
+      },
+      "details": {
+        "playerId": "156710",
+        "date": "2023-08-15T00:00:00+02:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 200000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "200.00",
+            "suffix": "K"
+          }
+        },
+        "age": 28,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 320,
+          "daysDisplay": "10 Months, 15 Days"
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/oliver-steurer/transfers/spieler/156710/transfer_id/4584263"
+    }
+  }
+}

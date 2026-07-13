@@ -1,0 +1,656 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "690552",
+    "history": {
+      "terminated": [
+        {
+          "id": "5693226",
+          "transferSource": {
+            "competitionId": "RLSW",
+            "countryId": 40,
+            "clubId": "4900",
+            "coachId": "92324"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 184,
+            "clubId": "57774",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "690552",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/berkan-kuepelikilinc/transfers/spieler/690552/transfer_id/5693226"
+        },
+        {
+          "id": "5430026",
+          "transferSource": {
+            "competitionId": "OLRP",
+            "countryId": 40,
+            "clubId": "158",
+            "coachId": "48595"
+          },
+          "transferDestination": {
+            "competitionId": "OBLC",
+            "countryId": 40,
+            "clubId": "4900",
+            "coachId": "24494"
+          },
+          "details": {
+            "playerId": "690552",
+            "date": "2025-01-21T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 160,
+              "daysDisplay": "5 Months, 9 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/berkan-kuepelikilinc/transfers/spieler/690552/transfer_id/5430026"
+        },
+        {
+          "id": "5163483",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "OLRP",
+            "countryId": 40,
+            "clubId": "158",
+            "coachId": "18210"
+          },
+          "details": {
+            "playerId": "690552",
+            "date": "2024-07-31T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/berkan-kuepelikilinc/transfers/spieler/690552/transfer_id/5163483"
+        },
+        {
+          "id": "4693004",
+          "transferSource": {
+            "competitionId": "TR1",
+            "countryId": 174,
+            "clubId": "2832",
+            "coachId": "13105"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 0,
+            "clubId": "515",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "690552",
+            "date": "2023-10-12T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 992,
+              "daysDisplay": "2 Years, 8 Months, 18 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/berkan-kuepelikilinc/transfers/spieler/690552/transfer_id/4693004"
+        },
+        {
+          "id": "4305123",
+          "transferSource": {
+            "competitionId": "TR4B",
+            "countryId": 174,
+            "clubId": "37962",
+            "coachId": "30992"
+          },
+          "transferDestination": {
+            "competitionId": "TR1",
+            "countryId": 174,
+            "clubId": "2832",
+            "coachId": "54840"
+          },
+          "details": {
+            "playerId": "690552",
+            "date": "2023-06-30T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/berkan-kuepelikilinc/transfers/spieler/690552/transfer_id/4305123"
+        },
+        {
+          "id": "4305122",
+          "transferSource": {
+            "competitionId": "TR1",
+            "countryId": 174,
+            "clubId": "2832",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "TR4B",
+            "countryId": 174,
+            "clubId": "37962",
+            "coachId": "30992"
+          },
+          "details": {
+            "playerId": "690552",
+            "date": "2023-03-03T00:00:00+01:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 1215,
+              "daysDisplay": "3 Years, 3 Months, 27 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/berkan-kuepelikilinc/transfers/spieler/690552/transfer_id/4305122"
+        },
+        {
+          "id": "4007253",
+          "transferSource": {
+            "competitionId": "OBLC",
+            "countryId": 40,
+            "clubId": "177",
+            "coachId": "29105"
+          },
+          "transferDestination": {
+            "competitionId": "TR1",
+            "countryId": 174,
+            "clubId": "2832",
+            "coachId": "40285"
+          },
+          "details": {
+            "playerId": "690552",
+            "date": "2022-08-11T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 323,
+              "daysDisplay": "10 Months, 19 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/berkan-kuepelikilinc/transfers/spieler/690552/transfer_id/4007253"
+        },
+        {
+          "id": "4007850",
+          "transferSource": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "5372",
+            "coachId": "24949"
+          },
+          "transferDestination": {
+            "competitionId": "OBLC",
+            "countryId": 40,
+            "clubId": "177",
+            "coachId": "29105"
+          },
+          "details": {
+            "playerId": "690552",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/berkan-kuepelikilinc/transfers/spieler/690552/transfer_id/4007850"
+        },
+        {
+          "id": "2991873",
+          "transferSource": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21057",
+            "coachId": "62920"
+          },
+          "transferDestination": {
+            "competitionId": "AJ3",
+            "countryId": 40,
+            "clubId": "5372",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "690552",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/berkan-kuepelikilinc/transfers/spieler/690552/transfer_id/2991873"
+        },
+        {
+          "id": "2592807",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "12016",
+            "coachId": "62920"
+          },
+          "transferDestination": {
+            "competitionId": "BJ3",
+            "countryId": 40,
+            "clubId": "21057",
+            "coachId": "59126"
+          },
+          "details": {
+            "playerId": "690552",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/berkan-kuepelikilinc/transfers/spieler/690552/transfer_id/2592807"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "4900",
+      "57774",
+      "158",
+      "515",
+      "2832",
+      "37962",
+      "177",
+      "5372",
+      "21057",
+      "12016"
+    ],
+    "coachIds": [
+      "92324",
+      "48595",
+      "24494",
+      "18210",
+      "13105",
+      "30992",
+      "54840",
+      "29105",
+      "40285",
+      "24949",
+      "62920",
+      "59126"
+    ],
+    "competitionIds": [
+      "RLSW",
+      "OLRP",
+      "OBLC",
+      "TR1",
+      "TR4B",
+      "AJ3",
+      "BJ3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5693226",
+      "transferSource": {
+        "competitionId": "RLSW",
+        "countryId": 40,
+        "clubId": "4900",
+        "coachId": "92324"
+      },
+      "transferDestination": {
+        "competitionId": "",
+        "countryId": 184,
+        "clubId": "57774",
+        "coachId": "0"
+      },
+      "details": {
+        "playerId": "690552",
+        "date": "2025-07-01T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 0,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "0.00",
+            "suffix": ""
+          }
+        },
+        "age": 22,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/berkan-kuepelikilinc/transfers/spieler/690552/transfer_id/5693226"
+    }
+  }
+}

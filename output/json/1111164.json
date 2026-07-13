@@ -1,0 +1,268 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1111164",
+    "history": {
+      "terminated": [
+        {
+          "id": "6171706",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2294",
+            "coachId": "79043"
+          },
+          "transferDestination": {
+            "competitionId": "NO1",
+            "countryId": 125,
+            "clubId": "3837",
+            "coachId": "77001"
+          },
+          "details": {
+            "playerId": "1111164",
+            "date": "2026-02-20T00:00:00+01:00",
+            "contractUntilDate": "2030-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 800000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "800.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": 500000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "500.00",
+                "suffix": "K"
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 679,
+              "daysDisplay": "1 Year, 10 Months, 11 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/max-nilsson/transfers/spieler/1111164/transfer_id/6171706"
+        },
+        {
+          "id": "5390345",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "2005",
+            "coachId": "31854"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "2294",
+            "coachId": "29086"
+          },
+          "details": {
+            "playerId": "1111164",
+            "date": "2023-01-08T00:00:00+01:00",
+            "contractUntilDate": "2027-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/max-nilsson/transfers/spieler/1111164/transfer_id/5390345"
+        },
+        {
+          "id": "5390346",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "106973",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "2005",
+            "coachId": "31854"
+          },
+          "details": {
+            "playerId": "1111164",
+            "date": "2021-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/max-nilsson/transfers/spieler/1111164/transfer_id/5390346"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 500000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "500.00",
+          "suffix": "K"
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 600000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "600.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "2294",
+      "3837",
+      "2005",
+      "106973"
+    ],
+    "coachIds": [
+      "79043",
+      "77001",
+      "31854",
+      "29086"
+    ],
+    "competitionIds": [
+      "SE2",
+      "NO1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6171706",
+      "transferSource": {
+        "competitionId": "SE2",
+        "countryId": 147,
+        "clubId": "2294",
+        "coachId": "79043"
+      },
+      "transferDestination": {
+        "competitionId": "NO1",
+        "countryId": 125,
+        "clubId": "3837",
+        "coachId": "77001"
+      },
+      "details": {
+        "playerId": "1111164",
+        "date": "2026-02-20T00:00:00+01:00",
+        "contractUntilDate": "2030-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 800000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "800.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": 500000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "500.00",
+            "suffix": "K"
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 679,
+          "daysDisplay": "1 Year, 10 Months, 11 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/max-nilsson/transfers/spieler/1111164/transfer_id/6171706"
+    }
+  }
+}

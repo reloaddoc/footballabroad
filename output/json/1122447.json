@@ -1,0 +1,205 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1122447",
+    "history": {
+      "terminated": [
+        {
+          "id": "5614944",
+          "transferSource": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "38381",
+            "coachId": "114100"
+          },
+          "transferDestination": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "31331",
+            "coachId": "112435"
+          },
+          "details": {
+            "playerId": "1122447",
+            "date": "2025-01-01T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jack-lanigan/transfers/spieler/1122447/transfer_id/5614944"
+        },
+        {
+          "id": "5000966",
+          "transferSource": {
+            "competitionId": "NLS6",
+            "countryId": 189,
+            "clubId": "8123",
+            "coachId": "32687"
+          },
+          "transferDestination": {
+            "competitionId": "NSL1",
+            "countryId": 120,
+            "clubId": "38381",
+            "coachId": "114100"
+          },
+          "details": {
+            "playerId": "1122447",
+            "date": "2023-01-01T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jack-lanigan/transfers/spieler/1122447/transfer_id/5000966"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 21,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "38381",
+      "31331",
+      "8123"
+    ],
+    "coachIds": [
+      "114100",
+      "112435",
+      "32687"
+    ],
+    "competitionIds": [
+      "NSL1",
+      "NLS6"
+    ],
+    "mostRecentTransfer": {
+      "id": "5614944",
+      "transferSource": {
+        "competitionId": "NSL1",
+        "countryId": 120,
+        "clubId": "38381",
+        "coachId": "114100"
+      },
+      "transferDestination": {
+        "competitionId": "NSL1",
+        "countryId": 120,
+        "clubId": "31331",
+        "coachId": "112435"
+      },
+      "details": {
+        "playerId": "1122447",
+        "date": "2025-01-01T00:00:00+01:00",
+        "contractUntilDate": null,
+        "seasonId": 2024,
+        "isPending": false,
+        "marketValue": {
+          "value": 10000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "10.00",
+            "suffix": "K"
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2024,
+          "display": "24/25",
+          "cyclicalName": "2025",
+          "nonCyclicalName": "24/25"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jack-lanigan/transfers/spieler/1122447/transfer_id/5614944"
+    }
+  }
+}

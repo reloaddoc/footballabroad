@@ -1,0 +1,597 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "349335",
+    "history": {
+      "terminated": [
+        {
+          "id": "6188985",
+          "transferSource": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "13653",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "FARO",
+            "countryId": 208,
+            "clubId": "11540",
+            "coachId": "32788"
+          },
+          "details": {
+            "playerId": "349335",
+            "date": "2026-02-16T00:00:00+01:00",
+            "contractUntilDate": "2026-12-31T00:00:00+01:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 28,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tom-amos/transfers/spieler/349335/transfer_id/6188985"
+        },
+        {
+          "id": "5521879",
+          "transferSource": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "8882",
+            "coachId": "33465"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "13653",
+            "coachId": "21426"
+          },
+          "details": {
+            "playerId": "349335",
+            "date": "2025-02-14T00:00:00+01:00",
+            "contractUntilDate": "2025-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 27,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tom-amos/transfers/spieler/349335/transfer_id/5521879"
+        },
+        {
+          "id": "5022036",
+          "transferSource": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "2976",
+            "coachId": "63359"
+          },
+          "transferDestination": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "8882",
+            "coachId": "61747"
+          },
+          "details": {
+            "playerId": "349335",
+            "date": "2024-05-04T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 787,
+              "daysDisplay": "2 Years, 1 Month, 26 Days"
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tom-amos/transfers/spieler/349335/transfer_id/5022036"
+        },
+        {
+          "id": "4224189",
+          "transferSource": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "7411",
+            "coachId": "84699"
+          },
+          "transferDestination": {
+            "competitionId": "ISR1",
+            "countryId": 74,
+            "clubId": "2976",
+            "coachId": "63359"
+          },
+          "details": {
+            "playerId": "349335",
+            "date": "2023-01-15T00:00:00+01:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 716,
+              "daysDisplay": "1 Year, 11 Months, 16 Days"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tom-amos/transfers/spieler/349335/transfer_id/4224189"
+        },
+        {
+          "id": "3702015",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "801",
+            "coachId": "13121"
+          },
+          "transferDestination": {
+            "competitionId": "SE2",
+            "countryId": 147,
+            "clubId": "7411",
+            "coachId": "34376"
+          },
+          "details": {
+            "playerId": "349335",
+            "date": "2022-01-18T00:00:00+01:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 347,
+              "daysDisplay": "11 Months, 13 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tom-amos/transfers/spieler/349335/transfer_id/3702015"
+        },
+        {
+          "id": "3206473",
+          "transferSource": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "13653",
+            "coachId": "21426"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "801",
+            "coachId": "13121"
+          },
+          "details": {
+            "playerId": "349335",
+            "date": "2021-11-30T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/tom-amos/transfers/spieler/349335/transfer_id/3206473"
+        },
+        {
+          "id": "3206472",
+          "transferSource": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "801",
+            "coachId": "4400"
+          },
+          "transferDestination": {
+            "competitionId": "SE3S",
+            "countryId": 147,
+            "clubId": "13653",
+            "coachId": "21426"
+          },
+          "details": {
+            "playerId": "349335",
+            "date": "2021-01-15T00:00:00+01:00",
+            "contractUntilDate": "2021-11-30T00:00:00+01:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "remainingContractPeriod": {
+              "days": 715,
+              "daysDisplay": "1 Year, 11 Months, 16 Days"
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/tom-amos/transfers/spieler/349335/transfer_id/3206472"
+        },
+        {
+          "id": "1971605",
+          "transferSource": {
+            "competitionId": "JUSÖ",
+            "countryId": 147,
+            "clubId": "8867",
+            "coachId": "45614"
+          },
+          "transferDestination": {
+            "competitionId": "SE1",
+            "countryId": 147,
+            "clubId": "801",
+            "coachId": "43537"
+          },
+          "details": {
+            "playerId": "349335",
+            "date": "2018-01-08T00:00:00+01:00",
+            "contractUntilDate": "2022-12-31T00:00:00+01:00",
+            "seasonId": 2017,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2017,
+              "display": "17/18",
+              "cyclicalName": "2018",
+              "nonCyclicalName": "17/18"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tom-amos/transfers/spieler/349335/transfer_id/1971605"
+        },
+        {
+          "id": "1161079",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 147,
+            "clubId": "38802",
+            "coachId": "5547"
+          },
+          "transferDestination": {
+            "competitionId": "JUSÖ",
+            "countryId": 147,
+            "clubId": "8867",
+            "coachId": "37833"
+          },
+          "details": {
+            "playerId": "349335",
+            "date": "2016-01-08T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/tom-amos/transfers/spieler/349335/transfer_id/1161079"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 28,
+      "totalMarketValue": {
+        "value": 125000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "125.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "13653",
+      "11540",
+      "8882",
+      "2976",
+      "7411",
+      "801",
+      "8867",
+      "38802"
+    ],
+    "coachIds": [
+      "32788",
+      "33465",
+      "21426",
+      "63359",
+      "61747",
+      "84699",
+      "13121",
+      "34376",
+      "4400",
+      "45614",
+      "43537",
+      "5547",
+      "37833"
+    ],
+    "competitionIds": [
+      "SE3S",
+      "FARO",
+      "SE2",
+      "ISR1",
+      "SE1",
+      "JUSÖ"
+    ],
+    "mostRecentTransfer": {
+      "id": "6188985",
+      "transferSource": {
+        "competitionId": "SE3S",
+        "countryId": 147,
+        "clubId": "13653",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "FARO",
+        "countryId": 208,
+        "clubId": "11540",
+        "coachId": "32788"
+      },
+      "details": {
+        "playerId": "349335",
+        "date": "2026-02-16T00:00:00+01:00",
+        "contractUntilDate": "2026-12-31T00:00:00+01:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 100000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "100.00",
+            "suffix": "K"
+          }
+        },
+        "age": 28,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/tom-amos/transfers/spieler/349335/transfer_id/6188985"
+    }
+  }
+}

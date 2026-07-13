@@ -1,0 +1,395 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "808280",
+    "history": {
+      "terminated": [
+        {
+          "id": "4502967",
+          "transferSource": {
+            "competitionId": "GB3",
+            "countryId": 189,
+            "clubId": "1220",
+            "coachId": "3561"
+          },
+          "transferDestination": {
+            "competitionId": "SC5L",
+            "countryId": 190,
+            "clubId": "24574",
+            "coachId": "56458"
+          },
+          "details": {
+            "playerId": "808280",
+            "date": "2023-07-14T00:00:00+02:00",
+            "contractUntilDate": "2026-05-31T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lewis-bell/transfers/spieler/808280/transfer_id/4502967"
+        },
+        {
+          "id": "4013511",
+          "transferSource": {
+            "competitionId": "SC5L",
+            "countryId": 190,
+            "clubId": "24574",
+            "coachId": "56458"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1220",
+            "coachId": "3561"
+          },
+          "details": {
+            "playerId": "808280",
+            "date": "2023-05-31T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "remainingContractPeriod": {
+              "days": 0,
+              "daysDisplay": "Unknown"
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lewis-bell/transfers/spieler/808280/transfer_id/4013511"
+        },
+        {
+          "id": "4013510",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1220",
+            "coachId": "3561"
+          },
+          "transferDestination": {
+            "competitionId": "SC5L",
+            "countryId": 190,
+            "clubId": "24574",
+            "coachId": "59760"
+          },
+          "details": {
+            "playerId": "808280",
+            "date": "2022-08-13T00:00:00+02:00",
+            "contractUntilDate": "2023-05-31T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lewis-bell/transfers/spieler/808280/transfer_id/4013510"
+        },
+        {
+          "id": "4014787",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9527",
+            "coachId": "119149"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1220",
+            "coachId": "3561"
+          },
+          "details": {
+            "playerId": "808280",
+            "date": "2022-05-31T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/lewis-bell/transfers/spieler/808280/transfer_id/4014787"
+        },
+        {
+          "id": "4014786",
+          "transferSource": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1220",
+            "coachId": "1712"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "9527",
+            "coachId": "119149"
+          },
+          "details": {
+            "playerId": "808280",
+            "date": "2022-01-21T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "remainingContractPeriod": {
+              "days": 525,
+              "daysDisplay": "1 Year, 5 Months, 9 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/lewis-bell/transfers/spieler/808280/transfer_id/4014786"
+        },
+        {
+          "id": "3046303",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 189,
+            "clubId": "15899",
+            "coachId": "15628"
+          },
+          "transferDestination": {
+            "competitionId": "GB4",
+            "countryId": 189,
+            "clubId": "1220",
+            "coachId": "22540"
+          },
+          "details": {
+            "playerId": "808280",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/lewis-bell/transfers/spieler/808280/transfer_id/3046303"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 23,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "1220",
+      "24574",
+      "9527",
+      "15899"
+    ],
+    "coachIds": [
+      "3561",
+      "56458",
+      "59760",
+      "119149",
+      "1712",
+      "15628",
+      "22540"
+    ],
+    "competitionIds": [
+      "GB3",
+      "SC5L",
+      "GB4"
+    ],
+    "mostRecentTransfer": {
+      "id": "4502967",
+      "transferSource": {
+        "competitionId": "GB3",
+        "countryId": 189,
+        "clubId": "1220",
+        "coachId": "3561"
+      },
+      "transferDestination": {
+        "competitionId": "SC5L",
+        "countryId": 190,
+        "clubId": "24574",
+        "coachId": "56458"
+      },
+      "details": {
+        "playerId": "808280",
+        "date": "2023-07-14T00:00:00+02:00",
+        "contractUntilDate": "2026-05-31T00:00:00+02:00",
+        "seasonId": 2023,
+        "isPending": false,
+        "marketValue": {
+          "value": 50000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "50.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2023,
+          "display": "23/24",
+          "cyclicalName": "2024",
+          "nonCyclicalName": "23/24"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/lewis-bell/transfers/spieler/808280/transfer_id/4502967"
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1086280",
+    "history": {
+      "terminated": [
+        {
+          "id": "5922852",
+          "transferSource": {
+            "competitionId": "C3PL",
+            "countryId": 50,
+            "clubId": "12770",
+            "coachId": "118649"
+          },
+          "transferDestination": {
+            "competitionId": "BE3A",
+            "countryId": 19,
+            "clubId": "43618",
+            "coachId": "147451"
+          },
+          "details": {
+            "playerId": "1086280",
+            "date": "2025-09-04T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/djulys-gomis/transfers/spieler/1086280/transfer_id/5922852"
+        },
+        {
+          "id": "5876202",
+          "transferSource": {
+            "competitionId": "F19A",
+            "countryId": 50,
+            "clubId": "12771",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "C3PL",
+            "countryId": 50,
+            "clubId": "12770",
+            "coachId": "118649"
+          },
+          "details": {
+            "playerId": "1086280",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/djulys-gomis/transfers/spieler/1086280/transfer_id/5876202"
+        },
+        {
+          "id": "4392364",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "107819",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "F19A",
+            "countryId": 50,
+            "clubId": "12771",
+            "coachId": "118649"
+          },
+          "details": {
+            "playerId": "1086280",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/djulys-gomis/transfers/spieler/1086280/transfer_id/4392364"
+        },
+        {
+          "id": "4889510",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "83012",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 50,
+            "clubId": "107819",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1086280",
+            "date": "2021-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 15,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/djulys-gomis/transfers/spieler/1086280/transfer_id/4889510"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      }
+    },
+    "clubIds": [
+      "12770",
+      "43618",
+      "12771",
+      "107819",
+      "83012"
+    ],
+    "coachIds": [
+      "118649",
+      "147451"
+    ],
+    "competitionIds": [
+      "C3PL",
+      "BE3A",
+      "F19A"
+    ],
+    "mostRecentTransfer": {
+      "id": "5922852",
+      "transferSource": {
+        "competitionId": "C3PL",
+        "countryId": 50,
+        "clubId": "12770",
+        "coachId": "118649"
+      },
+      "transferDestination": {
+        "competitionId": "BE3A",
+        "countryId": 19,
+        "clubId": "43618",
+        "coachId": "147451"
+      },
+      "details": {
+        "playerId": "1086280",
+        "date": "2025-09-04T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/djulys-gomis/transfers/spieler/1086280/transfer_id/5922852"
+    }
+  }
+}

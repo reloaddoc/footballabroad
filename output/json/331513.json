@@ -1,0 +1,883 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "331513",
+    "history": {
+      "terminated": [
+        {
+          "id": "6120937",
+          "transferSource": {
+            "competitionId": "E4G4",
+            "countryId": 157,
+            "clubId": "666",
+            "coachId": "23887"
+          },
+          "transferDestination": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "6212",
+            "coachId": "110525"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2026-01-15T00:00:00+01:00",
+            "contractUntilDate": "2027-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 166,
+              "daysDisplay": "5 Months, 15 Days"
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/6120937"
+        },
+        {
+          "id": "5742436",
+          "transferSource": {
+            "competitionId": "E4G2",
+            "countryId": 157,
+            "clubId": "29271",
+            "coachId": "92803"
+          },
+          "transferDestination": {
+            "competitionId": "E4G4",
+            "countryId": 157,
+            "clubId": "666",
+            "coachId": "23887"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 150000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "150.00",
+                "suffix": "K"
+              }
+            },
+            "age": 26,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/5742436"
+        },
+        {
+          "id": "5475620",
+          "transferSource": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "79097",
+            "coachId": "105699"
+          },
+          "transferDestination": {
+            "competitionId": "E4G2",
+            "countryId": 157,
+            "clubId": "29271",
+            "coachId": "92803"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2025-01-23T00:00:00+01:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 125000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "125.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/5475620"
+        },
+        {
+          "id": "5234388",
+          "transferSource": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "20844",
+            "coachId": "36318"
+          },
+          "transferDestination": {
+            "competitionId": "CDN1",
+            "countryId": 80,
+            "clubId": "79097",
+            "coachId": "63613"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2024-08-29T00:00:00+02:00",
+            "contractUntilDate": "2024-12-31T00:00:00+01:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 100000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "100.00",
+                "suffix": "K"
+              }
+            },
+            "age": 25,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/5234388"
+        },
+        {
+          "id": "4501259",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "666",
+            "coachId": "70648"
+          },
+          "transferDestination": {
+            "competitionId": "E4G1",
+            "countryId": 157,
+            "clubId": "20844",
+            "coachId": "72905"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2023-07-13T00:00:00+02:00",
+            "contractUntilDate": "2024-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 24,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/4501259"
+        },
+        {
+          "id": "3894784",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 56,
+            "clubId": "55337",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "666",
+            "coachId": "92248"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2022-07-10T00:00:00+02:00",
+            "contractUntilDate": "2023-06-30T00:00:00+02:00",
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 23,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/3894784"
+        },
+        {
+          "id": "3721594",
+          "transferSource": {
+            "competitionId": "E4G5",
+            "countryId": 157,
+            "clubId": "29270",
+            "coachId": "92100"
+          },
+          "transferDestination": {
+            "competitionId": "GRS2",
+            "countryId": 56,
+            "clubId": "55337",
+            "coachId": "27453"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2022-01-31T00:00:00+01:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": 50000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "50.00",
+                "suffix": "K"
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 150,
+              "daysDisplay": "4 Months, 30 Days"
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/3721594"
+        },
+        {
+          "id": "3456670",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "73583",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "E4G5",
+            "countryId": 157,
+            "clubId": "29270",
+            "coachId": "92100"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2021-07-23T00:00:00+02:00",
+            "contractUntilDate": "2022-06-30T00:00:00+02:00",
+            "seasonId": 2021,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 22,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2021,
+              "display": "21/22",
+              "cyclicalName": "2022",
+              "nonCyclicalName": "21/22"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/3456670"
+        },
+        {
+          "id": "3092787",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "48367",
+            "coachId": "30772"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "73583",
+            "coachId": "92001"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2020-07-01T00:00:00+02:00",
+            "contractUntilDate": "2021-06-30T00:00:00+02:00",
+            "seasonId": 2020,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 21,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2020,
+              "display": "20/21",
+              "cyclicalName": "2021",
+              "nonCyclicalName": "20/21"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/3092787"
+        },
+        {
+          "id": "2660121",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "76954",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "48367",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2019-07-01T00:00:00+02:00",
+            "contractUntilDate": "2020-06-30T00:00:00+02:00",
+            "seasonId": 2019,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2019,
+              "display": "19/20",
+              "cyclicalName": "2020",
+              "nonCyclicalName": "19/20"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/2660121"
+        },
+        {
+          "id": "2293795",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "28868",
+            "coachId": "40817"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "76954",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2018-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2018,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2018,
+              "display": "18/19",
+              "cyclicalName": "2019",
+              "nonCyclicalName": "18/19"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/2293795"
+        },
+        {
+          "id": "1523866",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "39813",
+            "coachId": "40682"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "28868",
+            "coachId": "42706"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2016-07-03T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2016,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2016,
+              "display": "16/17",
+              "cyclicalName": "2017",
+              "nonCyclicalName": "16/17"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/1523866"
+        },
+        {
+          "id": "1320832",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "14321",
+            "coachId": "38740"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "39813",
+            "coachId": "40682"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2015-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2015,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2015,
+              "display": "15/16",
+              "cyclicalName": "2016",
+              "nonCyclicalName": "15/16"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/1320832"
+        },
+        {
+          "id": "1097285",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "39647",
+            "coachId": "108031"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 157,
+            "clubId": "14321",
+            "coachId": "40682"
+          },
+          "details": {
+            "playerId": "331513",
+            "date": "2013-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2013,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 14,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2013,
+              "display": "13/14",
+              "cyclicalName": "2014",
+              "nonCyclicalName": "13/14"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/1097285"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 27,
+      "totalMarketValue": {
+        "value": 150000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "150.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "666",
+      "6212",
+      "29271",
+      "79097",
+      "20844",
+      "55337",
+      "29270",
+      "73583",
+      "48367",
+      "76954",
+      "28868",
+      "39813",
+      "14321",
+      "39647"
+    ],
+    "coachIds": [
+      "23887",
+      "110525",
+      "92803",
+      "105699",
+      "36318",
+      "63613",
+      "70648",
+      "72905",
+      "92248",
+      "92100",
+      "27453",
+      "30772",
+      "92001",
+      "40817",
+      "40682",
+      "42706",
+      "38740",
+      "108031"
+    ],
+    "competitionIds": [
+      "E4G4",
+      "E4G1",
+      "E4G2",
+      "CDN1",
+      "E4G5",
+      "GRS2"
+    ],
+    "mostRecentTransfer": {
+      "id": "6120937",
+      "transferSource": {
+        "competitionId": "E4G4",
+        "countryId": 157,
+        "clubId": "666",
+        "coachId": "23887"
+      },
+      "transferDestination": {
+        "competitionId": "E4G1",
+        "countryId": 157,
+        "clubId": "6212",
+        "coachId": "110525"
+      },
+      "details": {
+        "playerId": "331513",
+        "date": "2026-01-15T00:00:00+01:00",
+        "contractUntilDate": "2027-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 150000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "150.00",
+            "suffix": "K"
+          }
+        },
+        "age": 26,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "remainingContractPeriod": {
+          "days": 166,
+          "daysDisplay": "5 Months, 15 Days"
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/jesus-del-amo/transfers/spieler/331513/transfer_id/6120937"
+    }
+  }
+}

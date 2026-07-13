@@ -1,0 +1,461 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1211624",
+    "history": {
+      "terminated": [
+        {
+          "id": "6205229",
+          "transferSource": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "20656",
+            "coachId": "88747"
+          },
+          "transferDestination": {
+            "competitionId": "IT4C",
+            "countryId": 75,
+            "clubId": "4271",
+            "coachId": "135058"
+          },
+          "details": {
+            "playerId": "1211624",
+            "date": "2026-06-30T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 10000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "10.00",
+                "suffix": "K"
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "RETURNED_FROM_PREVIOUS_LOAN",
+            "name": "End of loan",
+            "feeDescription": "End of loan"
+          },
+          "relativeUrl": "/leonard-palma/transfers/spieler/1211624/transfer_id/6205229"
+        },
+        {
+          "id": "6194797",
+          "transferSource": {
+            "competitionId": "IT3A",
+            "countryId": 75,
+            "clubId": "4271",
+            "coachId": "135058"
+          },
+          "transferDestination": {
+            "competitionId": "SL2",
+            "countryId": 155,
+            "clubId": "20656",
+            "coachId": "88747"
+          },
+          "details": {
+            "playerId": "1211624",
+            "date": "2026-02-20T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 20,
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "ACTIVE_LOAN_TRANSFER",
+            "name": "loan transfer",
+            "feeDescription": "loan transfer"
+          },
+          "relativeUrl": "/leonard-palma/transfers/spieler/1211624/transfer_id/6194797"
+        },
+        {
+          "id": "5845437",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 75,
+            "clubId": "14906",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "IT3A",
+            "countryId": 75,
+            "clubId": "4271",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1211624",
+            "date": "2025-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": 0,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "0.00",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leonard-palma/transfers/spieler/1211624/transfer_id/5845437"
+        },
+        {
+          "id": "5505161",
+          "transferSource": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "45",
+            "coachId": "59193"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 75,
+            "clubId": "14906",
+            "coachId": "135058"
+          },
+          "details": {
+            "playerId": "1211624",
+            "date": "2025-02-03T00:00:00+01:00",
+            "contractUntilDate": null,
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": 25000,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "25.00",
+                "suffix": "K"
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "?",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 147,
+              "daysDisplay": "4 Months, 27 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leonard-palma/transfers/spieler/1211624/transfer_id/5505161"
+        },
+        {
+          "id": "5105270",
+          "transferSource": {
+            "competitionId": "19LA",
+            "countryId": 40,
+            "clubId": "2827",
+            "coachId": "7400"
+          },
+          "transferDestination": {
+            "competitionId": "RLN4",
+            "countryId": 40,
+            "clubId": "45",
+            "coachId": "59193"
+          },
+          "details": {
+            "playerId": "1211624",
+            "date": "2024-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2024,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 18,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "remainingContractPeriod": {
+              "days": 364,
+              "daysDisplay": "11 Months, 29 Days"
+            },
+            "season": {
+              "id": 2024,
+              "display": "24/25",
+              "cyclicalName": "2025",
+              "nonCyclicalName": "24/25"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leonard-palma/transfers/spieler/1211624/transfer_id/5105270"
+        },
+        {
+          "id": "4761972",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "60656",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "AJ1",
+            "countryId": 40,
+            "clubId": "2827",
+            "coachId": "71515"
+          },
+          "details": {
+            "playerId": "1211624",
+            "date": "2023-07-01T00:00:00+02:00",
+            "contractUntilDate": "2025-06-30T00:00:00+02:00",
+            "seasonId": 2023,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 17,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2023,
+              "display": "23/24",
+              "cyclicalName": "2024",
+              "nonCyclicalName": "23/24"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leonard-palma/transfers/spieler/1211624/transfer_id/4761972"
+        },
+        {
+          "id": "5449054",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "100395",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "",
+            "countryId": 40,
+            "clubId": "60656",
+            "coachId": "0"
+          },
+          "details": {
+            "playerId": "1211624",
+            "date": "2022-07-01T00:00:00+02:00",
+            "contractUntilDate": null,
+            "seasonId": 2022,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 16,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "-",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2022,
+              "display": "22/23",
+              "cyclicalName": "2023",
+              "nonCyclicalName": "22/23"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/leonard-palma/transfers/spieler/1211624/transfer_id/5449054"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 10000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "10.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "20656",
+      "4271",
+      "14906",
+      "45",
+      "2827",
+      "60656",
+      "100395"
+    ],
+    "coachIds": [
+      "88747",
+      "135058",
+      "59193",
+      "7400",
+      "71515"
+    ],
+    "competitionIds": [
+      "SL2",
+      "IT4C",
+      "IT3A",
+      "RLN4",
+      "19LA",
+      "AJ1"
+    ],
+    "mostRecentTransfer": {
+      "id": "6205229",
+      "transferSource": {
+        "competitionId": "SL2",
+        "countryId": 155,
+        "clubId": "20656",
+        "coachId": "88747"
+      },
+      "transferDestination": {
+        "competitionId": "IT4C",
+        "countryId": 75,
+        "clubId": "4271",
+        "coachId": "135058"
+      },
+      "details": {
+        "playerId": "1211624",
+        "date": "2026-06-30T00:00:00+02:00",
+        "contractUntilDate": null,
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": 10000,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "10.00",
+            "suffix": "K"
+          }
+        },
+        "age": 20,
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "RETURNED_FROM_PREVIOUS_LOAN",
+        "name": "End of loan",
+        "feeDescription": "End of loan"
+      },
+      "relativeUrl": "/leonard-palma/transfers/spieler/1211624/transfer_id/6205229"
+    }
+  }
+}

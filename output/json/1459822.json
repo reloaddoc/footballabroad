@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "message": "OK",
+  "data": {
+    "playerId": "1459822",
+    "history": {
+      "terminated": [
+        {
+          "id": "5942621",
+          "transferSource": {
+            "competitionId": "",
+            "countryId": 77,
+            "clubId": "128075",
+            "coachId": "0"
+          },
+          "transferDestination": {
+            "competitionId": "RLN3",
+            "countryId": 40,
+            "clubId": "166",
+            "coachId": "25257"
+          },
+          "details": {
+            "playerId": "1459822",
+            "date": "2025-08-24T00:00:00+02:00",
+            "contractUntilDate": "2026-06-30T00:00:00+02:00",
+            "seasonId": 2025,
+            "isPending": false,
+            "marketValue": {
+              "value": null,
+              "currency": "EUR",
+              "compact": {
+                "prefix": "€",
+                "content": "",
+                "suffix": ""
+              }
+            },
+            "age": 19,
+            "fee": {
+              "value": null,
+              "currency": "",
+              "compact": {
+                "prefix": "",
+                "content": "Free Transfer",
+                "suffix": ""
+              }
+            },
+            "season": {
+              "id": 2025,
+              "display": "25/26",
+              "cyclicalName": "2026",
+              "nonCyclicalName": "25/26"
+            }
+          },
+          "typeDetails": {
+            "type": "STANDARD",
+            "name": "",
+            "feeDescription": ""
+          },
+          "relativeUrl": "/sohei-iwasaki/transfers/spieler/1459822/transfer_id/5942621"
+        }
+      ],
+      "pending": [],
+      "url": "",
+      "feeSum": {
+        "value": 0,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "0.00",
+          "suffix": ""
+        }
+      },
+      "averageAge": 20,
+      "totalMarketValue": {
+        "value": 10000,
+        "currency": "EUR",
+        "compact": {
+          "prefix": "€",
+          "content": "10.00",
+          "suffix": "K"
+        }
+      }
+    },
+    "clubIds": [
+      "128075",
+      "166"
+    ],
+    "coachIds": [
+      "25257"
+    ],
+    "competitionIds": [
+      "RLN3"
+    ],
+    "mostRecentTransfer": {
+      "id": "5942621",
+      "transferSource": {
+        "competitionId": "",
+        "countryId": 77,
+        "clubId": "128075",
+        "coachId": "0"
+      },
+      "transferDestination": {
+        "competitionId": "RLN3",
+        "countryId": 40,
+        "clubId": "166",
+        "coachId": "25257"
+      },
+      "details": {
+        "playerId": "1459822",
+        "date": "2025-08-24T00:00:00+02:00",
+        "contractUntilDate": "2026-06-30T00:00:00+02:00",
+        "seasonId": 2025,
+        "isPending": false,
+        "marketValue": {
+          "value": null,
+          "currency": "EUR",
+          "compact": {
+            "prefix": "€",
+            "content": "",
+            "suffix": ""
+          }
+        },
+        "age": 19,
+        "fee": {
+          "value": null,
+          "currency": "",
+          "compact": {
+            "prefix": "",
+            "content": "Free Transfer",
+            "suffix": ""
+          }
+        },
+        "season": {
+          "id": 2025,
+          "display": "25/26",
+          "cyclicalName": "2026",
+          "nonCyclicalName": "25/26"
+        }
+      },
+      "typeDetails": {
+        "type": "STANDARD",
+        "name": "",
+        "feeDescription": ""
+      },
+      "relativeUrl": "/sohei-iwasaki/transfers/spieler/1459822/transfer_id/5942621"
+    }
+  }
+}
