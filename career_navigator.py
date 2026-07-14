@@ -169,8 +169,6 @@ def prepare_dataset(df):
             "career_step",
         ] = "Step Down"
 
-    print("\nSpalten nach prepare_dataset():")
-
     return data
 
 # ==========================================================
@@ -314,14 +312,14 @@ def recommended_countries(
         .reset_index(name="Players")
     )
 
+
 # ==========================================================
 # Recommended Leagues
 # ==========================================================
 
-
 def recommended_leagues(
     matches,
-    top_n=10,
+    top_n=20,
 ):
 
     if matches.empty:
@@ -350,7 +348,6 @@ def recommended_leagues(
         .isin(exclude)
     ]
 
-    # Nur echte Ligawechsel
     valid = valid[
         valid["from_league_group"]
         != valid["to_league_group"]
@@ -368,39 +365,23 @@ def recommended_leagues(
     ]
 
     summary = (
-
         valid
-
         .groupby("to_league_group")
-
         .agg(
-
             Players=("player_id", "nunique"),
-
         )
-
-        .sort_values(
-
-            "Players",
-
-            ascending=False,
-
-        )
-
-        .head(top_n)
-
         .reset_index()
-
+        .sort_values(
+            by=["Players", "to_league_group"],
+            ascending=[False, True],
+        )
+        .head(top_n)
     )
 
     summary = summary.rename(
-
         columns={
-
             "to_league_group": "League",
-
         }
-
     )
 
     return summary
@@ -554,15 +535,12 @@ def recommended_paths(
 
         )
 
-        .sort_values(
-
-            ["Players", "Career Path"],
-
-            ascending=[False, True],
-
-        )
-
         .reset_index()
+
+        .sort_values(
+            ["Players", "Career Path"],
+            ascending=[False, True],
+        )
 
     )
 

@@ -12,7 +12,7 @@ df = load_data()
 # Header
 # --------------------------------------------------------
 
-st.title("🧭 FootballAbroad")
+st.title("🧭 KickWays")
 
 st.subheader("Career Intelligence")
 
@@ -25,17 +25,17 @@ Explore international football careers based on historical transfer evidence.
 st.divider()
 
 # --------------------------------------------------------
-# What is FootballAbroad?
+# What is KickWays?
 # --------------------------------------------------------
 
-st.header("What is FootballAbroad?")
+st.header("What is KickWays?")
 
 st.markdown(
     """
-FootballAbroad helps professional football players, agents and clubs explore
+KickWays helps professional football players, agents and clubs explore
 international career opportunities by analysing historical transfer data.
 
-Instead of predicting the future, FootballAbroad answers one question:
+Instead of predicting the future, KickWays answers one question:
 
 > **What career paths have comparable players actually taken?**
 
@@ -142,4 +142,4 @@ st.markdown(
 
 st.divider()
 
-st.caption("FootballAbroad • Career Intelligence MVP")
+st.caption("KickWays • Career Intelligence MVP")

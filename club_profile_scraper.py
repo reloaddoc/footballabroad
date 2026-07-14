@@ -74,11 +74,15 @@ with sync_playwright() as p:
     page.set_default_timeout(90000)
     page.set_default_navigation_timeout(90000)
 
-    total = len(clubs)
-    counter = 0
+    remaining = clubs[
+        ~clubs["club_id"].astype(str).isin(done)
+    ].copy()
 
-    # `.head(10)` extrahiert testweise nur die ersten 10 Zeilen
-    for _, club in clubs.iterrows():
+    total = len(remaining)
+    counter = 0
+    print(f"Noch zu verarbeiten: {total}")
+
+    for _, club in remaining.iterrows():
         club_id = str(club["club_id"])
         slug = club.get("slug")
 
@@ -255,8 +259,16 @@ with sync_playwright() as p:
 
         done.add(club_id)
 
-        # In jedem Durchlauf als Backup speichern
-        pd.DataFrame(rows).to_csv(OUTPUT, index=False, encoding="utf-8-sig")
+        # Alle 25 Vereine speichern
+        if counter % 25 == 0:
+
+            pd.DataFrame(rows).to_csv(
+                OUTPUT,
+                index=False,
+                encoding="utf-8-sig",
+            )
+
+            print(f"Zwischengespeichert ({counter}/{total})")
 
         # Höfliche Pause einlegen
         time.sleep(random.uniform(1.0, 2.0))

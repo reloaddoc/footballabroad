@@ -51,7 +51,7 @@ st.markdown(
     """
 Tell us where you are in your football career.
 
-FootballAbroad will identify players who started from a similar situation
+KickWays will identify players who started from a similar situation
 and show the career paths they actually took.
 
 This is **not** a prediction engine.
@@ -66,7 +66,7 @@ st.info(
 Think about your career today.
 
 You don't need to complete every field.
-FootballAbroad works with partial information.
+KickWays works with partial information.
 """
 )
 
@@ -420,4 +420,4 @@ with a similar career starting point.
 # Footer
 # --------------------------------------------------------
 st.divider()
-st.caption("FootballAbroad • Career Navigator v2")
+st.caption("KickWays • Career Navigator v2")
