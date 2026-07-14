@@ -4,7 +4,7 @@ from pathlib import Path
 # General
 # ---------------------------------------------------
 
-APP_TITLE = "FootballAbroad"
+APP_TITLE = "KickWays"
 
 APP_ICON = "⚽"
 
