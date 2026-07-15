@@ -33,6 +33,21 @@ df = load_data()
 df = prepare_dataset(df)
 
 # --------------------------------------------------------
+# Remove incomplete player records
+# --------------------------------------------------------
+df = df.dropna(
+    subset=[
+        "full_name",
+        "nationality",
+        "position_group",
+    ]
+)
+
+# Leere Strings ebenfalls entfernen
+for col in ["full_name", "nationality", "position_group"]:
+    df = df[df[col].astype(str).str.strip() != ""]
+
+# --------------------------------------------------------
 # Header
 # --------------------------------------------------------
 st.title("🧭 Career Navigator")
@@ -338,15 +353,22 @@ with a similar career starting point.
             # ----------------------------------------------------
             st.divider()
 
-            selected_player = st.selectbox(
-                "Explore Player", sorted(path_players["full_name"].unique())
-            )
+            # Datensätze ohne Spielernamen entfernen
+            path_players = path_players.dropna(subset=["full_name"])
 
-            if selected_player:
+            if path_players.empty:
+                st.info("No player details are available for this career path.")
+            else:
+                selected_player = st.selectbox(
+                    "Explore Player",
+                    sorted(path_players["full_name"].unique())
+                )
+
                 player = path_players[path_players["full_name"]
                                       == selected_player]
 
                 st.subheader("Player Details")
+
                 p_c1, p_c2, p_c3 = st.columns(3)
 
                 p_c1.metric("Nationality", player["nationality"].iloc[0])
@@ -359,13 +381,10 @@ with a similar career starting point.
                             "season",
                             "from_club_name",
                             "to_club_name",
-                            "from_league_group",
-                            "to_league_group",
                         ]
                     ].sort_values("season"),
                     hide_index=True,
                 )
-
     st.divider()
 
     # ----------------------------------------------------
@@ -403,9 +422,7 @@ with a similar career starting point.
         "position_group",
         "nationality",
         "from_club_name",
-        "from_league_group",
         "to_club_name",
-        "to_league_group",
         "agent",
     ]
     all_display_cols = [c for c in all_display_cols if c in matching.columns]
@@ -414,6 +431,16 @@ with a similar career starting point.
         matching[all_display_cols].sort_values(["age", "full_name"]),
         hide_index=True,
         height=500,
+        use_container_width=True,
+        column_config={
+            "full_name": st.column_config.TextColumn("Player", width="medium"),
+            "age": st.column_config.NumberColumn("Age", width="small"),
+            "position_group": st.column_config.TextColumn("Position", width="small"),
+            "nationality": st.column_config.TextColumn("Nationality", width="medium"),
+            "from_club_name": st.column_config.TextColumn("Current Club", width="large"),
+            "to_club_name": st.column_config.TextColumn("Next Club", width="large"),
+            "agent": st.column_config.TextColumn("Agent", width="large"),
+        },
     )
 
 # --------------------------------------------------------
