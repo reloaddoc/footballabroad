@@ -97,6 +97,87 @@ def intelligence_links():
 
 
 # ============================================================
+# OPTA SCORES PIPELINE (FROM APP2.PY)
+# ============================================================
+
+
+def add_opta_scores(master, mapping):
+    """Merges Opta strength ratings into the master dataset using competition codes
+
+    and fallback league names. Matches logic from app2.py.
+    """
+    master = master.copy()
+    mapping = mapping.copy()
+    mapping["opta_score"] = pd.to_numeric(
+        mapping["opta_score"], errors="coerce")
+
+    by_code = (
+        mapping[["competition_code", "opta_score"]]
+        .dropna(subset=["competition_code"])
+        .drop_duplicates(subset="competition_code")
+    )
+    by_league = (
+        mapping[["our_league", "opta_score"]]
+        .dropna(subset=["our_league"])
+        .drop_duplicates(subset="our_league")
+    )
+
+    # Match from/to scores by competition code
+    if "from_league_code" in master.columns:
+        master = master.merge(
+            by_code,
+            left_on="from_league_code",
+            right_on="competition_code",
+            how="left",
+        ).rename(columns={"opta_score": "from_score"}).drop(columns=["competition_code"], errors="ignore")
+
+    if "to_league_code" in master.columns:
+        master = master.merge(
+            by_code,
+            left_on="to_league_code",
+            right_on="competition_code",
+            how="left",
+        ).rename(columns={"opta_score": "to_score"}).drop(columns=["competition_code"], errors="ignore")
+
+    # Match fallback scores by league name
+    from_col = "from_league" if "from_league" in master.columns else "from_aggregation"
+    to_col = "to_league" if "to_league" in master.columns else "to_aggregation"
+
+    master = master.merge(
+        by_league,
+        left_on=from_col,
+        right_on="our_league",
+        how="left",
+    ).rename(columns={"opta_score": "from_score_by_name"}).drop(columns=["our_league"], errors="ignore")
+
+    master = master.merge(
+        by_league,
+        left_on=to_col,
+        right_on="our_league",
+        how="left",
+    ).rename(columns={"opta_score": "to_score_by_name"}).drop(columns=["our_league"], errors="ignore")
+
+    # Fill fallback values
+    if "from_score" not in master.columns:
+        master["from_score"] = master["from_score_by_name"]
+    else:
+        master["from_score"] = master["from_score"].fillna(
+            master["from_score_by_name"])
+
+    if "to_score" not in master.columns:
+        master["to_score"] = master["to_score_by_name"]
+    else:
+        master["to_score"] = master["to_score"].fillna(
+            master["to_score_by_name"])
+
+    master = master.drop(
+        columns=["from_score_by_name", "to_score_by_name"], errors="ignore")
+    master["league_quality_change"] = master["to_score"] - master["from_score"]
+
+    return master
+
+
+# ============================================================
 # DESTINATION STATISTICS CALCULATOR
 # ============================================================
 
@@ -117,31 +198,29 @@ def calculate_destination_statistics(df: pd.DataFrame) -> dict:
 
     total_records = len(df)
 
-    # 1. League Progression (Delta between Opta scores or strength scores)
-    from_col = (
-        "from_score" if "from_score" in df.columns else "from_league_strength"
-    )
-    to_col = "to_score" if "to_score" in df.columns else "to_league_strength"
-
-    if from_col in df.columns and to_col in df.columns:
+    # 1. League Progression Delta (threshold of 5.0)
+    if "league_quality_change" in df.columns:
+        deltas = pd.to_numeric(
+            df["league_quality_change"], errors="coerce").dropna()
+    elif "to_score" in df.columns and "from_score" in df.columns:
         deltas = (
-            pd.to_numeric(df[to_col], errors="coerce")
-            - pd.to_numeric(df[from_col], errors="coerce")
+            pd.to_numeric(df["to_score"], errors="coerce")
+            - pd.to_numeric(df["from_score"], errors="coerce")
         ).dropna()
+    else:
+        deltas = pd.Series(dtype=float)
 
-        if len(deltas) > 0:
-            threshold = 5.0
-            moved_up = round((deltas > threshold).mean() * 100, 1)
-            moved_down = round((deltas < -threshold).mean() * 100, 1)
-            stayed_level = round(
-                (deltas.between(-threshold, threshold)).mean() * 100, 1
-            )
-        else:
-            moved_up = stayed_level = moved_down = 0.0
+    if len(deltas) > 0:
+        threshold = 5.0
+        moved_up = round((deltas > threshold).mean() * 100, 1)
+        moved_down = round((deltas < -threshold).mean() * 100, 1)
+        stayed_level = round(
+            (deltas.between(-threshold, threshold)).mean() * 100, 1)
     else:
         moved_up = stayed_level = moved_down = 0.0
 
     # 2. Career Stability (Stayed >= 6 Months / 2 Years)
+    stayed_6m = stayed_2y = 0.0
     if "days_at_destination" in df.columns:
         days = pd.to_numeric(df["days_at_destination"], errors="coerce")
         stayed_6m = round((days >= 180).mean() * 100, 1)
@@ -150,24 +229,20 @@ def calculate_destination_statistics(df: pd.DataFrame) -> dict:
         months = pd.to_numeric(df["stint_months"], errors="coerce")
         stayed_6m = round((months >= 6).mean() * 100, 1)
         stayed_2y = round((months >= 24).mean() * 100, 1)
-    else:
-        stayed_6m = stayed_2y = 0.0
 
     # 3. Returned Home
+    returned_home = 0.0
     if "primary_nationality" in df.columns and "to_country_name" in df.columns:
         returned_home = round(
             (df["primary_nationality"] == df["to_country_name"]).mean() * 100, 1
         )
-    else:
-        returned_home = 0.0
 
     # 4. Trajectory After 3 Years
+    still_in_destination_3y = 0.0
     if "country_after_3y" in df.columns and "to_country_name" in df.columns:
         still_in_destination_3y = round(
             (df["country_after_3y"] == df["to_country_name"]).mean() * 100, 1
         )
-    else:
-        still_in_destination_3y = 0.0
 
     return {
         "sample_size": total_records,

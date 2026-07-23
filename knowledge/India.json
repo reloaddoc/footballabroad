@@ -1,35 +1,462 @@
 {
     "country": "India",
+    "league": "India Super League",
+    "last_updated": "2026-07-23",
     "sections": [
         {
             "title": "Accommodation",
-            "summary": "Accommodation arrangements vary considerably by club.",
-            "insights": [
-                {
-                    "text": "Many ISL clubs provide accommodation for foreign players rather than requiring them to rent privately.",
-                    "confidence": "High"
-                },
-                {
-                    "text": "Accommodation ranges from hotels and serviced apartments to club-managed apartment complexes.",
-                    "confidence": "High"
-                }
+            "icon": "🏠",
+            "summary": "Foreign players are usually housed by clubs, but the standard varies sharply by budget and club structure. Community sources suggest arrangements range from five-star hotels to serviced apartments, club-owned flats, and gated-community housing. One club, Jamshedpur FC, stands out for a dedicated player residential setup with training access and lifestyle support.",
+            "official_information": [
+                "No league-wide accommodation standard was identified in the official or quasi-official sources reviewed.",
+                "Jamshedpur FC is described as having dedicated player flats with access to training facilities, gym, pool, laundry, food service, and recreation."
             ],
-            "examples": [
+            "community_insights": [
+                "Reddit users report that clubs commonly house foreign players in hotels, serviced apartments, or apartments near training sites.",
+                "Some users claim stronger clubs also house families in nicer long-term rentals or villas.",
+                "The recurring theme is that comfort is good at the top end but inconsistent across the league."
+            ],
+            "player_experiences": [
                 {
-                    "club": "Kerala Blasters",
-                    "fact": "Foreign players reportedly stay at the Crowne Plaza in Kochi."
-                },
-                {
+                    "player": "",
+                    "nationality": "",
                     "club": "Jamshedpur FC",
-                    "fact": "The club reportedly operates a dedicated residential and training campus."
+                    "season": "2023-24",
+                    "topics": [
+                        "Accommodation",
+                        "Infrastructure"
+                    ],
+                    "statement": "The club has dedicated residential flats linked to the practice grounds, with gym, pool, chef support, laundry, and recreation facilities.",
+                    "source": "https://www.mykhel.com/football/isl-2023-24-jamshedpur-fc-flatlets-a-path-to-the-right-direction-indian-football-235141.html"
                 }
             ],
             "sources": [
                 {
-                    "type": "Reddit",
-                    "title": "Where do foreign players stay during ISL and I-League?",
-                    "url": "https://www.reddit.com/r/IndianFootball/comments/18ixsfn/...",
-                    "evidence": "Multiple commenters reported that ISL clubs generally provide accommodation. Examples mentioned included Kerala Blasters, Bengaluru FC, FC Goa, Delhi Dynamos and Jamshedpur FC."
+                    "title": "Where do foreign players stay during ISL and I-League? I am curious!",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/18ixsfn/where_do_foreign_players_stay_during_isl_and/",
+                    "source_type": "Reddit",
+                    "date": "2023-12-15",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "where do families of the isl players live?",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1dwj4ce/where_do_families_of_the_isl_players_live/",
+                    "source_type": "Reddit",
+                    "date": "2024-07-06",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "Where do the ISL players stay",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1fy4g9m/where_do_the_isl_players_stay/",
+                    "source_type": "Reddit",
+                    "date": "2024-10-07",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "Jamshedpur FC Flatlets article",
+                    "url": "https://www.mykhel.com/football/isl-2023-24-jamshedpur-fc-flatlets-a-path-to-the-right-direction-indian-football-235141.html",
+                    "source_type": "News",
+                    "date": "2023-09-23",
+                    "credibility": "High"
+                }
+            ]
+        },
+        {
+            "title": "Salary Expectations",
+            "icon": "💰",
+            "summary": "Foreign-player pay in the ISL appears highly uneven. A Reddit salary thread states one foreigner was paid USD 37,000 per season, while other public salary datasets and reports suggest top foreign signings can be much higher, with some market estimates reaching the USD 180,000 to USD 400,000 range annually. Community discussion also indicates the team salary cap is a major constraint, which likely pushes clubs toward cheaper imports unless a player has strong pedigree.",
+            "official_information": [
+                "A Reddit salary thread states that Diego from Pune was the lowest-paid foreigner in the league at USD 37,000 per season.",
+                "Public salary-tracking pages show that ISL wages are tracked at team level, but there is no transparent league-wide salary scale for foreign players."
+            ],
+            "community_insights": [
+                "A 2024 Reddit discussion says the ISL team salary cap ranges from about INR 16.5 crore to INR 18 crore.",
+                "That same discussion argues the salary cap helps explain why clubs often sign lesser-known foreign players instead of marquee names.",
+                "Another community post says some January-window foreign signings were reportedly paid around USD 1,200 per month, showing that lower-tier offers can be very small."
+            ],
+            "player_experiences": [
+                {
+                    "player": "Diego",
+                    "nationality": "",
+                    "club": "Pune",
+                    "season": "",
+                    "topics": [
+                        "Salary"
+                    ],
+                    "statement": "The player-salary thread identified him as the lowest-paid foreigner in the league at USD 37,000 per season.",
+                    "source": "https://www.reddit.com/r/IndianFootball/comments/7ua1f5/official_indian_super_league_player_salaries/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "[Official] Indian Super League - Player salaries",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/7ua1f5/official_indian_super_league_player_salaries/",
+                    "source_type": "Reddit",
+                    "date": "2018-01-31",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "Salary & Wage Data - India Indian Super League",
+                    "url": "https://footystats.org/india/indian-super-league/salaries",
+                    "source_type": "Blog",
+                    "date": "",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "Why do ISL clubs buy unknown foreign players? There are so many top-flight players without a contract. The reason is the salary cap.",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1hmh954/why_do_isl_clubs_buy_unknown_foreign_players/",
+                    "source_type": "Reddit",
+                    "date": "2024-12-25",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "ISL clubs reportedly paying around $1200 per month to foreign players",
+                    "url": "https://www.instagram.com/p/DUmiKYJEit6/",
+                    "source_type": "X",
+                    "date": "2026-02-10",
+                    "credibility": "Low"
+                }
+            ]
+        },
+        {
+            "title": "Visa & Work Permit",
+            "icon": "📝",
+            "summary": "India’s official visa rules are clear that foreign sportsmen under contract with Indian clubs may apply for an Employment Visa. The process requires a valid contract and supporting documentation, and foreign nationals staying longer than 180 days generally need FRRO/FRO registration. In practice, the club’s admin support is crucial because visa delays can disrupt preseason or late-window arrivals.",
+            "official_information": [
+                "The Ministry of Home Affairs says foreign sportsmen contracted to Indian clubs are eligible for an Employment Visa.",
+                "The visa guidance requires supporting documents and a proper contract.",
+                "FRRO/FRO registration is generally required for longer stays over 180 days."
+            ],
+            "community_insights": [
+                "Media coverage around ISL signings shows that visa delays can create tension for clubs trying to bring in foreign recruits on time.",
+                "This suggests visa handling is a real operational issue, not just a formality."
+            ],
+            "player_experiences": [
+                {
+                    "player": "",
+                    "nationality": "",
+                    "club": "",
+                    "season": "",
+                    "topics": [
+                        "Visa & Work Permit"
+                    ],
+                    "statement": "Official guidance says foreign sportsmen under contract can use an Employment Visa, but club paperwork and registration requirements still apply.",
+                    "source": "https://www.mha.gov.in/sites/default/files/2022-08/work_visa_faq%5B1%5D.pdf"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "FAQs RELATING TO WORK RELATED VISAS ISSUED",
+                    "url": "https://www.mha.gov.in/sites/default/files/2022-08/work_visa_faq%5B1%5D.pdf",
+                    "source_type": "Official",
+                    "date": "2022-08",
+                    "credibility": "High"
+                },
+                {
+                    "title": "ISL teams ‘tense’ over visa delay of foreign recruits",
+                    "url": "https://indianexpress.com/article/sports/football/isl-teams-tense-over-visa-delay-of-foreign-recruits-6617375/",
+                    "source_type": "News",
+                    "date": "2020-09-26",
+                    "credibility": "High"
+                }
+            ]
+        },
+        {
+            "title": "Foreign Player Rules",
+            "icon": "⚽",
+            "summary": "The most cited ISL framework allows clubs to sign up to six foreign players, including one AFC quota player, and field up to four foreigners in a match. The rules have changed over time, but the recent consensus is that the league keeps a 3+1 structure on the pitch to protect Indian player minutes. In 2026, AIFF also indicated that signing OCI players is optional rather than mandatory.",
+            "official_information": [
+                "Olympics.com’s ISL explainer says clubs can sign a maximum of six foreigners, including one AFC quota player.",
+                "The same source says clubs can field only four foreigners at any time in a match.",
+                "Sportstar reported in 2026 that AIFF said signing OCI players is optional for ISL clubs."
+            ],
+            "community_insights": [
+                "Reddit discussion says the foreign-player cap and salary cap strongly influence recruitment strategy.",
+                "Users note that clubs often reserve one slot for an AFC player because of the quota rule.",
+                "There is disagreement across older articles because ISL rules have shifted repeatedly across seasons."
+            ],
+            "player_experiences": [
+                {
+                    "player": "",
+                    "nationality": "",
+                    "club": "",
+                    "season": "2021-22 onward",
+                    "topics": [
+                        "Foreign Player Rules"
+                    ],
+                    "statement": "The league’s current model is widely described as a 3+1 style rule: clubs can sign more foreigners than they can field, and one on-field foreigner must be AFC-affiliated.",
+                    "source": "https://olympics.com/en/news/indian-super-league-isl-foreign-players-play-rule-football"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "How many foreigners can play in ISL",
+                    "url": "https://olympics.com/en/news/indian-super-league-isl-foreign-players-play-rule-football",
+                    "source_type": "Official",
+                    "date": "2022-09-30",
+                    "credibility": "High"
+                },
+                {
+                    "title": "ISL to stick with 4-foreigner rule next season",
+                    "url": "https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/isl-to-stick-with-4-foreigner-rule-next-seas/articleshow/90419180.cms",
+                    "source_type": "News",
+                    "date": "2022-03-24",
+                    "credibility": "High"
+                },
+                {
+                    "title": "ISL approves 3+1 foreign players rule from 2021-22 season",
+                    "url": "https://sportstar.thehindu.com/football/indian-super-league-isl/indian-football-isl-3-1-foreign-player-rule-approved-2021-22-season-transfer-policy-/article35062808.ece",
+                    "source_type": "News",
+                    "date": "2020-07-05",
+                    "credibility": "High"
+                },
+                {
+                    "title": "AIFF wants the ISL to reduce the number of foreigners on the pitch to 3 and a maximum of 5 foreigners in the squad!",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1ls4ql7/isl_ileague_transfer_news_aiff_wants_the_isl_to/",
+                    "source_type": "Reddit",
+                    "date": "2025-07-05",
+                    "credibility": "Medium"
+                }
+            ]
+        },
+        {
+            "title": "Lifestyle",
+            "icon": "🌴",
+            "summary": "Day-to-day life can be comfortable at well-funded clubs, but it is not standardized across the league. The pattern in community reporting is that foreign players at stronger clubs get serviceable housing, transport, and food support, while smaller clubs may offer more basic arrangements. The main question for a signing is therefore not India in general, but which club and city will manage life off the pitch well.",
+            "official_information": [
+                "No formal league-wide lifestyle standard was identified in the reviewed official material.",
+                "Club support appears to be the main factor shaping daily comfort."
+            ],
+            "community_insights": [
+                "Reddit users describe hotel living, serviced apartments, club flats, and occasional family-friendly housing as the main options.",
+                "Some users say better clubs help with schools, transport, and longer-term rentals for family life.",
+                "The recurring positive theme is that players can live quite comfortably if the club is well run."
+            ],
+            "player_experiences": [
+                {
+                    "player": "",
+                    "nationality": "",
+                    "club": "Kerala Blasters",
+                    "season": "",
+                    "topics": [
+                        "Lifestyle",
+                        "Accommodation"
+                    ],
+                    "statement": "Community comments say some non-local players and staff were housed in a five-star hotel, with later arrangements shifting some players into studio apartments.",
+                    "source": "https://www.reddit.com/r/IndianFootball/comments/1dwj4ce/where_do_families_of_the_isl_players_live/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "Where do foreign players stay during ISL and I-League? I am curious!",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/18ixsfn/where_do_foreign_players_stay_during_isl_and/",
+                    "source_type": "Reddit",
+                    "date": "2023-12-15",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "where do families of the isl players live?",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1dwj4ce/where_do_families_of_the_isl_players_live/",
+                    "source_type": "Reddit",
+                    "date": "2024-07-06",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "Where do the ISL players stay",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1fy4g9m/where_do_the_isl_players_stay/",
+                    "source_type": "Reddit",
+                    "date": "2024-10-07",
+                    "credibility": "Medium"
+                }
+            ]
+        },
+        {
+            "title": "Travel & Logistics",
+            "icon": "✈️",
+            "summary": "The ISL is a multi-city league, so travel and logistics matter a lot. Players can expect domestic flights, hotel transfers, and long travel weeks depending on the club’s base and fixture schedule. Clubs with integrated housing and training sites reduce this burden, but players at other clubs may still face regular commute friction.",
+            "official_information": [
+                "The league is spread across multiple Indian cities, so there is no single base of operations.",
+                "Some clubs reduce travel load by housing players close to the training ground or stadium."
+            ],
+            "community_insights": [
+                "Reddit users mention housing locations such as Navi Mumbai executive apartments and residential complexes near club training bases.",
+                "The common practical complaint is not the flights themselves but the repetition of airport, hotel, and ground transfers."
+            ],
+            "player_experiences": [
+                {
+                    "player": "",
+                    "nationality": "",
+                    "club": "Mumbai City FC",
+                    "season": "",
+                    "topics": [
+                        "Travel & Logistics",
+                        "Accommodation"
+                    ],
+                    "statement": "A Reddit user said they stayed in Marriott Executive Apartments in Navi Mumbai with Mumbai players for about a month.",
+                    "source": "https://www.reddit.com/r/IndianFootball/comments/1fy4g9m/where_do_the_isl_players_stay/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "Where do the ISL players stay",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1fy4g9m/where_do_the_isl_players_stay/",
+                    "source_type": "Reddit",
+                    "date": "2024-10-07",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "Super League Football Grounds in India",
+                    "url": "https://www.footballgroundmap.com/grounds/india/superleague",
+                    "source_type": "Blog",
+                    "date": "2018-08-01",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "All you need to know about ISL 2020-21 training grounds",
+                    "url": "https://www.sportskeeda.com/indian-football/all-need-know-isl-2020-21-training-grounds",
+                    "source_type": "News",
+                    "date": "2020-09-16",
+                    "credibility": "High"
+                }
+            ]
+        },
+        {
+            "title": "Infrastructure",
+            "icon": "🏟️",
+            "summary": "Infrastructure quality is uneven and club-specific. The strongest example in the source set is Jamshedpur FC, whose Flatlets offer a near one-stop player environment with living, recovery, and training support. Other clubs appear more dependent on standard stadium setups and rented housing, so quality ranges from very solid to merely functional.",
+            "official_information": [
+                "Jamshedpur FC’s Flatlets are described as a purpose-built player facility with accommodation and performance support.",
+                "Many ISL clubs do not appear to have equivalent dedicated campuses."
+            ],
+            "community_insights": [
+                "Reddit comments often contrast a few strong facilities with many ordinary setups.",
+                "Players and fans frequently describe the best clubs as good enough for professional comfort, but not uniformly elite."
+            ],
+            "player_experiences": [
+                {
+                    "player": "",
+                    "nationality": "",
+                    "club": "Jamshedpur FC",
+                    "season": "2023-24",
+                    "topics": [
+                        "Infrastructure"
+                    ],
+                    "statement": "The club’s setup includes modern gym, swimming pool, chef support, laundry, recreation, accommodation, and a training pitch nearby.",
+                    "source": "https://www.mykhel.com/football/isl-2023-24-jamshedpur-fc-flatlets-a-path-to-the-right-direction-indian-football-235141.html"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "Jamshedpur FC Flatlets article",
+                    "url": "https://www.mykhel.com/football/isl-2023-24-jamshedpur-fc-flatlets-a-path-to-the-right-direction-indian-football-235141.html",
+                    "source_type": "News",
+                    "date": "2023-09-23",
+                    "credibility": "High"
+                },
+                {
+                    "title": "All you need to know about ISL 2020-21 training grounds",
+                    "url": "https://www.sportskeeda.com/indian-football/all-need-know-isl-2020-21-training-grounds",
+                    "source_type": "News",
+                    "date": "2020-09-16",
+                    "credibility": "High"
+                },
+                {
+                    "title": "Which ISL stadiums has the best experience?",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1bsk7vd/which_isl_stadiums_has_the_best_experience/",
+                    "source_type": "Reddit",
+                    "date": "2024-03-31",
+                    "credibility": "Medium"
+                }
+            ]
+        },
+        {
+            "title": "Culture & Language",
+            "icon": "🗣️",
+            "summary": "English is usually sufficient in the football environment, but daily life often requires adaptation to local routines, food, and languages. Community sources suggest that foreigners who settle in well usually rely on bilingual staff, teammates, or club support off the pitch. The biggest adjustment is typically cultural rather than professional.",
+            "official_information": [
+                "No formal league-wide language policy was identified.",
+                "Club support and local staff are likely the main mechanisms for off-pitch adjustment."
+            ],
+            "community_insights": [
+                "Reddit discussion suggests players need to adapt to local habits and neighborhood life outside football.",
+                "English works well in club settings, but day-to-day convenience depends on the city and the support network around the player."
+            ],
+            "player_experiences": [
+                {
+                    "player": "",
+                    "nationality": "",
+                    "club": "",
+                    "season": "",
+                    "topics": [
+                        "Culture & Language"
+                    ],
+                    "statement": "Community discussion suggests English is enough inside football, but players still need to adapt to Indian daily-life norms and local languages.",
+                    "source": "https://www.reddit.com/r/IndianFootball/comments/1fy4g9m/where_do_the_isl_players_stay/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "Where do the ISL players stay",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1fy4g9m/where_do_the_isl_players_stay/",
+                    "source_type": "Reddit",
+                    "date": "2024-10-07",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "where do families of the isl players live?",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1dwj4ce/where_do_families_of_the_isl_players_live/",
+                    "source_type": "Reddit",
+                    "date": "2024-07-06",
+                    "credibility": "Medium"
+                }
+            ]
+        },
+        {
+            "title": "Safety",
+            "icon": "🛡️",
+            "summary": "The sources reviewed do not indicate a league-wide safety crisis for foreign players. The main safety pattern is that clubs tend to manage accommodation and transport centrally through hotels, apartments, or dedicated facilities, which should reduce exposure to avoidable risks. The practical safety question is therefore club and city specific rather than league-wide.",
+            "official_information": [
+                "No formal ISL-wide safety protocol for foreign players was identified in the reviewed sources.",
+                "Club-managed housing appears to be the main protective arrangement discussed."
+            ],
+            "community_insights": [
+                "Reddit users generally frame safety as manageable when the club provides housing and transport.",
+                "The concern most often raised is quality of logistics and privacy rather than direct danger."
+            ],
+            "player_experiences": [
+                {
+                    "player": "",
+                    "nationality": "",
+                    "club": "",
+                    "season": "",
+                    "topics": [
+                        "Safety"
+                    ],
+                    "statement": "Community discussion suggests foreign players usually rely on club-arranged accommodation and transport rather than independently managing local movement.",
+                    "source": "https://www.reddit.com/r/IndianFootball/comments/18ixsfn/where_do_foreign_players_stay_during_isl_and/"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "Where do foreign players stay during ISL and I-League? I am curious!",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/18ixsfn/where_do_foreign_players_stay_during_isl_and/",
+                    "source_type": "Reddit",
+                    "date": "2023-12-15",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "where do families of the isl players live?",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1dwj4ce/where_do_families_of_the_isl_players_live/",
+                    "source_type": "Reddit",
+                    "date": "2024-07-06",
+                    "credibility": "Medium"
+                },
+                {
+                    "title": "Where do the ISL players stay",
+                    "url": "https://www.reddit.com/r/IndianFootball/comments/1fy4g9m/where_do_the_isl_players_stay/",
+                    "source_type": "Reddit",
+                    "date": "2024-10-07",
+                    "credibility": "Medium"
                 }
             ]
         }
