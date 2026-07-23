@@ -270,6 +270,15 @@ with sync_playwright() as p:
 
         done.add(pid)
 
+        # DEBUG
+        print("OUTPUT:", repr(OUTPUT))
+        print("cwd:", Path.cwd())
+        print("exists output:", Path("output").exists())
+        print("resolved:", Path(OUTPUT).resolve())
+
+        with open("output/test.txt", "w", encoding="utf-8") as f:
+            f.write("test")
+
         # Teilschritt speichern
         pd.DataFrame(rows).to_csv(
             OUTPUT,

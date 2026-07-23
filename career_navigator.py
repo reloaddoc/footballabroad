@@ -1,12 +1,6 @@
-from pathlib import Path
 import pandas as pd
 
-# ==========================================================
-# Dateien
-# ==========================================================
-
-MASTER = Path("output/master_dataset.csv")
-LEAGUES = Path("output/league_dimension.csv")
+from database import read_table
 
 # ==========================================================
 # League Dimension
@@ -14,11 +8,7 @@ LEAGUES = Path("output/league_dimension.csv")
 
 
 def load_league_dimension():
-    return pd.read_csv(
-        LEAGUES,
-        encoding="utf-8-sig",
-        low_memory=False,
-    )
+    return read_table("league_dimension")
 
 # ==========================================================
 # Dataset vorbereiten

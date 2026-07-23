@@ -100,18 +100,23 @@ with sync_playwright() as p:
 
         for attempt in range(3):
             try:
-                page.goto(url, wait_until="domcontentloaded", timeout=90000)
+                page.goto(url, wait_until="networkidle", timeout=90000)
+
+                page.wait_for_timeout(3000)
                 success = True
                 break
             except Exception:
-                print(f"Retry {attempt+1}/3")
+                print(f"Retry {attempt + 1}/3")
                 time.sleep(5)
 
         if not success:
             print("Übersprungen")
             continue
 
-        soup = BeautifulSoup(page.content(), "html.parser")
+        html = page.content()
+
+        soup = BeautifulSoup(html, "html.parser")
+
         header = soup.select_one(".data-header")
 
         # -------------------------------------------------
@@ -169,6 +174,15 @@ with sync_playwright() as p:
             founded = clean(x.get_text())
 
         # -------------------------------------------------
+        # Liga
+        # -------------------------------------------------
+
+        league_name = None
+        league_link = None
+        league_country = None
+        league_level = None
+        league_code = None
+
         # -------------------------------------------------
         # Liga
         # -------------------------------------------------
@@ -179,49 +193,60 @@ with sync_playwright() as p:
         league_level = None
         league_code = None
 
-        affiliation = soup.find("span", attrs={"itemprop": "affiliation"})
+        # Alle Wettbewerbe durchsuchen
+        competitions = soup.select("a.competition")
 
-        if affiliation:
+        for comp in competitions:
 
-            a = affiliation.find("a")
+            text = clean(comp.get_text())
+            href = comp.get("href") or ""
 
-            if a:
+            if not text:
+                continue
 
-                league_name = clean(a.get_text())
-                league_link = a.get("href")
+            # Weltturniere ignorieren
+            if text in {"WM", "FIFA Club World Cup"}:
+                continue
 
-                if league_link:
+            # Pokalwettbewerbe ignorieren
+            if "/pokalwettbewerb/" in href.lower():
+                continue
 
-                    m = re.search(r"/wettbewerb/([A-Za-z0-9]+)", league_link)
+            # Ligawettbewerb gefunden
+            league_name = text
+            league_link = href
+            break
 
-                    if m:
-                        league_code = m.group(1)
+        # Fallback auf ältere Seitenstruktur
+        if league_name is None:
 
-        # Ligahöhe + Land
+            container = header if header else soup
 
-        for label in soup.select("span.data-header__label"):
+            for a in container.select('a[href*="/wettbewerb/"]'):
 
-            strong = label.find("strong")
+                text = clean(a.get_text())
+                href = a.get("href") or ""
 
-            if strong and "Ligahöhe" in strong.get_text():
+                if not text:
+                    continue
 
-                content = label.find("span", class_="data-header__content")
+                if text in {"WM", "FIFA Club World Cup"}:
+                    continue
 
-                if content:
+                if "/pokalwettbewerb/" in href.lower():
+                    continue
 
-                    flag = content.find("img")
+                league_name = text
+                league_link = href
+                break
 
-                    if flag:
+        # Wettbewerbscode extrahieren
+        if league_link:
 
-                        league_country = flag.get("title")
+            m = re.search(r"/wettbewerb/([A-Za-z0-9]+)", league_link)
 
-                    text = clean(content.get_text(" ", strip=True))
-
-                    if text:
-
-                        text = text.replace(league_country or "", "").strip()
-
-                        league_level = text
+            if m:
+                league_code = m.group(1)
 
         # -------------------------------------------------
         # Weitere Daten extrahieren

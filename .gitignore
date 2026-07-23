@@ -39,3 +39,18 @@ debug.json
 .streamlit/secrets.toml
 
 output/json/
+
+# Large datasets
+output/
+kickways_data_evaluation/
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db

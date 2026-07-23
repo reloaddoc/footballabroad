@@ -2,7 +2,7 @@ from country_mapping import COUNTRY_MAP
 import pandas as pd
 import streamlit as st
 
-from config import MASTER_DATASET
+from database import read_table
 
 
 # ---------------------------------------------------
@@ -11,11 +11,7 @@ from config import MASTER_DATASET
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv(
-        MASTER_DATASET,
-        encoding="utf-8-sig",
-        low_memory=False,
-    )
+    df = read_table("master_dataset")
 
     # KORREKTUR: Ab hier alles sauber in die Funktion einrücken!
     # Länder vereinheitlichen

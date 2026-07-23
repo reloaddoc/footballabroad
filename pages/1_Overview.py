@@ -1,145 +1,96 @@
 import streamlit as st
 
-from utils import load_data
+from analytics_ui import load_table, metric_row, page_header
 
-# --------------------------------------------------------
-# Load
-# --------------------------------------------------------
 
-df = load_data()
-
-# --------------------------------------------------------
-# Header
-# --------------------------------------------------------
-
-st.title("🧭 KickWays")
-
-st.subheader("Career Intelligence")
-
-st.caption(
-    """
-Explore international football careers based on historical transfer evidence.
-"""
+page_header(
+    "Football Career Intelligence",
+    "Understand how football careers actually happen. Explore historical transfers, career pathways, stepping clubs, league networks, and player archetypes.",
 )
+
+master = load_table("master_dataset")
+transfer_corridors = load_table("transfer_corridors")
+stepping_clubs = load_table("stepping_clubs")
+league_flows = load_table("league_flows")
+agency_networks = load_table("agency_networks")
+player_archetypes = load_table("player_archetypes")
+
+metric_row([
+    ("Transfers analysed", len(master)),
+    ("Transfer corridors", len(transfer_corridors)),
+    ("Stepping clubs", len(stepping_clubs)),
+    ("Player archetypes", len(player_archetypes)),
+    ("Agencies", len(agency_networks)),
+    ("League networks", len(league_flows)),
+])
 
 st.divider()
 
-# --------------------------------------------------------
-# What is KickWays?
-# --------------------------------------------------------
+st.subheader("Start with a career question")
 
-st.header("What is KickWays?")
+cards = [
+    (
+        "Where should I move next?",
+        "Find comparable careers and see where similar players actually went.",
+        "pages/7_Career_Navigator.py",
+        "Open Career Navigator",
+    ),
+    (
+        "Where do players from this league usually go?",
+        "Explore recurring corridors between countries, leagues, and clubs.",
+        "pages/3_Transfer_Corridors.py",
+        "Explore Transfer Corridors",
+    ),
+    (
+        "Which clubs consistently export players?",
+        "Identify gateway clubs and the markets they connect to.",
+        "pages/4_Stepping_Clubs.py",
+        "Find Stepping Clubs",
+    ),
+    (
+        "Which agencies dominate a market?",
+        "Understand agency specialisation by corridor, country, and player profile.",
+        "pages/6_Agency_Intelligence.py",
+        "Explore Agencies",
+    ),
+    (
+        "What happened to players like me?",
+        "Use archetypes to turn a player profile into historical next-step intelligence.",
+        "pages/8_Players_Like_Me.py",
+        "Find Players Like Me",
+    ),
+]
 
-st.markdown(
-    """
-KickWays helps professional football players, agents and clubs explore
-international career opportunities by analysing historical transfer data.
+for first, second in zip(cards[::2], cards[1::2]):
+    left, right = st.columns(2)
+    for column, card in [(left, first), (right, second)]:
+        with column:
+            with st.container(border=True):
+                st.markdown(f"### {card[0]}")
+                st.write(card[1])
+                st.page_link(card[2], label=card[3])
 
-Instead of predicting the future, KickWays answers one question:
-
-> **What career paths have comparable players actually taken?**
-
-Every recommendation is based on real historical transfers.
-"""
-)
-
-st.divider()
-
-# --------------------------------------------------------
-# Current MVP
-# --------------------------------------------------------
-
-st.header("Current MVP")
-
-col1, col2 = st.columns(2)
-
-with col1:
-
-    st.success("✅ Similar Players")
-
-    st.success("✅ Career Paths")
-
-    st.success("✅ Recommended Countries")
-
-    st.success("✅ Recommended Leagues")
-
-with col2:
-
-    st.success("✅ Recommended Clubs")
-
-    st.success("✅ Recommended Agents")
-
-    st.info("🚧 Player Explorer")
-
-st.divider()
-
-# --------------------------------------------------------
-# Workflow
-# --------------------------------------------------------
-
-st.header("How it works")
-
-st.markdown(
-    """
-1. Create a player profile.
-
-2. Find comparable players.
-
-3. Explore historical career paths.
-
-4. Discover countries, leagues, clubs and agents.
-
-5. Open individual player careers.
-"""
-)
+if len(cards) % 2:
+    with st.container(border=True):
+        title, body, path, label = cards[-1]
+        st.markdown(f"### {title}")
+        st.write(body)
+        st.page_link(path, label=label)
 
 st.divider()
 
-# --------------------------------------------------------
-# Database
-# --------------------------------------------------------
-
-st.header("Database")
-
-c1, c2, c3 = st.columns(3)
-
-c1.metric(
-    "Transfers",
-    f"{len(df):,}"
+st.subheader("Most active transfer corridors")
+top_corridors = transfer_corridors.head(8).copy()
+top_corridors["route"] = (
+    top_corridors["from_country"].fillna("Unknown")
+    + " / "
+    + top_corridors["from_league"].fillna("Unknown")
+    + " -> "
+    + top_corridors["to_country"].fillna("Unknown")
+    + " / "
+    + top_corridors["to_league"].fillna("Unknown")
 )
 
-c2.metric(
-    "Players",
-    f"{df['player_id'].nunique():,}"
+st.bar_chart(
+    top_corridors.set_index("route")["transfers"]
 )
-
-c3.metric(
-    "Countries",
-    f"{df['to_country_name'].nunique():,}"
-)
-
-st.divider()
-
-# --------------------------------------------------------
-# Design Principles
-# --------------------------------------------------------
-
-st.header("Design Principles")
-
-st.markdown(
-    """
-- Historical evidence instead of predictions
-
-- Transparent career exploration
-
-- Built for players, agents and clubs
-
-- Explainable insights
-
-- Career Intelligence
-"""
-)
-
-st.divider()
-
-st.caption("KickWays • Career Intelligence MVP")

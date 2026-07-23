@@ -8,12 +8,29 @@ from career_navigator import (
     recommended_leagues,
 )
 from config import APP_ICON, APP_TITLE
+from database import read_table
 from utils import load_data
 
 
 @st.cache_data
 def load_navigator_data():
     return prepare_dataset(load_data().copy())
+
+
+@st.cache_data
+def load_intelligence_counts():
+    tables = {
+        "Transfers analysed": "master_dataset",
+        "Transfer corridors": "transfer_corridors",
+        "Stepping clubs": "stepping_clubs",
+        "Player archetypes": "player_archetypes",
+        "Agencies": "agency_networks",
+        "League networks": "league_flows",
+    }
+    return {
+        label: len(read_table(table))
+        for label, table in tables.items()
+    }
 
 
 st.set_page_config(
@@ -112,7 +129,7 @@ def render_landing_preview():
         form_column, explanation_column = st.columns([1.1, 0.9], gap="large")
         with form_column:
             st.markdown(
-                "<div class='panel-title'>Choose your profile</div><p class='panel-intro'>Start with where you play now. KickWays finds professional players who previously stood in a similar career situation and shows what happened next.</p>",
+                "<div class='panel-title'>Choose your profile</div><p class='panel-intro'>Start with where you play now. KickWays finds professional players who previously stood in a similar career situation and shows how comparable players continued their careers over the following years.</p>",
                 unsafe_allow_html=True,
             )
             selected_country = st.selectbox(
@@ -138,7 +155,7 @@ def render_landing_preview():
             )
         with explanation_column:
             st.markdown(
-                "<div class='panel-title'>What can you discover?</div><p class='panel-intro'>This is not a prediction engine. It is a way to see real player journeys that would otherwise stay hidden in scattered career histories.</p><div class='outcome'><div class='outcome-dot'>01</div><div><b>Comparable players</b><span>Find careers that started from a similar country and league context.</span></div></div><div class='outcome'><div class='outcome-dot'>02</div><div><b>Most common destinations</b><span>See which countries and leagues appeared most often as next steps.</span></div></div><div class='outcome'><div class='outcome-dot'>03</div><div><b>Actual career paths</b><span>Open the full navigator to follow the clubs, leagues and countries behind each route.</span></div></div>",
+                "<div class='panel-title'>What can you discover?</div><p class='panel-intro'>Football careers are shaped by timing, opportunities and difficult decisions. KickWays doesn&#39;t predict what you should do. It helps you understand what comparable professionals actually did&mdash;and how their careers unfolded afterwards.</p><div class='outcome'><div class='outcome-dot'>01</div><div><b>Comparable players</b><span>Find careers that started from a similar country and league context.</span></div></div><div class='outcome'><div class='outcome-dot'>02</div><div><b>Common career outcomes</b><span>See which countries and leagues appeared most often as next steps.</span></div></div><div class='outcome'><div class='outcome-dot'>03</div><div><b>Complete career journeys</b><span>Open the full navigator to follow the clubs, leagues and countries behind each route.</span></div></div>",
                 unsafe_allow_html=True,
             )
 
@@ -204,8 +221,8 @@ with nav_open:
 st.markdown("""
 <section class="hero">
   <div class="eyebrow">Career Intelligence for Professional Football</div>
-  <h1>Explore the career paths of <span>players like you.</span></h1>
-  <p class="lede">KickWays helps players and agents see where comparable professionals actually built their careers, using historical movement data from real player journeys.</p>
+  <h1>Football Career <span>Intelligence.</span></h1>
+  <p class="lede">Understand how football careers actually happen. Explore historical transfers, career pathways, stepping clubs, league networks, and player archetypes.</p>
 </section>
 """, unsafe_allow_html=True)
 
@@ -217,10 +234,16 @@ st.markdown("<div id='how-it-works'></div>", unsafe_allow_html=True)
 render_landing_preview()
 
 st.markdown("<div style='height:2.2rem'></div>", unsafe_allow_html=True)
+intelligence_counts = load_intelligence_counts()
 metrics = st.columns(3)
-for column, number, label in zip(metrics, ["8,200+", "3,900+", "120+"], ["Professional careers", "Professional clubs", "Countries"]):
+for column, (label, value) in zip(metrics, list(intelligence_counts.items())[:3]):
     with column:
-        st.markdown(f"<div class='metric'><div class='metric-number'>{number}</div><div class='metric-label'>{label}</div></div>", unsafe_allow_html=True)
+        st.markdown(f"<div class='metric'><div class='metric-number'>{value:,}</div><div class='metric-label'>{label}</div></div>", unsafe_allow_html=True)
+
+metrics = st.columns(3)
+for column, (label, value) in zip(metrics, list(intelligence_counts.items())[3:]):
+    with column:
+        st.markdown(f"<div class='metric'><div class='metric-number'>{value:,}</div><div class='metric-label'>{label}</div></div>", unsafe_allow_html=True)
 
 st.markdown("<div id='features'></div>", unsafe_allow_html=True)
 solution_copy, solution_mock = st.columns([.85, 1.15], gap="large")
@@ -231,7 +254,7 @@ with solution_mock:
     <div class="mockup" style="margin-top:.4rem"><div class="mock-top"><i class="dot"></i><i class="dot"></i><i class="dot"></i><span style="margin-left:.4rem">similar player profile</span></div><div class="mock-main" style="min-height:275px"><div class="mock-heading">Players with a similar starting point</div><div class="path-card"><div class="path-top"><b>CM · 24 · Denmark</b><span>91% match</span></div><div class="route">FC MIDTJYLLAND <i></i> KAA GENT <i></i> FC UTRECHT</div></div><div class="path-card"><div class="path-top"><b>CM · 23 · Sweden</b><span>88% match</span></div><div class="route">MALMÖ FF <i></i> FC NÜRNBERG <i></i> RAPID WIEN</div></div></div></div>
     """, unsafe_allow_html=True)
 
-st.markdown("<div class='section'><div class='small-label'>The problem</div><h2 class='section-title'>Players spend years building their careers. Too many decisions still happen in the dark.</h2><p class='section-copy'>Instinct and personal networks will always matter. But many career decisions are still based on incomplete information, scattered examples and limited visibility into what comparable players actually did next.</p><div class='quote'>“I can finally see what comparable professional football players actually did with their careers.”</div></div>", unsafe_allow_html=True)
+st.markdown("<div class='section'><div class='small-label'>The problem</div><h2 class='section-title'>Football careers are shaped by decisions whose long-term consequences are often impossible to see.</h2><p class='section-copy'>Players know today&#39;s offer&mdash;but rarely know what similar moves have led to for others.</p><div class='quote'>&ldquo;I can finally see what happened after players like me made similar career decisions.&rdquo;</div></div>", unsafe_allow_html=True)
 
 st.markdown("<section class='section'><div class='small-label'>Built for the people making the move</div><h2 class='section-title'>Different perspectives. The same clearer picture.</h2></section>", unsafe_allow_html=True)
 audience = [

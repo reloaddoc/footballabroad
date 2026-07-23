@@ -1,3 +1,4 @@
+from database import write_table
 from country_mapping import COUNTRY_MAP
 from pathlib import Path
 
@@ -264,6 +265,37 @@ print(
     dimension["league"].duplicated().sum()
 )
 
+
+# ---------------------------------------------------------
+# Keep exactly one row per competition_code
+# ---------------------------------------------------------
+
+dimension = dimension[dimension["competition_code"].notna()].copy()
+
+dimension = (
+    dimension
+    .sort_values(["competition_code", "league"])
+    .drop_duplicates(subset=["competition_code"], keep="first")
+    .reset_index(drop=True)
+)
+
+# ---------------------------------------------------------
+# Sanity check
+# ---------------------------------------------------------
+
+duplicates = dimension["competition_code"].duplicated().sum()
+assert duplicates == 0, f"{duplicates} duplicate competition_codes remain."
+
+# ---------------------------------------------------------
+# Save
+# ---------------------------------------------------------
+
+dimension.to_csv(OUTPUT, index=False)
+write_table("league_dimension", dimension)
+
+print(f"League dimension written: {len(dimension):,} rows")
+
+
 # =====================================================
 # Speichern
 # =====================================================
@@ -277,6 +309,9 @@ dimension.to_csv(
     encoding="utf-8-sig"
 
 )
+
+write_table("league_dimension", dimension)
+print("DuckDB table 'league_dimension' updated.")
 
 # =====================================================
 # Vorschau

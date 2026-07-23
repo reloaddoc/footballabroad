@@ -23,7 +23,9 @@ PIPELINE = [
 
     ("Career Networks", "career_network.py"),
 
-    ("Master Dataset", "master_dataset.py"),
+    ("Import CSVs", "import_csvs.py"),
+
+    ("Master Dataset ETL", "etl/build_master_dataset.py"),
 
 ]
 

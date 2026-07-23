@@ -1,450 +1,251 @@
+from components.player_profile import render_player_profile
+import pandas as pd
 import streamlit as st
 
-from utils import load_data
-
-from career_navigator import (
-    prepare_dataset,
-    get_league_options,
-    find_similar_players,
-    recommended_countries,
-    recommended_leagues,
-    recommended_clubs,
-    recommended_agents,
-    recommended_paths,
-)
-import streamlit as st
-
-from utils import load_data
-from career_navigator import (
-    prepare_dataset,
-    get_league_options,
-    find_similar_players,
-    recommended_countries,
-    recommended_leagues,
-    recommended_clubs,
-    recommended_agents,
-    recommended_paths,
+from analytics_ui import (
+    apply_equal_filter,
+    calculate_destination_statistics,
+    load_table,
+    metric_row,
+    page_header,
 )
 
-# --------------------------------------------------------
-# Load
-# --------------------------------------------------------
-df = load_data()
-df = prepare_dataset(df)
+# ============================================================
+# PAGE HEADER
+# ============================================================
 
-# --------------------------------------------------------
-# Remove incomplete player records
-# --------------------------------------------------------
-df = df.dropna(
-    subset=[
-        "full_name",
-        "nationality",
-        "position_group",
-    ]
+page_header(
+    "Where should I move next?",
+    "Explore historical international career paths of comparable players.",
 )
 
-# Leere Strings ebenfalls entfernen
-for col in ["full_name", "nationality", "position_group"]:
-    df = df[df[col].astype(str).str.strip() != ""]
+# ============================================================
+# LOAD DATA & OPTA SCORES
+# ============================================================
 
-# --------------------------------------------------------
-# Header
-# --------------------------------------------------------
-st.title("🧭 Career Navigator")
-st.caption(
-    """
-Discover realistic international career paths based on historical football transfers.
-"""
-)
-st.divider()
+master = load_table("master_dataset")
+mapping = load_table("league_mapping")
 
-# --------------------------------------------------------
-# Career Brief
-# --------------------------------------------------------
-st.header("📝 Career Brief")
-st.markdown(
-    """
-Tell us where you are in your football career.
-
-KickWays will identify players who started from a similar situation
-and show the career paths they actually took.
-
-This is **not** a prediction engine.
-Every insight is based on historical transfers.
-"""
-)
-
-st.info(
-    """
-### Your current situation
-
-Think about your career today.
-
-You don't need to complete every field.
-KickWays works with partial information.
-"""
-)
-
-st.subheader("Where are you playing today?")
-
-# --------------------------------------------------------
-# Age
-# --------------------------------------------------------
-ages = df["age"].dropna()
-minimum = int(ages.min())
-maximum = int(ages.max())
-
-use_age = st.checkbox(
-    "Include my age",
-    value=False,
-)
-
-age_range = None
-if use_age:
-    age_range = st.slider(
-        "Age",
-        minimum,
-        maximum,
-        (20, 25),
+# AttachOpta scores if from_score/to_score columns are missing
+if "from_score" not in master.columns and "league_quality_change" not in master.columns:
+    mapping["opta_score"] = pd.to_numeric(
+        mapping["opta_score"], errors="coerce")
+    by_code = (
+        mapping[["competition_code", "opta_score"]]
+        .dropna(subset=["competition_code"])
+        .drop_duplicates(subset="competition_code")
+    )
+    by_league = (
+        mapping[["our_league", "opta_score"]]
+        .dropna(subset=["our_league"])
+        .drop_duplicates(subset="our_league")
     )
 
+    master = master.merge(
+        by_code,
+        left_on="from_league_code",
+        right_on="competition_code",
+        how="left",
+    ).rename(columns={"opta_score": "from_score"}).drop(columns="competition_code", errors="ignore")
 
-# --------------------------------------------------------
-# Where are you playing today? (KORREKTUR: Spalten sauber definiert)
-# --------------------------------------------------------
-col_country, col_league = st.columns(2)
+    master = master.merge(
+        by_code,
+        left_on="to_league_code",
+        right_on="competition_code",
+        how="left",
+    ).rename(columns={"opta_score": "to_score"}).drop(columns="competition_code", errors="ignore")
 
-with col_country:
-    current_country = st.selectbox(
-        "Country",
-        sorted(df["from_country_name"].dropna().unique()),
-        index=None,
-        placeholder="Select a country...",
+    master = master.merge(
+        by_league,
+        left_on="from_aggregation",
+        right_on="our_league",
+        how="left",
+    ).rename(columns={"opta_score": "from_score_by_name"}).drop(columns="our_league", errors="ignore")
+
+    master = master.merge(
+        by_league,
+        left_on="to_aggregation",
+        right_on="our_league",
+        how="left",
+    ).rename(columns={"opta_score": "to_score_by_name"}).drop(columns="our_league", errors="ignore")
+
+    master["from_score"] = master["from_score"].fillna(
+        master["from_score_by_name"])
+    master["to_score"] = master["to_score"].fillna(master["to_score_by_name"])
+    master = master.drop(
+        columns=["from_score_by_name", "to_score_by_name"], errors="ignore")
+
+# Global exclusion of unwanted leagues
+master = master[
+    (master["from_aggregation"] != "DFB-Nachwuchsliga") &
+    (master["to_aggregation"] != "DFB-Nachwuchsliga")
+]
+
+# ============================================================
+# PLAYER PROFILE
+# ============================================================
+
+profile = render_player_profile(master)
+
+# ============================================================
+# COMPARABLE PLAYERS
+# ============================================================
+
+matches = master.copy()
+
+matches = apply_equal_filter(
+    matches,
+    "from_country_name",
+    profile["country"],
+)
+
+matches = apply_equal_filter(
+    matches,
+    "from_aggregation",
+    profile["league"],
+)
+
+matches = apply_equal_filter(
+    matches,
+    "primary_nationality",
+    profile["nationality"],
+)
+
+matches = matches[
+    matches["age"].between(
+        profile["age_range"][0],
+        profile["age_range"][1],
     )
+]
 
-with col_league:
+matches = matches[matches["to_country_name"].notna()]
+matches = matches[matches["to_aggregation"].notna()]
 
-    if current_country is None:
+# ============================================================
+# OVERVIEW
+# ============================================================
 
-        st.selectbox(
-            "League",
-            [],
-            index=None,
-            placeholder="Select a country first...",
-            disabled=True,
-        )
+confidence = (
+    "High"
+    if matches["player_id"].nunique() >= 50
+    else "Medium"
+    if matches["player_id"].nunique() >= 15
+    else "Low"
+)
 
-        current_league = None
-
-    else:
-
-        current_league = st.selectbox(
-
-            "League",
-
-            get_league_options(
-                df,
-                current_country,
-            ),
-
-            index=None,
-
-            placeholder="Select a league...",
-
-        )
-
-# Position wird im MVP vorerst nicht verwendet
-position = "Any"
-
-# --------------------------------------------------------
-# Agent
-# --------------------------------------------------------
-st.subheader("What are you looking for?")
-
-career_goal = st.radio(
-
-    "Career Goal",
-
+metric_row(
     [
-
-        "First professional contract",
-
-        "Move abroad",
-
-        "Reach a higher level",
-
-        "Trial opportunities",
-
-    ],
-
-    label_visibility="collapsed",
-
-)
-
-# --------------------------------------------------------
-# Button und Session State
-# --------------------------------------------------------
-analyse = st.button(
-    "Find Comparable Careers",
-    type="primary",
-)
-
-if "analysis_done" not in st.session_state:
-    st.session_state.analysis_done = False
-
-if analyse:
-    st.session_state.analysis_done = True
-
-# --------------------------------------------------------
-# Analyse & Ergebnisanzeige (KORREKTUR: Alles im korrekten Scope)
-# --------------------------------------------------------
-if st.session_state.analysis_done:
-
-    if current_country is None:
-        current_country = "Any"
-
-    if current_league is None:
-        current_league = "Any"
-
-    matching = find_similar_players(
-        df=df,
-        age_range=age_range,
-        position=position,
-        current_country=current_country,
-        current_league=current_league,
-        agent="Any",
-    )
-
-    st.divider()
-    st.header("Comparable Players")
-
-    if career_goal == "Move abroad":
-        st.info(
-            "We'll focus on how comparable players made their first move abroad."
-        )
-
-    elif career_goal == "Reach a higher level":
-        st.info(
-            "We'll highlight how comparable players progressed to stronger leagues."
-        )
-
-    elif career_goal == "Trial opportunities":
-        st.info(
-            "We'll show players who found opportunities through different career routes."
-        )
-
-    else:
-        st.info(
-            "We'll explore how comparable players earned their first professional contract."
-        )
-
-    st.write(
-        f"""
-We found **{matching['player_id'].nunique()} comparable players**
-with a similar career starting point.
-"""
-    )
-
-    # ----------------------------------------------------
-    # KPIs
-    # ----------------------------------------------------
-    c1, c2, c3, c4 = st.columns(4)
-
-    c1.metric("Matching Players", matching["player_id"].nunique())
-    c2.metric("Destination Countries", matching["to_country_name"].nunique())
-    c3.metric("Destination Leagues", matching["to_league_group"].nunique())
-    c4.metric("Destination Clubs", matching["to_club_name"].nunique())
-
-    st.divider()
-
-    # ----------------------------------------------------
-    # Empfehlungen berechnen
-    # ----------------------------------------------------
-    countries = recommended_countries(matching)
-    leagues = recommended_leagues(matching)
-    clubs = recommended_clubs(matching)
-    agents = recommended_agents(matching)
-    paths = recommended_paths(matching)
-
-    # ----------------------------------------------------
-    # Countries / Leagues
-    # ----------------------------------------------------
-    col1, col2 = st.columns(2)
-
-    with col1:
-        st.subheader("🌍 Countries Comparable Players Moved To")
-        st.dataframe(
-            countries,
-            hide_index=True,
-            height=300,
-        )
-
-    with col2:
-        st.subheader("🏆 Leagues Comparable Players Joined")
-        st.dataframe(
-            leagues,
-            hide_index=True,
-            height=300,
-        )
-
-    st.divider()
-
-    # ----------------------------------------------------
-    # Top Career Paths
-    # ----------------------------------------------------
-    st.subheader("📖 Career Story")
-    st.caption(
-        "These are the most common career moves taken by comparable players.")
-
-    st.dataframe(
-        paths.head(10),
-        hide_index=True,
-        height=300,
-    )
-
-    st.divider()
-
-    # ----------------------------------------------------
-    # Explore Career Path
-    # ----------------------------------------------------
-    if not paths.empty:
-        st.subheader("🔎 Explore Career Stories")
-
-        selected_path = st.selectbox(
-            "Select a career path",
-            paths["Career Path"].tolist(),
-            index=None,
-            placeholder="Choose a career path...",
-        )
-
-        if selected_path is not None:
-            path_players = matching.copy()
-            path_players["Career Path"] = (
-                path_players["from_league_group"]
-                + " → "
-                + path_players["to_league_group"]
-            )
-            path_players = path_players[path_players["Career Path"]
-                                        == selected_path]
-
-            st.caption(
-                f"{path_players['player_id'].nunique()} players followed this path"
-            )
-
-            columns = [
-                "full_name",
-                "age",
-                "position_group",
-                "nationality",
-                "from_club_name",
-                "to_club_name",
-                "agent",
-            ]
-            columns = [c for c in columns if c in path_players.columns]
-
-            st.dataframe(
-                path_players[columns].sort_values(["age", "full_name"]),
-                hide_index=True,
-                height=350,
-            )
-
-            # ----------------------------------------------------
-            # Player Details
-            # ----------------------------------------------------
-            st.divider()
-
-            # Datensätze ohne Spielernamen entfernen
-            path_players = path_players.dropna(subset=["full_name"])
-
-            if path_players.empty:
-                st.info("No player details are available for this career path.")
-            else:
-                selected_player = st.selectbox(
-                    "Explore Player",
-                    sorted(path_players["full_name"].unique())
-                )
-
-                player = path_players[path_players["full_name"]
-                                      == selected_player]
-
-                st.subheader("Player Details")
-
-                p_c1, p_c2, p_c3 = st.columns(3)
-
-                p_c1.metric("Nationality", player["nationality"].iloc[0])
-                p_c2.metric("Position", player["position_group"].iloc[0])
-                p_c3.metric("Agent", player["agent"].iloc[0])
-
-                st.dataframe(
-                    player[
-                        [
-                            "season",
-                            "from_club_name",
-                            "to_club_name",
-                        ]
-                    ].sort_values("season"),
-                    hide_index=True,
-                )
-    st.divider()
-
-    # ----------------------------------------------------
-    # Recommended Clubs / Agents
-    # ----------------------------------------------------
-    col_clubs, col_agents = st.columns(2)
-
-    with col_clubs:
-        st.subheader("🏟 Clubs Comparable Players Joined")
-        st.dataframe(
-            clubs,
-            hide_index=True,
-            height=300,
-        )
-
-    with col_agents:
-        st.subheader("🤝 Agents Used by Comparable Players")
-        st.dataframe(
-            agents,
-            hide_index=True,
-            height=300,
-        )
-
-    st.divider()
-
-    # ----------------------------------------------------
-    # Matching Players Table
-    # ----------------------------------------------------
-    st.subheader("👥 Matching Players")
-    st.caption(f"{matching['player_id'].nunique():,} similar players found")
-
-    all_display_cols = [
-        "full_name",
-        "age",
-        "position_group",
-        "nationality",
-        "from_club_name",
-        "to_club_name",
-        "agent",
+        (
+            "Comparable players",
+            matches["player_id"].nunique(),
+        ),
+        (
+            "Confidence",
+            confidence,
+        ),
     ]
-    all_display_cols = [c for c in all_display_cols if c in matching.columns]
+)
 
-    st.dataframe(
-        matching[all_display_cols].sort_values(["age", "full_name"]),
-        hide_index=True,
-        height=500,
-        use_container_width=True,
-        column_config={
-            "full_name": st.column_config.TextColumn("Player", width="medium"),
-            "age": st.column_config.NumberColumn("Age", width="small"),
-            "position_group": st.column_config.TextColumn("Position", width="small"),
-            "nationality": st.column_config.TextColumn("Nationality", width="medium"),
-            "from_club_name": st.column_config.TextColumn("Current Club", width="large"),
-            "to_club_name": st.column_config.TextColumn("Next Club", width="large"),
-            "agent": st.column_config.TextColumn("Agent", width="large"),
-        },
-    )
+if matches.empty:
+    st.info("No comparable historical careers match this profile.")
+    st.stop()
 
-# --------------------------------------------------------
-# Footer
-# --------------------------------------------------------
-st.divider()
-st.caption("KickWays • Career Navigator v2")
+# ============================================================
+# HISTORICAL DESTINATIONS WITH STATS
+# ============================================================
+
+st.subheader("Where did they go?")
+
+filter_col1, filter_col2 = st.columns([3, 1])
+
+with filter_col1:
+    st.caption("Historical destinations of comparable players.")
+
+with filter_col2:
+    international_only = st.toggle("International only", value=False)
+
+destination_list = []
+
+# Group by target country & league, then calculate metrics using analytics_ui helper
+for (country, league), group in matches.groupby(["to_country_name", "to_aggregation"]):
+    stats = calculate_destination_statistics(group)
+
+    destination_list.append({
+        "to_country_name": country,
+        "to_aggregation": league,
+        "players": group["player_id"].nunique(),
+        "transfers": len(group),
+        "moved_up": stats["moved_up"],
+        "stayed_level": stats["stayed_level"],
+        "moved_down": stats["moved_down"],
+        "stayed_6m": stats["stayed_6m"],
+        "group_data": group
+    })
+
+destinations_df = pd.DataFrame(destination_list).sort_values(
+    ["players", "transfers"], ascending=False
+)
+
+# Apply International Only toggle filter
+if international_only and profile.get("country") and profile["country"] != "All":
+    destinations_df = destinations_df[
+        destinations_df["to_country_name"] != profile["country"]
+    ]
+
+destination_rows = destinations_df.to_dict("records")
+
+# ============================================================
+# RENDER DESTINATION CARDS
+# ============================================================
+
+if not destination_rows:
+    st.info("No destinations match the selected filters.")
+else:
+    TOP_N = 5
+    top_destinations = destination_rows[:TOP_N]
+    other_destinations = destination_rows[TOP_N:]
+
+    def render_card(row):
+        country = row["to_country_name"]
+        league = row["to_aggregation"]
+        players = row["players"]
+        transfers = row["transfers"]
+
+        moved_up = row["moved_up"]
+        stayed_level = row["stayed_level"]
+        moved_down = row["moved_down"]
+
+        with st.container(border=True):
+            c1, c2 = st.columns([4, 1.2])
+
+            with c1:
+                st.markdown(f"### {country}\n**{league}**")
+                st.caption(
+                    f"👥 `{players}` players · 🔄 `{transfers}` transfers")
+
+                # 📊 League Progression Stats Bar
+                st.markdown(
+                    f"📈 **Level Up:** `{moved_up}%` &nbsp;·&nbsp; "
+                    f"➡️ **Same:** `{stayed_level}%` &nbsp;·&nbsp; "
+                    f"📉 **Level Down:** `{moved_down}%`"
+                )
+
+            with c2:
+                if st.button(
+                    "Explore",
+                    key=f"btn_{country}_{league}",
+                    use_container_width=True,
+                ):
+                    st.session_state.destination_country = country
+                    st.session_state.destination_league = league
+                    st.switch_page("pages/3_Destination_Report.py")
+
+    # Render top 5 cards directly
+    for row in top_destinations:
+        render_card(row)
+
+    # Put remaining cards into an expander
+    if other_destinations:
+        with st.expander(f"See {len(other_destinations)} other destinations"):
+            for row in other_destinations:
+                render_card(row)
