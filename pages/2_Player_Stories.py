@@ -1,5 +1,6 @@
 import streamlit as st
 
+from analytics_ui import render_navigation_sidebar
 from config import APP_ICON
 
 
@@ -9,6 +10,8 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed",
 )
+
+render_navigation_sidebar()
 
 st.markdown(
     """
@@ -29,7 +32,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.page_link("app.py", label="← Back to KickWays")
+st.page_link("app2.py", label="← Back to KickWays")
 st.markdown(
     """
     <div style="height:3.5rem"></div>
@@ -42,4 +45,4 @@ st.markdown(
 )
 
 st.markdown("<div style='height:2rem'></div>", unsafe_allow_html=True)
-st.page_link("pages/7_Career_Navigator.py", label="Explore Career Paths →")
+st.page_link("pages/1_Career_Navigator.py", label="Explore Career Paths →")

@@ -32,19 +32,19 @@ cards = [
     (
         "Where should I move next?",
         "Find comparable careers and see where similar players actually went.",
-        "pages/7_Career_Navigator.py",
+        "pages/1_Career_Navigator.py",
         "Open Career Navigator",
     ),
     (
         "Where do players from this league usually go?",
         "Explore recurring corridors between countries, leagues, and clubs.",
-        "pages/3_Transfer_Corridors.py",
+        "pages/4_Transfer_Corridors.py",
         "Explore Transfer Corridors",
     ),
     (
         "Which clubs consistently export players?",
         "Identify gateway clubs and the markets they connect to.",
-        "pages/4_Stepping_Clubs.py",
+        "pages/7_Stepping_Clubs.py",
         "Find Stepping Clubs",
     ),
     (

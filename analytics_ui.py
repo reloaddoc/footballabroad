@@ -10,9 +10,34 @@ def load_table(table_name):
 
 
 def page_header(question, subtitle):
+    render_navigation_sidebar()
     st.title(question)
     st.caption(subtitle)
     st.divider()
+
+
+def render_navigation_sidebar():
+    st.markdown(
+        """
+        <style>
+            [data-testid="stSidebarNav"] { display: none; }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    with st.sidebar:
+        st.markdown("### 🏠 Main Navigation")
+        st.page_link("app2.py", label="Start")
+        st.page_link("pages/1_Career_Navigator.py", label="Career Navigator")
+        st.page_link("pages/2_Destination_Report.py", label="Destination Report")
+        st.page_link("pages/3_Player_Explorer.py", label="Player Explorer")
+
+        with st.expander("📊 Advanced Research Tools"):
+            st.page_link("pages/4_Transfer_Corridors.py", label="Transfer Corridors")
+            st.page_link("pages/5_League_Networks.py", label="League Networks")
+            st.page_link("pages/6_Agency_Intelligence.py", label="Agency Intelligence")
+            st.page_link("pages/7_Stepping_Clubs.py", label="Stepping Clubs")
 
 
 def metric_row(metrics):
@@ -86,8 +111,8 @@ def intelligence_links():
     st.caption("Related intelligence")
     columns = st.columns(5)
     links = [
-        ("Corridors", "pages/3_Transfer_Corridors.py"),
-        ("Stepping clubs", "pages/4_Stepping_Clubs.py"),
+        ("Corridors", "pages/4_Transfer_Corridors.py"),
+        ("Stepping clubs", "pages/7_Stepping_Clubs.py"),
         ("League networks", "pages/5_League_Networks.py"),
         ("Agencies", "pages/6_Agency_Intelligence.py"),
         ("Players like me", "pages/8_Players_Like_Me.py"),
@@ -103,13 +128,13 @@ def intelligence_links():
 
 def add_opta_scores(master, mapping):
     """Merges Opta strength ratings into the master dataset using competition codes
-
     and fallback league names. Matches logic from app2.py.
     """
     master = master.copy()
     mapping = mapping.copy()
     mapping["opta_score"] = pd.to_numeric(
-        mapping["opta_score"], errors="coerce")
+        mapping["opta_score"], errors="coerce"
+    )
 
     by_code = (
         mapping[["competition_code", "opta_score"]]
@@ -162,16 +187,19 @@ def add_opta_scores(master, mapping):
         master["from_score"] = master["from_score_by_name"]
     else:
         master["from_score"] = master["from_score"].fillna(
-            master["from_score_by_name"])
+            master["from_score_by_name"]
+        )
 
     if "to_score" not in master.columns:
         master["to_score"] = master["to_score_by_name"]
     else:
         master["to_score"] = master["to_score"].fillna(
-            master["to_score_by_name"])
+            master["to_score_by_name"]
+        )
 
     master = master.drop(
-        columns=["from_score_by_name", "to_score_by_name"], errors="ignore")
+        columns=["from_score_by_name", "to_score_by_name"], errors="ignore"
+    )
     master["league_quality_change"] = master["to_score"] - master["from_score"]
 
     return master
@@ -182,27 +210,34 @@ def add_opta_scores(master, mapping):
 # ============================================================
 
 
-def calculate_destination_statistics(df: pd.DataFrame) -> dict:
-    """Calculates progression, stability, and outcome stats for a given subset of transfers."""
-    if df.empty:
+def calculate_destination_statistics(
+    destination_matches: pd.DataFrame,
+    master: pd.DataFrame,
+) -> dict:
+    """Calculates progression and country retention statistics."""
+
+    if destination_matches.empty:
         return {
             "sample_size": 0,
             "moved_up": 0.0,
             "stayed_level": 0.0,
             "moved_down": 0.0,
-            "stayed_6m": 0.0,
-            "stayed_2y": 0.0,
-            "returned_home": 0.0,
-            "still_in_destination_3y": 0.0,
+            "country_retention": 0.0,
+            "exit_abroad": 0.0,
         }
 
-    total_records = len(df)
+    total_records = len(destination_matches)
+    df = destination_matches.copy()
 
-    # 1. League Progression Delta (threshold of 5.0)
+    # ============================================================
+    # 1. League Progression
+    # ============================================================
+
     if "league_quality_change" in df.columns:
         deltas = pd.to_numeric(
-            df["league_quality_change"], errors="coerce").dropna()
-    elif "to_score" in df.columns and "from_score" in df.columns:
+            df["league_quality_change"], errors="coerce"
+        ).dropna()
+    elif {"from_score", "to_score"}.issubset(df.columns):
         deltas = (
             pd.to_numeric(df["to_score"], errors="coerce")
             - pd.to_numeric(df["from_score"], errors="coerce")
@@ -210,47 +245,76 @@ def calculate_destination_statistics(df: pd.DataFrame) -> dict:
     else:
         deltas = pd.Series(dtype=float)
 
-    if len(deltas) > 0:
+    if len(deltas):
         threshold = 5.0
         moved_up = round((deltas > threshold).mean() * 100, 1)
         moved_down = round((deltas < -threshold).mean() * 100, 1)
         stayed_level = round(
-            (deltas.between(-threshold, threshold)).mean() * 100, 1)
+            deltas.between(-threshold, threshold).mean() * 100,
+            1,
+        )
     else:
         moved_up = stayed_level = moved_down = 0.0
 
-    # 2. Career Stability (Stayed >= 6 Months / 2 Years)
-    stayed_6m = stayed_2y = 0.0
-    if "days_at_destination" in df.columns:
-        days = pd.to_numeric(df["days_at_destination"], errors="coerce")
-        stayed_6m = round((days >= 180).mean() * 100, 1)
-        stayed_2y = round((days >= 730).mean() * 100, 1)
-    elif "stint_months" in df.columns:
-        months = pd.to_numeric(df["stint_months"], errors="coerce")
-        stayed_6m = round((months >= 6).mean() * 100, 1)
-        stayed_2y = round((months >= 24).mean() * 100, 1)
+    # ============================================================
+    # 2. Country Retention (Full Master History)
+    # ============================================================
 
-    # 3. Returned Home
-    returned_home = 0.0
-    if "primary_nationality" in df.columns and "to_country_name" in df.columns:
-        returned_home = round(
-            (df["primary_nationality"] == df["to_country_name"]).mean() * 100, 1
+    country_retention = 0.0
+    exit_abroad = 0.0
+
+    required = {"player_id", "date", "to_country_name"}
+
+    if required.issubset(master.columns):
+        # 1. Extract chronological career history from the full dataset for the players in scope
+        target_players = df["player_id"].unique()
+        full_history = master[master["player_id"].isin(target_players)].copy()
+
+        full_history["date"] = pd.to_datetime(
+            full_history["date"], errors="coerce"
+        )
+        full_history = full_history.sort_values(["player_id", "date"])
+
+        # 2. Compute the immediate subsequent destination country
+        full_history["next_country"] = (
+            full_history.groupby("player_id")["to_country_name"].shift(-1)
         )
 
-    # 4. Trajectory After 3 Years
-    still_in_destination_3y = 0.0
-    if "country_after_3y" in df.columns and "to_country_name" in df.columns:
-        still_in_destination_3y = round(
-            (df["country_after_3y"] == df["to_country_name"]).mean() * 100, 1
+        # 3. Merge next_country back into the destination transfers subset
+        merged_df = df.merge(
+            full_history[["player_id", "date", "next_country"]],
+            on=["player_id", "date"],
+            how="left",
         )
+
+        finished = merged_df.dropna(subset=["next_country"])
+
+        if len(finished):
+            country_retention = round(
+                (
+                    finished["next_country"] == finished["to_country_name"]
+                ).mean()
+                * 100,
+                1,
+            )
+
+            exit_abroad = round(
+                (
+                    finished["next_country"] != finished["to_country_name"]
+                ).mean()
+                * 100,
+                1,
+            )
+
+    # ============================================================
+    # Return
+    # ============================================================
 
     return {
         "sample_size": total_records,
         "moved_up": moved_up,
         "stayed_level": stayed_level,
         "moved_down": moved_down,
-        "stayed_6m": stayed_6m,
-        "stayed_2y": stayed_2y,
-        "returned_home": returned_home,
-        "still_in_destination_3y": still_in_destination_3y,
+        "country_retention": country_retention,
+        "exit_abroad": exit_abroad,
     }
