@@ -34,12 +34,43 @@ def money(value) -> str:
     return f"EUR {value:,.0f}"
 
 
+def average_time_until_next_move(matches: pd.DataFrame, full_history: pd.DataFrame):
+    required_columns = {"player_id", "date"}
+    if matches.empty or not required_columns.issubset(matches.columns) or not required_columns.issubset(full_history.columns):
+        return None
+
+    player_ids = matches["player_id"].dropna().unique()
+    history = full_history.loc[
+        full_history["player_id"].isin(player_ids),
+        ["player_id", "date"],
+    ].copy()
+    history["_source_index"] = history.index
+    history["_move_date"] = pd.to_datetime(history["date"], errors="coerce")
+    history = history.dropna(subset=["_move_date"]).sort_values(
+        ["player_id", "_move_date", "_source_index"]
+    )
+    distinct_dates = history[["player_id", "_move_date"]].drop_duplicates().sort_values(
+        ["player_id", "_move_date"]
+    )
+    distinct_dates["_next_move_date"] = distinct_dates.groupby("player_id")["_move_date"].shift(-1)
+    history = history.merge(distinct_dates, on=["player_id", "_move_date"], how="left")
+
+    next_dates = history.set_index("_source_index")["_next_move_date"].reindex(matches.index)
+    move_dates = pd.to_datetime(matches["date"], errors="coerce")
+    durations = (next_dates - move_dates).dt.days / 365.25
+    durations = durations[durations > 0]
+
+    return round(durations.mean(), 1) if len(durations) else None
+
+
 if "user_origin_country" not in st.session_state:
     st.session_state["user_origin_country"] = "Germany"
 if "user_origin_league" not in st.session_state:
     st.session_state["user_origin_league"] = "Verbandsliga"
 if "searched" not in st.session_state:
     st.session_state["searched"] = False
+if "start_international_only" not in st.session_state:
+    st.session_state["start_international_only"] = False
 
 
 master = load_table("master_dataset")
@@ -89,20 +120,35 @@ else:
     country = st.session_state["user_origin_country"]
     league = st.session_state["user_origin_league"]
 
-    matches = master[
+    origin_matches = master[
         (master["from_country_name"] == country)
         & (master[from_league_col].astype(str) == str(league))
     ].copy()
-    total_careers = unique_players(matches)
 
-    back_col, _ = st.columns([1, 5])
+    back_col, toggle_col, _ = st.columns([1, 1.4, 3.6])
     with back_col:
         if st.button("← Start over", use_container_width=True):
             st.session_state["searched"] = False
             st.rerun()
+    with toggle_col:
+        international_only = st.toggle(
+            "International only",
+            key="start_international_only",
+        )
+
+    if international_only:
+        matches = origin_matches[
+            origin_matches["to_country_name"].notna()
+            & (origin_matches["to_country_name"] != country)
+        ].copy()
+    else:
+        matches = origin_matches.copy()
+
+    total_careers = unique_players(matches)
 
     st.markdown(f"### Players from **{country} - {league}**")
-    st.markdown(f"## ⚡ **{total_careers:,} comparable careers found.**")
+    count_label = "international comparable careers" if international_only else "comparable careers"
+    st.markdown(f"## ⚡ **{total_careers:,} {count_label} found.**")
     st.divider()
 
     col_left, col_right = st.columns([1.5, 1], gap="large")
@@ -135,11 +181,14 @@ else:
         st.subheader("Key Benchmarks")
         avg_age = round(matches["age"].mean(), 1) if "age" in matches.columns and not matches.empty else "N/A"
         avg_value = money(matches["market_value"].mean()) if "market_value" in matches.columns and not matches.empty else "N/A"
-        avg_seasons = round(matches["career_length"].mean(), 1) if "career_length" in matches.columns and not matches.empty else "N/A"
+        avg_next_move = average_time_until_next_move(matches, master)
 
         st.metric("Average age when moving", avg_age)
         st.metric("Average market value", avg_value)
-        st.metric("Average time until next move", f"{avg_seasons} seasons" if avg_seasons != "N/A" else "N/A")
+        st.metric(
+            "Average time until next move",
+            f"{avg_next_move} seasons" if avg_next_move is not None else "N/A",
+        )
 
     st.divider()
 

@@ -1,5 +1,32 @@
 import pandas as pd
 import streamlit as st
+
+# 1. Page Config
+st.set_page_config(
+    page_title="Career Navigator | Kickways",
+    page_icon="⚽",
+    layout="wide",
+)
+
+# 2. Add the CSS right here!
+st.markdown(
+    """
+    <style>
+        /* Expand Streamlit container width */
+        .block-container {
+            padding-left: 2rem !important;
+            padding-right: 2rem !important;
+            max-width: 95% !important;
+        }
+        
+        /* Prevent metrics inside buttons/badges from wrapping onto 2 lines */
+        div[data-testid="stHorizontalBlock"] {
+            align-items: center;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 from components.player_profile import render_player_profile
 
 from analytics_ui import (
@@ -180,15 +207,20 @@ if matches.empty:
 # HISTORICAL DESTINATIONS WITH STATS
 # ============================================================
 
+# NEW: Match the width of col_left so the toggle sits nicely above the destination cards
 st.subheader("Where did they go?")
 
-filter_col1, filter_col2 = st.columns([3, 1])
+# Option A: Place the caption and toggle directly inside a container aligned with the destination card width
+# Matches your col_left / col_right ratio
+hdr_left, hdr_right = st.columns([2.0, 1.0])
 
-with filter_col1:
-    st.caption("Historical destinations of comparable players.")
-
-with filter_col2:
-    international_only = st.toggle("International only", value=False)
+with hdr_left:
+    # Split the left section into text on the left, toggle on the right
+    c_text, c_toggle = st.columns([1.5, 1])
+    with c_text:
+        st.caption("Historical destinations of comparable players.")
+    with c_toggle:
+        international_only = st.toggle("International only", value=False)
 
 destination_list = []
 
@@ -227,7 +259,7 @@ if not destination_rows:
     st.info("No destinations match the selected filters.")
 else:
     # 2-column layout: Left for Destinations, Right for Player Inspector
-    col_left, col_right = st.columns([1.2, 0.8])
+    col_left, col_right = st.columns([2.0, 1.0])
 
     with col_left:
         TOP_N = 5

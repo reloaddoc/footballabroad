@@ -3,6 +3,13 @@ from urllib.parse import quote_plus
 import pandas as pd
 import streamlit as st
 
+# MUST BE THE FIRST STREAMLIT COMMAND
+st.set_page_config(
+    page_title="Career Navigator | Kickways",
+    page_icon="⚽",
+    layout="wide",  # <--- THIS STRETCHES THE APP FULL WIDTH
+)
+
 from analytics_ui import (
     add_opta_scores,
     calculate_destination_statistics,
@@ -11,14 +18,21 @@ from analytics_ui import (
 )
 from services.destination_service import load_knowledge
 
-
-st.set_page_config(
-    page_title="Destination Report | Kickways",
-    page_icon="⚽",
-    layout="wide",
-)
-
 render_navigation_sidebar()
+
+# Retrieve from session state with fallback checks
+dest_country = st.session_state.get("destination_country", "Germany")
+dest_league = st.session_state.get("destination_league", "")
+
+# Fix "nan" or None strings
+if pd.isna(dest_league) or str(dest_league).strip().lower() in ["nan", "none", ""]:
+    dest_league = ""
+
+# Format header title cleanly
+header_title = f"{dest_country} - {dest_league}" if dest_league else dest_country
+
+# HERO TITLE
+st.markdown(f"# {header_title}")
 
 
 def league_column(frame: pd.DataFrame, prefix: str) -> str:
@@ -46,7 +60,8 @@ def next_transfer_rows(scope: pd.DataFrame, full_history: pd.DataFrame) -> pd.Da
     if scope.empty or not required.issubset(scope.columns) or not required.issubset(full_history.columns):
         return pd.DataFrame()
 
-    history = full_history[full_history["player_id"].isin(scope["player_id"].dropna().unique())].copy()
+    history = full_history[full_history["player_id"].isin(
+        scope["player_id"].dropna().unique())].copy()
     history["date"] = pd.to_datetime(history["date"], errors="coerce")
     scope_keys = scope[["player_id", "date"]].copy()
     scope_keys["date"] = pd.to_datetime(scope_keys["date"], errors="coerce")
@@ -73,15 +88,18 @@ def average_next_move_seasons(scope: pd.DataFrame, full_history: pd.DataFrame):
     if scope.empty or not {"player_id", "date"}.issubset(scope.columns):
         return None
 
-    history = full_history[full_history["player_id"].isin(scope["player_id"].dropna().unique())].copy()
+    history = full_history[full_history["player_id"].isin(
+        scope["player_id"].dropna().unique())].copy()
     history["date"] = pd.to_datetime(history["date"], errors="coerce")
     history = history.sort_values(["player_id", "date"])
     history["next_date"] = history.groupby("player_id")["date"].shift(-1)
 
     scope_dates = scope[["player_id", "date"]].copy()
     scope_dates["date"] = pd.to_datetime(scope_dates["date"], errors="coerce")
-    matched = scope_dates.merge(history[["player_id", "date", "next_date"]], on=["player_id", "date"], how="left")
-    durations = (matched["next_date"] - matched["date"]).dt.days.dropna() / 365.25
+    matched = scope_dates.merge(history[["player_id", "date", "next_date"]], on=[
+                                "player_id", "date"], how="left")
+    durations = (matched["next_date"] - matched["date"]
+                 ).dt.days.dropna() / 365.25
 
     return round(durations.mean(), 1) if len(durations) else None
 
@@ -112,7 +130,8 @@ cohort = master[
 ].copy()
 
 if dest_league:
-    league_cohort = cohort[cohort[to_league_col].astype(str) == str(dest_league)]
+    league_cohort = cohort[cohort[to_league_col].astype(
+        str) == str(dest_league)]
     if not league_cohort.empty:
         cohort = league_cohort.copy()
 
@@ -124,7 +143,8 @@ stats_scope = cohort if not cohort.empty else destination_matches
 stats = calculate_destination_statistics(stats_scope, master)
 
 p_count = player_count(cohort)
-avg_age = round(cohort["age"].mean(), 1) if "age" in cohort.columns and not cohort.empty else "-"
+avg_age = round(cohort["age"].mean(
+), 1) if "age" in cohort.columns and not cohort.empty else "-"
 avg_duration = average_next_move_seasons(cohort, master)
 duration_label = f"{avg_duration} seasons" if avg_duration is not None else "-"
 next_rows = next_transfer_rows(cohort, master)
@@ -147,7 +167,8 @@ st.divider()
 st.subheader("1. Can this move improve my career?")
 m1, m2, m3, m4 = st.columns(4)
 m1.metric("Level-Up Rate", format_percent(stats.get("moved_up", 0)))
-m2.metric("Country Retention", format_percent(stats.get("country_retention", 0)))
+m2.metric("Country Retention", format_percent(
+    stats.get("country_retention", 0)))
 m3.metric("Average Age", avg_age)
 m4.metric("Average Duration", duration_label)
 st.info(
@@ -159,16 +180,19 @@ st.divider()
 
 st.subheader(f"2. What happened after {dest_country}?")
 if next_rows.empty:
-    st.caption("No recorded next destination is available for this exact corridor yet.")
+    st.caption(
+        "No recorded next destination is available for this exact corridor yet.")
 else:
     top_next = (
-        next_rows.groupby(["next_to_country_name", "next_to_aggregation"], dropna=False)
+        next_rows.groupby(
+            ["next_to_country_name", "next_to_aggregation"], dropna=False)
         .size()
         .reset_index(name="players")
         .sort_values("players", ascending=False)
         .head(4)
     )
-    st.write(f"After leaving {dest_country}, comparable players most frequently moved to:")
+    st.write(
+        f"After leaving {dest_country}, comparable players most frequently moved to:")
     cols = st.columns(len(top_next))
     for idx, (_, row) in enumerate(top_next.iterrows()):
         label = f"{row['next_to_country_name']} ({row['next_to_aggregation']})"
@@ -203,16 +227,19 @@ else:
             }
         )
 
-    club_rows = sorted(club_rows, key=lambda item: item["players"], reverse=True)[:4]
+    club_rows = sorted(
+        club_rows, key=lambda item: item["players"], reverse=True)[:4]
     cols = st.columns(2)
     for idx, club in enumerate(club_rows):
         with cols[idx % 2]:
             with st.container(border=True):
                 st.markdown(f"### {club['club']}")
                 st.caption(f"{club['players']} comparable player(s)")
-                exit_text = " → ".join(club["exits"]) if club["exits"] else "No recorded exits yet"
+                exit_text = " → ".join(
+                    club["exits"]) if club["exits"] else "No recorded exits yet"
                 st.markdown(f"**Primary exits:** {exit_text}")
-                names = [player_name(row) for _, row in club["examples"].iterrows()]
+                names = [player_name(row)
+                         for _, row in club["examples"].iterrows()]
                 if names:
                     st.caption("Examples: " + ", ".join(names))
 
@@ -298,7 +325,8 @@ if not next_rows.empty:
     st.markdown("<br>", unsafe_allow_html=True)
     st.subheader("Continue Exploring Next Destinations")
     top_next = (
-        next_rows.groupby(["next_to_country_name", "next_to_aggregation"], dropna=False)
+        next_rows.groupby(
+            ["next_to_country_name", "next_to_aggregation"], dropna=False)
         .size()
         .reset_index(name="players")
         .sort_values("players", ascending=False)
