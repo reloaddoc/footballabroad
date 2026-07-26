@@ -1,4 +1,5 @@
 import sys
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -81,6 +82,27 @@ def merge_profiles(df, profile, side):
     return df.merge(tmp[cols], on=f"{side}_club", how="left")
 
 
+def derive_transfermarkt_profile_url(relative_url):
+    if pd.isna(relative_url):
+        return pd.NA
+
+    url = str(relative_url).strip()
+    if not url:
+        return pd.NA
+
+    path = re.sub(r"^https?://(?:www\.)?transfermarkt\.[^/]+", "", url)
+    profile_path = re.sub(
+        r"/transfers/spieler/([0-9]+)(?:/transfer_id/[0-9]+)?",
+        r"/profil/spieler/\1",
+        path,
+    )
+
+    if profile_path == path and "/profil/spieler/" not in profile_path:
+        return pd.NA
+
+    return f"https://www.transfermarkt.com{profile_path}"
+
+
 def build_master_dataset():
     print("Lade Daten aus DuckDB...")
 
@@ -101,6 +123,11 @@ def build_master_dataset():
 
     transfers["from_club"] = transfers["from_club"].astype(str)
     transfers["to_club"] = transfers["to_club"].astype(str)
+
+    if "relative_url" in transfers.columns:
+        transfers["player_link"] = transfers["relative_url"].apply(
+            derive_transfermarkt_profile_url
+        )
 
     print("\nPruefe eindeutige Schluessel...")
 

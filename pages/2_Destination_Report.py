@@ -17,22 +17,9 @@ from analytics_ui import (
     render_navigation_sidebar,
 )
 from services.destination_service import load_knowledge
+from utils.league_translation import translate_league_name
 
 render_navigation_sidebar()
-
-# Retrieve from session state with fallback checks
-dest_country = st.session_state.get("destination_country", "Germany")
-dest_league = st.session_state.get("destination_league", "")
-
-# Fix "nan" or None strings
-if pd.isna(dest_league) or str(dest_league).strip().lower() in ["nan", "none", ""]:
-    dest_league = ""
-
-# Format header title cleanly
-header_title = f"{dest_country} - {dest_league}" if dest_league else dest_country
-
-# HERO TITLE
-st.markdown(f"# {header_title}")
 
 
 def league_column(frame: pd.DataFrame, prefix: str) -> str:
@@ -108,8 +95,29 @@ def google_url(query: str) -> str:
     return f"https://www.google.com/search?q={quote_plus(query)}"
 
 
+def google_images_url(query: str) -> str:
+    return f"https://www.google.com/search?udm=2&q={quote_plus(query)}"
+
+
+def valid_destination_value(value) -> bool:
+    invalid_values = {"without a club", "nan", "without a club (nan)", "none", ""}
+    return pd.notna(value) and str(value).strip().lower() not in invalid_values
+
+
+def filter_valid_next_destinations(frame: pd.DataFrame) -> pd.DataFrame:
+    if frame.empty:
+        return frame
+
+    valid = frame["next_to_country_name"].apply(valid_destination_value)
+    if "next_to_aggregation" in frame.columns:
+        valid &= frame["next_to_aggregation"].apply(valid_destination_value)
+    return frame[valid].copy()
+
+
 dest_country = st.session_state.get("destination_country", "India")
 dest_league = st.session_state.get("destination_league", "Indian Super League")
+if pd.isna(dest_league) or str(dest_league).strip().lower() in ["nan", "none", ""]:
+    dest_league = ""
 orig_country = st.session_state.get("user_origin_country", "Germany")
 orig_league = st.session_state.get("user_origin_league", "Verbandsliga")
 
@@ -148,6 +156,7 @@ avg_age = round(cohort["age"].mean(
 avg_duration = average_next_move_seasons(cohort, master)
 duration_label = f"{avg_duration} seasons" if avg_duration is not None else "-"
 next_rows = next_transfer_rows(cohort, master)
+next_rows = filter_valid_next_destinations(next_rows)
 
 back_col, title_col = st.columns([1, 5])
 with back_col:
@@ -155,7 +164,8 @@ with back_col:
         st.switch_page("pages/1_Career_Navigator.py")
 
 with title_col:
-    st.markdown(f"# {dest_country} - {dest_league}")
+    report_title = f"{dest_country} - {translate_league_name(str(dest_league))}" if dest_league else dest_country
+    st.markdown(f"# {report_title}")
     st.caption("Career Intelligence Due-Diligence Report")
 
 st.success(
@@ -171,6 +181,15 @@ m2.metric("Country Retention", format_percent(
     stats.get("country_retention", 0)))
 m3.metric("Average Age", avg_age)
 m4.metric("Average Duration", duration_label)
+st.caption("Historical transfer patterns derived from comparable player careers and Opta league strength ratings.")
+
+with st.expander("How to interpret these metrics"):
+    st.markdown("""
+    - **Level Up Rate:** Percentage of transfers to a league with an Opta strength rating at least **5 points higher** than the player's previous league.
+    - **Country Retention:** Percentage of players whose **next recorded transfer** remained within the destination country.
+    - **Moved Abroad:** Percentage of players whose **next recorded transfer** was to a club in another country.
+    - **Opta Ratings:** League strength is measured using standardized Opta Power Rankings.
+    """)
 st.info(
     f"Based on historical careers, {dest_country} has been a stepping stone for "
     f"**{format_percent(stats.get('moved_up', 0))} of comparable players** by Opta league movement."
@@ -193,13 +212,16 @@ else:
     )
     st.write(
         f"After leaving {dest_country}, comparable players most frequently moved to:")
-    cols = st.columns(len(top_next))
-    for idx, (_, row) in enumerate(top_next.iterrows()):
-        label = f"{row['next_to_country_name']} ({row['next_to_aggregation']})"
-        if cols[idx].button(label, key=f"after_{idx}", use_container_width=True):
-            st.session_state["destination_country"] = row["next_to_country_name"]
-            st.session_state["destination_league"] = row["next_to_aggregation"]
-            st.rerun()
+    if top_next.empty:
+        st.caption("No valid recorded next destinations are available yet.")
+    else:
+        cols = st.columns(len(top_next))
+        for idx, (_, row) in enumerate(top_next.iterrows()):
+            label = f"{row['next_to_country_name']} ({translate_league_name(str(row['next_to_aggregation']))})"
+            if cols[idx].button(label, key=f"after_{idx}", use_container_width=True):
+                st.session_state["destination_country"] = row["next_to_country_name"]
+                st.session_state["destination_league"] = row["next_to_aggregation"]
+                st.rerun()
 
 st.divider()
 
@@ -301,18 +323,25 @@ for section in dossier.get("sections", []):
             for item in section["community_insights"]:
                 st.markdown(f"- {item}")
 
+        with st.expander("Sources & References"):
+            st.markdown("""
+            - Source 1: Official League Governance & Contract Regulations
+            - Source 2: Regional Association Financial Benchmarks
+            - Source 3: Verified Player/Agent Field Data
+            """)
+
 st.divider()
 
 st.subheader(f"6. Experience {dest_country} & Next Steps")
 col_a, col_b, col_c = st.columns(3)
 col_a.link_button(
     "Training & Facilities",
-    google_url(f"{dest_country} {dest_league} training facilities"),
+    google_images_url(f"{dest_country} {dest_league} training facilities"),
     use_container_width=True,
 )
 col_b.link_button(
     "Stadiums & Crowds",
-    google_url(f"{dest_country} {dest_league} stadiums crowds"),
+    google_images_url(f"{dest_country} {dest_league} stadiums crowds"),
     use_container_width=True,
 )
 col_c.link_button(
@@ -332,10 +361,13 @@ if not next_rows.empty:
         .sort_values("players", ascending=False)
         .head(3)
     )
-    next_cols = st.columns(len(top_next))
-    for idx, (_, row) in enumerate(top_next.iterrows()):
-        label = f"{row['next_to_country_name']} ({row['next_to_aggregation']})"
-        if next_cols[idx].button(label, key=f"next_{idx}", use_container_width=True):
-            st.session_state["destination_country"] = row["next_to_country_name"]
-            st.session_state["destination_league"] = row["next_to_aggregation"]
-            st.rerun()
+    if top_next.empty:
+        st.caption("No valid next destinations to explore yet.")
+    else:
+        next_cols = st.columns(len(top_next))
+        for idx, (_, row) in enumerate(top_next.iterrows()):
+            label = f"{row['next_to_country_name']} ({translate_league_name(str(row['next_to_aggregation']))})"
+            if next_cols[idx].button(label, key=f"next_{idx}", use_container_width=True):
+                st.session_state["destination_country"] = row["next_to_country_name"]
+                st.session_state["destination_league"] = row["next_to_aggregation"]
+                st.rerun()

@@ -2,6 +2,7 @@ import pandas as pd
 import streamlit as st
 
 from analytics_ui import load_table, render_navigation_sidebar
+from utils.league_translation import translate_league_name
 
 
 st.set_page_config(
@@ -32,6 +33,32 @@ def money(value) -> str:
     if abs(value) >= 1_000:
         return f"EUR {value / 1_000:.0f}k"
     return f"EUR {value:,.0f}"
+
+
+def open_destination_dossier(country: str, league: str) -> None:
+    st.session_state["destination_country"] = country
+    st.session_state["destination_league"] = league
+    st.switch_page("pages/2_Destination_Report.py")
+
+
+def render_destination_row(row: pd.Series, league_col: str, key_prefix: str) -> None:
+    destination_country = row["to_country_name"]
+    destination_league = row[league_col]
+    share = row["share"]
+
+    text_col, button_col = st.columns([3, 1.3])
+    with text_col:
+        st.write(
+            f"**{destination_country}** ({translate_league_name(str(destination_league))}) - **{share}%**"
+        )
+        st.progress(min(float(share) / 100.0, 1.0))
+    with button_col:
+        if st.button(
+            "Show league/country dossier",
+            key=f"{key_prefix}_{destination_country}_{destination_league}",
+            use_container_width=True,
+        ):
+            open_destination_dossier(destination_country, destination_league)
 
 
 if "user_origin_country" not in st.session_state:
@@ -72,11 +99,19 @@ if not st.session_state["searched"]:
         country = st.selectbox("Country", countries, index=default_idx)
 
         country_rows = valid_origins[valid_origins["from_country_name"] == country]
-        leagues = sorted(country_rows[from_league_col].dropna().astype(str).unique())
+        leagues = sorted(
+            country_rows[from_league_col].dropna().astype(str).unique(),
+            key=translate_league_name,
+        )
         default_league = st.session_state.get("user_origin_league")
         default_league_idx = leagues.index(default_league) if default_league in leagues else 0
 
-        league = st.selectbox("League", leagues, index=default_league_idx)
+        league = st.selectbox(
+            "League",
+            leagues,
+            index=default_league_idx,
+            format_func=translate_league_name,
+        )
 
         st.markdown("<br>", unsafe_allow_html=True)
         if st.button("Show Career Paths →", use_container_width=True, type="primary"):
@@ -101,7 +136,7 @@ else:
             st.session_state["searched"] = False
             st.rerun()
 
-    st.markdown(f"### Players from **{country} - {league}**")
+    st.markdown(f"### Players from **{country} - {translate_league_name(str(league))}**")
     st.markdown(f"## ⚡ **{total_careers:,} comparable careers found.**")
     st.divider()
 
@@ -121,24 +156,25 @@ else:
                 .reset_index()
             )
             dest_counts["share"] = (dest_counts["players"] / max(total_careers, 1) * 100).round(1)
-            dest_counts = dest_counts.sort_values(["players", "share"], ascending=False).head(5)
+            dest_counts = dest_counts.sort_values(["players", "share"], ascending=False)
 
-            for _, row in dest_counts.iterrows():
-                destination_country = row["to_country_name"]
-                destination_league = row[to_league_col]
-                share = row["share"]
+            top_destinations = dest_counts.head(20)
+            other_destinations = dest_counts.iloc[20:]
 
-                st.write(f"**{destination_country}** ({destination_league}) - **{share}%**")
-                st.progress(min(float(share) / 100.0, 1.0))
+            for idx, (_, row) in enumerate(top_destinations.iterrows()):
+                render_destination_row(row, to_league_col, f"start_top_{idx}")
+
+            if not other_destinations.empty:
+                with st.expander(f"Expand all leagues ({len(other_destinations)} more)"):
+                    for idx, (_, row) in enumerate(other_destinations.iterrows()):
+                        render_destination_row(row, to_league_col, f"start_more_{idx}")
 
     with col_right:
         st.subheader("Key Benchmarks")
         avg_age = round(matches["age"].mean(), 1) if "age" in matches.columns and not matches.empty else "N/A"
-        avg_value = money(matches["market_value"].mean()) if "market_value" in matches.columns and not matches.empty else "N/A"
         avg_seasons = round(matches["career_length"].mean(), 1) if "career_length" in matches.columns and not matches.empty else "N/A"
 
         st.metric("Average age when moving", avg_age)
-        st.metric("Average market value", avg_value)
         st.metric("Average time until next move", f"{avg_seasons} seasons" if avg_seasons != "N/A" else "N/A")
 
     st.divider()
@@ -147,7 +183,8 @@ else:
         top_dest = dest_counts.iloc[0]["to_country_name"]
         top_dest_league = dest_counts.iloc[0][to_league_col]
 
-        if st.button(f"Explore {top_dest} ({top_dest_league}) Dossier →", type="primary"):
-            st.session_state["destination_country"] = top_dest
-            st.session_state["destination_league"] = top_dest_league
-            st.switch_page("pages/2_Destination_Report.py")
+        if st.button(
+            f"Explore {top_dest} ({translate_league_name(str(top_dest_league))}) Dossier →",
+            type="primary",
+        ):
+            open_destination_dossier(top_dest, top_dest_league)

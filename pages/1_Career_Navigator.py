@@ -1,3 +1,5 @@
+import re
+
 import pandas as pd
 import streamlit as st
 
@@ -36,6 +38,7 @@ from analytics_ui import (
     metric_row,
     page_header,
 )
+from utils.league_translation import translate_league_name
 
 # MUST BE THE FIRST STREAMLIT COMMAND ON THE PAGE
 # st.set_page_config(
@@ -61,6 +64,9 @@ if "selected_destination" not in st.session_state:
 
 if "selected_player" not in st.session_state:
     st.session_state["selected_player"] = None
+
+if "selected_player_key" not in st.session_state:
+    st.session_state["selected_player_key"] = None
 
 # ============================================================
 # LOAD DATA & OPTA SCORES
@@ -132,6 +138,50 @@ def get_player_name(row):
         if col in row and pd.notna(row[col]) and str(row[col]).strip() != "":
             return str(row[col]).strip()
     return f"Player {row.get('player_id', 'Unknown')}"
+
+
+def get_player_key(player_id) -> str:
+    if pd.isna(player_id):
+        return ""
+    return str(player_id)
+
+
+def derive_transfermarkt_profile_url(relative_url):
+    if pd.isna(relative_url):
+        return None
+
+    url = str(relative_url).strip()
+    if not url:
+        return None
+
+    path = re.sub(r"^https?://(?:www\.)?transfermarkt\.[^/]+", "", url)
+    profile_path = re.sub(
+        r"/transfers/spieler/([0-9]+)(?:/transfer_id/[0-9]+)?",
+        r"/profil/spieler/\1",
+        path,
+    )
+
+    if profile_path == path and "/profil/spieler/" not in profile_path:
+        return None
+
+    return f"https://www.transfermarkt.com{profile_path}"
+
+
+def render_player_summary_card(player_row):
+    display_name = get_player_name(player_row)
+    player_url = (
+        player_row.get("player_link")
+        or player_row.get("profile_url")
+        or derive_transfermarkt_profile_url(player_row.get("relative_url"))
+    )
+
+    with st.container(border=True):
+        if player_url:
+            st.link_button(display_name, player_url, use_container_width=True)
+        else:
+            st.subheader(display_name)
+        st.write(f"**Nationality:** {player_row.get('primary_nationality', 'N/A')}")
+        st.write(f"**Age:** {player_row.get('age', 'N/A')}")
 
 # ============================================================
 # PLAYER PROFILE
@@ -262,13 +312,14 @@ else:
     col_left, col_right = st.columns([2.0, 1.0])
 
     with col_left:
-        TOP_N = 5
+        TOP_N = 20
         top_destinations = destination_rows[:TOP_N]
         other_destinations = destination_rows[TOP_N:]
 
         def render_card(row):
             country = row["to_country_name"]
             league = row["to_aggregation"]
+            display_league = translate_league_name(str(league))
             players = row["players"]
             transfers = row["transfers"]
 
@@ -282,7 +333,7 @@ else:
                 c1, c2 = st.columns([3.5, 1.2])
 
                 with c1:
-                    st.markdown(f"### {country}\n**{league}**")
+                    st.markdown(f"### {country}\n**{display_league}**")
 
                     # CLICKABLE PLAYER COUNT BUTTON
                     btn_col, info_col = st.columns([1.5, 2])
@@ -293,6 +344,7 @@ else:
                             else:
                                 st.session_state["selected_destination"] = dest_key
                                 st.session_state["selected_player"] = None
+                                st.session_state["selected_player_key"] = None
 
                     with info_col:
                         st.caption(f"🔄 `{transfers}` total transfers")
@@ -306,7 +358,7 @@ else:
 
                 with c2:
                     if st.button(
-                        "Explore",
+                        "Show league/country dossier",
                         key=f"btn_exp_{country}_{league}",
                         use_container_width=True,
                     ):
@@ -317,7 +369,7 @@ else:
                 # EXPANDER / DRILL-DOWN WHEN CLICKED
                 if st.session_state["selected_destination"] == dest_key:
                     st.info(
-                        f"Showing comparable players who moved to **{league}**:")
+                        f"Showing comparable players who moved to **{display_league}**:")
 
                     group_data = row["group_data"]
                     unique_players = group_data.drop_duplicates(
@@ -326,6 +378,7 @@ else:
                     for _, p in unique_players.iterrows():
                         p_name = get_player_name(p)
                         p_id = p["player_id"]
+                        p_key = get_player_key(p_id)
                         p_pos = p.get("position_group",
                                       p.get("position", "N/A"))
                         p_nat = p.get("primary_nationality", "")
@@ -337,11 +390,15 @@ else:
                             # CLICKABLE PLAYER NAME BUTTON
                             if st.button(f"👤 {p_name}", key=f"nav_p_{p_id}_{dest_key}"):
                                 st.session_state["selected_player"] = p_id
+                                st.session_state["selected_player_key"] = p_key
 
                             st.caption(f"{p_nat} | From: {from_l}")
 
                         with pc2:
                             st.markdown("`Match 90%+`")
+
+                        if st.session_state["selected_player_key"] == p_key:
+                            render_player_summary_card(p)
 
                         st.markdown("<hr style='margin: 4px 0;'>",
                                     unsafe_allow_html=True)
@@ -351,7 +408,7 @@ else:
             render_card(row)
 
         if other_destinations:
-            with st.expander(f"See {len(other_destinations)} other destinations"):
+            with st.expander(f"Expand all leagues ({len(other_destinations)} more)"):
                 for row in other_destinations:
                     render_card(row)
 
@@ -360,25 +417,17 @@ else:
 
         if st.session_state["selected_player"]:
             selected_pid = st.session_state["selected_player"]
+            selected_key = (
+                st.session_state["selected_player_key"]
+                or get_player_key(selected_pid)
+            )
 
             # Fetch career history for the selected player
-            p_history = master[master["player_id"] == selected_pid]
+            p_history = master[master["player_id"].apply(get_player_key) == selected_key]
 
             if not p_history.empty:
                 p_first = p_history.iloc[0]
-                display_name = get_player_name(p_first)
-
-                st.success(f"### {display_name}")
-                st.write(
-                    f"**Nationality:** {p_first.get('primary_nationality', 'N/A')}")
-
-                st.markdown("#### 📈 Career Pathway")
-                for idx, tr in p_history.iterrows():
-                    from_l = tr.get("from_aggregation", tr.get(
-                        "from_league", "Unknown"))
-                    to_l = tr.get("to_aggregation", tr.get(
-                        "to_league", "Unknown"))
-                    st.markdown(f"• **{from_l}** ➔ **{to_l}**")
+                render_player_summary_card(p_first)
             else:
                 st.error("Player profile details not found in master dataset.")
         else:

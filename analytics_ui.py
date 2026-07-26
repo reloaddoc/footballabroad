@@ -2,6 +2,7 @@ import pandas as pd
 import streamlit as st
 
 from database import read_table
+from utils.league_translation import translate_league_name
 
 
 @st.cache_data
@@ -31,8 +32,6 @@ def render_navigation_sidebar():
         st.page_link("app2.py", label="Start")
         st.page_link("pages/1_Career_Navigator.py", label="Career Navigator")
         st.page_link("pages/2_Destination_Report.py", label="Destination Report")
-        st.page_link("pages/3_Player_Explorer.py", label="Player Explorer")
-
         with st.expander("📊 Advanced Research Tools"):
             st.page_link("pages/4_Transfer_Corridors.py", label="Transfer Corridors")
             st.page_link("pages/5_League_Networks.py", label="League Networks")
@@ -77,11 +76,16 @@ def percentage(value):
 
 
 def select_filter(label, values, key=None):
+    is_league_filter = "league" in label.lower()
     options = ["All"] + sorted(
-        value for value in pd.Series(values).dropna().astype(str).unique()
-        if value.strip() and value != "nan"
+        (
+            value for value in pd.Series(values).dropna().astype(str).unique()
+            if value.strip() and value != "nan"
+        ),
+        key=translate_league_name if is_league_filter else str,
     )
-    return st.selectbox(label, options, key=key)
+    formatter = translate_league_name if is_league_filter else str
+    return st.selectbox(label, options, key=key, format_func=formatter)
 
 
 def apply_equal_filter(frame, column, selected):
