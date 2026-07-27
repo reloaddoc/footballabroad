@@ -32,8 +32,7 @@ def render_navigation_sidebar():
 
     with st.sidebar:
         st.markdown("### Main Navigation")
-        st.page_link("app2.py", label="Career path")
-        st.page_link("pages/1_Career_Navigator.py", label="Opportunity explorer")
+        st.page_link("app.py", label="Career path")
         st.page_link("pages/2_Destination_Report.py", label="Destination intelligence")
         with st.expander("Advanced Research Tools"):
             st.page_link("pages/4_Transfer_Corridors.py", label="Transfer Corridors")
@@ -136,7 +135,7 @@ def intelligence_links():
 
 def add_opta_scores(master, mapping):
     """Merges Opta strength ratings into the master dataset using competition codes
-    and fallback league names. Matches logic from app2.py.
+    and fallback league names. Matches logic from app.py.
     """
     master = master.copy()
     mapping = mapping.copy()

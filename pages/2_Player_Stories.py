@@ -32,7 +32,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.page_link("app2.py", label="← Back to KickWays")
+st.page_link("app.py", label="← Back to KickWays")
 st.markdown(
     """
     <div style="height:3.5rem"></div>

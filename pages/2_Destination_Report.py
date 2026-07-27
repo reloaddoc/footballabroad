@@ -336,7 +336,7 @@ next_rows = filter_valid_next_destinations(next_rows)
 back_col, title_col = st.columns([1, 5])
 with back_col:
     if st.button("← Back", use_container_width=False):
-        st.switch_page("pages/1_Career_Navigator.py")
+        st.switch_page("app.py")
 
 with title_col:
     report_title = f"{dest_country} · {translate_league_name(str(dest_league))}" if dest_league else dest_country

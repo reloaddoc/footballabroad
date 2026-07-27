@@ -1,11 +1,11 @@
 ---
 version: 1
-slug: "app2-py"
-primary_target: "app2.py"
+slug: "app-py"
+primary_target: "app.py"
 related_targets: []
 ---
 
-Scope: Career Path page (`app2.py`), the first product surface for users starting a career exploration.
+Scope: Career Path page (`app.py`), the first product surface for users starting a career exploration.
 
 Mode: Operate. The page must help a player or agent enter the current football context and understand what Kickways will do next.
 
