@@ -31,11 +31,11 @@ def render_navigation_sidebar():
     )
 
     with st.sidebar:
-        st.markdown("### 🏠 Main Navigation")
+        st.markdown("### Main Navigation")
         st.page_link("app2.py", label="Career path")
         st.page_link("pages/1_Career_Navigator.py", label="Opportunity explorer")
         st.page_link("pages/2_Destination_Report.py", label="Destination intelligence")
-        with st.expander("📊 Advanced Research Tools"):
+        with st.expander("Advanced Research Tools"):
             st.page_link("pages/4_Transfer_Corridors.py", label="Transfer Corridors")
             st.page_link("pages/5_League_Networks.py", label="League Networks")
             st.page_link("pages/6_Agency_Intelligence.py", label="Agency Intelligence")
@@ -222,7 +222,7 @@ def calculate_destination_statistics(
     destination_matches: pd.DataFrame,
     master: pd.DataFrame,
 ) -> dict:
-    """Calculates progression and country retention statistics."""
+    """Calculates onward progression and country retention statistics."""
 
     if destination_matches.empty:
         return {
@@ -234,24 +234,71 @@ def calculate_destination_statistics(
             "exit_abroad": 0.0,
         }
 
-    total_records = len(destination_matches)
     df = destination_matches.copy()
+    total_records = len(df)
+    df["_source_index"] = df.index
 
     # ============================================================
-    # 1. League Progression
+    # 1. Onward League Progression
     # ============================================================
 
-    if "league_quality_change" in df.columns:
-        deltas = pd.to_numeric(
-            df["league_quality_change"], errors="coerce"
-        ).dropna()
-    elif {"from_score", "to_score"}.issubset(df.columns):
-        deltas = (
-            pd.to_numeric(df["to_score"], errors="coerce")
-            - pd.to_numeric(df["from_score"], errors="coerce")
-        ).dropna()
-    else:
-        deltas = pd.Series(dtype=float)
+    deltas = pd.Series(dtype=float)
+    country_retention = 0.0
+    exit_abroad = 0.0
+    required = {"player_id", "date", "to_country_name"}
+
+    if required.issubset(master.columns) and required.issubset(df.columns):
+        target_players = df["player_id"].dropna().unique()
+        history_columns = ["player_id", "date", "to_country_name"]
+        if "to_score" in master.columns:
+            history_columns.append("to_score")
+
+        full_history = master.loc[
+            master["player_id"].isin(target_players),
+            history_columns,
+        ].copy()
+        full_history["_source_index"] = full_history.index
+        full_history["_move_date"] = pd.to_datetime(
+            full_history["date"], errors="coerce"
+        )
+        full_history = full_history.dropna(subset=["_move_date"]).sort_values(
+            ["player_id", "_move_date", "_source_index"]
+        )
+        full_history["next_country"] = full_history.groupby("player_id")[
+            "to_country_name"
+        ].shift(-1)
+
+        if "to_score" in full_history.columns and "to_score" in df.columns:
+            full_history["next_to_score"] = full_history.groupby("player_id")[
+                "to_score"
+            ].shift(-1)
+            next_scores = full_history.set_index("_source_index")[
+                "next_to_score"
+            ].reindex(df["_source_index"])
+            current_scores = pd.to_numeric(df["to_score"], errors="coerce")
+            deltas = (
+                pd.to_numeric(next_scores, errors="coerce").reset_index(drop=True)
+                - current_scores.reset_index(drop=True)
+            ).dropna()
+
+        next_countries = full_history.set_index("_source_index")[
+            "next_country"
+        ].reindex(df["_source_index"])
+        finished = df.assign(
+            next_country=next_countries.reset_index(drop=True).values
+        ).dropna(subset=["next_country"])
+
+        if len(finished):
+            country_retention = round(
+                (finished["next_country"] == finished["to_country_name"]).mean()
+                * 100,
+                1,
+            )
+            exit_abroad = round(
+                (finished["next_country"] != finished["to_country_name"]).mean()
+                * 100,
+                1,
+            )
 
     if len(deltas):
         moved_up = round((deltas > 0).mean() * 100, 1)
@@ -259,56 +306,6 @@ def calculate_destination_statistics(
         stayed_level = round((deltas == 0).mean() * 100, 1)
     else:
         moved_up = stayed_level = moved_down = 0.0
-
-    # ============================================================
-    # 2. Country Retention (Full Master History)
-    # ============================================================
-
-    country_retention = 0.0
-    exit_abroad = 0.0
-
-    required = {"player_id", "date", "to_country_name"}
-
-    if required.issubset(master.columns):
-        # 1. Extract chronological career history from the full dataset for the players in scope
-        target_players = df["player_id"].unique()
-        full_history = master[master["player_id"].isin(target_players)].copy()
-
-        full_history["date"] = pd.to_datetime(
-            full_history["date"], errors="coerce"
-        )
-        full_history = full_history.sort_values(["player_id", "date"])
-
-        # 2. Compute the immediate subsequent destination country
-        full_history["next_country"] = (
-            full_history.groupby("player_id")["to_country_name"].shift(-1)
-        )
-
-        # 3. Merge next_country back into the destination transfers subset
-        merged_df = df.merge(
-            full_history[["player_id", "date", "next_country"]],
-            on=["player_id", "date"],
-            how="left",
-        )
-
-        finished = merged_df.dropna(subset=["next_country"])
-
-        if len(finished):
-            country_retention = round(
-                (
-                    finished["next_country"] == finished["to_country_name"]
-                ).mean()
-                * 100,
-                1,
-            )
-
-            exit_abroad = round(
-                (
-                    finished["next_country"] != finished["to_country_name"]
-                ).mean()
-                * 100,
-                1,
-            )
 
     # ============================================================
     # Return

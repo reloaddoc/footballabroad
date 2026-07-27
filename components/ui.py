@@ -24,7 +24,7 @@ def inject_kickways_theme() -> None:
 
             .block-container {{
                 max-width: 1180px !important;
-                padding-top: 2.25rem !important;
+                padding-top: 3rem !important;
                 padding-left: 2rem !important;
                 padding-right: 2rem !important;
                 padding-bottom: 4rem !important;
@@ -37,6 +37,39 @@ def inject_kickways_theme() -> None:
 
             h1, h2, h3 {{
                 letter-spacing: 0 !important;
+            }}
+
+            [data-testid="stSidebar"] h3 {{
+                font-size: 1rem !important;
+                font-weight: 760 !important;
+                margin-bottom: 1.2rem !important;
+            }}
+
+            [data-testid="stPageLink"] a {{
+                border-radius: 8px !important;
+                min-height: 2.25rem !important;
+            }}
+
+            [data-testid="stVerticalBlockBorderWrapper"] {{
+                border: 1px solid var(--kw-border) !important;
+                border-radius: 8px !important;
+                background: linear-gradient(180deg, rgba(255,255,255,0.035), rgba(255,255,255,0.012)) !important;
+                padding: 1.15rem !important;
+            }}
+
+            div[data-baseweb="select"] > div {{
+                min-height: 3.15rem !important;
+                border-radius: 8px !important;
+                border-color: rgba(148, 163, 184, 0.22) !important;
+                background: var(--kw-surface-soft) !important;
+            }}
+
+            div[data-baseweb="select"] > div:hover {{
+                border-color: rgba(148, 163, 184, 0.38) !important;
+            }}
+
+            div[data-baseweb="select"] span {{
+                font-weight: 540 !important;
             }}
 
             div[data-testid="stMetric"] {{
@@ -79,19 +112,111 @@ def inject_kickways_theme() -> None:
 
             .kw-title {{
                 color: var(--kw-text);
-                font-size: clamp(2.1rem, 4vw, 4rem);
+                font-size: clamp(2.2rem, 3.2vw, 3.35rem);
                 line-height: 1.02;
                 font-weight: 760;
                 margin: 0;
+                max-width: 820px;
             }}
 
             .kw-subtitle {{
                 color: var(--kw-muted);
                 font-size: 1.05rem;
                 line-height: 1.7;
-                max-width: 720px;
+                max-width: 760px;
                 margin-top: 0.85rem;
                 margin-bottom: 0;
+            }}
+
+            .kw-start-note {{
+                color: var(--kw-muted);
+                font-size: 0.86rem;
+                line-height: 1.55;
+                margin-top: 0.85rem;
+                max-width: 60ch;
+            }}
+
+            .kw-command-brief {{
+                border: 1px solid rgba(37, 99, 235, 0.34);
+                border-radius: 8px;
+                background:
+                    linear-gradient(135deg, rgba(37, 99, 235, 0.12), rgba(255,255,255,0.018) 38%, rgba(255,255,255,0.01)),
+                    linear-gradient(180deg, rgba(255,255,255,0.035), rgba(255,255,255,0.012));
+                padding: 1.4rem;
+                margin: 1.45rem 0 1.2rem 0;
+            }}
+
+            .kw-command-grid {{
+                display: grid;
+                grid-template-columns: minmax(0, 1.35fr) minmax(260px, 0.75fr);
+                gap: 1.4rem;
+                align-items: end;
+            }}
+
+            .kw-command-copy {{
+                color: var(--kw-soft);
+                font-size: 1rem;
+                line-height: 1.65;
+                max-width: 72ch;
+                margin: 0.7rem 0 0 0;
+            }}
+
+            .kw-route {{
+                display: flex;
+                flex-wrap: wrap;
+                gap: 0.45rem;
+                justify-content: flex-end;
+            }}
+
+            .kw-route-step {{
+                border: 1px solid var(--kw-border);
+                border-radius: 999px;
+                color: var(--kw-muted);
+                font-size: 0.78rem;
+                font-weight: 650;
+                padding: 0.36rem 0.62rem;
+                white-space: nowrap;
+            }}
+
+            .kw-route-step-active {{
+                color: var(--kw-text);
+                background: rgba(37, 99, 235, 0.16);
+                border-color: rgba(37, 99, 235, 0.62);
+            }}
+
+            .kw-panel-kicker {{
+                color: var(--kw-accent);
+                font-size: 0.74rem;
+                font-weight: 760;
+                letter-spacing: 0.08em;
+                text-transform: uppercase;
+                margin-bottom: 0.85rem;
+            }}
+
+            .kw-evidence-list {{
+                display: grid;
+                gap: 0.8rem;
+                margin-top: 1.15rem;
+            }}
+
+            .kw-evidence-item {{
+                border-top: 1px solid var(--kw-border);
+                padding-top: 0.8rem;
+            }}
+
+            .kw-evidence-item strong {{
+                color: var(--kw-text);
+                display: block;
+                font-size: 0.92rem;
+                font-weight: 720;
+                margin-bottom: 0.2rem;
+            }}
+
+            .kw-evidence-item span {{
+                color: var(--kw-muted);
+                display: block;
+                font-size: 0.86rem;
+                line-height: 1.5;
             }}
 
             .kw-section-title {{
@@ -178,14 +303,15 @@ def inject_kickways_theme() -> None:
             .kw-stat-row {{
                 display: flex;
                 flex-wrap: wrap;
-                gap: 1rem;
+                gap: 1.15rem;
                 margin-top: 0.95rem;
             }}
 
             .kw-stat {{
                 display: inline-flex;
-                gap: 0.4rem;
-                align-items: baseline;
+                flex-direction: column;
+                gap: 0.16rem;
+                align-items: flex-start;
                 color: var(--kw-muted);
                 font-size: 0.86rem;
             }}
@@ -194,6 +320,22 @@ def inject_kickways_theme() -> None:
                 color: var(--kw-text);
                 font-size: 0.9rem;
                 font-weight: 760;
+            }}
+
+            @media (max-width: 760px) {{
+                .block-container {{
+                    padding-left: 1rem !important;
+                    padding-right: 1rem !important;
+                    padding-top: 1.5rem !important;
+                }}
+
+                .kw-command-grid {{
+                    grid-template-columns: 1fr;
+                }}
+
+                .kw-route {{
+                    justify-content: flex-start;
+                }}
             }}
 
             .kw-empty-state {{
@@ -227,6 +369,32 @@ def product_header(title: str, subtitle: str, eyebrow: str | None = None) -> Non
     )
 
 
+def command_brief(title: str, copy: str, steps: Iterable[str], active_step: str) -> None:
+    step_html = "".join(
+        (
+            f"<span class='kw-route-step kw-route-step-active'>{_escape(step)}</span>"
+            if step == active_step
+            else f"<span class='kw-route-step'>{_escape(step)}</span>"
+        )
+        for step in steps
+    )
+    st.markdown(
+        f"""
+        <div class="kw-command-brief">
+            <div class="kw-eyebrow">Career intelligence</div>
+            <div class="kw-command-grid">
+                <div>
+                    <h1 class="kw-title">{_escape(title)}</h1>
+                    <p class="kw-command-copy">{_escape(copy)}</p>
+                </div>
+                <div class="kw-route">{step_html}</div>
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
 def section_header(title: str, copy: str | None = None) -> None:
     copy_html = f"<p class='kw-section-copy'>{_escape(copy)}</p>" if copy else ""
     st.markdown(
@@ -253,6 +421,27 @@ def stat_row(items: Iterable[tuple[str, str]]) -> None:
         for label, value in items
     )
     st.markdown(f"<div class='kw-stat-row'>{stats}</div>", unsafe_allow_html=True)
+
+
+def start_note(message: str) -> None:
+    st.markdown(
+        f"<p class='kw-start-note'>{_escape(message)}</p>",
+        unsafe_allow_html=True,
+    )
+
+
+def evidence_brief(items: Iterable[tuple[str, str]]) -> None:
+    rows = "".join(
+        f"<div class='kw-evidence-item'><strong>{_escape(title)}</strong><span>{_escape(copy)}</span></div>"
+        for title, copy in items
+    )
+    st.markdown(
+        f"""
+        <div class="kw-panel-kicker">What happens next</div>
+        <div class="kw-evidence-list">{rows}</div>
+        """,
+        unsafe_allow_html=True,
+    )
 
 
 def destination_card_shell(

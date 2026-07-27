@@ -15,10 +15,13 @@ from utils.league_translation import is_selectable_league_name, translate_league
 kw_ui = importlib.reload(kw_ui)
 destination_card_shell = kw_ui.destination_card_shell
 empty_state = kw_ui.empty_state
+evidence_brief = kw_ui.evidence_brief
 inject_kickways_theme = kw_ui.inject_kickways_theme
 journey_steps = kw_ui.journey_steps
 product_header = kw_ui.product_header
+command_brief = kw_ui.command_brief
 section_header = kw_ui.section_header
+start_note = kw_ui.start_note
 stat_row = kw_ui.stat_row
 
 
@@ -105,6 +108,9 @@ def open_destination_dossier(country: str, league: str, destination_scope: pd.Da
     st.session_state["destination_source"] = "start"
     st.session_state.pop("career_navigator_profile", None)
     st.session_state.pop("career_navigator_destination_scope", None)
+    for key in list(st.session_state.keys()):
+        if key.startswith("report_origin_country_") or key.startswith("report_origin_league_"):
+            st.session_state.pop(key, None)
     if destination_scope is not None and not destination_scope.empty:
         st.session_state["destination_scope"] = destination_scope.copy()
     else:
@@ -122,7 +128,8 @@ def render_destination_opportunity(row: pd.Series, league_col: str, key_prefix: 
     display_league = translate_league_name(str(league))
     stats = row.get("stats", {})
     evidence = (
-        f"{players:,} comparable players moved from your current context to this destination. "
+        f"{players:,} comparable players moved from {st.session_state.get('user_origin_country', 'your current country')} "
+        f"- {translate_league_name(str(st.session_state.get('user_origin_league', 'your current league')))} to this destination. "
         f"It represents {share:.1f}% of the observed next moves."
     )
 
@@ -172,61 +179,72 @@ valid_origins = master.dropna(subset=["from_country_name", from_league_col]).cop
 
 
 if not st.session_state["searched"]:
-    product_header(
+    command_brief(
         "Where could your career realistically go next?",
-        "Select where you play today and Kickways will surface destinations reached by comparable players.",
-        eyebrow="Career intelligence",
+        "Start with your current league. Kickways turns historical transfer paths into a shortlist of destinations that comparable players actually reached.",
+        ["Profile", "Opportunities", "Destination intelligence"],
+        "Profile",
     )
-    journey_steps("Profile")
 
     st.markdown("<br>", unsafe_allow_html=True)
-    form_col, insight_col = st.columns([1.15, 0.85], gap="large")
+    form_col, insight_col = st.columns([1.08, 0.92], gap="large")
 
     with form_col:
-        section_header("Your current football context", "This is the only input needed to build your opportunity map.")
-        countries = sorted(valid_origins["from_country_name"].dropna().unique())
-        default_country = st.session_state.get("user_origin_country", "Germany")
-        default_idx = countries.index(default_country) if default_country in countries else 0
+        with st.container(border=True):
+            section_header("Current football context", "Choose the league you play in today.")
+            countries = sorted(valid_origins["from_country_name"].dropna().unique())
+            default_country = st.session_state.get("user_origin_country", "Germany")
+            default_idx = countries.index(default_country) if default_country in countries else 0
 
-        country = st.selectbox("Current country", countries, index=default_idx)
-        country_rows = valid_origins[valid_origins["from_country_name"] == country]
-        leagues = sorted(
-            (
-                league_name
-                for league_name in country_rows[from_league_col].dropna().astype(str).unique()
-                if is_selectable_league_name(league_name)
-            ),
-            key=translate_league_name,
-        )
-        if not leagues:
-            empty_state("No selectable leagues are available for this country yet.")
-            st.stop()
+            country = st.selectbox("Country", countries, index=default_idx)
+            country_rows = valid_origins[valid_origins["from_country_name"] == country]
+            leagues = sorted(
+                (
+                    league_name
+                    for league_name in country_rows[from_league_col].dropna().astype(str).unique()
+                    if is_selectable_league_name(league_name)
+                ),
+                key=translate_league_name,
+            )
+            if not leagues:
+                empty_state("No selectable leagues are available for this country yet.")
+                st.stop()
 
-        default_league = st.session_state.get("user_origin_league")
-        default_league_idx = leagues.index(default_league) if default_league in leagues else 0
+            default_league = st.session_state.get("user_origin_league")
+            default_league_idx = leagues.index(default_league) if default_league in leagues else 0
 
-        league = st.selectbox(
-            "Current league",
-            leagues,
-            index=default_league_idx,
-            format_func=translate_league_name,
-        )
+            league = st.selectbox(
+                "League",
+                leagues,
+                index=default_league_idx,
+                format_func=translate_league_name,
+            )
 
-        if st.button("Find realistic opportunities", use_container_width=True, type="primary"):
-            st.session_state["user_origin_country"] = country
-            st.session_state["user_origin_league"] = league
-            st.session_state["searched"] = True
-            st.rerun()
+            start_note("Kickways compares this origin with historical next moves from players in the same football context.")
+
+            if st.button("Find realistic opportunities", use_container_width=True, type="primary"):
+                st.session_state["user_origin_country"] = country
+                st.session_state["user_origin_league"] = league
+                st.session_state["searched"] = True
+                st.rerun()
 
     with insight_col:
-        section_header("What Kickways compares", "Historical transfer behavior, league context, and next-step patterns.")
-        stat_row(
-            [
-                ("Dataset", f"{len(master):,} transfers"),
-                ("Players", f"{master['player_id'].nunique():,}"),
-                ("Focus", "realistic next moves"),
-            ]
-        )
+        with st.container(border=True):
+            section_header("Career evidence", "The first result is an opportunity map, not a database search.")
+            stat_row(
+                [
+                    ("Transfers", f"{len(master):,}"),
+                    ("Players", f"{master['player_id'].nunique():,}"),
+                    ("Signal", "historical next moves"),
+                ]
+            )
+            evidence_brief(
+                [
+                    ("Comparable paths", "Players are grouped by their current football context before destinations are ranked."),
+                    ("Career movement", "Level up, same level, and level down describe the next move after a destination."),
+                    ("Decision page", "Each destination opens a report with comparable players, clubs, agencies, and next moves."),
+                ]
+            )
 
 else:
     country = st.session_state["user_origin_country"]

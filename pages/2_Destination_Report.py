@@ -177,6 +177,22 @@ def navigator_profile_label(profile: dict) -> str:
     return " · ".join(parts) if parts else "your selected profile"
 
 
+def scope_origin_label(scope: pd.DataFrame, from_league_col: str) -> str:
+    if not isinstance(scope, pd.DataFrame) or scope.empty:
+        return "your selected profile"
+    if "from_country_name" not in scope.columns or from_league_col not in scope.columns:
+        return "your selected profile"
+
+    countries = scope["from_country_name"].dropna().astype(str).unique()
+    leagues = scope[from_league_col].dropna().astype(str).unique()
+
+    if len(countries) == 1 and len(leagues) == 1:
+        return f"{countries[0]} · {translate_league_name(str(leagues[0]))}"
+    if len(countries) == 1:
+        return str(countries[0])
+    return "your selected profile"
+
+
 dest_country = st.session_state.get("destination_country", "India")
 dest_league = st.session_state.get("destination_league", "Indian Super League")
 if pd.isna(dest_league) or str(dest_league).strip().lower() in ["nan", "none", ""]:
@@ -266,9 +282,13 @@ origin_changed = (
 if not origin_changed and not exact_scope.empty:
     cohort = exact_scope.copy()
     origin_label = navigator_profile_label(career_navigator_profile)
+    if origin_label == "your selected profile":
+        origin_label = scope_origin_label(exact_scope, from_league_col)
 elif not origin_changed and not legacy_exact_scope.empty:
     cohort = legacy_exact_scope.copy()
     origin_label = navigator_profile_label(career_navigator_profile)
+    if origin_label == "your selected profile":
+        origin_label = scope_origin_label(legacy_exact_scope, from_league_col)
 elif destination_source == "career_navigator" and career_navigator_profile:
     adjusted_profile = dict(career_navigator_profile)
     adjusted_profile["country"] = report_origin_country
@@ -352,9 +372,9 @@ st.caption("Historical transfer patterns derived from comparable player careers 
 
 with st.expander("How to interpret these metrics"):
     st.markdown("""
-    - **Level Up Rate:** Percentage of transfers to a league with a **higher Opta strength rating** than the player's previous league.
-    - **Same Level:** Percentage of transfers to a league with the **same Opta strength rating** as the player's previous league.
-    - **Level Down Rate:** Percentage of transfers to a league with a **lower Opta strength rating** than the player's previous league.
+    - **Level Up Rate:** Percentage of next recorded moves after this destination to a league with a **higher Opta strength rating**.
+    - **Same Level:** Percentage of next recorded moves after this destination to a league with the **same Opta strength rating**.
+    - **Level Down Rate:** Percentage of next recorded moves after this destination to a league with a **lower Opta strength rating**.
     - **Country Retention:** Percentage of players whose **next recorded transfer** remained within the destination country.
     - **Moved Abroad:** Percentage of players whose **next recorded transfer** was to a club in another country.
     - **Opta Ratings:** League strength is measured using standardized Opta Power Rankings.

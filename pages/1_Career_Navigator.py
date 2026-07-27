@@ -1,4 +1,4 @@
-import re
+﻿import re
 
 import pandas as pd
 import streamlit as st
@@ -328,6 +328,12 @@ else:
             display_league = translate_league_name(str(league))
             players = row["players"]
             transfers = row["transfers"]
+            origin_context = []
+            if profile.get("country") and profile["country"] != "All":
+                origin_context.append(str(profile["country"]))
+            if profile.get("league") and profile["league"] != "All":
+                origin_context.append(translate_league_name(str(profile["league"])))
+            origin_label = " · ".join(origin_context) if origin_context else "your selected profile"
 
             moved_up = row["moved_up"]
             stayed_level = row["stayed_level"]
@@ -342,7 +348,7 @@ else:
                     destination_card_shell(
                         country=country,
                         league=display_league,
-                        evidence=f"{players:,} comparable players moved here across {transfers:,} recorded transfers.",
+                        evidence=f"{players:,} comparable players moved from {origin_label} to this destination across {transfers:,} recorded transfers.",
                         metrics=[
                             ("Level up", f"{moved_up}%"),
                             ("Same level", f"{stayed_level}%"),
@@ -377,6 +383,9 @@ else:
                         key=f"btn_exp_{country}_{league}",
                         use_container_width=True,
                     ):
+                        for state_key in list(st.session_state.keys()):
+                            if state_key.startswith("report_origin_country_") or state_key.startswith("report_origin_league_"):
+                                st.session_state.pop(state_key, None)
                         st.session_state["destination_source"] = "career_navigator"
                         st.session_state["career_navigator_profile"] = profile
                         st.session_state["career_navigator_destination_scope"] = row["group_data"].copy()
