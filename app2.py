@@ -1,17 +1,35 @@
+import importlib
+
 import pandas as pd
 import streamlit as st
 
-from analytics_ui import load_table, render_navigation_sidebar
-from utils.league_translation import translate_league_name
+from analytics_ui import (
+    add_opta_scores,
+    calculate_destination_statistics,
+    load_table,
+    render_navigation_sidebar,
+)
+import components.ui as kw_ui
+from utils.league_translation import is_selectable_league_name, translate_league_name
+
+kw_ui = importlib.reload(kw_ui)
+destination_card_shell = kw_ui.destination_card_shell
+empty_state = kw_ui.empty_state
+inject_kickways_theme = kw_ui.inject_kickways_theme
+journey_steps = kw_ui.journey_steps
+product_header = kw_ui.product_header
+section_header = kw_ui.section_header
+stat_row = kw_ui.stat_row
 
 
 st.set_page_config(
-    page_title="Kickways | Career Paths",
+    page_title="Kickways | Career Intelligence",
     page_icon="⚽",
     layout="wide",
     initial_sidebar_state="expanded",
 )
 
+inject_kickways_theme()
 render_navigation_sidebar()
 
 
@@ -25,40 +43,33 @@ def unique_players(frame: pd.DataFrame) -> int:
     return frame["player_id"].nunique() if "player_id" in frame.columns else len(frame)
 
 
-def money(value) -> str:
-    if pd.isna(value):
+def format_rate(value) -> str:
+    try:
+        numeric = float(value)
+    except (TypeError, ValueError):
         return "N/A"
-    if abs(value) >= 1_000_000:
-        return f"EUR {value / 1_000_000:.1f}m"
-    if abs(value) >= 1_000:
-        return f"EUR {value / 1_000:.0f}k"
-    return f"EUR {value:,.0f}"
+    if numeric.is_integer():
+        return f"{int(numeric)}%"
+    return f"{numeric:.1f}%"
 
 
-def open_destination_dossier(country: str, league: str) -> None:
-    st.session_state["destination_country"] = country
-    st.session_state["destination_league"] = league
-    st.switch_page("pages/2_Destination_Report.py")
-
-
-def render_destination_row(row: pd.Series, league_col: str, key_prefix: str) -> None:
-    destination_country = row["to_country_name"]
-    destination_league = row[league_col]
-    share = row["share"]
-
-    text_col, button_col = st.columns([3, 1.3])
-    with text_col:
-        st.write(
-            f"**{destination_country}** ({translate_league_name(str(destination_league))}) - **{share}%**"
+def build_destination_rows(matches: pd.DataFrame, league_col: str, full_history: pd.DataFrame) -> pd.DataFrame:
+    rows = []
+    grouped = matches.dropna(subset=["to_country_name", league_col]).groupby(
+        ["to_country_name", league_col],
+        dropna=False,
+    )
+    for (dest_country, dest_league), group in grouped:
+        rows.append(
+            {
+                "to_country_name": dest_country,
+                league_col: dest_league,
+                "players": group["player_id"].nunique() if "player_id" in group.columns else len(group),
+                "group_data": group.copy(),
+                "stats": calculate_destination_statistics(group, full_history),
+            }
         )
-        st.progress(min(float(share) / 100.0, 1.0))
-    with button_col:
-        if st.button(
-            "Show league/country dossier",
-            key=f"{key_prefix}_{destination_country}_{destination_league}",
-            use_container_width=True,
-        ):
-            open_destination_dossier(destination_country, destination_league)
+    return pd.DataFrame(rows)
 
 
 def average_time_until_next_move(matches: pd.DataFrame, full_history: pd.DataFrame):
@@ -90,6 +101,48 @@ def average_time_until_next_move(matches: pd.DataFrame, full_history: pd.DataFra
     return round(durations.mean(), 1) if len(durations) else None
 
 
+def open_destination_dossier(country: str, league: str, destination_scope: pd.DataFrame | None = None) -> None:
+    st.session_state["destination_source"] = "start"
+    st.session_state.pop("career_navigator_profile", None)
+    st.session_state.pop("career_navigator_destination_scope", None)
+    if destination_scope is not None and not destination_scope.empty:
+        st.session_state["destination_scope"] = destination_scope.copy()
+    else:
+        st.session_state.pop("destination_scope", None)
+    st.session_state["destination_country"] = country
+    st.session_state["destination_league"] = league
+    st.switch_page("pages/2_Destination_Report.py")
+
+
+def render_destination_opportunity(row: pd.Series, league_col: str, key_prefix: str, primary: bool = False) -> None:
+    country = row["to_country_name"]
+    league = row[league_col]
+    players = int(row["players"])
+    share = float(row["share"])
+    display_league = translate_league_name(str(league))
+    stats = row.get("stats", {})
+    evidence = (
+        f"{players:,} comparable players moved from your current context to this destination. "
+        f"It represents {share:.1f}% of the observed next moves."
+    )
+
+    if destination_card_shell(
+        country=country,
+        league=display_league,
+        evidence=evidence,
+        metrics=[
+            ("Comparable players", f"{players:,}"),
+            ("Level up", format_rate(stats.get("moved_up"))),
+            ("Same level", format_rate(stats.get("stayed_level"))),
+            ("Level down", format_rate(stats.get("moved_down"))),
+        ],
+        primary=primary,
+        action_label="View destination intelligence",
+        action_key=f"{key_prefix}_{country}_{league}",
+    ):
+        open_destination_dossier(country, league, row.get("group_data"))
+
+
 if "user_origin_country" not in st.session_state:
     st.session_state["user_origin_country"] = "Germany"
 if "user_origin_league" not in st.session_state:
@@ -100,76 +153,98 @@ if "start_international_only" not in st.session_state:
     st.session_state["start_international_only"] = False
 
 
-master = load_table("master_dataset")
+master_raw = load_table("master_dataset")
+try:
+    mapping_raw = load_table("league_mapping")
+    master = add_opta_scores(master_raw, mapping_raw)
+except Exception:
+    master = master_raw.copy()
+
+if {"from_aggregation", "to_aggregation"}.issubset(master.columns):
+    master = master[
+        (master["from_aggregation"] != "DFB-Nachwuchsliga")
+        & (master["to_aggregation"] != "DFB-Nachwuchsliga")
+    ].copy()
+
 from_league_col = league_column(master, "from")
 to_league_col = league_column(master, "to")
-
 valid_origins = master.dropna(subset=["from_country_name", from_league_col]).copy()
 
 
 if not st.session_state["searched"]:
-    st.markdown(
-        "<h1 style='text-align:center;margin-top:3rem;'>Kickways</h1>",
-        unsafe_allow_html=True,
+    product_header(
+        "Where could your career realistically go next?",
+        "Select where you play today and Kickways will surface destinations reached by comparable players.",
+        eyebrow="Career intelligence",
     )
-    st.markdown(
-        "<h3 style='text-align:center;color:#888;'>Discover where football careers actually go.</h3>",
-        unsafe_allow_html=True,
-    )
-    st.markdown(
-        "<p style='text-align:center;font-size:1.2rem;margin-top:2rem;'>Where do you play today?</p>",
-        unsafe_allow_html=True,
-    )
+    journey_steps("Profile")
 
-    _, form_col, _ = st.columns([1, 2, 1])
+    st.markdown("<br>", unsafe_allow_html=True)
+    form_col, insight_col = st.columns([1.15, 0.85], gap="large")
+
     with form_col:
+        section_header("Your current football context", "This is the only input needed to build your opportunity map.")
         countries = sorted(valid_origins["from_country_name"].dropna().unique())
         default_country = st.session_state.get("user_origin_country", "Germany")
         default_idx = countries.index(default_country) if default_country in countries else 0
 
-        country = st.selectbox("Country", countries, index=default_idx)
-
+        country = st.selectbox("Current country", countries, index=default_idx)
         country_rows = valid_origins[valid_origins["from_country_name"] == country]
         leagues = sorted(
-            country_rows[from_league_col].dropna().astype(str).unique(),
+            (
+                league_name
+                for league_name in country_rows[from_league_col].dropna().astype(str).unique()
+                if is_selectable_league_name(league_name)
+            ),
             key=translate_league_name,
         )
+        if not leagues:
+            empty_state("No selectable leagues are available for this country yet.")
+            st.stop()
+
         default_league = st.session_state.get("user_origin_league")
         default_league_idx = leagues.index(default_league) if default_league in leagues else 0
 
         league = st.selectbox(
-            "League",
+            "Current league",
             leagues,
             index=default_league_idx,
             format_func=translate_league_name,
         )
 
-        st.markdown("<br>", unsafe_allow_html=True)
-        if st.button("Show Career Paths →", use_container_width=True, type="primary"):
+        if st.button("Find realistic opportunities", use_container_width=True, type="primary"):
             st.session_state["user_origin_country"] = country
             st.session_state["user_origin_league"] = league
             st.session_state["searched"] = True
             st.rerun()
 
+    with insight_col:
+        section_header("What Kickways compares", "Historical transfer behavior, league context, and next-step patterns.")
+        stat_row(
+            [
+                ("Dataset", f"{len(master):,} transfers"),
+                ("Players", f"{master['player_id'].nunique():,}"),
+                ("Focus", "realistic next moves"),
+            ]
+        )
+
 else:
     country = st.session_state["user_origin_country"]
     league = st.session_state["user_origin_league"]
+    display_league = translate_league_name(str(league))
 
     origin_matches = master[
         (master["from_country_name"] == country)
         & (master[from_league_col].astype(str) == str(league))
     ].copy()
 
-    back_col, toggle_col, _ = st.columns([1, 1.4, 3.6])
+    back_col, filter_col = st.columns([1, 4])
     with back_col:
-        if st.button("← Start over", use_container_width=True):
+        if st.button("Start over", use_container_width=False):
             st.session_state["searched"] = False
             st.rerun()
-    with toggle_col:
-        international_only = st.toggle(
-            "International only",
-            key="start_international_only",
-        )
+    with filter_col:
+        international_only = st.toggle("International opportunities only", key="start_international_only")
 
     if international_only:
         matches = origin_matches[
@@ -180,60 +255,44 @@ else:
         matches = origin_matches.copy()
 
     total_careers = unique_players(matches)
+    avg_age = round(matches["age"].mean(), 1) if "age" in matches.columns and not matches.empty else "N/A"
+    avg_next_move = average_time_until_next_move(matches, master)
 
-    st.markdown(f"### Players from **{country} - {translate_league_name(str(league))}**")
-    count_label = "international comparable careers" if international_only else "comparable careers"
-    st.markdown(f"## ⚡ **{total_careers:,} {count_label} found.**")
-    st.divider()
+    product_header(
+        f"Opportunities from {country} - {display_league}",
+        "These destinations are ranked by how often comparable players actually moved there.",
+        eyebrow="Career opportunities",
+    )
+    journey_steps("Opportunities")
+    stat_row(
+        [
+            ("Comparable careers", f"{total_careers:,}"),
+            ("Average age", str(avg_age)),
+            ("Typical next move", f"{avg_next_move} seasons" if avg_next_move is not None else "N/A"),
+        ]
+    )
 
-    col_left, col_right = st.columns([1.5, 1], gap="large")
+    st.markdown("<br>", unsafe_allow_html=True)
+    section_header("Recommended destinations", "Start with the strongest historical signal, then inspect the destination intelligence.")
 
     dest_counts = pd.DataFrame(columns=["to_country_name", to_league_col, "players", "share"])
-
-    with col_left:
-        st.subheader("Where did they go?")
-        if matches.empty:
-            st.info("No comparable career paths are available for this origin yet.")
+    if matches.empty:
+        empty_state("No comparable career paths are available for this origin yet. Try another current league or turn off the international-only filter.")
+    else:
+        dest_counts = build_destination_rows(matches, to_league_col, master)
+        if dest_counts.empty:
+            empty_state("No recorded destination leagues are available for this origin yet.")
         else:
-            dest_counts = (
-                matches.dropna(subset=["to_country_name", to_league_col])
-                .groupby(["to_country_name", to_league_col], dropna=False)
-                .agg(players=("player_id", "nunique") if "player_id" in matches.columns else (to_league_col, "count"))
-                .reset_index()
-            )
             dest_counts["share"] = (dest_counts["players"] / max(total_careers, 1) * 100).round(1)
             dest_counts = dest_counts.sort_values(["players", "share"], ascending=False)
 
-            top_destinations = dest_counts.head(20)
-            other_destinations = dest_counts.iloc[20:]
+            top_destinations = dest_counts.head(6)
+            other_destinations = dest_counts.iloc[6:]
 
             for idx, (_, row) in enumerate(top_destinations.iterrows()):
-                render_destination_row(row, to_league_col, f"start_top_{idx}")
+                render_destination_opportunity(row, to_league_col, f"start_top_{idx}", primary=idx == 0)
 
             if not other_destinations.empty:
-                with st.expander(f"Expand all leagues ({len(other_destinations)} more)"):
+                with st.expander(f"Show {len(other_destinations)} more destinations"):
                     for idx, (_, row) in enumerate(other_destinations.iterrows()):
-                        render_destination_row(row, to_league_col, f"start_more_{idx}")
-
-    with col_right:
-        st.subheader("Key Benchmarks")
-        avg_age = round(matches["age"].mean(), 1) if "age" in matches.columns and not matches.empty else "N/A"
-        avg_next_move = average_time_until_next_move(matches, master)
-
-        st.metric("Average age when moving", avg_age)
-        st.metric(
-            "Average time until next move",
-            f"{avg_next_move} seasons" if avg_next_move is not None else "N/A",
-        )
-
-    st.divider()
-
-    if not dest_counts.empty:
-        top_dest = dest_counts.iloc[0]["to_country_name"]
-        top_dest_league = dest_counts.iloc[0][to_league_col]
-
-        if st.button(
-            f"Explore {top_dest} ({translate_league_name(str(top_dest_league))}) Dossier →",
-            type="primary",
-        ):
-            open_destination_dossier(top_dest, top_dest_league)
+                        render_destination_opportunity(row, to_league_col, f"start_more_{idx}")

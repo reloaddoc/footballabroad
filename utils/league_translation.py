@@ -19,3 +19,11 @@ def translate_league_name(name: str) -> str:
     name = name.replace(" Qualifikationsrunde", " (Qualification Round)")
 
     return name
+
+
+def is_selectable_league_name(name: str) -> bool:
+    if not isinstance(name, str):
+        return True
+
+    normalized = translate_league_name(name).strip().lower()
+    return normalized not in {"first division", "1st division"}

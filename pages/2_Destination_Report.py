@@ -16,9 +16,17 @@ from analytics_ui import (
     load_table,
     render_navigation_sidebar,
 )
+from components.ui import (
+    inject_kickways_theme,
+    journey_steps,
+    product_header,
+    section_header,
+    stat_row,
+)
 from services.destination_service import load_knowledge
-from utils.league_translation import translate_league_name
+from utils.league_translation import is_selectable_league_name, translate_league_name
 
+inject_kickways_theme()
 render_navigation_sidebar()
 
 
@@ -114,12 +122,73 @@ def filter_valid_next_destinations(frame: pd.DataFrame) -> pd.DataFrame:
     return frame[valid].copy()
 
 
+def exact_destination_scope(scope, country: str, league: str, to_league_col: str) -> pd.DataFrame:
+    if not isinstance(scope, pd.DataFrame) or scope.empty:
+        return pd.DataFrame()
+
+    if "to_country_name" not in scope.columns or to_league_col not in scope.columns:
+        return pd.DataFrame()
+
+    result = scope[scope["to_country_name"] == country].copy()
+    if league:
+        result = result[result[to_league_col].astype(str) == str(league)].copy()
+
+    return result
+
+
+def apply_navigator_profile(frame: pd.DataFrame, profile: dict, from_league_col: str) -> pd.DataFrame:
+    result = frame.copy()
+
+    country = profile.get("country")
+    if country and country != "All":
+        result = result[result["from_country_name"] == country].copy()
+
+    league = profile.get("league")
+    if league and league != "All":
+        result = result[result[from_league_col].astype(str) == str(league)].copy()
+
+    nationality = profile.get("nationality")
+    if nationality and nationality != "All":
+        result = result[result["primary_nationality"] == nationality].copy()
+
+    age_range = profile.get("age_range")
+    if age_range and "age" in result.columns:
+        result = result[result["age"].between(age_range[0], age_range[1])].copy()
+
+    return result
+
+
+def navigator_profile_label(profile: dict) -> str:
+    parts = []
+    country = profile.get("country")
+    league = profile.get("league")
+    nationality = profile.get("nationality")
+    age_range = profile.get("age_range")
+
+    if country and country != "All":
+        parts.append(str(country))
+    if league and league != "All":
+        parts.append(translate_league_name(str(league)))
+    if nationality and nationality != "All":
+        parts.append(str(nationality))
+    if age_range:
+        parts.append(f"age {age_range[0]}-{age_range[1]}")
+
+    return " · ".join(parts) if parts else "your selected profile"
+
+
 dest_country = st.session_state.get("destination_country", "India")
 dest_league = st.session_state.get("destination_league", "Indian Super League")
 if pd.isna(dest_league) or str(dest_league).strip().lower() in ["nan", "none", ""]:
     dest_league = ""
 orig_country = st.session_state.get("user_origin_country", "Germany")
 orig_league = st.session_state.get("user_origin_league", "Verbandsliga")
+destination_source = st.session_state.get("destination_source", "start")
+destination_scope = st.session_state.get("destination_scope")
+career_navigator_profile = st.session_state.get("career_navigator_profile", {})
+career_navigator_destination_scope = st.session_state.get(
+    "career_navigator_destination_scope"
+)
 
 master_raw = load_table("master_dataset")
 try:
@@ -128,20 +197,106 @@ try:
 except Exception:
     master = master_raw.copy()
 
+if {"from_aggregation", "to_aggregation"}.issubset(master.columns):
+    master = master[
+        (master["from_aggregation"] != "DFB-Nachwuchsliga")
+        & (master["to_aggregation"] != "DFB-Nachwuchsliga")
+    ].copy()
+
 from_league_col = league_column(master, "from")
 to_league_col = league_column(master, "to")
 
-cohort = master[
-    (master["from_country_name"] == orig_country)
-    & (master[from_league_col].astype(str) == str(orig_league))
-    & (master["to_country_name"] == dest_country)
-].copy()
+profile_country = career_navigator_profile.get("country") if career_navigator_profile else None
+profile_league = career_navigator_profile.get("league") if career_navigator_profile else None
+default_origin_country = profile_country if profile_country and profile_country != "All" else orig_country
+default_origin_league = profile_league if profile_league and profile_league != "All" else orig_league
 
-if dest_league:
-    league_cohort = cohort[cohort[to_league_col].astype(
-        str) == str(dest_league)]
-    if not league_cohort.empty:
-        cohort = league_cohort.copy()
+origin_countries = sorted(master["from_country_name"].dropna().astype(str).unique())
+origin_country_index = (
+    origin_countries.index(default_origin_country)
+    if default_origin_country in origin_countries
+    else 0
+)
+report_origin_key = f"{dest_country}_{dest_league}"
+
+origin_control_left, origin_control_right = st.columns([1, 1.4])
+with origin_control_left:
+    report_origin_country = st.selectbox(
+        "Origin country",
+        origin_countries,
+        index=origin_country_index,
+        key=f"report_origin_country_{report_origin_key}",
+    )
+
+origin_country_rows = master[master["from_country_name"] == report_origin_country]
+origin_leagues = ["All"] + sorted(
+    (
+        league_name
+        for league_name in origin_country_rows[from_league_col].dropna().astype(str).unique()
+        if is_selectable_league_name(league_name)
+    ),
+    key=translate_league_name,
+)
+origin_league_index = (
+    origin_leagues.index(default_origin_league)
+    if default_origin_league in origin_leagues
+    else 0
+)
+with origin_control_right:
+    report_origin_league = st.selectbox(
+        "Origin league",
+        origin_leagues,
+        index=origin_league_index,
+        format_func=translate_league_name,
+        key=f"report_origin_league_{report_origin_key}",
+    )
+
+exact_scope = exact_destination_scope(destination_scope, dest_country, dest_league, to_league_col)
+legacy_exact_scope = exact_destination_scope(
+    career_navigator_destination_scope,
+    dest_country,
+    dest_league,
+    to_league_col,
+)
+origin_changed = (
+    str(report_origin_country) != str(default_origin_country)
+    or str(report_origin_league) != str(default_origin_league)
+)
+
+if not origin_changed and not exact_scope.empty:
+    cohort = exact_scope.copy()
+    origin_label = navigator_profile_label(career_navigator_profile)
+elif not origin_changed and not legacy_exact_scope.empty:
+    cohort = legacy_exact_scope.copy()
+    origin_label = navigator_profile_label(career_navigator_profile)
+elif destination_source == "career_navigator" and career_navigator_profile:
+    adjusted_profile = dict(career_navigator_profile)
+    adjusted_profile["country"] = report_origin_country
+    adjusted_profile["league"] = report_origin_league
+    profile_scope = apply_navigator_profile(master, adjusted_profile, from_league_col)
+    cohort = profile_scope[profile_scope["to_country_name"] == dest_country].copy()
+    if dest_league:
+        cohort = cohort[cohort[to_league_col].astype(str) == str(dest_league)].copy()
+    origin_label = navigator_profile_label(adjusted_profile)
+else:
+    cohort = master[
+        (master["from_country_name"] == report_origin_country)
+        & (master["to_country_name"] == dest_country)
+    ].copy()
+    if report_origin_league != "All":
+        cohort = cohort[cohort[from_league_col].astype(str) == str(report_origin_league)].copy()
+
+    if dest_league:
+        league_cohort = cohort[cohort[to_league_col].astype(
+            str) == str(dest_league)]
+        if not league_cohort.empty:
+            cohort = league_cohort.copy()
+
+    origin_label = (
+        f"{report_origin_country} · {translate_league_name(str(report_origin_league))}"
+        if report_origin_league != "All"
+        else report_origin_country
+    )
 
 destination_matches = master[
     (master["to_country_name"] == dest_country)
@@ -160,32 +315,46 @@ next_rows = filter_valid_next_destinations(next_rows)
 
 back_col, title_col = st.columns([1, 5])
 with back_col:
-    if st.button("← Back", use_container_width=True):
+    if st.button("← Back", use_container_width=False):
         st.switch_page("pages/1_Career_Navigator.py")
 
 with title_col:
-    report_title = f"{dest_country} - {translate_league_name(str(dest_league))}" if dest_league else dest_country
-    st.markdown(f"# {report_title}")
-    st.caption("Career Intelligence Due-Diligence Report")
+    report_title = f"{dest_country} · {translate_league_name(str(dest_league))}" if dest_league else dest_country
+    product_header(
+        report_title,
+        f"Career intelligence for players matching {origin_label}.",
+        eyebrow="Destination intelligence",
+    )
+    journey_steps("Destination")
 
-st.success(
-    f"**{p_count:,} comparable players** from **{orig_country} ({orig_league})** successfully moved here."
+stat_row(
+    [
+        ("Comparable players", f"{p_count:,}"),
+        ("Profile", origin_label),
+        ("Destination", report_title),
+    ]
 )
 
-st.divider()
-
-st.subheader("1. Can this move improve my career?")
-m1, m2, m3, m4 = st.columns(4)
+st.markdown("<br>", unsafe_allow_html=True)
+section_header(
+    "Should this destination be on your shortlist?",
+    "Start with the career signal, then review pathway evidence and market realities.",
+)
+m1, m2, m3, m4, m5, m6 = st.columns(6)
 m1.metric("Level-Up Rate", format_percent(stats.get("moved_up", 0)))
-m2.metric("Country Retention", format_percent(
+m2.metric("Same Level", format_percent(stats.get("stayed_level", 0)))
+m3.metric("Level-Down Rate", format_percent(stats.get("moved_down", 0)))
+m4.metric("Country Retention", format_percent(
     stats.get("country_retention", 0)))
-m3.metric("Average Age", avg_age)
-m4.metric("Average Duration", duration_label)
+m5.metric("Average Age", avg_age)
+m6.metric("Average Duration", duration_label)
 st.caption("Historical transfer patterns derived from comparable player careers and Opta league strength ratings.")
 
 with st.expander("How to interpret these metrics"):
     st.markdown("""
-    - **Level Up Rate:** Percentage of transfers to a league with an Opta strength rating at least **5 points higher** than the player's previous league.
+    - **Level Up Rate:** Percentage of transfers to a league with a **higher Opta strength rating** than the player's previous league.
+    - **Same Level:** Percentage of transfers to a league with the **same Opta strength rating** as the player's previous league.
+    - **Level Down Rate:** Percentage of transfers to a league with a **lower Opta strength rating** than the player's previous league.
     - **Country Retention:** Percentage of players whose **next recorded transfer** remained within the destination country.
     - **Moved Abroad:** Percentage of players whose **next recorded transfer** was to a club in another country.
     - **Opta Ratings:** League strength is measured using standardized Opta Power Rankings.
@@ -197,7 +366,10 @@ st.info(
 
 st.divider()
 
-st.subheader(f"2. What happened after {dest_country}?")
+section_header(
+    f"What happened after {dest_country}?",
+    "The next recorded move shows whether this destination tends to be a platform, a hold, or a detour.",
+)
 if next_rows.empty:
     st.caption(
         "No recorded next destination is available for this exact corridor yet.")
@@ -219,13 +391,19 @@ else:
         for idx, (_, row) in enumerate(top_next.iterrows()):
             label = f"{row['next_to_country_name']} ({translate_league_name(str(row['next_to_aggregation']))})"
             if cols[idx].button(label, key=f"after_{idx}", use_container_width=True):
+                st.session_state["destination_source"] = "destination_report"
+                st.session_state.pop("destination_scope", None)
+                st.session_state.pop("career_navigator_destination_scope", None)
                 st.session_state["destination_country"] = row["next_to_country_name"]
                 st.session_state["destination_league"] = row["next_to_aggregation"]
                 st.rerun()
 
 st.divider()
 
-st.subheader("3. Which clubs opened the most doors?")
+section_header(
+    "Clubs that opened doors",
+    "These clubs appear most often in comparable moves into this destination.",
+)
 if cohort.empty or "to_club_name" not in cohort.columns:
     st.caption("No club-level data is available for this corridor yet.")
 else:
@@ -267,8 +445,10 @@ else:
 
 st.divider()
 
-st.subheader("4. Who makes these transfers happen?")
-st.write(f"Agencies most active in arranging transfers into {dest_country}:")
+section_header(
+    "Agencies active in this market",
+    f"Agencies most active in arranging comparable transfers into {dest_country}.",
+)
 if "agent" not in stats_scope.columns:
     st.caption("No agency data is available for this destination yet.")
 else:
@@ -290,7 +470,10 @@ else:
 
 st.divider()
 
-st.subheader(f"5. Life in {dest_country} & Contract Realities")
+section_header(
+    f"Life in {dest_country} & contract realities",
+    "Practical context that affects whether the move is sustainable, not just possible.",
+)
 try:
     dossier = load_knowledge(dest_country)
 except Exception:
@@ -332,7 +515,10 @@ for section in dossier.get("sections", []):
 
 st.divider()
 
-st.subheader(f"6. Experience {dest_country} & Next Steps")
+section_header(
+    f"Inspect {dest_country} visually",
+    "Use external media searches to understand facilities, stadium context, and player experiences.",
+)
 col_a, col_b, col_c = st.columns(3)
 col_a.link_button(
     "Training & Facilities",
@@ -352,7 +538,10 @@ col_c.link_button(
 
 if not next_rows.empty:
     st.markdown("<br>", unsafe_allow_html=True)
-    st.subheader("Continue Exploring Next Destinations")
+    section_header(
+        "Continue exploring next destinations",
+        "Follow the most common next moves from this market.",
+    )
     top_next = (
         next_rows.groupby(
             ["next_to_country_name", "next_to_aggregation"], dropna=False)
@@ -368,6 +557,9 @@ if not next_rows.empty:
         for idx, (_, row) in enumerate(top_next.iterrows()):
             label = f"{row['next_to_country_name']} ({translate_league_name(str(row['next_to_aggregation']))})"
             if next_cols[idx].button(label, key=f"next_{idx}", use_container_width=True):
+                st.session_state["destination_source"] = "destination_report"
+                st.session_state.pop("destination_scope", None)
+                st.session_state.pop("career_navigator_destination_scope", None)
                 st.session_state["destination_country"] = row["next_to_country_name"]
                 st.session_state["destination_league"] = row["next_to_aggregation"]
                 st.rerun()

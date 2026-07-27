@@ -30,13 +30,20 @@ st.markdown(
     unsafe_allow_html=True,
 )
 from components.player_profile import render_player_profile
+from components.ui import (
+    destination_card_shell,
+    inject_kickways_theme,
+    journey_steps,
+    product_header,
+    section_header,
+    stat_row,
+)
 
 from analytics_ui import (
     apply_equal_filter,
     calculate_destination_statistics,
     load_table,
-    metric_row,
-    page_header,
+    render_navigation_sidebar,
 )
 from utils.league_translation import translate_league_name
 
@@ -47,14 +54,14 @@ from utils.league_translation import translate_league_name
 #    layout="wide"  # <--- THIS ENABLES FULL SCREEN WIDTH
 # )
 
-# ============================================================
-# PAGE HEADER
-# ============================================================
-
-page_header(
-    "Where should I move next?",
-    "Explore historical international career paths of comparable players.",
+inject_kickways_theme()
+render_navigation_sidebar()
+product_header(
+    "Find the next move that matches your profile",
+    "Compare your current context with historical player careers and inspect realistic international opportunities.",
+    eyebrow="Opportunity explorer",
 )
+journey_steps("Profile")
 
 # ============================================================
 # SESSION STATE FOR INTERACTIVE DRILL-DOWN
@@ -176,12 +183,15 @@ def render_player_summary_card(player_row):
     )
 
     with st.container(border=True):
-        if player_url:
-            st.link_button(display_name, player_url, use_container_width=True)
-        else:
-            st.subheader(display_name)
+        st.subheader(display_name)
         st.write(f"**Nationality:** {player_row.get('primary_nationality', 'N/A')}")
         st.write(f"**Age:** {player_row.get('age', 'N/A')}")
+        if player_url:
+            st.link_button(
+                "Open player profile on Transfermarkt",
+                player_url,
+                use_container_width=False,
+            )
 
 # ============================================================
 # PLAYER PROFILE
@@ -236,16 +246,10 @@ confidence = (
     else "Low"
 )
 
-metric_row(
+stat_row(
     [
-        (
-            "Comparable players",
-            matches["player_id"].nunique(),
-        ),
-        (
-            "Confidence",
-            confidence,
-        ),
+        ("Comparable players", f"{matches['player_id'].nunique():,}"),
+        ("Evidence strength", confidence),
     ]
 )
 
@@ -257,8 +261,10 @@ if matches.empty:
 # HISTORICAL DESTINATIONS WITH STATS
 # ============================================================
 
-# NEW: Match the width of col_left so the toggle sits nicely above the destination cards
-st.subheader("Where did they go?")
+section_header(
+    "Career opportunities",
+    "Destinations are ranked by comparable players who made this move.",
+)
 
 # Option A: Place the caption and toggle directly inside a container aligned with the destination card width
 # Matches your col_left / col_right ratio
@@ -333,7 +339,16 @@ else:
                 c1, c2 = st.columns([3.5, 1.2])
 
                 with c1:
-                    st.markdown(f"### {country}\n**{display_league}**")
+                    destination_card_shell(
+                        country=country,
+                        league=display_league,
+                        evidence=f"{players:,} comparable players moved here across {transfers:,} recorded transfers.",
+                        metrics=[
+                            ("Level up", f"{moved_up}%"),
+                            ("Same level", f"{stayed_level}%"),
+                            ("Level down", f"{moved_down}%"),
+                        ],
+                    )
 
                     # CLICKABLE PLAYER COUNT BUTTON
                     btn_col, info_col = st.columns([1.5, 2])
@@ -362,6 +377,10 @@ else:
                         key=f"btn_exp_{country}_{league}",
                         use_container_width=True,
                     ):
+                        st.session_state["destination_source"] = "career_navigator"
+                        st.session_state["career_navigator_profile"] = profile
+                        st.session_state["career_navigator_destination_scope"] = row["group_data"].copy()
+                        st.session_state["destination_scope"] = row["group_data"].copy()
                         st.session_state.destination_country = country
                         st.session_state.destination_league = league
                         st.switch_page("pages/2_Destination_Report.py")

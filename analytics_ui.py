@@ -2,7 +2,8 @@ import pandas as pd
 import streamlit as st
 
 from database import read_table
-from utils.league_translation import translate_league_name
+from components.ui import inject_kickways_theme
+from utils.league_translation import is_selectable_league_name, translate_league_name
 
 
 @st.cache_data
@@ -11,6 +12,7 @@ def load_table(table_name):
 
 
 def page_header(question, subtitle):
+    inject_kickways_theme()
     render_navigation_sidebar()
     st.title(question)
     st.caption(subtitle)
@@ -18,6 +20,7 @@ def page_header(question, subtitle):
 
 
 def render_navigation_sidebar():
+    inject_kickways_theme()
     st.markdown(
         """
         <style>
@@ -29,9 +32,9 @@ def render_navigation_sidebar():
 
     with st.sidebar:
         st.markdown("### 🏠 Main Navigation")
-        st.page_link("app2.py", label="Start")
-        st.page_link("pages/1_Career_Navigator.py", label="Career Navigator")
-        st.page_link("pages/2_Destination_Report.py", label="Destination Report")
+        st.page_link("app2.py", label="Career path")
+        st.page_link("pages/1_Career_Navigator.py", label="Opportunity explorer")
+        st.page_link("pages/2_Destination_Report.py", label="Destination intelligence")
         with st.expander("📊 Advanced Research Tools"):
             st.page_link("pages/4_Transfer_Corridors.py", label="Transfer Corridors")
             st.page_link("pages/5_League_Networks.py", label="League Networks")
@@ -81,6 +84,7 @@ def select_filter(label, values, key=None):
         (
             value for value in pd.Series(values).dropna().astype(str).unique()
             if value.strip() and value != "nan"
+            and (not is_league_filter or is_selectable_league_name(value))
         ),
         key=translate_league_name if is_league_filter else str,
     )
@@ -250,13 +254,9 @@ def calculate_destination_statistics(
         deltas = pd.Series(dtype=float)
 
     if len(deltas):
-        threshold = 5.0
-        moved_up = round((deltas > threshold).mean() * 100, 1)
-        moved_down = round((deltas < -threshold).mean() * 100, 1)
-        stayed_level = round(
-            deltas.between(-threshold, threshold).mean() * 100,
-            1,
-        )
+        moved_up = round((deltas > 0).mean() * 100, 1)
+        moved_down = round((deltas < 0).mean() * 100, 1)
+        stayed_level = round((deltas == 0).mean() * 100, 1)
     else:
         moved_up = stayed_level = moved_down = 0.0
 

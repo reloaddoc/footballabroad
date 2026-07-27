@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-27T13:46:55.2925110+02:00",
+  "title": "Design System: Kickways",
+  "extensions": {
+    "colorMeta": {
+      "accent-blue": {
+        "role": "primary",
+        "displayName": "Career Blue",
+        "canonical": "#2563eb",
+        "tonalRamp": [
+          "oklch(15% 0.12 263)",
+          "oklch(25% 0.16 263)",
+          "oklch(35% 0.20 263)",
+          "oklch(45% 0.22 263)",
+          "oklch(55% 0.22 263)",
+          "oklch(68% 0.17 263)",
+          "oklch(82% 0.10 263)",
+          "oklch(95% 0.04 263)"
+        ]
+      },
+      "app-bg": {
+        "role": "neutral",
+        "displayName": "Command Black",
+        "canonical": "#0b0d12",
+        "tonalRamp": [
+          "#050609",
+          "#0b0d12",
+          "#11141b",
+          "#151923",
+          "#252b36",
+          "#475569",
+          "#94a3b8",
+          "#f8fafc"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Panel Charcoal",
+        "canonical": "#11141b",
+        "tonalRamp": [
+          "#080a0e",
+          "#0b0d12",
+          "#11141b",
+          "#151923",
+          "#1f2530",
+          "#334155",
+          "#94a3b8",
+          "#f8fafc"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Page-level product and destination headers only."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Country and destination names inside cards."
+      },
+      "title": {
+        "displayName": "Section Title",
+        "purpose": "Decision-area section titles."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Evidence copy and explanatory text."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Navigation, chips, metric labels, and compact UI text."
+      }
+    },
+    "shadows": [
+      {
+        "name": "primary-card-inset",
+        "value": "inset 0 1px 0 rgba(255,255,255,0.05)",
+        "purpose": "Marks the strongest destination recommendation without making the card float."
+      }
+    ],
+    "motion": [
+      {
+        "name": "state-standard",
+        "value": "background 0.15s ease, border-color 0.15s ease",
+        "purpose": "Quiet hover and focus transitions for controls."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "content-max",
+        "value": "1180px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Main action button for the one primary action on a screen.",
+      "html": "<button class=\"ds-btn-primary\">Find realistic opportunities</button>",
+      "css": ".ds-btn-primary { background: #2563eb; color: #f8fafc; border: 1px solid #2563eb; border-radius: 8px; padding: 0.5rem 1rem; font: 650 0.9rem system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; transition: background 0.15s ease, border-color 0.15s ease; } .ds-btn-primary:hover { background: #1d4ed8; border-color: #1d4ed8; } .ds-btn-primary:focus-visible { outline: 2px solid rgba(37, 99, 235, 0.65); outline-offset: 2px; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Inspection and navigation button for secondary actions.",
+      "html": "<button class=\"ds-btn-secondary\">View destination intelligence</button>",
+      "css": ".ds-btn-secondary { background: transparent; color: #f8fafc; border: 1px solid rgba(148, 163, 184, 0.20); border-radius: 8px; padding: 0.5rem 1rem; font: 650 0.9rem system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; transition: background 0.15s ease, border-color 0.15s ease; } .ds-btn-secondary:hover { background: rgba(255,255,255,0.035); border-color: rgba(148, 163, 184, 0.34); } .ds-btn-secondary:focus-visible { outline: 2px solid rgba(37, 99, 235, 0.65); outline-offset: 2px; }"
+    },
+    {
+      "name": "Journey Step",
+      "kind": "chip",
+      "refersTo": "chip-active",
+      "description": "Compact journey-state marker used in the product flow.",
+      "html": "<span class=\"ds-step ds-step-active\">Opportunities</span>",
+      "css": ".ds-step { display: inline-flex; color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.20); border-radius: 999px; padding: 0.42rem 0.7rem; font: 650 0.82rem system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; } .ds-step-active { color: #f8fafc; border-color: rgba(37, 99, 235, 0.65); background: rgba(37, 99, 235, 0.14); }"
+    },
+    {
+      "name": "Destination Card",
+      "kind": "card",
+      "refersTo": "card",
+      "description": "Signature opportunity card for country, league, evidence, and movement stats.",
+      "html": "<article class=\"ds-card\"><h3>Germany</h3><p class=\"ds-league\">3. Liga</p><p class=\"ds-evidence\">70 comparable players moved here across 91 recorded transfers.</p><div class=\"ds-stat-row\"><span>Level up <strong>60.5%</strong></span><span>Same level <strong>23.3%</strong></span><span>Level down <strong>16.3%</strong></span></div></article>",
+      "css": ".ds-card { background: linear-gradient(180deg, rgba(255,255,255,0.035), rgba(255,255,255,0.015)); color: #f8fafc; border: 1px solid rgba(148, 163, 184, 0.20); border-radius: 8px; padding: 1.15rem; max-width: 520px; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; } .ds-card h3 { margin: 0; font-size: 1.35rem; line-height: 1.2; font-weight: 760; letter-spacing: 0; } .ds-league { margin: 0.18rem 0 0; color: #cbd5e1; font-size: 0.96rem; font-weight: 620; } .ds-evidence { margin: 0.85rem 0 0; color: #94a3b8; font-size: 0.92rem; line-height: 1.5; } .ds-stat-row { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 0.95rem; } .ds-stat-row span { color: #94a3b8; font-size: 0.86rem; } .ds-stat-row strong { color: #f8fafc; font-size: 0.9rem; font-weight: 760; }"
+    },
+    {
+      "name": "Section Header",
+      "kind": "custom",
+      "refersTo": "section-header",
+      "description": "Decision-area heading with restrained supporting copy.",
+      "html": "<header class=\"ds-section\"><h2>Career opportunities</h2><p>Destinations are ranked by comparable players who made this move.</p></header>",
+      "css": ".ds-section { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: #f8fafc; } .ds-section h2 { margin: 0 0 0.25rem 0; font-size: 1.25rem; line-height: 1.25; font-weight: 720; letter-spacing: 0; } .ds-section p { margin: 0 0 1.1rem 0; color: #94a3b8; font-size: 0.95rem; line-height: 1.55; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Career Command Center",
+    "overview": "Kickways uses a restrained, premium, evidence-led interface that makes career intelligence feel clear and usable. The system should feel closer to a focused SaaS dashboard than a football database: dark, calm, structured, and built around the next decision the player or agent needs to make.\n\nThe visual language is compact but breathable. Cards present destination evidence, stat rows summarize the signal, and blue appears as a rare action or active-state accent. The interface should support repeated comparison without becoming loud, decorative, or dashboard-heavy.",
+    "keyCharacteristics": [
+      "Dark neutral workspace with quiet tonal layering.",
+      "One primary blue accent for action, active state, and emphasis.",
+      "Compact intelligence cards with direct evidence and next-step CTAs.",
+      "Rounded but disciplined SaaS controls using 8px corners.",
+      "Plain-language metrics designed for players and agents, not analysts."
+    ],
+    "rules": [
+      {
+        "name": "The One Accent Rule",
+        "body": "Blue is the only accent color. Do not introduce rainbow metric colors or separate semantic hues unless a real product state requires them.",
+        "section": "colors"
+      },
+      {
+        "name": "The Evidence First Rule",
+        "body": "Color supports hierarchy and action; it should not be used to make weak evidence feel stronger.",
+        "section": "colors"
+      },
+      {
+        "name": "The No Hero Inside Cards Rule",
+        "body": "Card headings stay compact. Hero-scale type belongs only to page-level headers.",
+        "section": "typography"
+      },
+      {
+        "name": "The Zero Letter-Spacing Rule",
+        "body": "Body, headline, and UI type use zero letter spacing. Uppercase eyebrow text may use restrained spacing only for product-level orientation.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Intelligence Rule",
+        "body": "Surfaces should feel structured, not floating. Prefer borders and tonal shifts over drop shadows.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do use Career Blue sparingly for primary action, active state, and orientation.",
+      "Do present comparable players and level movement as decision evidence.",
+      "Do keep card radii at 8px and reserve pills for compact state.",
+      "Do keep CTAs clear, content-sized, and attached to a natural next step.",
+      "Do preserve consistency between overview metrics and destination report metrics."
+    ],
+    "donts": [
+      "Don't make Kickways feel like a raw database explorer.",
+      "Don't use rainbow dashboards, oversized widgets, or decorative gradients.",
+      "Don't place cards inside other cards.",
+      "Don't make non-clickable metric labels look like buttons.",
+      "Don't invent proof, testimonials, or external credibility claims the data does not support."
+    ]
+  }
+}
